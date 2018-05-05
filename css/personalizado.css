@@ -30,3 +30,10 @@
 {
 	background-color: #FFD608;
 }
+.sombra-iconos
+{
+	font-size:60px;
+	color:lightblue;
+	text-shadow:2px 2px 4px #000000;
+	color: #10447A !important;
+}
