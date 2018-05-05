@@ -7,29 +7,40 @@
    src: url('../fonts/LibreBaskerville-Bold.ttf');
 
 } 
-
+/*Fuente color azul de acuerdo institucional*/
 .texto-azul
 {	
 	font-family: 'Baskerville Bold', arial;	
 	color: #2F0F61 !important;
 
 }
-
+/*fuente personalizada institucional*/
+.fuente-institucional
+{
+	font-family: 'Baskerville Bold', arial;	
+}
+/*fuente color amarillo institucional*/
+.texto-amarillo
+{
+	color: #FFD608 !important;
+}
+/*sirver para colocar el logo en frente*/
 .alfrente-logo
 {
 	position: relative;
 	z-index: 1030;	
 }
-
+/*fondo amarillo cuando se coloque el mouse sobre le menu principal*/
 .hover-amarillo:hover
 {
 	background-color: #FFD608 !important;
 }
-
+/*fondo amarillo para los menus y zonas que lo requieran*/
 .fondo-amarillo
 {
 	background-color: #FFD608;
 }
+/*sombra bajo los iconos*/
 .sombra-iconos
 {
 	font-size:60px;
@@ -37,11 +48,41 @@
 	text-shadow:2px 2px 4px #000000;
 	color: #10447A !important;
 }
+/*fondo azul para el footer*/
 .fondo-azul
 {
 	background-color: #10447A !important;
 }
+/*fondo azul oscuro para el footer 2*/
+.fondo-azul-oscuro
+{
+	background-color: #0B2851 !important;
+}
+/*fuente italica para tituloz*/
 .f-italica
 {
 	font-style: italic;
+}
+/*transparencia en la seccion de noticias*/
+.transparencia
+{
+	background-image: url('../img/transparente5x5px.png');
+	background-repeat: all;	
+}
+/*borde color azul*/
+.borde-azul
+{
+	border-color: #2F0F61 !important;
+}
+/*fuente bold para el footer*/
+.f-x-small
+{
+	font-size: x-small;
+	font-weight: bold !important;
+}
+/*linea footer 2*/
+.linea-footer2 
+{    
+    border-top: 1px solid #FFD608;
+    margin-bottom: 0px;    
 }
