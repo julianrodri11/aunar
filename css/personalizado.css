@@ -1,0 +1,32 @@
+/*IMPROTANTANDO FUENTE */
+
+@font-face{
+   font-family: "baskerville-bold";
+   font-style: bold;
+   font-weight: bold;
+   src: url('../fonts/LibreBaskerville-Bold.ttf');
+
+} 
+
+.texto-azul
+{	
+	font-family: 'Baskerville Bold', arial;	
+	color: #2F0F61 !important;
+
+}
+
+.alfrente-logo
+{
+	position: relative;
+	z-index: 1030;	
+}
+
+.hover-amarillo:hover
+{
+	background-color: #FFD608 !important;
+}
+
+.fondo-amarillo
+{
+	background-color: #FFD608;
+}

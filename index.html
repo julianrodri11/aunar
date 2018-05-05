@@ -1,212 +1,213 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es-CO">
 <head>
 	<meta charset="UTF-8">
 	<!--VIEWPORT SIRVE PARA IDENTIFICAR EL ANCHO DE LAS PANTALLAS-->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- iconos externos de awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
-	<!-- jQuery library -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<!-- Popper JS -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
-	<!-- Latest compiled JavaScript -->
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <!-- Popper JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+  <!-- Latest compiled JavaScript -->
+  <!-- ESTILOS PERSONALES -->
+  <link rel="stylesheet" type="text/css" href="css/personalizado.css">
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
 	<!--TÍTULO DE LA PÁGINA-->
 	<title>.::AUNAR::.</title>
 </head>
 <body>	
-	<div class="container-fluid bg-primary"> 
-		<div class="row p-2  bg-dark text-white">			
-			<div class="text-center col-lg-3 "></div>
-			<div class="text-center col-lg-6">
-				<div class="row">
-					<div class="col-md-2">Lorem.</div>
-					<div class="col-md-2">Beatae?</div>
-					<div class="col-md-2">Eligendi?</div>
-					<div class="col-md-2">Illo.</div>
-					<div class="col-md-2">Voluptate.</div>
-					<div class="col-md-2">Repellendus!</div>
-				</div>
-			</div>			
-			<div class="text-center col-lg-3"></div>
-		</div>
-		
-	</div>
-	<div class="container-fluid p-3 bg-secondary"> hello word</div>
-	<div class="container-fluid p-1 bg-primary"> 
-		<div class="container">hello word</div> 
-	</div>
-<!--PIE DE PÁGINA-->
+
+
+<!-------------------MENÚ PRINCIPAL-------------------------- -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top bg-white texto-azul " >
+  <!-- <a class="navbar-brand" href="#"></a> -->
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon "></span>
+  </button>
+
+  <div class="collapse navbar-collapse " id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto ">
+      <li class="nav-item active hover-amarillo">
+        <a class="nav-link texto-azul " href="#">Adminisiones <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item hover-amarillo">
+        <a class="nav-link texto-azul" href="#">Estudiantes</a>
+      </li>
+      <li class="nav-item dropdown hover-amarillo">
+        <a class="nav-link dropdown-toggle texto-azul" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Docentes
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item texto-azul" href="#">Action</a>
+          <a class="dropdown-item texto-azul" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item texto-azul" href="#">Something else here</a>
+        </div>
+      </li>
+      <li class="nav-item hover-amarillo">
+        <a class="nav-link texto-azul" href="#">Convocatorias</a>
+      </li>
+      <li class="nav-item hover-amarillo">
+        <a class="nav-link active texto-azul" href="#">Extensiones</a>
+      </li>      
+    </ul>
+    
+    <div class="text-right">La tecnología es el cambio hacia un mundo sin fronteras
+      <!--form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form-->
+    </div>
+    <button type="button" class="btn btn-success glyphicon glyphicon-search">buscar</button>
+
+  </div>  
+
+</nav>
+<!-- LOGO CENTRAL -->
+<div class="d-flex justify-content-center">
+  <div class="col-lg-1  ">
+    <img class="rounded-circle alfrente-logo img-fluid" src="img/aunar.jpg">
+  </div>
+</div>
+<!-- FIN LOGO CENTRAL -->
+
+<!-------------------FIN MENÚ PRINCIPAL----------------------- -->
+
+<!-- -----------------SLIDER---------------------------------- -->
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="http://imgholder.ru/600x200" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="http://imgholder.ru/600x200" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="http://imgholder.ru/600x200" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="http://imgholder.ru/600x200" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<!-- -----------------FIN SLIDER------------------------------ -->
+
+
+<!-- ----------------MENÚ INSTITUCIONAL----------------------- -->
+<ul class="nav justify-content-center fondo-amarillo p-2">
+  <li class="nav-item">
+    <a class="nav-link texto-azul" href="#">Institucional</a>
+  </li>|
+  <li class="nav-item">
+    <a class="nav-link texto-azul" href="#">Oferta Académica</a>
+  </li>|
+  <li class="nav-item">
+    <a class="nav-link texto-azul" href="#">Investigación</a>
+  </li>|
+  <li class="nav-item">
+    <a class="nav-link texto-azul" href="#">Bienestar Universitario</a>
+  </li>|
+  <li class="nav-item">
+    <a class="nav-link texto-azul" href="#">Proyección Institucional</a>
+  </li>|
+  <li class="nav-item">
+    <a class="nav-link texto-azul" href="#">Aunar Virtual</a>
+  </li>|
+  <li class="nav-item">
+    <a class="nav-link texto-azul" href="#">Departamento de Inglés</a>
+  </li>
+</ul>
+<!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
+
+<!-- ----------------SECCIÓN NOTICIAS------------------------- -->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-2 p-3 text-center bg-success align-middle">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+    <div class="col-lg-5 p-5 ">
+      <div class="card" >
+        <img class="card-img-top" src="http://placehold.it/300x100" alt="Card image">
+        <div class="card-body">
+          <h4 class="card-title">John Doe</h4>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea incidunt consequatur sed. Laborum est repellat quos eaque atque. Error quo ipsum a, adipisci dolore suscipit nam accusantium sequi dignissimos ducimus. Some example text.</p>
+          <a href="#" class="btn btn-default btn btn-outline-primary float-right texto-azul">leer más</a>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="col-lg-1 text-center bg-danger "></div> -->
+    <div class="col-lg-5 p-5 ">
+      <div class="card" >
+        <img class="card-img-top" src="http://placehold.it/300x100" alt="Card image">
+        <div class="card-body">
+          <h4 class="card-title">John Doe</h4>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga tempora iusto ducimus velit, expedita et excepturi quibusdam ut vitae necessitatibus voluptate, numquam dignissimos consequuntur, minus modi facere, ipsa nostrum iure!</p>
+          <a href="#" class="btn btn-default btn btn-outline-primary float-right texto-azul">leer más</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ----------------FIN SECCIÓN NOTICIAS--------------------- -->
+
+<!-- -----------------MENU ICONOS----------------------------- -->
+<div class="container-fluid p-4 fondo-amarillo">
+  <div class="row text-center">    
+    <div class="col-lg-1"><div class="bg-danger rounded-circle"><i class="fa fa-cloud" style="font-size:60px;color:lightblue;text-shadow:2px 2px 4px #000000;"></i></div><p>Video Institucional</p> </div>
+    <div class="col-lg-1">1</div>
+    <div class="col-lg-1">1</div>
+    <div class="col-lg-1">1</div>
+    <div class="col-lg-1">2</div>
+    <div class="col-lg-1">2</div>
+    <div class="col-lg-1">2</div>
+    <div class="col-lg-1">2</div>
+    <div class="col-lg-1">3</div>
+    <div class="col-lg-1">3</div>
+    <div class="col-lg-1">3</div>
+    <div class="col-lg-1">3</div>
+  </div>
+
+</div>
+<!-- -----------------FIN MENÚ ICONOS------------------------- -->
+
+<!-- -----------------EVENTOS--------------------------------- -->
+<!-- ----------------FIN EVENTOS------------------------------ -->
+
+	
+<!-- ----------------PIE DE PÁGINA---------------------------- -->
 	<footer>
 		<div class="container">
 			<div class="row text-center">
-				<!-- .col-12.col-sm-6.col-md-4.col-lg-3.col-xl-2*20>(h5>(lorem2))>.row*5>lorem3 autogenerado-->
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Lorem ipsum.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Consequuntur, dolores itaque!</div>
-					<div class="row">Nulla aut, veniam!</div>
-					<div class="row">Nulla culpa, omnis!</div>
-					<div class="row">Placeat, ex quas.</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Vel, eius.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Maiores, fuga, vitae.</div>
-					<div class="row">Laborum, omnis dicta!</div>
-					<div class="row">Quod, architecto possimus!</div>
-					<div class="row">Ex, perferendis, aperiam!</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Tenetur, vitae.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Necessitatibus, molestiae, quis!</div>
-					<div class="row">In deserunt, et.</div>
-					<div class="row">Quas, dolorum! Nostrum.</div>
-					<div class="row">At, possimus, in.</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Esse, officia.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Tempore, a temporibus.</div>
-					<div class="row">Maxime, laborum, aspernatur!</div>
-					<div class="row">Quibusdam, dolor, ipsum.</div>
-					<div class="row">Architecto, at, temporibus.</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Quaerat, sed!</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Veniam, pariatur consequatur!</div>
-					<div class="row">Commodi nesciunt, illo.</div>
-					<div class="row">Ut, sint, cupiditate!</div>
-					<div class="row">Tempore, natus, error!</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Pariatur, accusamus.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Numquam, eveniet. Porro.</div>
-					<div class="row">Ratione, amet dignissimos.</div>
-					<div class="row">Sequi natus, eos.</div>
-					<div class="row">Molestiae mollitia, obcaecati.</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Cupiditate, sed.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Tempore, maxime, nostrum.</div>
-					<div class="row">Consequatur, mollitia, autem!</div>
-					<div class="row">Amet, quisquam, quod!</div>
-					<div class="row">Vel, assumenda, fugiat!</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Tenetur, eligendi.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Dignissimos, ipsam, voluptate.</div>
-					<div class="row">Aperiam, perspiciatis obcaecati.</div>
-					<div class="row">Explicabo, laboriosam, doloribus.</div>
-					<div class="row">Amet, quidem, ipsum!</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Est, earum.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Eveniet, quis, incidunt.</div>
-					<div class="row">Obcaecati, quaerat. Delectus.</div>
-					<div class="row">Quidem hic, voluptatem.</div>
-					<div class="row">Minima, perspiciatis ducimus.</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Voluptas, necessitatibus!</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Ipsum, odio, laborum!</div>
-					<div class="row">Facilis eum, omnis.</div>
-					<div class="row">Ullam, doloribus, eius!</div>
-					<div class="row">Quo, exercitationem consequuntur.</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Non, harum.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Quo atque, in.</div>
-					<div class="row">Ex, excepturi nemo!</div>
-					<div class="row">Recusandae, quia reiciendis.</div>
-					<div class="row">Delectus, consequuntur exercitationem.</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>At, quam.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Quasi, eius, dolorem.</div>
-					<div class="row">Tempore, assumenda. At!</div>
-					<div class="row">Accusantium, dicta, consequatur?</div>
-					<div class="row">Atque, amet, officiis.</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Enim, magnam.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Illo, dolorum, architecto!</div>
-					<div class="row">Accusantium, tempore, officiis.</div>
-					<div class="row">Laudantium et, dolorum?</div>
-					<div class="row">Possimus tempore, illum.</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Vitae, eveniet!</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Vero consequuntur, nesciunt.</div>
-					<div class="row">Quos, rem, porro!</div>
-					<div class="row">Aperiam velit, amet!</div>
-					<div class="row">Soluta natus, ea.</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Iste, dolor.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Natus assumenda, voluptatem.</div>
-					<div class="row">Ea placeat, molestias!</div>
-					<div class="row">Alias, debitis laboriosam.</div>
-					<div class="row">Velit, aperiam, incidunt!</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Quod, sapiente.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">In, provident, quisquam.</div>
-					<div class="row">Blanditiis, cumque, molestiae.</div>
-					<div class="row">Dolores, quod fugit.</div>
-					<div class="row">Cumque, temporibus, facilis!</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Hic, nam!</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Doloremque, cumque, eaque!</div>
-					<div class="row">Maxime, doloribus deleniti.</div>
-					<div class="row">Alias, deleniti, est.</div>
-					<div class="row">Harum, sit, ipsum.</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Atque, deserunt.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Veritatis, blanditiis nemo.</div>
-					<div class="row">In, totam, et.</div>
-					<div class="row">Adipisci, aut, ab.</div>
-					<div class="row">Illum, incidunt, nobis?</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Quod, beatae.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Consequatur, tenetur, error.</div>
-					<div class="row">Excepturi, consequuntur, veritatis.</div>
-					<div class="row">Commodi, eius, adipisci.</div>
-					<div class="row">Dolorum quae, distinctio!</div>
-				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-					<h5>Qui, modi.</h5>
-					<div class="row">Lorem ipsum dolor.</div>
-					<div class="row">Eveniet alias, ipsam.</div>
-					<div class="row">Ea, delectus! Quaerat.</div>
-					<div class="row">Earum, reiciendis, maxime.</div>
-					<div class="row">Quidem, minima, inventore.</div>
-				</div>
+				<!-- .col-12.col-sm-6.col-md-4.col-lg-3.col-xl-2*20>(h5>(lorem2))>.row*3>lorem3 autogenerado-->
+				
 				
 			</div>
 		</div>
 	</footer>
-
+<!-- -------------------FIN PIE DE PÁGINA-------------------- -->
+<!-- -------------------FOOTER CONTACTOS--------------------- -->
+<!-- -------------------FIN FOOTER CONTACTOS----------------- -->
 </body>
 </html>
 
