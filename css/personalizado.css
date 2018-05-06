@@ -74,6 +74,15 @@
 {
 	border-color: #2F0F61 !important;
 }
+/*borde color amarillo*/
+.borde-amarillo
+{
+	border-color: #FFD608 !important;		
+}
+.borde-ancho
+{
+	border-left-width: 3px !important; 
+}
 /*fuente bold para el footer*/
 .f-x-small
 {
