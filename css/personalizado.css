@@ -19,6 +19,11 @@
 {
 	font-family: 'Baskerville Bold', arial;	
 }
+/*fuente negrita*/
+.f-negrita
+{
+font-weight: bold;
+}
 /*fuente color amarillo institucional*/
 .texto-amarillo
 {
@@ -45,7 +50,7 @@
 {
 	font-size:35px;
 	color:lightblue;
-	text-shadow:2px 2px 4px #000000;
+	text-shadow:2px 2px 2px #000000;
 	color: #10447A !important;
 }
 /*fondo azul para el footer*/
