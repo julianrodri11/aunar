@@ -29,11 +29,16 @@ font-weight: bold;
 {
 	color: #FFD608 !important;
 }
-/*sirver para colocar el logo en frente*/
-.alfrente-logo
+/*color de fondo redondo del logo */
+.fondo-gris-c
 {
-	/*position: relative;*/
-	z-index: 1030;	
+	background-color: #F2F2F2;
+}
+
+/*color de fondo 2 redondo del logo*/
+.fondo-gris-os
+{
+	background-color: #E6E6E6;
 }
 /*fondo amarillo cuando se coloque el mouse sobre le menu principal*/
 .hover-amarillo:hover
