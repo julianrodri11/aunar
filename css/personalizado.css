@@ -154,23 +154,71 @@ font-weight: bold;
 /* redes sociales */
 
 
-/*efecto sobre el logo*/
+/*efectos sobre el logo */
 #efecto-borde1:hover
-{
+{		            
 	background-color: #10447A;			
 	border-width: 2px;
 	border-style: solid;
-	border-color: #FFD608 !important;
+	border-color: #FFD608 !important; /*borde amarillo*/
 	-webkit-box-shadow: 0px 0px 19px 0px rgba(247,247,10,1);
--moz-box-shadow: 0px 0px 19px 0px rgba(247,247,10,1);
-box-shadow: 0px 0px 19px 0px rgba(247,247,10,1);
+	-moz-box-shadow: 0px 0px 19px 0px rgba(247,247,10,1);
+	box-shadow: 0px 0px 19px 0px rgba(247,247,10,1);
 }
 
 #efecto-borde2:hover
-{
+{	
 	background-color: #FFD608;			
-	border-width: 2px;
+	border-width: 5px;
 	border-style: solid;
 	border-color: white !important;	
-
+	-webkit-transition-duration: 100ms;
+    -moz-transition-duration: 100ms;
+    -o-transition-duration: 100ms;
+    transition-duration: 100ms;
 }
+
+
+/*iconos de redes sociales*/
+.contenedor-redes
+{
+	width: 40px;
+	height: 150px;
+	background-color: #10447A;
+	position: fixed;	
+	right: 0;	/*alinear a la deracha*/
+	margin-top:30px;
+	z-index: 3000;
+	border-bottom-left-radius: 50%;
+	
+}
+.contenedor-redes:hover
+{	            
+    -webkit-transition: all 500ms ease;
+    -moz-transition: all  500ms ease;
+    -o-transition: all  500ms ease;
+    transition: all  500ms ease;
+	background-color: #FFD608;
+	width: 60px;
+	display: 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
