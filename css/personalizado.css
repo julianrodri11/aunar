@@ -32,13 +32,14 @@ font-weight: bold;
 /*sirver para colocar el logo en frente*/
 .alfrente-logo
 {
-	position: relative;
+	/*position: relative;*/
 	z-index: 1030;	
 }
 /*fondo amarillo cuando se coloque el mouse sobre le menu principal*/
 .hover-amarillo:hover
 {
 	background-color: #FFD608 !important;
+
 }
 /*fondo amarillo para los menus y zonas que lo requieran*/
 .fondo-amarillo
@@ -110,5 +111,38 @@ font-weight: bold;
      -webkit-border-radius: 50%;
      border-radius: 50%;
      margin: 0 auto;
+}
 
+/*editando el estilo original de bootstrap
+ para bajar la flecha del slider*/
+
+.carousel-control-prev,
+.carousel-control-next {
+  position: absolute;
+  /*top: 4;*/
+  /*bottom: 50px;*/
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: flex-end;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 20%;
+  color: #fff;
+  text-align: center;
+  opacity: 0.5;
+  padding: 30px;
+  /*background-color: red;*/
+}
+
+.navbar
+{
+	padding: 0rem .196rem !important;
+}
+
+/*tamaño de fuente para el menu 1*/
+
+.f-size-14
+{
+	font-size: 14px;
 }
