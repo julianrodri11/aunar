@@ -151,3 +151,26 @@ font-weight: bold;
 {
 	font-size: 14px;
 }
+/* redes sociales */
+
+
+/*efecto sobre el logo*/
+#efecto-borde1:hover
+{
+	background-color: #10447A;			
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFD608 !important;
+	-webkit-box-shadow: 0px 0px 19px 0px rgba(247,247,10,1);
+-moz-box-shadow: 0px 0px 19px 0px rgba(247,247,10,1);
+box-shadow: 0px 0px 19px 0px rgba(247,247,10,1);
+}
+
+#efecto-borde2:hover
+{
+	background-color: #FFD608;			
+	border-width: 2px;
+	border-style: solid;
+	border-color: white !important;	
+
+}
