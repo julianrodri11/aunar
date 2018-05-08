@@ -155,6 +155,22 @@ font-weight: bold;
 
 
 /*efectos sobre el logo */
+ #efecto-borde1
+{		
+	-webkit-transition-duration:all 1s ease-out;
+    -moz-transition-duration: all 1s ease-out;
+    -o-transition-duration: all 1s ease-out;
+    transition-duration: all 1s ease-out;
+}
+
+#efecto-borde2
+{		
+	-webkit-transition-duration: 3s;
+    -moz-transition-duration: 3s;
+    -o-transition-duration: 3s;
+    transition-duration: 3s;
+}
+
 #efecto-borde1:hover
 {		            
 	background-color: #10447A;			
