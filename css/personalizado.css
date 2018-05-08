@@ -169,7 +169,7 @@ font-weight: bold;
 #efecto-borde2:hover
 {	
 	background-color: #FFD608;			
-	border-width: 5px;
+	border-width: 3px;
 	border-style: solid;
 	border-color: white !important;	
 	-webkit-transition-duration: 100ms;
@@ -182,25 +182,43 @@ font-weight: bold;
 /*iconos de redes sociales*/
 .contenedor-redes
 {
-	width: 40px;
-	height: 150px;
-	background-color: #10447A;
+	/*forma del cuadrado menos un borde*/
+	width: 0px;
+    height: 170px;    
+    border-left: -50px solid red;
+    border-right: 40px solid #FFD608;
+    border-bottom: 20px solid transparent;
+	
+	/*transicion al final de medio segundo*/
+	-webkit-transition: all 500ms ease-out;
+    -moz-transition: all  500ms ease-out;
+    -o-transition: all  500ms ease-out;
+    transition: all  500ms ease-out;
+
+	/*posicionamiento fijo a la derecha y un poco abajo*/
 	position: fixed;	
 	right: 0;	/*alinear a la deracha*/
 	margin-top:30px;
 	z-index: 3000;
-	border-bottom-left-radius: 50%;
+	
+
 	
 }
+/*Efecto cuando se coloca el mouse encima de social media*/
 .contenedor-redes:hover
 {	            
+    width: 0px;
+    height: 170px;    
+    border-left: -50px solid red;
+    border-right: 50px solid #FFD608;
+    border-bottom: 20px solid transparent;
+
     -webkit-transition: all 500ms ease;
     -moz-transition: all  500ms ease;
     -o-transition: all  500ms ease;
     transition: all  500ms ease;
-	background-color: #FFD608;
-	width: 60px;
-	display: 
+
+	
 }
 
 
