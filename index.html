@@ -20,6 +20,13 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
 	<!--TÍTULO DE LA PÁGINA-->
 	<title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>
+  <script>
+    /* activar tooltip para redes sociales cuando se ponga el mouse encima*/
+    $(document).ready(function(){
+      $('[data-toggle="tooltip"]').tooltip();   
+    });
+
+</script>
 </head>
 <body>	
 
@@ -75,7 +82,7 @@
 <!----------------------- LOGO CENTRAL ----------------------- -->  
      
 <div class="bg-primary d-flex justify-content-center  fixed-top " >
-  <div class="col-2 col-sm-2 col-md-1 col-lg-1 p-2 mt-md-2 mt-sm-1 mt-2 position-absolute fondo-gris-c rounded-circle " id="efecto-borde1">
+  <div class="col-2 col-sm-2 col-md-1 col-lg-1 p-2 mt-md-2 mt-sm-1 mt-2 position-absolute fondo-gris-c rounded-circle " id="efecto-borde1" data-toggle="tooltip" data-placement="bottom" title="AUNAR" >
     <div class="p-2 fondo-gris-os rounded-circle" id="efecto-borde2">      
           <img class="rounded-circle  img-fluid rounded mx-auto d-block position-relative  "  alt="Responsive image" src="img/aunar.jpg">
     </div>
@@ -86,7 +93,19 @@
 
 
 <!-- ------------------REDES SOCIALES------------------------- -->
-<div class="contenedor-redes"></div>
+
+
+    <div class="contenedor-redes">
+      <div class="tredes">Nuestras Redes</div>
+      <div class="p-1 m-1">
+        <div class="contenedor-icono-redes" ><a href="#" data-toggle="tooltip" data-placement="left" title="Youtube"><img src="img/youtube.png" width="25" ></a></div>
+        <div class="contenedor-icono-redes"><a href="#" data-toggle="tooltip" data-placement="left" title="Flickr"><img src="img/flickr.png" width="25" ></a></div>
+        <div class="contenedor-icono-redes"><a href="#" data-toggle="tooltip" data-placement="left" title="Twitter"><img src="img/twitter.png" width="25" ></a></div>
+        <div class="contenedor-icono-redes"><a href="#" data-toggle="tooltip" data-placement="left" title="Instagram"><img src="img/instagram.png" width="25" ></a></div>
+        <div class="contenedor-icono-redes"><a href="#" data-toggle="tooltip" data-placement="left" title="Facebook"><img src="img/facebook.png" width="25" ></a></div>
+      </div>
+    </div>
+
 
 <!-- ------------------FIN REDES SOCIALES--------------------- -->
 
