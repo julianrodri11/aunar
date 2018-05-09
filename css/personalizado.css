@@ -46,6 +46,12 @@ font-weight: bold;
 	background-color: #FFD608 !important;
 
 }
+/*hover letra amarilla sobre le menu 2 */
+.hover-texto-amarillo:hover
+{
+	color: #FFD608 !important;
+}
+
 /*fondo amarillo para los menus y zonas que lo requieran*/
 .fondo-amarillo
 {
@@ -152,7 +158,7 @@ font-weight: bold;
     height: 0px;    
     border-left: 2rem solid transparent;
     border-right: 0px solid yellow;
-    border-bottom: 2.5rem solid #CCCCCC;
+    border-bottom: 2.5rem solid #E3E3E3;
     z-index: 1030;
 }
 
@@ -165,7 +171,7 @@ font-weight: bold;
 /* redes sociales */
 
 
-/*efectos sobre el logo */
+/*efectos radios sobre el logo */
  #efecto-borde1
 {		
 	-webkit-transition:all 0.4s ease-out;
@@ -204,15 +210,16 @@ font-weight: bold;
     -o-transition-duration: 100ms;
     transition-duration: 100ms;
 }
+/*FIN efectos radios sobre el logo */
+
+
 /*ecfecto hacer mas pequeño el logo cuando se desplace el scroll hacia abajo*/
 .efecto-antes
 {
 	-webkit-transition:all 1s ;
     -moz-transition:all 1s ;
     -o-transition:all 1s ;
-    transition:all 1s ;
-    height: 0px;
-    width: 60px;
+    transition:all 1s ;    
 }
 .efecto-despues
 {
@@ -220,17 +227,40 @@ font-weight: bold;
     -moz-transition:all 1s ;
     -o-transition:all 1s ;
     transition:all 1s ;
-    height: 0px;
-    width: 100px;
+    
 }
 
+.contenedor-zoom
+{
+	/*Figura sesgada azul para el zoom*/
+    width: 0px;
+    height: 100px;    
+    border-top: 20px solid transparent;
+    border-left: 0px solid blue;
+    border-right: 40px solid #00487B;  /*ancho de la figura*/
 
+    /*animacion para todos los navegadores*/
+    /*transicion al final de medio segundo*/
+	-webkit-transition: all 500ms ease-out;
+    -moz-transition: all  500ms ease-out;
+    -o-transition: all  500ms ease-out;
+    transition: all  500ms ease-out;
+
+
+	/*posicionamiento fijo a la derecha y un poco abajo*/
+	position: fixed;	
+	right: 0;	/*alinear a la deracha*/
+	top:60px;
+	z-index: 1040;
+
+    
+}
 /*iconos de redes sociales*/
 .contenedor-redes
 {
 	/*forma del cuadrado menos un borde*/
 	width: 0px;
-    height: 170px;    
+    height: 160px;    
     border-left: -50px solid red;
     border-right: 40px solid #FFD608;
     border-bottom: 20px solid transparent;
@@ -244,7 +274,7 @@ font-weight: bold;
 	/*posicionamiento fijo a la derecha y un poco abajo*/
 	position: fixed;	
 	right: 0;	/*alinear a la deracha*/
-	top:120px;
+	top:170px;
 	z-index: 1030;
 	
 }
@@ -253,7 +283,7 @@ font-weight: bold;
 .contenedor-redes:hover
 {	            
     width: 0px;
-    height: 170px;    
+    height: 165px;    
     border-left: -50px solid red;
     border-right: 50px solid #FFD608;
     border-bottom: 20px solid transparent;
@@ -268,15 +298,16 @@ font-weight: bold;
 {
 	writing-mode: vertical-lr;
     transform: rotate(180deg);
-    margin-left:-23px;
+    margin-left:-4px;
     color: #1B1464;
     /*background-image: url('../img/transparente5x5px.png');
     background-repeat: all;
     border-radius: 0px 10px 10px 0px;*/
     position: absolute;
     top: 20px;
+    /*font-size: 16px;*/
 
-    text-shadow: 1px 1px 1px rgba(255, 255, 255, 1);
+    /*text-shadow: 1px 1px 1px rgba(255, 255, 255, 1);*/
 }
 
 
