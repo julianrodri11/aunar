@@ -46,10 +46,17 @@ font-weight: bold;
 	background-color: #FFD608 !important;
 
 }
-/*hover letra amarilla sobre le menu 2 */
+/*hover letra amarilla sobre el menu 2 */
 .hover-texto-amarillo:hover
 {
 	color: #FFD608 !important;
+}
+
+/*hover letra blanca sobre el boton leer mas de noticias */
+.hover-texto-blanco:hover
+{
+	color: white !important;	
+	border-color: white !important;
 }
 
 /*fondo amarillo para los menus y zonas que lo requieran*/
@@ -168,8 +175,13 @@ font-weight: bold;
 {
 	font-size: 14px;
 }
-/* redes sociales */
+.f-size-18
+{
+	font-size: 25px;
+}
 
+
+/* redes sociales */
 
 /*efectos radios sobre el logo */
  #efecto-borde1
@@ -310,6 +322,7 @@ font-weight: bold;
     /*text-shadow: 1px 1px 1px rgba(255, 255, 255, 1);*/
 }
 
+/*SECCIÓN DOCUMENTOS*/
 
 
 
