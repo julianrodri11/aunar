@@ -168,10 +168,10 @@ font-weight: bold;
 /*efectos sobre el logo */
  #efecto-borde1
 {		
-	-webkit-transition-duration:all 1s ease-out;
-    -moz-transition-duration: all 1s ease-out;
-    -o-transition-duration: all 1s ease-out;
-    transition-duration: all 1s ease-out;
+	-webkit-transition:all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -o-transition: all 0.4s ease-out;
+    transition: all 0.4s ease-out;
 }
 
 #efecto-borde2
@@ -203,6 +203,25 @@ font-weight: bold;
     -moz-transition-duration: 100ms;
     -o-transition-duration: 100ms;
     transition-duration: 100ms;
+}
+/*ecfecto hacer mas pequeño el logo cuando se desplace el scroll hacia abajo*/
+.efecto-antes
+{
+	-webkit-transition:all 1s ;
+    -moz-transition:all 1s ;
+    -o-transition:all 1s ;
+    transition:all 1s ;
+    height: 0px;
+    width: 60px;
+}
+.efecto-despues
+{
+	-webkit-transition:all 1s ;
+    -moz-transition:all 1s ;
+    -o-transition:all 1s ;
+    transition:all 1s ;
+    height: 0px;
+    width: 100px;
 }
 
 

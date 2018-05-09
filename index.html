@@ -21,10 +21,24 @@
 	<!--TÍTULO DE LA PÁGINA-->
 	<title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>
   <script>
+
+    /*EFECTO DE CONTRAER EL LOGO PRINCIPAL MENU1*/
+    // window.onscroll = function() {efectologoaunar()};
+    // function efectologoaunar() {
+    //     if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+    //         document.getElementById("efecto-borde1").className = "efecto-antes ";            
+    //     } 
+    //     else {
+    //         document.getElementById("efecto-borde1").className = "efecto-despues ";            
+    //     }
+    // }
+
     /* activar tooltip para redes sociales cuando se ponga el mouse encima*/
     $(document).ready(function(){
       $('[data-toggle="tooltip"]').tooltip();   
     });
+    
+
 
 </script>
 </head>
@@ -87,7 +101,7 @@
 <!----------------------- LOGO CENTRAL ----------------------- -->  
      
 <div class="bg-primary d-flex justify-content-center  fixed-top " >
-  <div class="col-2 col-sm-2 col-md-1 col-lg-1 p-2 mt-md-2 mt-sm-1 mt-2 position-absolute fondo-gris-c rounded-circle " id="efecto-borde1" data-toggle="tooltip" data-placement="bottom" title=".::AUTÓNOMA DE NARIÑO::." >
+  <div class="col-3 col-sm-2 col-md-2 col-lg-1 p-2 mt-md-2 mt-sm-1 mt-2 position-absolute fondo-gris-c rounded-circle " id="efecto-borde1" data-toggle="tooltip" data-placement="bottom" title=".::AUTÓNOMA DE NARIÑO::." >
     <div class="p-2 fondo-gris-os rounded-circle" id="efecto-borde2">      
           <img class="rounded-circle  img-fluid rounded mx-auto d-block position-relative  "  alt="Responsive image" src="img/aunar.jpg">
     </div>
