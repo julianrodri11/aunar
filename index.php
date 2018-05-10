@@ -1,25 +1,10 @@
 <!DOCTYPE html>
 <html lang="es-CO">
 <head>
-	<meta charset="UTF-8">
-  <!-- ICONO DE LA PAGINA -->
-  <link rel="shortcut icon" href="img/aunar.ico">
-	<!--VIEWPORT SIRVE PARA IDENTIFICAR EL ANCHO DE LAS PANTALLAS-->
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- iconos externos de awesome -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
-  <!-- jQuery library -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <!-- Popper JS -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
-  <!-- Latest compiled JavaScript -->
-  <!-- ESTILOS PERSONALES -->
-  <link rel="stylesheet" type="text/css" href="css/personalizado.css">
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
-	<!--TÍTULO DE LA PÁGINA-->
-	<title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>
+  <?php include_once('links-local.php'); 
+        // include_once('links-url.php'); 
+  ?> 
+
   <script>
 
     /*EFECTO DE CONTRAER EL LOGO PRINCIPAL MENU1*/
@@ -84,9 +69,7 @@
                 <span class="ml-1 mr-4  badge badge-pill badge-primary fondo-azul">Idioma</span>   
         </div>
     </div>    
-    <!-- cambias aprobadooooooooooos-->
-    <!-- cambias aprobadooooooooooos-->
-     
+
     <!-- <form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
@@ -257,14 +240,14 @@
 
 <!-- ----------------SECCIÓN NOTICIAS------------------------- -->
 
-<!-- ----------------- título notiicas ----------------------- -->
+<!-- -- título notiicas ------------ -->
 <div class="container-fluid">
   <div class="row"> 
     <div class="col-lg-2 col-sm-12 col-md-4 pt-sm-4  d-flex align-items-center justify-content-center">
       <div class="row ">
         <div class="col-12 ">
           <div class="row ">            
-              <div class=" col-4 fondo-amarillo sombra-iconos icono-blanco text-center "><i class="fa fa-envelope" >       </i></div>
+              <div class=" col-4 fondo-amarillo sombra-iconos icono-blanco text-center "><i class="fa fa-envelope" ></i></div>
               <div class=" col-8 fondo-azul text-white">Necesitas Ayuda? Contáctanos</div>
           </div>
         </div>        
@@ -278,14 +261,14 @@
     </div>    
   </div>
 </div>
-<!-- ---------------Fin título notiicas ---------------------- -->
+<!-- -- Fin título notiicas -------- -->
 
 <!-- inicio de noticias -->
 <div class="container-fluid">
   <div class="row d-flex align-items-stretch ">
     
     <!-- noticia 1 -->
-    <div class="col-6 d-flex align-items-center">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 d-flex align-items-center">
       <div class="text-center p-5  ">
             <label class="texto-amarillo f-negrita f-size-18">MAQUINARTE: </label> <label class="texto-azul f-size-14">IX MUESTRA DE PROYECTOS DE INGENIERÍA</label>            
             <div class="text-justify">
@@ -294,12 +277,12 @@
             </div>
       </div>
     </div>
-    <div class="col-6 p-5 text-center"><img class="img-fluid " src="img/noticia1.png" alt="Noticias Aunar"></div>
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 p-5 text-center"><img class="img-fluid " src="img/noticia1.png" alt="Noticias Aunar"></div>
 
 
     <!-- noticia 2 -->
-    <div class="col-6 p-5 text-center"><img class="img-fluid " src="img/noticia2.png" alt="Noticias Aunar"></div>
-    <div class="col-6 d-flex align-items-center">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 p-5 text-center"><img class="img-fluid " src="img/noticia2.png" alt="Noticias Aunar"></div>
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 d-flex align-items-center">
       <div class="text-center p-5  ">
             <label class="texto-amarillo f-negrita f-size-18">Michael Villota, </label> <label class="texto-azul f-size-14">el pastuso que representará a Colombia</label>            
             <div class="text-justify">
@@ -308,8 +291,7 @@ deporte</p>
             <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul">Conoce más</a>
             </div>
       </div>
-    </div>
-    
+    </div>    
   </div>  
 </div>
 
@@ -318,7 +300,7 @@ deporte</p>
 
 
 <!-- ----------------OFERTAS DE INTERES ---------------------- -->
-<div class="container-fluid fondo-gris-os p-3">
+<div class="container-fluid fondo-gris-os p-3 mb-3">
   <div class="row">
     <div class="col-8">
       <div class="row texto-azul">
@@ -340,18 +322,18 @@ deporte</p>
 <!-- -----------------MENU ICONOS----------------------------- -->
 <div class="container-fluid p-4  fondo-amarillo fuente-institucional">
   <div class="row text-center justify-content-center  ">    
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-rss-square sombra-iconos" >       </i></div><p class="pt-2 mb-0">Periódico Estudiantil</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-image sombra-iconos" >       </i></div><p class="pt-2 mb-0">Albúm Fotográfico</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-play sombra-iconos" >       </i></div><p class="pt-2 mb-0">Video Institucional</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-microphone sombra-iconos">      </i></div><p class="pt-2 mb-0">Aunar Stereo</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-tv sombra-iconos" >       </i></div><p class="pt-2 mb-0">Aunar TV</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-braille sombra-iconos">       </i></div><p class="pt-2 mb-0">Campus Virutal</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-cogs sombra-iconos" >       </i></div><p class="pt-2 mb-0">Aunar Tech</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-edit sombra-iconos">      </i></div><p class="pt-2 mb-0">campus Presencial</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-users sombra-iconos" >      </i></div><p class="pt-2 mb-0">Bisel Docentes</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-graduation-cap sombra-iconos">      </i></div><p class="pt-2 mb-0">Bisel Estudiantes</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-leanpub sombra-iconos" >      </i></div><p class="pt-2 mb-0">Publicaciones</p> </div>       
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-book sombra-iconos" >       </i></div><p class="pt-2 mb-0">Biblíoteca</p> </div>       
+    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/periodico.svg" alt=""></div><p class="pt-2 mb-0">Periódico Estudiantil</p> </div>
+    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/album.svg" alt=""></div><p class="pt-2 mb-0">Albúm Fotográfico</p> </div>
+    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/v-institucional.svg" alt=""></div><p class="pt-2 mb-0">Video Institucional</p> </div>
+    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/astereo.svg" alt=""></div><p class="pt-2 mb-0">Aunar Stereo</p> </div>
+    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/aunartv.svg" alt=""></div><p class="pt-2 mb-0">Aunar TV</p> </div>
+    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/campus-virtual.svg" alt=""></div><p class="pt-2 mb-0">Campus Virutal</p> </div>
+    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/atech.svg" alt=""></div><p class="pt-2 mb-0">Aunar Tech</p> </div>
+    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/campus-presencial.svg" alt=""></div><p class="pt-2 mb-0">campus Presencial</p> </div>
+    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/bdocentes.svg" alt=""></div><p class="pt-2 mb-0">Bisel Docentes</p> </div>
+    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/bestudiantes.svg" alt=""></div><p class="pt-2 mb-0">Bisel Estudiantes</p> </div>
+    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/publicaciones.svg" alt=""></div><p class="pt-2 mb-0">Publicaciones</p> </div>       
+    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/biblioteca.svg" alt=""></div><p class="pt-2 mb-0">Biblíoteca</p> </div>       
   </div>
 </div>
 <!-- -----------------FIN MENÚ ICONOS------------------------- -->
@@ -363,26 +345,87 @@ deporte</p>
   <div class="row">
     <div class="col-lg-2 p-2 d-flex align-items-center justify-content-center justify-content-sm-center justify-content-md-center">
         
-          <div class="p-1 mt-sm-5 bd-highlight border-left borde-amarillo borde-ancho "><h5 class="my-1 fuente-institucional texto-azul f-negrita">EVENTOS AUNAR</h5></div>
+          <div class="p-1 mt-sm-5 bd-highlight border-right borde-amarillo borde-ancho text-center pr-3">
+            <h1 class="my-1 fuente-institucional texto-azul f-negrita">Eventos</h1>
+            <label class="texto-azul fue">Entérate nuestras novedades</label>
+          </div>
           <!-- div class="p-1 bg-primary bd-highlight">Flex item 2</div>
-          <div class="p-1 bg-white bd-highlight">Flex item 3</div> -->        
-        
+          <div class="p-1 bg-white bd-highlight">Flex item 3</div> -->                
     </div>
+
     <div class="col-lg-10 p-5 ">
-      <div class="row p-3 fondo-amarillo">
-        <div class="col-md-6 p-2  border-right border-white">
-          <div class="col p-2 bg-white text-center"><img class="img-fluid" alt="Responsive image" src="img/aunar_stereo.png"/></div>
-          <div class="col p-2 mt-3 transparencia texto-azul ">
-            <label class="f-negrita">AUNAR STEREO </label> <label class="f-italica" style="font-size: 12px;">¡Tú también puedes ser un creador de espacios de diálogo!</label>
+      <div class="row p-3 ">
+        <div class="col-md-6 p-2  border-right border-white fondo-gris-os">
+          <div class="col p-2 text-center"><img class="img-fluid" alt="Responsive image" src="img/aunar_stereo.png"/></div>
+          <div class=" texto-azul text-center bg-warning ">
+            <div class="row">
+                <div class="col-12 mb-0 p-0 fuente-institucional ">AUNAR STEREO</div>
+                <div class="col-12 "><label class="f-size-14">¡Tú también puedes ser un creador de espacios de diálogo!</label></div>
+            </div>
           </div>
         </div>
         <div class="col-md-6 p-3 ">           
-            <div class="col-md-12 p-4 mb-3 transparencia">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </div>
-            <div class="col-md-12 p-4 mb-3 transparencia">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </div>                      
-            <div class="col-md-12 p-4 mb-3 transparencia">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </div>          
-            <div class="col-md-12 p-4 mb-1 transparencia">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </div>                      
-        </div>
+            <div class="col-md-12 p-4 mb-3 ">
+            
+              <!-- seccion de eventos  -->
+              <!-- evento 1 -->
+              <div class="row p-3 hover-texto-blanco hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
+                <div class="col-md-4 col-4">
+                  <div class="circulo">
+                    <div class="row pt-2 text-center "> 
+                      <span class="col-12">10</span>
+                      <span class="col-12">May</span>
+                    </div>
+                  </div>
+                </div> 
+                <div class="col-md-8 col-8">
+                  <div class="row texto-azul">
+                    <div class="col-lg-12">II Encuentro de Bibliotecas.</div>
+                    <div class="col-lg-12">RED UREL</div>
+                    <div class="col-lg-12">Hora: 8:00 am</div>
+                  </div>
+                </div>
+              </div>
+              <!-- evetnos 2 -->
+               <div class="row p-3 hover-texto-blanco hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
+                <div class="col-md-4 col-4">
+                  <div class="circulo">
+                    <div class="row pt-2 text-center "> 
+                      <span class="col-12">10</span>
+                      <span class="col-12">May</span>
+                    </div>
+                  </div>
+                </div> 
+                <div class="col-md-8 col-8">
+                  <div class="row texto-azul">
+                    <div class="col-lg-12">II Encuentro de Bibliotecas.</div>
+                    <div class="col-lg-12">RED UREL</div>
+                    <div class="col-lg-12">Hora: 8:00 am</div>
+                  </div>
+                </div>
+              </div>
+              <!-- evento 3 -->
+               <div class="row p-3 hover-texto-blanco hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
+                <div class="col-md-4 col-4">
+                  <div class="circulo">
+                    <div class="row pt-2 text-center "> 
+                      <span class="col-12">10</span>
+                      <span class="col-12">May</span>
+                    </div>
+                  </div>
+                </div> 
+                <div class="col-md-8 col-8">
+                  <div class="row texto-azul">
+                    <div class="col-lg-12">II Encuentro de Bibliotecas.</div>
+                    <div class="col-lg-12">RED UREL</div>
+                    <div class="col-lg-12">Hora: 8:00 am</div>
+                  </div>
+                </div>
+              </div>
+              <!-- fin sección eventos -->
 
+          </div>            
+        </div>
 
       </div>
     </div>   
@@ -395,15 +438,15 @@ deporte</p>
 <div class="container-fluid p-4  fondo-amarillo bg-white fuente-institucional">
   <div class="row text-center justify-content-center  ">    
     <div class=" col-12 fuente-institucional texto-azul f-negrita "><h5 class="pb-4 fuente-institucional texto-azul f-negrita">ENLACES DE INTERÉS</h5></div>
-    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="Responsive image"></div><p class="pt-2 mb-0">Correo Aunar</p> </div>
-    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icfes.png" alt="Responsive image"></div><p class="pt-2 mb-0">Sistema Académia</p> </div>
-    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="Responsive image"></div><p class="pt-2 mb-0">Icfes</p> </div>
-    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icfes.png" alt="Responsive image"></div><p class="pt-2 mb-0">Eduteka</p> </div>
-    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="Responsive image"></div><p class="pt-2 mb-0">Dpto de Ciencia y Tecnología</p> </div>
-    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icfes.png" alt="Responsive image"></div><p class="pt-2 mb-0">Colombia Aprende</p> </div>
-    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="Responsive image"></div><p class="pt-2 mb-0">Banco Pichincha</p> </div>
-    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icfes.png" alt="Responsive image"></div><p class="pt-2 mb-0">Comuna</p> </div>
-    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="Responsive image"></div><p class="pt-2 mb-0">Bisel Docentes</p> </div>
+    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="título imágen"></div><p class="pt-2 mb-0">Correo Aunar</p> </div>
+    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icfes.png" alt="título imágen"></div><p class="pt-2 mb-0">Sistema Académia</p> </div>
+    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="título imágen"></div><p class="pt-2 mb-0">Icfes</p> </div>
+    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icfes.png" alt="título imágen"></div><p class="pt-2 mb-0">Eduteka</p> </div>
+    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="título imágen"></div><p class="pt-2 mb-0">Dpto de Ciencia y Tecnología</p> </div>
+    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icfes.png" alt="título imágen"></div><p class="pt-2 mb-0">Colombia Aprende</p> </div>
+    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="título imágen"></div><p class="pt-2 mb-0">Banco Pichincha</p> </div>
+    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icfes.png" alt="título imágen"></div><p class="pt-2 mb-0">Comuna</p> </div>
+    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="título imágen"></div><p class="pt-2 mb-0">Bisel Docentes</p> </div>
     <!-- <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-graduation-cap sombra-iconos">      </i></div><p class="pt-2 mb-0">Bisel Estudiantes</p> </div>
     <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-leanpub sombra-iconos" >      </i></div><p class="pt-2 mb-0">Publicaciones</p> </div>       
     <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-book sombra-iconos" >       </i></div><p class="pt-2 mb-0">Biblíoteca</p> </div>        -->

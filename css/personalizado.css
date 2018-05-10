@@ -74,7 +74,7 @@ font-weight: bold;
 .sombra-iconos
 {
 	font-size:35px;
-	/*color:lightblue;*/
+	color:lightblue;
 	text-shadow:2px 2px 2px #000000;
 	color: #10447A !important;
 }
@@ -115,7 +115,7 @@ font-weight: bold;
 }
 .borde-ancho
 {
-	border-left-width: 3px !important; 
+	border-width: 3px !important; 
 }
 /*fuente bold para el footer*/
 .f-x-small
@@ -134,11 +134,14 @@ font-weight: bold;
 {
 	width: 70px;
 	height: 70px;
-	background-color: white;
+	background-color: transparent;
+	border-style: solid;
+	border-color: #2F0F61 !important;
 	-moz-border-radius: 50%;
      -webkit-border-radius: 50%;
      border-radius: 50%;
      margin: 0 auto;
+     border-width: 1px;
 }
 
 /*editando el estilo original de bootstrap
