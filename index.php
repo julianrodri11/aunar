@@ -322,18 +322,18 @@ deporte</p>
 <!-- -----------------MENU ICONOS----------------------------- -->
 <div class="container-fluid p-4  fondo-amarillo fuente-institucional">
   <div class="row text-center justify-content-center  ">    
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/periodico.svg" alt=""></div><p class="pt-2 mb-0">Periódico Estudiantil</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/album.svg" alt=""></div><p class="pt-2 mb-0">Albúm Fotográfico</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/v-institucional.svg" alt=""></div><p class="pt-2 mb-0">Video Institucional</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/astereo.svg" alt=""></div><p class="pt-2 mb-0">Aunar Stereo</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/aunartv.svg" alt=""></div><p class="pt-2 mb-0">Aunar TV</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/campus-virtual.svg" alt=""></div><p class="pt-2 mb-0">Campus Virutal</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/atech.svg" alt=""></div><p class="pt-2 mb-0">Aunar Tech</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/campus-presencial.svg" alt=""></div><p class="pt-2 mb-0">campus Presencial</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/bdocentes.svg" alt=""></div><p class="pt-2 mb-0">Bisel Docentes</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/bestudiantes.svg" alt=""></div><p class="pt-2 mb-0">Bisel Estudiantes</p> </div>
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/publicaciones.svg" alt=""></div><p class="pt-2 mb-0">Publicaciones</p> </div>       
-    <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="p-2 "><img class="img-fluid " src="img/iconos/biblioteca.svg" alt=""></div><p class="pt-2 mb-0">Biblíoteca</p> </div>       
+    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/periodico.svg" alt=""></div><p class="pt-2 mb-0">Periódico Estudiantil</p> </div>
+    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/album.svg" alt=""></div><p class="pt-2 mb-0">Albúm Fotográfico</p> </div>
+    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/v-institucional.svg" alt=""></div><p class="pt-2 mb-0">Video Institucional</p> </div>
+    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/astereo.svg" alt=""></div><p class="pt-2 mb-0">Aunar Stereo</p> </div>
+    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/aunartv.svg" alt=""></div><p class="pt-2 mb-0">Aunar TV</p> </div>
+    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/campus-virtual.svg" alt=""></div><p class="pt-2 mb-0">Campus Virutal</p> </div>
+    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/atech.svg" alt=""></div><p class="pt-2 mb-0">Aunar Tech</p> </div>
+    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/campus-presencial.svg" alt=""></div><p class="pt-2 mb-0">campus Presencial</p> </div>
+    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/bdocentes.svg" alt=""></div><p class="pt-2 mb-0">Bisel Docentes</p> </div>
+    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/bestudiantes.svg" alt=""></div><p class="pt-2 mb-0">Bisel Estudiantes</p> </div>
+    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/publicaciones.svg" alt=""></div><p class="pt-2 mb-0">Publicaciones</p> </div>       
+    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/biblioteca.svg" alt=""></div><p class="pt-2 mb-0">Biblíoteca</p> </div>       
   </div>
 </div>
 <!-- -----------------FIN MENÚ ICONOS------------------------- -->
@@ -357,7 +357,7 @@ deporte</p>
       <div class="row p-3 ">
         <div class="col-md-6 p-2  border-right border-white fondo-gris-os">
           <div class="col p-2 text-center"><img class="img-fluid" alt="Responsive image" src="img/aunar_stereo.png"/></div>
-          <div class=" texto-azul text-center bg-warning ">
+          <div class=" texto-azul text-center ">
             <div class="row">
                 <div class="col-12 mb-0 p-0 fuente-institucional ">AUNAR STEREO</div>
                 <div class="col-12 "><label class="f-size-14">¡Tú también puedes ser un creador de espacios de diálogo!</label></div>
