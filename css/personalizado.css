@@ -29,6 +29,12 @@ font-weight: bold;
 {
 	color: #FFD608 !important;
 }
+
+/*fuente amrariilo oscuro para ofertas*/
+.texto-amarillo-oscuro
+{
+	color: #9D8A22 !important;
+}
 /*color de fondo redondo del logo */
 .fondo-gris-c
 {
@@ -68,9 +74,13 @@ font-weight: bold;
 .sombra-iconos
 {
 	font-size:35px;
-	color:lightblue;
+	/*color:lightblue;*/
 	text-shadow:2px 2px 2px #000000;
 	color: #10447A !important;
+}
+.icono-blanco
+{
+	color:white !important;
 }
 /*fondo azul para el footer*/
 .fondo-azul
