@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="es-CO">
 <head>
-  <?php include_once('links-local.php'); 
-        // include_once('links-url.php'); 
+  <?php //include_once('links-local.php'); 
+         include_once('links-url.php'); 
   ?> 
 
   <script>
@@ -230,7 +230,7 @@
         </div>
     </div>
     <div class="col-lg-2 col-md-3 col-sm-12 border-left borde-azul">
-        <div class="pt-1 pl-1 mt-sm-5  text-center  "><h4 class=" mt-0 fuente-institucional texto-azul f-negrita">PLAN DE INVERSIÓN</h4></div>
+        <div class="pt-1 pl-1 mt-sm-5  text-center  "><h3 class=" mt-0 fuente-institucional texto-azul f-negrita">Plan de Inversión</h3></div>
     </div>
   </div>
 </div>
@@ -248,14 +248,14 @@
         <div class="col-12 ">
           <div class="row ">            
               <div class=" col-4 fondo-amarillo sombra-iconos icono-blanco text-center "><i class="fa fa-envelope" ></i></div>
-              <div class=" col-8 fondo-azul text-white">Necesitas Ayuda? Contáctanos</div>
+              <div class=" col-8 fondo-azul text-white">Necesitas  ? Contáctanos</div>
           </div>
         </div>        
       </div>
     </div>
     <div class="col-lg-8 col-sm-12 col-md-6  text-center border-bottom borde-azul">
       <div class="row">          
-          <div class="col-12 pt-1 pl-1 mt-sm-5  text-center  "><h4 class=" mt-0 fuente-institucional texto-azul f-negrita">NOTICIAS</h4></div>          
+          <div class="col-12 pt-1 pl-1 mt-sm-5  text-center  "><h2 class=" mt-0 fuente-institucional texto-azul f-negrita">Noticias</h2></div>          
           <div class="col-12 pb-2 texto-azul">¡Conoce las principales acciones y logros de nuestra comunidad!</div>
       </div>
     </div>    
@@ -272,7 +272,7 @@
       <div class="text-center p-5  ">
             <label class="texto-amarillo f-negrita f-size-18">MAQUINARTE: </label> <label class="texto-azul f-size-14">IX MUESTRA DE PROYECTOS DE INGENIERÍA</label>            
             <div class="text-justify">
-            <p class="texto-azul">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante evento...</p>
+            <p class="texto-azul f-myriad">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante evento...</p>
             <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul">Conoce más</a>          
             </div>
       </div>
@@ -286,7 +286,7 @@
       <div class="text-center p-5  ">
             <label class="texto-amarillo f-negrita f-size-18">Michael Villota, </label> <label class="texto-azul f-size-14">el pastuso que representará a Colombia</label>            
             <div class="text-justify">
-            <p class="texto-azul">Charlamos con Michael Villota, un joven de 22 años de edad y estudiante del programa de Ingeniería Mecánica de la Corporación Universitaria Autónoma de Nariño. Gracias a su pasión, dedicación y reconocimientos obtenidos en el karate Do, Michael viajará en el mes de julio del presente año a Japón para representar a Colombia en este
+            <p class="texto-azul f-myriad">Charlamos con Michael Villota, un joven de 22 años de edad y estudiante del programa de Ingeniería Mecánica de la Corporación Universitaria Autónoma de Nariño. Gracias a su pasión, dedicación y reconocimientos obtenidos en el karate Do, Michael viajará en el mes de julio del presente año a Japón para representar a Colombia en este
 deporte</p>
             <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul">Conoce más</a>
             </div>
@@ -320,8 +320,8 @@ deporte</p>
 
 
 <!-- -----------------MENU ICONOS----------------------------- -->
-<div class="container-fluid p-4  fondo-amarillo fuente-institucional">
-  <div class="row text-center justify-content-center  ">    
+<div class="container-fluid p-4  fondo-amarillo ">
+  <div class="row text-center justify-content-center  fuente-institucional f-x-small">    
     <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/periodico.svg" alt=""></div><p class="pt-2 mb-0">Periódico Estudiantil</p> </div>
     <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/album.svg" alt=""></div><p class="pt-2 mb-0">Albúm Fotográfico</p> </div>
     <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/v-institucional.svg" alt=""></div><p class="pt-2 mb-0">Video Institucional</p> </div>
@@ -463,7 +463,7 @@ deporte</p>
         
               <div class="row">
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 ">
-                  <label class=" texto-amarillo fuente-institucional f-x-small" >NORMATIVIDAD INSTITUCIONAL</label>
+                  <label class=" texto-amarillo fuente-institucional f-x-small f-negrita" >NORMATIVIDAD INSTITUCIONAL</label>
                   <div class="mb-1 text-light fuente-institucional f-x-small">Estatuto general</div>
                   <div class="mb-1 text-light fuente-institucional f-x-small">Reglamento docentes</div>
                   <div class="mb-1 text-light fuente-institucional f-x-small">Reglamento estudiantes</div>
@@ -471,31 +471,31 @@ deporte</p>
                   <div class="mb-1 text-light fuente-institucional f-x-small">Reglamento pecuniarios</div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-                  <label class=" texto-amarillo fuente-institucional f-x-small" >PROGRAMAS ACADÉMICOS</label>
+                  <label class=" texto-amarillo fuente-institucional f-x-small f-negrita" >PROGRAMAS ACADÉMICOS</label>
                   <div class="mb-1 text-light fuente-institucional f-x-small">Por facultades</div>
                   <div class="mb-1 text-light fuente-institucional f-x-small">Programas</div>
                   <div class="mb-1 text-light fuente-institucional f-x-small">Modalidades</div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-                  <label class=" texto-amarillo fuente-institucional f-x-small" >PLANEACIÓN</label>
+                  <label class=" texto-amarillo fuente-institucional f-x-small f-negrita" >PLANEACIÓN</label>
                   <div class="mb-1 text-light fuente-institucional f-x-small">Sistema de Gestión de calidad</div>
                   <div class="mb-1 text-light fuente-institucional f-x-small">Proyectos</div>
                   
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-                  <label class=" texto-amarillo fuente-institucional f-x-small" >TALENTO HUMANO</label>
+                  <label class=" texto-amarillo fuente-institucional f-x-small f-negrita" >TALENTO HUMANO</label>
                   <div class="mb-1 text-light fuente-institucional f-x-small ">Seguridad y salud en el trabajo</div>
                   <div class="mb-1 text-light fuente-institucional f-x-small ">Capacitaciones</div>
                   <div class="mb-1 text-light fuente-institucional f-x-small ">Pausas activas</div>
                   <div class="mb-1 text-light fuente-institucional f-x-small ">Deporte y cultura</div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-                  <label class=" texto-amarillo fuente-institucional f-x-small" >FORMATOS INSTITUCIONALES</label>                  
+                  <label class=" texto-amarillo fuente-institucional f-x-small f-negrita" >FORMATOS INSTITUCIONALES</label>                  
                   <div class="mb-1 text-light fuente-institucional f-x-small ">Hoja de vida docentes</div>
                   <div class="mb-1 text-light fuente-institucional f-x-small ">Hoja de vida administrativos</div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-                  <label class=" texto-amarillo fuente-institucional f-x-small" >FORMATOS INSTITUCIONALES</label>
+                  <label class=" texto-amarillo fuente-institucional f-x-small f-negrita" >FORMATOS INSTITUCIONALES</label>
                   <div class="mb-1 text-light fuente-institucional f-x-small ">Hoja de vida docentes</div>
                   <div class="mb-1 text-light fuente-institucional f-x-small ">Hoja de vida administrativos</div>
                   <div class="mb-1 text-light fuente-institucional f-x-small ">Actualización de formatos organigrama</div>
@@ -516,17 +516,22 @@ deporte</p>
 <!-- -------------------FOOTER CONTACTOS---------------------- -->
 <div class="container-fluid fondo-azul-oscuro">
   <div class="row p-3">  
-    <div class="col-lg-6 mt-3 text-right text-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, deleniti!</div>
-    <div class="col-lg-6 mt-3 text-light fuente-institucional f-x-small">
+    <div class="col-lg-6 mt-3 text-right text-light">
+      <div class="row">
+        <div class="col-8"></div>
+        <div class="col-4"><img class="img-fluid" src="img/aunar-logo.svg" alt="Logo AUNAR Autónoma de Nariño"></div>
+      </div>
+    </div>
+    <div class="col-lg-6 mt-3 text-light  f-x-small fuente-institucional">
       <div>Corporación Universitaria Autónoma de Nariño </div>
       <div>Carrera 28 No. 19-24 </div>
       <div>Tel. 729 05 08 - 723 24 52 - 722 60 20</div>
       <div>Pasto(Nariño) Colombia</div>
     </div>
     <div class="col-lg-12 mt-3 text-center text-light fuente-institucional f-x-small">
-    <div class="div">"INSTITUCIÓN DE EDUCACIÓN SUPERIOR SUJETA A INSPECCÍÓN Y VIGILANCIA POR EL MINISTERIO DE EDUCACIÓN NACIONAL"</div>
-    <div class="div">Personería Jurídica No. 1054 del 1 de Febrero de 1983</div>
-    <div class="div">©Copyright 2017 - Derechos Reservados</div>
+    <div class="div f-negrita">"INSTITUCIÓN DE EDUCACIÓN SUPERIOR SUJETA A INSPECCÍÓN Y VIGILANCIA POR EL MINISTERIO DE EDUCACIÓN NACIONAL"</div>
+    <div class="div">Personería Jurídica No. 1054 del 1 de Febrero de 1983 - ©Copyright 2017 - Derechos Reservados</div>
+    
     </div>
 
   </div>

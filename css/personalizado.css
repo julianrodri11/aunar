@@ -1,23 +1,35 @@
-/*IMPROTANTANDO FUENTE */
 
-@font-face{
-   font-family: "baskerville-bold";
-   font-style: bold;
-   font-weight: bold;
-   src: url('../fonts/LibreBaskerville-Bold.ttf');
+
+/*importacion de fuente Century Gothic*/
+@font-face{   
+   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+   src: url('../fonts/GOTHIC.TTF');
 
 } 
+/*IMPROTACIÓN MYRIAD PRO*/
+@font-face{   
+   font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+   src: url('../fonts/MyriadPro-Regular.otf');
+
+} 
+/*fuente myriad pro*/
+.f-myriad
+{
+	font-family: "myriad pro" !important;
+	
+}
+
 /*Fuente color azul de acuerdo institucional*/
 .texto-azul
-{	
-	font-family: 'Baskerville Bold', arial;	
-	color: #2F0F61 !important;
+{		
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	color: #00255A !important;
 
 }
 /*fuente personalizada institucional*/
 .fuente-institucional
-{
-	font-family: 'Baskerville Bold', arial;	
+{	
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif !important;	
 }
 /*fuente negrita*/
 .f-negrita
@@ -121,8 +133,9 @@ font-weight: bold;
 .f-x-small
 {
 	font-size: x-small;
-	font-weight: bold !important;
+	/*font-weight: bold !important;*/
 }
+
 /*linea footer 2*/
 .linea-footer2 
 {    
@@ -322,6 +335,9 @@ font-weight: bold;
 .tredes
 {
 	writing-mode: vertical-lr;
+	-webkit-transform:rotate(180deg);
+    -moz-transform:rotate(180deg);
+    -o-transform:rotate(180deg);;
     transform: rotate(180deg);
     margin-left:-4px;
     color: #1B1464;
