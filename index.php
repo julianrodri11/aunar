@@ -5,24 +5,22 @@
          include_once('links-url.php'); 
   ?> 
 
-  <script>
-
-    /*EFECTO DE CONTRAER EL LOGO PRINCIPAL MENU1*/
-    // window.onscroll = function() {efectologoaunar()};
-    // function efectologoaunar() {
-    //     if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-    //         document.getElementById("efecto-borde1").className = "efecto-antes ";            
-    //     } 
-    //     else {
-    //         document.getElementById("efecto-borde1").className = "efecto-despues ";            
-    //     }
-    // }
+  <script>    
 
     /* activar tooltip para redes sociales cuando se ponga el mouse encima*/
     $(document).ready(function(){
       $('[data-toggle="tooltip"]').tooltip();   
     });
-    
+
+    // Sript para el efecto del logo con el scroll
+    $(window).scroll(function() {
+        if ($("#cont-logo").offset().top > 56) {
+            $("#cont-logo").addClass("pl-4 pr-4 pl-sm-4 pr-sm-4  pl-md-4  pr-md-4  pl-lg-3 pr-lg-3  efecto-antes");            
+
+        } else {          
+            $("#cont-logo").removeClass("pl-4 pr-4 pl-sm-4 pr-sm-4  pl-md-4  pr-md-4  pl-lg-3 pr-lg-3  efecto-despues");            
+        }
+      });
 
 
 </script>
@@ -83,10 +81,12 @@
 
 <!----------------------- LOGO CENTRAL ----------------------- -->  
      
-<div class="bg-primary d-flex justify-content-center  fixed-top " >
-  <div class="col-3 col-sm-2 col-md-2 col-lg-1 p-2 mt-md-2 mt-sm-1 mt-2 position-absolute fondo-gris-c rounded-circle " id="efecto-borde1" data-toggle="tooltip" data-placement="bottom" title=".::AUTÓNOMA DE NARIÑO::." >
-    <div class="p-2 fondo-gris-os rounded-circle" id="efecto-borde2">      
-          <img class="rounded-circle  img-fluid rounded mx-auto d-block position-relative  "  alt="Responsive image" src="img/aunar.jpg">
+<div class="d-flex justify-content-center  fixed-top " >
+  <div class="col-3 col-sm-2 col-md-2 col-lg-1 p-2 p-sm-3 p-md-3 p-lg-1  mt-md-2 mt-sm-0 mt-2 position-absolute" id="cont-logo" data-toggle="tooltip" data-placement="bottom" title=".::AUTÓNOMA DE NARIÑO::." >
+    <div class="p-lg-2  p-md-2 p-sm-2 p-2 fondo-gris-c rounded-circle" id="efecto-borde1">      
+      <div class="p-lg-2 p-md-2 p-sm-2 p-2 fondo-gris-os rounded-circle" id="efecto-borde2" >      
+          <img class="rounded-circle  img-fluid rounded mx-auto d-block position-relative  "  alt="Logo Autónoma de Nariño" src="img/aunar.jpg">
+      </div>          
     </div>
   </div>     
 </div>
