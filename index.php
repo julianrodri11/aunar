@@ -1,129 +1,31 @@
 <!DOCTYPE html>
 <html lang="es-CO">
 <head>
-  <?php //include_once('links-local.php'); 
-         include_once('links-url.php'); 
-  ?> 
+  <?php /*ENLACES DE LIBRERIAS */ include_once('links-url.php');  ?> 
 
-  <script>    
-
-    /* activar tooltip para redes sociales cuando se ponga el mouse encima*/
-    $(document).ready(function(){
-      $('[data-toggle="tooltip"]').tooltip();   
-    });
-
-    // Sript para el efecto del logo con el scroll
-    $(window).scroll(function() {
-        if ($("#cont-logo").offset().top > 56) {
-            $("#cont-logo").addClass("pl-3 pr-3 pl-sm-4 pr-sm-4  pl-md-4  pr-md-4  pl-lg-3 pr-lg-3  efecto-antes");            
-
-        } else {          
-            $("#cont-logo").removeClass("pl-3 pr-3 pl-sm-4 pr-sm-4  pl-md-4  pr-md-4  pl-lg-3 pr-lg-3  efecto-despues");            
-        }
-      });
-
-
-</script>
+  <!--TÍTULO DE LA PÁGINA-->
+  <title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>  
 </head>
 <body>	
 
 
 <!-------------------MENÚ PRINCIPAL-------------------------- -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top  bg-white texto-azul " >
-  <!-- <a class="navbar-brand " href="#">INICIO</a> -->  
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon "></span>
-  </button>
-
-  <div class="collapse navbar-collapse f-size-14 " id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0  ">
-      <li class="nav-item active pt-2 pb-2 hover-amarillo ">
-        <a class="nav-link texto-azul pl-md-2 pl-sm-2  border-right borde-amarillo" href="#">Admisiones <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item pt-2 pb-2 hover-amarillo ">
-        <a class="nav-link texto-azul pl-md-2 pl-sm-2 border-right borde-amarillo" href="#">Estudiantes</a>
-      </li>
-      <li class="nav-item pt-2 pb-2 dropdown hover-amarillo ">
-        <a class="nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-right borde-amarillo" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Docentes
-        </a>
-        <div class="dropdown-menu f-size-14" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item texto-azul" href="#">Opción 1</a>
-          <a class="dropdown-item texto-azul" href="#">Opción 2</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item texto-azul" href="#">Separador y mas opciones</a>
-        </div>
-      </li>
-      <li class="nav-item pt-2 pb-2 hover-amarillo ">
-        <a class="nav-link texto-azul pl-md-2 pl-sm-2 border-right borde-amarillo" href="#">Convocatorias</a>
-      </li>
-      <li class="nav-item pt-2 pb-2 hover-amarillo ">
-        <a class="nav-link active texto-azul pl-md-2 pl-sm-2 border-right borde-amarillo" href="#">Extensiones</a>
-      </li>      
-    </ul>
-    <div class="rectangulo-sesgado pt-2 pb-2 ">
-      <div class="row pt-3 mt-1 ml-0  float-right float-md-none">
-                <div class=" f-italica f-negrita f-size-14 ">La Tecnología es el Cambio hacia un Mundo sin Fronteras</div>
-                <span class="ml-1 mr-4  badge badge-pill badge-primary fondo-azul">Idioma</span>   
-        </div>
-    </div>    
-
-    <!-- <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form> -->
-
-  </div>  
-
-</nav>
+<?php include_once('menu1.php');?>
 <!-------------------FIN MENÚ PRINCIPAL----------------------- -->
 
 
-<!----------------------- LOGO CENTRAL ----------------------- -->  
-     
-<div class="d-flex justify-content-center  fixed-top " >
-  <div class="col-3 col-sm-2 col-md-2 col-lg-1 p-2 p-sm-3 p-md-1 p-lg-1  mt-md-0 mt-sm-0 mt-2 position-absolute" id="cont-logo" data-toggle="tooltip" data-placement="bottom" title=".::AUTÓNOMA DE NARIÑO::." >
-    <div class="p-1  p-sm-2  p-md-2 p-lg-2 fondo-gris-c rounded-circle" id="efecto-borde1">      
-      <div class="p-1 p-sm-2 p-md-2 p-lg-2 fondo-gris-os rounded-circle" id="efecto-borde2" >      
-          <img class="rounded-circle  img-fluid rounded mx-auto d-block position-relative  "  alt="Logo Autónoma de Nariño" src="img/aunar.jpg">
-      </div>          
-    </div>
-  </div>     
-</div>
+<!----------------------- LOGO CENTRAL ----------------------- -->       
+<?php include_once('logo-central.php');?>
 <!-- -----------------------FIN LOGO CENTRAL------------------ -->
 
 
 <!-- ------------------FIGURA ZOOM------------------------- -->
-
-
-    <div class="contenedor-zoom">      
-      <div class="pl-1 ml-2">
-        <div ><a class="text-white" href="#" data-toggle="tooltip" data-placement="left" title="Zoom -">A-</a></div>
-        <div ><a class="text-white" href="#" data-toggle="tooltip" data-placement="left" title="Zoom +">A+</a></div>
-        <div ><a class="text-white" href="#" data-toggle="tooltip" data-placement="left" title="ZOOM"><img src="img/contraste.png" width="22" ></a></div>        
-      </div>
-    </div>
-
-
+<?php include_once('zoom.php');?>
 <!-- ------------------FIN ZOOM--------------------- -->
 
 
-
 <!-- ------------------REDES SOCIALES------------------------- -->
-
-
-    <div class="contenedor-redes">
-      <div class="tredes">Nuestras Redes</div>
-      <div class="p-2 ml-2">
-        <div><a target="_blank" href="https://www.youtube.com/channel/UC8MaEtIvAAZzrYLFX1AazIA" data-toggle="tooltip" data-placement="left" title="Youtube"><img src="img/youtube.png" width="21" ></a></div>
-        <div><a target="_blank" href="https://www.flickr.com/photos/147246490@N05/albums" data-toggle="tooltip" data-placement="left" title="Flickr"><img src="img/flickr.png" width="21" ></a></div>
-        <div><a target="_blank" href="https://twitter.com/aunarpasto?lang=es" data-toggle="tooltip" data-placement="left" title="Twitter"><img src="img/twitter.png" width="21" ></a></div>
-        <div><a target="_blank" href="https://www.instagram.com/autonomadenarino/" data-toggle="tooltip" data-placement="left" title="Instagram"><img src="img/instagram.png" width="21" ></a></div>
-        <div><a target="_blank" href="https://www.facebook.com/aunarpasto/" data-toggle="tooltip" data-placement="left" title="Facebook"><img src="img/facebook.png" width="21" ></a></div>
-      </div>
-    </div>
-
-
+<?php include_once('redes-sociales-aunar.php');?>
 <!-- ------------------FIN REDES SOCIALES--------------------- -->
 
 
@@ -140,7 +42,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="img/slider1.jpg" alt="First slide">
+      <a href="inscripciones.php" target="_blank"> <img data-toggle="tooltip" data-placement="auto" title="Ver más sobre la oferta académica" class="d-block w-100" src="img/slider1.jpg" alt="First slide"></a>
       <div class="carousel-caption">
         <h3></h3>
         <p></p>
@@ -185,29 +87,7 @@
 
 
 <!-- ----------------MENÚ INSTITUCIONAL----------------------- -->  
-  <ul class="nav justify-content-center  p-4  f-negrita">
-    <li class="nav-item border-right borde-azul ">
-      <a class="nav-link texto-azul hover-texto-amarillo" href="#">Institucional</a>
-    </li>
-    <li class="nav-item border-right borde-azul ">
-      <a class="nav-link texto-azul hover-texto-amarillo" href="#">Oferta Académica</a>
-    </li>
-    <li class="nav-item border-right borde-azul ">
-      <a class="nav-link texto-azul hover-texto-amarillo" href="#">Investigación</a>
-    </li>
-    <li class="nav-item border-right borde-azul ">
-      <a class="nav-link texto-azul hover-texto-amarillo" href="#">Bienestar Universitario</a>
-    </li>
-    <li class="nav-item border-right borde-azul ">
-      <a class="nav-link texto-azul hover-texto-amarillo" href="#">Proyección Institucional</a>
-    </li>
-    <li class="nav-item border-right borde-azul ">
-      <a class="nav-link texto-azul hover-texto-amarillo" href="#">Aunar Virtual</a>
-    </li>
-    <li class="nav-item ">
-      <a class="nav-link texto-azul hover-texto-amarillo" href="#">CIAN</a>
-    </li>
-  </ul>
+ <?php include_once('menu2.php');?>
 <!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
 
 
@@ -216,15 +96,15 @@
   <div class="row pt-5 pb-5 ">
     <div class="col-lg-3 col-md-3 col-sm-12">
         <div class="row p-3 fondo-azul text-white">
-          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="#" data-toggle="tooltip" data-placement="left" title="Calendario 2017 2">Calendario Académico 2017-2</a></div>
-          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="#" data-toggle="tooltip" data-placement="left" title="Calendario 2017 1">Calendario Académico 2018-1</a></div>
-          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="#" data-toggle="tooltip" data-placement="left" title="Calendario 2017 2">Calendario Académico 2018-2</a></div>          
+          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_1.pdf" data-toggle="tooltip" data-placement="left" title="Calendario 2017 2" target="_blank">Cronograma General 2017-1</a></div>
+          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_2.pdf" data-toggle="tooltip" data-placement="left" title="Calendario 2017 1" target="_blank">Cronograma General 2017-2</a></div>
+          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2018_1.pdf" data-toggle="tooltip" data-placement="left" title="Calendario 2017 2" target="_blank">Cronograma General 2018-1</a></div>          
         </div>
     </div>
     <div class="col-lg-7 col-md-6 col-sm-12 text-center">
         <div class="row">
-          <div class="col-12">            
-            <img  class=" img-fluid" alt="Responsive image" src="img/derechos.png">
+          <div class="col-12">
+            <a href="docs/derechos_pecuniarios2018.pdf"  data-toggle="tooltip" data-placement="auto" title="Click para ver derechos pecuniarios" target="_blank"> <img  class=" img-fluid" alt="Derechos pecuniarios autonoma de nariño" src="img/derechos.png"></a>
           </div>
           <div class="col-12 pl-5 pr-5 texto-azul">Los siguientes son los montos de los derechos pecuniarios por servicios académicos y administrativos para el año 2018, debidamente aprobados por el Consejo Directivo de la Corporación Universitaria Autónoma de Nariño</div>
         </div>
@@ -320,22 +200,7 @@ deporte</p>
 
 
 <!-- -----------------MENU ICONOS----------------------------- -->
-<div class="container-fluid p-4  fondo-amarillo ">
-  <div class="row text-center justify-content-center  fuente-institucional f-x-small">    
-    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/periodico.svg" alt=""></div><p class="pt-2 mb-0">Periódico Estudiantil</p> </div>
-    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/album.svg" alt=""></div><p class="pt-2 mb-0">Albúm Fotográfico</p> </div>
-    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/v-institucional.svg" alt=""></div><p class="pt-2 mb-0">Video Institucional</p> </div>
-    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/astereo.svg" alt=""></div><p class="pt-2 mb-0">Aunar Stereo</p> </div>
-    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/aunartv.svg" alt=""></div><p class="pt-2 mb-0">Aunar TV</p> </div>
-    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/campus-virtual.svg" alt=""></div><p class="pt-2 mb-0">Campus Virutal</p> </div>
-    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/atech.svg" alt=""></div><p class="pt-2 mb-0">Aunar Tech</p> </div>
-    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/campus-presencial.svg" alt=""></div><p class="pt-2 mb-0">campus Presencial</p> </div>
-    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/bdocentes.svg" alt=""></div><p class="pt-2 mb-0">Bisel Docentes</p> </div>
-    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/bestudiantes.svg" alt=""></div><p class="pt-2 mb-0">Bisel Estudiantes</p> </div>
-    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/publicaciones.svg" alt=""></div><p class="pt-2 mb-0">Publicaciones</p> </div>       
-    <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 "><div class="p-2 "><img class="img-fluid " src="img/iconos/biblioteca.svg" alt=""></div><p class="pt-2 mb-0">Biblíoteca</p> </div>       
-  </div>
-</div>
+<?php include_once('menu3.php');?>
 <!-- -----------------FIN MENÚ ICONOS------------------------- -->
 
 
@@ -437,7 +302,7 @@ deporte</p>
 <!-- -----------------IMAGENES ENLACES DE INTERES----------------------------- -->
 <div class="container-fluid p-4  fondo-amarillo bg-white fuente-institucional">
   <div class="row text-center justify-content-center  ">    
-    <div class=" col-12 fuente-institucional texto-azul f-negrita "><h5 class="pb-4 fuente-institucional texto-azul f-negrita">ENLACES DE INTERÉS</h5></div>
+    <div class=" col-12 fuente-institucional texto-azul f-negrita "><h2 class="pb-4 fuente-institucional texto-azul f-negrita">Enlaces de interés</h2></div>
     <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="título imágen"></div><p class="pt-2 mb-0">Correo Aunar</p> </div>
     <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icfes.png" alt="título imágen"></div><p class="pt-2 mb-0">Sistema Académia</p> </div>
     <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="título imágen"></div><p class="pt-2 mb-0">Icfes</p> </div>
@@ -446,7 +311,7 @@ deporte</p>
     <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icfes.png" alt="título imágen"></div><p class="pt-2 mb-0">Colombia Aprende</p> </div>
     <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="título imágen"></div><p class="pt-2 mb-0">Banco Pichincha</p> </div>
     <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icfes.png" alt="título imágen"></div><p class="pt-2 mb-0">Comuna</p> </div>
-    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="título imágen"></div><p class="pt-2 mb-0">Bisel Docentes</p> </div>
+    <div class=" col-lg-2 col-md-3 col-sm-4 col-6 "><div class="p-4"><img class="img-fluid" src="img/icetex.png" alt="título imágen"></div><p class="pt-2 mb-0">Otro enlace ...</p> </div>
     <!-- <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-graduation-cap sombra-iconos">      </i></div><p class="pt-2 mb-0">Bisel Estudiantes</p> </div>
     <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-leanpub sombra-iconos" >      </i></div><p class="pt-2 mb-0">Publicaciones</p> </div>       
     <div class=" col-lg-1 col-md-2 col-sm-4 col-6 "><div class="circulo p-3"><i class="fa fa-book sombra-iconos" >       </i></div><p class="pt-2 mb-0">Biblíoteca</p> </div>        -->
@@ -457,88 +322,10 @@ deporte</p>
 
 	
 <!-- ----------------PIE DE PÁGINA---------------------------- -->
-	<footer class="fondo-azul">
-		<div class="container-fluid">
-      <div class="container p-5 ">
-        
-              <div class="row">
-                <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 ">
-                  <label class=" texto-amarillo fuente-institucional f-x-small f-negrita" >NORMATIVIDAD INSTITUCIONAL</label>
-                  <div class="mb-1 text-light fuente-institucional f-x-small">Estatuto general</div>
-                  <div class="mb-1 text-light fuente-institucional f-x-small">Reglamento docentes</div>
-                  <div class="mb-1 text-light fuente-institucional f-x-small">Reglamento estudiantes</div>
-                  <div class="mb-1 text-light fuente-institucional f-x-small">Reglamento de trabajos de grado</div>
-                  <div class="mb-1 text-light fuente-institucional f-x-small">Reglamento pecuniarios</div>
-                </div>
-                <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-                  <label class=" texto-amarillo fuente-institucional f-x-small f-negrita" >PROGRAMAS ACADÉMICOS</label>
-                  <div class="mb-1 text-light fuente-institucional f-x-small">Por facultades</div>
-                  <div class="mb-1 text-light fuente-institucional f-x-small">Programas</div>
-                  <div class="mb-1 text-light fuente-institucional f-x-small">Modalidades</div>
-                </div>
-                <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-                  <label class=" texto-amarillo fuente-institucional f-x-small f-negrita" >PLANEACIÓN</label>
-                  <div class="mb-1 text-light fuente-institucional f-x-small">Sistema de Gestión de calidad</div>
-                  <div class="mb-1 text-light fuente-institucional f-x-small">Proyectos</div>
-                  
-                </div>
-                <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-                  <label class=" texto-amarillo fuente-institucional f-x-small f-negrita" >TALENTO HUMANO</label>
-                  <div class="mb-1 text-light fuente-institucional f-x-small ">Seguridad y salud en el trabajo</div>
-                  <div class="mb-1 text-light fuente-institucional f-x-small ">Capacitaciones</div>
-                  <div class="mb-1 text-light fuente-institucional f-x-small ">Pausas activas</div>
-                  <div class="mb-1 text-light fuente-institucional f-x-small ">Deporte y cultura</div>
-                </div>
-                <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-                  <label class=" texto-amarillo fuente-institucional f-x-small f-negrita" >FORMATOS INSTITUCIONALES</label>                  
-                  <div class="mb-1 text-light fuente-institucional f-x-small ">Hoja de vida docentes</div>
-                  <div class="mb-1 text-light fuente-institucional f-x-small ">Hoja de vida administrativos</div>
-                </div>
-                <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-                  <label class=" texto-amarillo fuente-institucional f-x-small f-negrita" >FORMATOS INSTITUCIONALES</label>
-                  <div class="mb-1 text-light fuente-institucional f-x-small ">Hoja de vida docentes</div>
-                  <div class="mb-1 text-light fuente-institucional f-x-small ">Hoja de vida administrativos</div>
-                  <div class="mb-1 text-light fuente-institucional f-x-small ">Actualización de formatos organigrama</div>
-                </div>                
-                
-              </div>
-      </div>
-		</div>
-
+	<?php include_once('footer-principal.php') ?>
 <!-- -------------------FIN PIE DE PÁGINA--------------------- -->
 
 
-<!-- línea separadora amarilla -->
-<hr width="90%" class="linea-footer2"></hr>
-
-
-
-<!-- -------------------FOOTER CONTACTOS---------------------- -->
-<div class="container-fluid fondo-azul-oscuro">
-  <div class="row p-3">  
-    <div class="col-lg-6 mt-3 text-right text-light">
-      <div class="row">
-        <div class="col-8"></div>
-        <div class="col-4"><img class="img-fluid" src="img/aunar-logo.svg" alt="Logo AUNAR Autónoma de Nariño"></div>
-      </div>
-    </div>
-    <div class="col-lg-6 mt-3 text-light  f-x-small fuente-institucional">
-      <div>Corporación Universitaria Autónoma de Nariño </div>
-      <div>Carrera 28 No. 19-24 </div>
-      <div>Tel. 729 05 08 - 723 24 52 - 722 60 20</div>
-      <div>Pasto(Nariño) Colombia</div>
-    </div>
-    <div class="col-lg-12 mt-3 text-center text-light fuente-institucional f-x-small">
-    <div class="div f-negrita">"INSTITUCIÓN DE EDUCACIÓN SUPERIOR SUJETA A INSPECCÍÓN Y VIGILANCIA POR EL MINISTERIO DE EDUCACIÓN NACIONAL"</div>
-    <div class="div">Personería Jurídica No. 1054 del 1 de Febrero de 1983 - ©Copyright 2017 - Derechos Reservados</div>
-    
-    </div>
-
-  </div>
-</div>
-<!-- -------------------FIN FOOTER CONTACTOS------------------ -->
-
-</footer>
 
 
 </body>

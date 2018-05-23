@@ -1,4 +1,4 @@
-<meta charset="UTF-8">
+  <meta charset="UTF-8">
   <!-- ICONO DE LA PAGINA -->
   <link rel="shortcut icon" href="img/aunar.ico">
 	<!--VIEWPORT SIRVE PARA IDENTIFICAR EL ANCHO DE LAS PANTALLAS-->
@@ -15,5 +15,5 @@
   <!-- ESTILOS PERSONALES -->
   <link rel="stylesheet" type="text/css" href="css/personalizado.css">
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
-	<!--TÍTULO DE LA PÁGINA-->
-	<title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>
+  <script type="text/javascript" src="js/personalizado.js"></script>
+	
