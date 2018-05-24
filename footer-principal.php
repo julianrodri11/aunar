@@ -1,6 +1,7 @@
 	
 <!-- ----------------PIE DE PÁGINA---------------------------- -->
 	<footer class="fondo-azul">
+    
 		<div class="container-fluid">
       <div class="container p-5 ">
         
@@ -39,8 +40,12 @@
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
                   <label class=" texto-amarillo fuente-institucional small f-negrita" >FORMATOS INSTITUCIONALES</label>
-                  <div class="mb-1 text-light fuente-institucional small ">Hoja de vida docentes</div>
-                  <div class="mb-1 text-light fuente-institucional small ">Hoja de vida administrativos</div>
+                  <div class="mb-1 text-light fuente-institucional small ">
+                    <a class="text-white" href="docs/hoja_vida_docentes.doc" data-toggle="tooltip" data-placement="auto" title="Descargar formato hoja de vida docentes" target="_blanck">Hoja de vida docentes</a>
+                  </div>
+                  <div class="mb-1 text-light fuente-institucional small ">
+                  <a class="text-white" href="docs/hoja_vida_docentes.doc" data-toggle="tooltip" data-placement="auto" title="Descargar formato hoja de vida administrativos" target="_blanck">Hoja de vida administrativos</a>
+                  </div>
                   <div class="mb-1 text-light fuente-institucional small ">Actualización de formatos organigrama</div>
                 </div>                
                 
@@ -59,6 +64,7 @@
 <!-- -------------------FOOTER CONTACTOS---------------------- -->
 <div class="container-fluid fondo-azul-oscuro">
   <div class="row p-3">  
+
     <div class="col-lg-6 mt-3 text-right text-light">
       <div class="row">
         <div class="col-8"></div>
@@ -72,9 +78,8 @@
       <div>Pasto(Nariño) Colombia</div>
     </div>
     <div class="col-lg-12 mt-3 text-center text-light fuente-institucional small">
-    <div class="div f-negrita">"INSTITUCIÓN DE EDUCACIÓN SUPERIOR SUJETA A INSPECCÍÓN Y VIGILANCIA POR EL MINISTERIO DE EDUCACIÓN NACIONAL"</div>
-    <div class="div">Personería Jurídica No. 1054 del 1 de Febrero de 1983 - ©Copyright 2017 - Derechos Reservados</div>
-    
+      <div class="div f-negrita">"INSTITUCIÓN DE EDUCACIÓN SUPERIOR SUJETA A INSPECCÍÓN Y VIGILANCIA POR EL MINISTERIO DE EDUCACIÓN NACIONAL"</div>
+      <div class="div">Personería Jurídica No. 1054 del 1 de Febrero de 1983 - ©Copyright 2017 - Derechos Reservados</div>    
     </div>
 
   </div>

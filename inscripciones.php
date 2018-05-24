@@ -55,6 +55,10 @@
 			<div class="col-8"><div class="col-9 mx-auto fuente-institucional text-center p-2 fondo-azul-oscuro text-white bor-red-20">Por favor revise las pestañas Requisitos y Admisiones para obtener mayor información</div></div>
 		</div>
 	</div>
+
+
+	<?php 
+		include_once('footer-principal.php'); ?>
 	
 </body>
 </html>

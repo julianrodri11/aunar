@@ -23,7 +23,7 @@
 
     <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 ">
         <div class="p-2 ">
-            <a href="#" data-toggle="tooltip" data-placement="auto" title="Ir a " target="_blanck">
+            <a href="https://www.youtube.com/watch?v=sQVbUfhm2ZQ" data-toggle="tooltip" data-placement="auto" title="Ver Video institucional " target="_blanck">
                 <img class="img-fluid " src="img/iconos/v-institucional.svg" alt="">
             </a>
         </div>
@@ -43,7 +43,7 @@
 
     <div class=" col-xl-1 col-lg-1 col-md-2  col-sm-2 col-4 ">
         <div class="p-2 ">
-            <a href="#" data-toggle="tooltip" data-placement="auto" title="Ir a " target="_blanck">
+            <a href="https://www.youtube.com/watch?v=rNiBnmYdKtQ" data-toggle="tooltip" data-placement="auto" title="Ver video Aunar TV " target="_blanck">
                 <img class="img-fluid " src="img/iconos/aunartv.svg" alt="">
             </a>
         </div>

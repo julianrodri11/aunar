@@ -96,15 +96,15 @@
   <div class="row pt-5 pb-5 ">
     <div class="col-lg-3 col-md-3 col-sm-12">
         <div class="row p-3 fondo-azul text-white">
-          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_1.pdf" data-toggle="tooltip" data-placement="left" title="Calendario 2017 2" target="_blank">Cronograma General 2017-1</a></div>
-          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_2.pdf" data-toggle="tooltip" data-placement="left" title="Calendario 2017 1" target="_blank">Cronograma General 2017-2</a></div>
-          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2018_1.pdf" data-toggle="tooltip" data-placement="left" title="Calendario 2017 2" target="_blank">Cronograma General 2018-1</a></div>          
+          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_1.pdf" data-toggle="tooltip" data-placement="left" title="Ver Cronograma General 2017-1" target="_blank">Cronograma General 2017-1</a></div>
+          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_2.pdf" data-toggle="tooltip" data-placement="left" title="Ver Cronograma General 2017-2" target="_blank">Cronograma General 2017-2</a></div>
+          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2018_1.pdf" data-toggle="tooltip" data-placement="left" title="Ver Cronograma General 2018-1" target="_blank">Cronograma General 2018-1</a></div>          
         </div>
     </div>
     <div class="col-lg-7 col-md-6 col-sm-12 text-center">
         <div class="row">
           <div class="col-12">
-            <a href="docs/derechos_pecuniarios2018.pdf"  data-toggle="tooltip" data-placement="auto" title="Click para ver derechos pecuniarios" target="_blank"> <img  class=" img-fluid" alt="Derechos pecuniarios autonoma de nariño" src="img/derechos.png"></a>
+            <a href="docs/derechos_pecuniarios2018.pdf"  data-toggle="tooltip" data-placement="top" title="Click para ver derechos pecuniarios" target="_blank"> <img  class=" img-fluid" alt="Derechos pecuniarios autonoma de nariño" src="img/derechos.png"></a>
           </div>
           <div class="col-12 pl-5 pr-5 texto-azul">Los siguientes son los montos de los derechos pecuniarios por servicios académicos y administrativos para el año 2018, debidamente aprobados por el Consejo Directivo de la Corporación Universitaria Autónoma de Nariño</div>
         </div>
