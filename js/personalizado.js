@@ -13,3 +13,12 @@
             $("#cont-logo").removeClass("pl-3 pr-3 pl-sm-4 pr-sm-4  pl-md-4  pr-md-4  pl-lg-3 pr-lg-3  efecto-despues");            
         }
       });
+
+    //funcion cuando el mouse pase sobre el menu, se desplñegue
+     $(document).ready(function () 
+    {
+       $('.dropdown-toggle').mouseenter(function () 
+       {
+          $(this).dropdown("toggle");
+       });
+    });

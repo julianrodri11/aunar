@@ -201,7 +201,10 @@ font-weight: bold;
 {
 	font-size: 10px;
 }
-
+.f-size-12
+{
+	font-size: 12px;
+}
 .f-size-14
 {
 	font-size: 14px;
@@ -382,14 +385,6 @@ font-weight: bold;
 {
 	border-radius: 20px !important;
 }
-
-
-
-
-
-
-
-
 
 
 

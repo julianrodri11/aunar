@@ -6,7 +6,7 @@
     <span class="navbar-toggler-icon "></span>
   </button>
 
-  <div class="collapse navbar-collapse f-size-14 " id="navbarSupportedContent">
+  <div class="collapse navbar-collapse f-size-12 " id="navbarSupportedContent">
     
     <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0  ">
       <li class="nav-item active pt-2 pb-2 hover-amarillo ">
@@ -15,7 +15,7 @@
 
       <li class="nav-item pt-2 pb-2 dropdown hover-amarillo ">
         <a class="nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-right borde-amarillo" href="#" id="estudiantes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Estudiantes</a>
-        <div class="dropdown-menu f-size-14" aria-labelledby="estudiantes">
+        <div class="dropdown-menu f-size-12" aria-labelledby="estudiantes">
           <a class="dropdown-item texto-azul" href="docs/reglamento_estudiantil.pdf" target="_blanck">Reglamento Estudiantil</a>
           <a class="dropdown-item texto-azul" href="http://estudiantes.aunar.edu.co/" target="_blanck">Bisel Estudiantes</a>
           <!--div class="dropdown-divider"></div>
@@ -26,7 +26,7 @@
 
       <li class="nav-item pt-2 pb-2 dropdown hover-amarillo ">
         <a class="nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-right borde-amarillo" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Docentes</a>
-        <div class="dropdown-menu f-size-14" aria-labelledby="navbarDropdown">
+        <div class="dropdown-menu f-size-12" aria-labelledby="navbarDropdown">
           <a class="dropdown-item texto-azul" href="docs/reglamento_docentes.pdf" target="_blanck">Reglamento Docentes</a>
           <a class="dropdown-item texto-azul" href="http://docentes.aunar.edu.co/"  target="_blanck">Bisel Docentes</a>          
         </div>
@@ -39,7 +39,7 @@
       <li class="nav-item pt-2 pb-2 dropdown hover-amarillo ">
         <!--a class="nav-link active texto-azul pl-md-2 pl-sm-2 border-right borde-amarillo" href="#">Extensiones</a-->
         <a class="nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-right borde-amarillo" href="#" id="extensiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Extensiones</a>
-        <div class="dropdown-menu f-size-14" aria-labelledby="extensiones">
+        <div class="dropdown-menu f-size-12" aria-labelledby="extensiones">
           <a class="dropdown-item texto-azul" href="http://aunarcali.edu.co/ext/" target="_blanck">Cali</a>
           <a class="dropdown-item texto-azul" href="http://www.aunarvillavicencio.edu.co/"  target="_blanck">Villavicencio</a>
           <a class="dropdown-item texto-azul" href="https://aunarcartagena.edu.co/"  target="_blanck">Cartagena</a>

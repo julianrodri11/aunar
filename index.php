@@ -230,12 +230,12 @@ deporte</p>
           </div>
         </div>
         <div class="col-md-6 p-3 ">           
-            <div class="col-md-12 p-4 mb-3 ">
+            <div class="col-12 p-4 mb-3 ">
             
               <!-- seccion de eventos  -->
               <!-- evento 1 -->
               <div class="row p-3 hover-texto-blanco hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
-                <div class="col-md-4 col-4">
+                <div class="col-md-4 col-12 ">
                   <div class="circulo">
                     <div class="row pt-2 text-center "> 
                       <span class="col-12">10</span>
@@ -243,17 +243,17 @@ deporte</p>
                     </div>
                   </div>
                 </div> 
-                <div class="col-md-8 col-8">
+                <div class="col-md-8 col-12">
                   <div class="row texto-azul">
-                    <div class="col-lg-12">II Encuentro de Bibliotecas.</div>
-                    <div class="col-lg-12">RED UREL</div>
-                    <div class="col-lg-12">Hora: 8:00 am</div>
+                    <div class="col-lg-12 text-center text-lg-left text-md-left">II Encuentro de Bibliotecas.</div>
+                    <div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
+                    <div class="col-lg-12 text-center text-lg-left text-md-left">Hora: 8:00 am</div>
                   </div>
                 </div>
               </div>
               <!-- evetnos 2 -->
                <div class="row p-3 hover-texto-blanco hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
-                <div class="col-md-4 col-4">
+                <div class="col-md-4 col-12 ">
                   <div class="circulo">
                     <div class="row pt-2 text-center "> 
                       <span class="col-12">10</span>
@@ -261,17 +261,17 @@ deporte</p>
                     </div>
                   </div>
                 </div> 
-                <div class="col-md-8 col-8">
+                <div class="col-md-8 col-12">
                   <div class="row texto-azul">
-                    <div class="col-lg-12">II Encuentro de Bibliotecas.</div>
-                    <div class="col-lg-12">RED UREL</div>
-                    <div class="col-lg-12">Hora: 8:00 am</div>
+                    <div class="col-lg-12 text-center text-lg-left text-md-left">II Encuentro de Bibliotecas.</div>
+                    <div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
+                    <div class="col-lg-12 text-center text-lg-left text-md-left">Hora: 8:00 am</div>
                   </div>
                 </div>
               </div>
               <!-- evento 3 -->
                <div class="row p-3 hover-texto-blanco hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
-                <div class="col-md-4 col-4">
+                <div class="col-md-4 col-12 ">
                   <div class="circulo">
                     <div class="row pt-2 text-center "> 
                       <span class="col-12">10</span>
@@ -279,11 +279,11 @@ deporte</p>
                     </div>
                   </div>
                 </div> 
-                <div class="col-md-8 col-8">
+                <div class="col-md-8 col-12">
                   <div class="row texto-azul">
-                    <div class="col-lg-12">II Encuentro de Bibliotecas.</div>
-                    <div class="col-lg-12">RED UREL</div>
-                    <div class="col-lg-12">Hora: 8:00 am</div>
+                    <div class="col-lg-12 text-center text-lg-left text-md-left">II Encuentro de Bibliotecas.</div>
+                    <div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
+                    <div class="col-lg-12 text-center text-lg-left text-md-left">Hora: 8:00 am</div>
                   </div>
                 </div>
               </div>

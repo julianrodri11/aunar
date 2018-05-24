@@ -2,8 +2,8 @@
 <!-- ----------------PIE DE PÁGINA---------------------------- -->
 	<footer class="fondo-azul">
     
-		<div class="container-fluid">
-      <div class="container p-5 ">
+		<div class="container-fluid pt-4">
+      <div class="container py-1">
         
               <div class="row">
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 ">
@@ -65,17 +65,20 @@
 <div class="container-fluid fondo-azul-oscuro">
   <div class="row p-3">  
 
-    <div class="col-lg-6 mt-3 text-right text-light">
-      <div class="row">
-        <div class="col-8"></div>
-        <div class="col-4"><img class="img-fluid" src="img/aunar-logo.svg" alt="Logo AUNAR Autónoma de Nariño"></div>
-      </div>
+    <div class="col-lg-6 col-sm-12 mt-3  text-light d-flex justify-content-center d-flex justify-content-lg-end ">      
+        
+        <div class="col-12 col-md-6 col-sm-6">
+          <img class="img-fluid" src="img/aunar-logo.svg" alt="Logo AUNAR Autónoma de Nariño">
+        </div>
+      
     </div>
-    <div class="col-lg-6 mt-3 text-light  small fuente-institucional">
-      <div>Corporación Universitaria Autónoma de Nariño </div>
-      <div>Carrera 28 No. 19-24 </div>
-      <div>Tel. 729 05 08 - 723 24 52 - 722 60 20</div>
-      <div>Pasto(Nariño) Colombia</div>
+    <div class="col-lg-6 col-sm-12 mt-3 text-light text-lg-left text-center small fuente-institucional">
+      <div class="">
+        <div>Corporación Universitaria Autónoma de Nariño </div>
+        <div>Carrera 28 No. 19-24 </div>
+        <div>Tel. 729 05 08 - 723 24 52 - 722 60 20</div>
+        <div>Pasto(Nariño) Colombia</div>
+      </div>
     </div>
     <div class="col-lg-12 mt-3 text-center text-light fuente-institucional small">
       <div class="div f-negrita">"INSTITUCIÓN DE EDUCACIÓN SUPERIOR SUJETA A INSPECCÍÓN Y VIGILANCIA POR EL MINISTERIO DE EDUCACIÓN NACIONAL"</div>
