@@ -15,7 +15,7 @@
 	?>
 
 	<div class="container-fluid">
-		<div class="row ">
+		<div class="row col-12">
 			<img class="bg-info img-fluid mx-auto" src="img/inscripciones/sistema-inscripciones-en-linea.png">
 		</div>
 	</div>
