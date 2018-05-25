@@ -32,6 +32,7 @@
         
         <!-- Modal footer -->
         <div class="modal-footer">
+          <button type="button" class="btn btn-warning">Ver más</button>
           <button type="button" class="btn fondo-azul-oscuro text-white" data-dismiss="modal">Cerrar</button>
         </div>
         
@@ -73,7 +74,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <a href="inscripciones.php" target="_blank"> <img data-toggle="tooltip" data-placement="auto" title="Ver más sobre la oferta académica" class="d-block w-100" src="img/slider1.jpg" alt="First slide"></a>
+      <a href="inscripciones.php"> <img data-toggle="tooltip" data-placement="auto" title="Ver más sobre la oferta académica" class="d-block w-100" src="img/slider1.jpg" alt="First slide"></a>
       <div class="carousel-caption">
         <h3></h3>
         <p></p>
@@ -134,10 +135,10 @@
     </div>
     <div class="col-lg-7 col-md-6 col-sm-12 text-center">
         <div class="row">
-          <div class="col-12">
+          <div class="col-12 p-2">
             <a href="docs/derechos_pecuniarios2018.pdf"  data-toggle="tooltip" data-placement="top" title="Click para ver derechos pecuniarios" target="_blank"> <img  class=" img-fluid" alt="Derechos pecuniarios autonoma de nariño" src="img/derechos.png"></a>
           </div>
-          <div class="col-12 pl-5 pr-5 texto-azul">Los siguientes son los montos de los derechos pecuniarios por servicios académicos y administrativos para el año 2018, debidamente aprobados por el Consejo Directivo de la Corporación Universitaria Autónoma de Nariño</div>
+          <div class="col-12 p-2 texto-azul">Los siguientes son los montos de los derechos pecuniarios por servicios académicos y administrativos para el año 2018, debidamente aprobados por el Consejo Directivo de la Corporación Universitaria Autónoma de Nariño</div>
         </div>
     </div>
     <div class="col-lg-2 col-md-3 col-sm-12 border-left borde-azul">
@@ -213,13 +214,13 @@ deporte</p>
 <!-- ----------------OFERTAS DE INTERES ---------------------- -->
 <div class="container-fluid fondo-gris-os p-3 mb-3">
   <div class="row">
-    <div class="col-8">
+    <div class="col-12 col-lg-8">
       <div class="row texto-azul">
-        <div class="col-12 pl-5 -pr-5 text-center">Recuerda que la Corporación Universitaria Autónoma de Nariño, también cuenta con programas de formación continua para que perfecciones tu perfil profesional.</div>
-        <div class="col-12 text-right"><strong> AUNAR</strong> te ofrece la siguiente oferta educativa: <a class="texto-amarillo-oscuro f-negrita" href="">Cursos, </a><a class="texto-amarillo-oscuro f-negrita" href="">Diplomados, </a><a class="texto-amarillo-oscuro f-negrita" href="">Seminarios</a> </div>
+        <div class="col-12 pl-5 pr-5 pb-2 text-center">Recuerda que la Corporación Universitaria Autónoma de Nariño, también cuenta con programas de formación continua para que perfecciones tu perfil profesional.</div>
+        <div class="col-12 text-center text-lg-right"><strong> AUNAR</strong> te ofrece la siguiente oferta educativa: <a class="texto-amarillo-oscuro f-negrita" href="">Cursos, </a><a class="texto-amarillo-oscuro f-negrita" href="">Diplomados, </a><a class="texto-amarillo-oscuro f-negrita" href="">Seminarios</a> </div>
       </div>
     </div>
-    <div class="col-4 d-flex align-items-center justify-content-center ">
+    <div class="col-12 col-lg-4 d-flex align-items-center justify-content-center ">
       <div class="text-center ">
         <a href="#" class="p-2 border borde-azul badge badge-pill bg-white hover-texto-blanco hover-amarillo  texto-azul">Ver Oferta</a>
         </div>
@@ -241,7 +242,7 @@ deporte</p>
   <div class="row">
     <div class="col-lg-2 p-2 d-flex align-items-center justify-content-center justify-content-sm-center justify-content-md-center">
         
-          <div class="p-1 mt-sm-5 bd-highlight border-right borde-amarillo borde-ancho text-center pr-3">
+          <div class="p-1 mt-5 mt-sm-5 bd-highlight border-right borde-amarillo borde-ancho text-center pr-3">
             <h1 class="my-1 fuente-institucional texto-azul f-negrita">Eventos</h1>
             <label class="texto-azul fue">Entérate nuestras novedades</label>
           </div>
