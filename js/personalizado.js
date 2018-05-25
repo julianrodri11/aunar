@@ -10,9 +10,13 @@
             $("#cont-logo").addClass("col-lg-1 pl-3 pr-3 pl-sm-4 pr-sm-4  pl-md-4  pr-md-4  pl-lg-3 pr-lg-3  efecto-antes");            
             $("#cont-logo").removeClass("col-lg-2 pl-lg-4 pr-lg-4 pb-lg-4 ");//el logo inicia en tamaaño p-lrb-4 pero si baja se le quita una columna si sube se aumenta una
 
+            // para arreglar el traductor
+            $("#navbar1").removeClass("mt-5");
         } else {          
             $("#cont-logo").removeClass("pl-3 pr-3 pl-sm-4 pr-sm-4  pl-md-4  pr-md-4  pl-lg-3 pr-lg-3  efecto-despues");
             $("#cont-logo").addClass("col-lg-1  "); //si el logo baja se lo hace mas pequeño de  col-lg-2 aaa col-lg-1 con addclass y remove class
+            // para arreglar el traductor            
+            $("#navbar1").addClass("mt-0");            
         }
       });
 
@@ -47,3 +51,17 @@
         sessionStorage.setItem('story','');
       });
     });
+
+
+    // cuando se haga click en el cuadro de traducción
+    $(document).ready(function () 
+    {
+       $('#google_translate_element').click(function () 
+       {    
+            $("#navbar1").addClass("mt-5");        
+       });        
+
+    });
+
+
+    

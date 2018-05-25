@@ -1,5 +1,5 @@
 <!-------------------MENÚ PRINCIPAL-------------------------- -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top  bg-white texto-azul " >
+<nav class="navbar navbar-expand-lg navbar-light fixed-top bg-white texto-azul " id="navbar1" >
   <!--div class=" "><a class="mx-auto navbar-brand fuente-institucional texto-azul f-size-18 hover-amarillo" data-toggle="tooltip" data-placement="auto" title="Ir al inicio" href="index.php"><i class="fa fa-home"></i></a></div-->
   
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
