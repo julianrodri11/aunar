@@ -14,11 +14,36 @@
         }
       });
 
-    //funcion cuando el mouse pase sobre el menu, se desplñegue
+    //funcion cuando el mouse pase sobre el menu, se despliegue
      $(document).ready(function () 
     {
        $('.dropdown-toggle').mouseenter(function () 
        {
           $(this).dropdown("toggle");
        });
+    });
+
+
+     // para el modal de inicio
+     
+     // init
+    $(document).ready(function(){
+       // verifica si existe una sesión, si no existe abre el modal 
+      // Start
+      // sessionStorage.getItem('key');
+      if (sessionStorage.getItem("story") !== 'true') {
+        // sessionStorage.setItem('key', 'value'); pair
+        sessionStorage.setItem("story", "true");
+        // Calling the bootstrap modal
+        $("#myModal").modal();
+        }
+      // End
+      
+      // sirve para crear un boton con id reset-session y destruir la sesion o se podria colocar por horas , 
+      // es decir si pasa una hora se destruye la sesion y se muestra el modal
+      // Do not include the code below, it is just for the 'Reset Session' button in the viewport.
+      // This is same as closing the browser tab.
+      $('#reset-session').on('click',function(){
+      sessionStorage.setItem('story','');
+      });
     });

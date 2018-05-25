@@ -6,8 +6,39 @@
   <!--TÍTULO DE LA PÁGINA-->
   <title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>  
 </head>
-<body>	
-
+<body>
+<!-- -----------------------------MODAL-------------------------- -->
+<!-- The Modal -->
+  <div class="modal fade" id="myModal">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">Bienvenidos</h4>
+          <button type="button" class="close" data-dismiss="modal">×</button>
+          
+        </div>
+        
+        <!-- Modal body -->
+        <div class="modal-body">
+          Aquí va toda la información importante que se quiera mostrar cuando se visite por primera vez, Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </div>
+        
+        <!-- Modal footer -->
+        <div class="modal-footer">
+          <button type="button" class="btn fondo-azul-oscuro text-white" data-dismiss="modal">Cerrar</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+<!-- -----------------------------FIN MODAL------------------------ -->
 
 <!-------------------MENÚ PRINCIPAL-------------------------- -->
 <?php include_once('menu1.php');?>
