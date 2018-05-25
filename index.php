@@ -1,13 +1,18 @@
 <!DOCTYPE html>
-<html lang="es-CO">
+<html lang="es">
 <head>
   <?php /*ENLACES DE LIBRERIAS */ include_once('links-url.php');  ?> 
 
   <!--TÍTULO DE LA PÁGINA-->
   <title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>  
+  
 </head>
 <body>
-<!-- -----------------------------MODAL-------------------------- -->
+
+
+
+
+<!-- --------------------MODAL INICIAL----------------------- -->
 <!-- The Modal -->
   <div class="modal fade" id="myModal">
     <div class="modal-dialog modal-lg modal-dialog-centered">
@@ -39,7 +44,11 @@
       </div>
     </div>
   </div>
-<!-- -----------------------------FIN MODAL------------------------ -->
+<!-- -------------------FIN MODAL INICIAL-------------------- -->
+
+<!-- ------------------MODAL TRADUCTOR----------------------- -->
+<?php include_once('modal-traductor.php');?>
+<!-- ----------------FIN MODAL TRADUCTOR--------------------- -->
 
 <!-------------------MENÚ PRINCIPAL-------------------------- -->
 <?php include_once('menu1.php');?>
@@ -198,8 +207,7 @@
       <div class="text-center p-5  ">
             <label class="texto-amarillo f-negrita f-size-18">Michael Villota, </label> <label class="texto-azul f-size-14">el pastuso que representará a Colombia</label>            
             <div class="text-justify">
-            <p class="texto-azul f-myriad">Charlamos con Michael Villota, un joven de 22 años de edad y estudiante del programa de Ingeniería Mecánica de la Corporación Universitaria Autónoma de Nariño. Gracias a su pasión, dedicación y reconocimientos obtenidos en el karate Do, Michael viajará en el mes de julio del presente año a Japón para representar a Colombia en este
-deporte</p>
+            <p class="texto-azul f-myriad">Charlamos con Michael Villota, un joven de 22 años de edad y estudiante del programa de Ingeniería Mecánica de la Corporación Universitaria Autónoma de Nariño. Gracias a su pasión, dedicación y reconocimientos obtenidos en el karate Do, Michael viajará en el mes de julio del presente año a Japón para representar a Colombia en este deporte</p>
             <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul">Conoce más</a>
             </div>
       </div>

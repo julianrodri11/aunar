@@ -11,6 +11,7 @@
 		include_once('logo-central.php');
 		include_once('zoom.php');
 		include_once('redes-sociales-aunar.php');
+		include_once('modal-traductor.php');
 
 	?>
 

@@ -57,7 +57,7 @@
     <div class="rectangulo-sesgado pt-2 pb-2 ">
       <div class="row pt-3 mt-1 ml-0  float-right float-md-none mr-2">
                 <div class=" f-italica f-negrita f-size-14 ">La Tecnología es el Camino hacia un Mundo sin Fronteras</div>
-                <!--span class="ml-1 mr-4  badge badge-pill badge-primary fondo-azul">Idioma</span-->   
+                <span class="ml-1 mr-1  badge badge-pill badge-primary fondo-azul" data-toggle="modal" data-target="#btn_traductor">Idioma</span>
                 
         </div>
     </div>    
