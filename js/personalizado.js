@@ -58,7 +58,8 @@
     {
        $('#google_translate_element').click(function () 
        {    
-            $("#navbar1").addClass("mt-5");        
+            $("#navbar1").addClass("mt-5"); 
+            // regresa al estado normal en la función del scroll $("#navbar1").removeClass("mt-5"); $("#navbar1").addClass("mt-0"); en
        });        
 
     });

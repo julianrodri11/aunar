@@ -23,30 +23,31 @@
 		</div>
 	</div>
 
-	<div class="container fuente-institucional">
+<div class="container-fluid border-bottom borde-azul">
+	<div class="container fuente-institucional ">
 		<div class="row ">		
 			<div class="col-12 p-3"><h1 class="texto-azul f-negrita"> Sistema de inscripciones en línea </h1></div>
 		</div>
 		<div class="row m-2">			
-			<div class="col-12 col-lg-2  bg-warning">
+			<div class="col-12 col-lg-2 fondo-amarillo">
 				<div class=""><h1 class="text-center text-lg-left text-white f-negrita p-2">1.</h1></div>
 			</div>
 			<div class="col-12 col-lg-10">Diríjase a la sección Preinscripción y diligencie los datos solicitados en el formulario.</div>
 		</div>
 		<div class="row m-2">
-			<div class="col-12 col-lg-3  bg-warning">
+			<div class="col-12 col-lg-3 fondo-amarillo">
 				<div class=""><h1 class="text-center text-lg-left text-white f-negrita p-2">2.</h1></div>
 			</div>
 			<div class="col-12 col-lg-9 text-justify">Una vez registre los datos realice clic en el botón Enviar. Sus datos serán validados y verificados en nuestra base de datos</div>
 		</div>
 		<div class="row m-2">
-			<div class="col-12 col-lg-4  bg-warning">
+			<div class="col-12 col-lg-4 fondo-amarillo">
 				<div class=""><h1 class="text-center text-lg-left text-white f-negrita p-2">3.</h1></div>
 			</div>
 			<div class="col-12 col-lg-8 text-justify">Los aspirantes a programas presenciales, virtuales o a distancia deben descargar el formulario e imprimir una copia, descargar e imprimir el formato de pago, cancelar el valor de la inscripción y anexar los requisitos solicitados.</div>
 		</div>
 		<div class="row m-2">
-			<div class="col-12 col-lg-5  bg-warning">
+			<div class="col-12 col-lg-5 fondo-amarillo">
 				<div class=""><h1 class="text-center text-lg-left text-white f-negrita p-2">4.</h1></div>
 			</div>
 			<div class="col-12 col-lg-7 text-justify">Si el estudiante es aspirante a un programa virtual envíe los requisitos solicitados en medio físico a la siguiente dirección: Carrera 28 No 19 - 24 Centro - San Juan de Pasto - Nariño. Sus datos registrados quedarán consignados en nuestra base de datos.</div>
@@ -58,10 +59,59 @@
 			<div class="col-12 col-lg-8"><div class="col-9 mx-auto fuente-institucional text-center p-2 fondo-azul-oscuro text-white bor-red-20">Por favor revise las pestañas Requisitos y Admisiones para obtener mayor información</div></div>
 		</div>
 	</div>
+</div>	
+
+	
+<!-- preinscripción y requisitos-->
+
+	<div class="container-fluid border-bottom borde-azul">
+		
+
+		<div class="row pt-3 ">
+			<div class="col-12 col-lg-4  text-center p-5">
+				<div class="row fondo-amarillo">	
+						<div class="col-12">	
+								<h1 class=" f-negrita fuente-institucional texto-azul">Preinscripción</h1>
+						</div>
+				</div>
+			</div>
+			<div class="col-12 col-lg-8 fondo-gris-c p-5  border-bottom borde-azul">
+				<div class="row text-center">				
+					<div class="col-12">Para realizar su Preinscripción haga clic en el siguiente enlace</div>
+					<div class="col-12"><a class="btn text-light fondo-azul-oscuro" href="http://inscripciones.aunar.edu.co/inscripcion.php">Click aquí</a> </div>
+				</div>
+			</div>
+		</div>
 
 
-	<?php 
-		include_once('footer-principal.php'); ?>
+		<div class="row pt-3 border-bottom borde-azul">			
+			<div class="col-12 col-lg-4  text-center p-5">
+				<div class="row fondo-amarillo">	
+						<div class="col-12">	
+								<h1 class=" f-negrita fuente-institucional texto-azul">Requisitos</h1>
+						</div>
+				</div>
+			</div>			
+			<div class="col-12 col-lg-8 fondo-gris-c">
+				<div class="row p-5">				
+					<div class="col-12">* Copia de documento de identidad ampliado 150% (Tarjeta de identidad, cédula de ciudadanía o contraseña)</div>
+					<div class="col-12">* Copia a color de resultados PRUEBAS SABER 11 (ICFES)</div>
+					<div class="col-12">* Copia del diploma de bachillerato</div>
+					<div class="col-12">* Copia del acta de grado</div>
+					<div class="col-12">* Certificado médico</div>
+					<div class="col-12">* Examen de serología</div>
+					<div class="col-12">* Registro civil</div>
+					<div class="col-12">* Copia carné de salud</div>
+					<div class="col-12">* Libreta militar</div>
+					<div class="col-12">* 1 Foto fondo azul 3x4</div>
+					<div class="col-12">* 1 Carpeta ocio color café</div>					
+				</div>
+				
+			</div>
+		</div>
+	</div>
+	<br>
+	<?php include_once('footer-principal.php'); ?>
 	
 </body>
 </html>
