@@ -387,7 +387,10 @@ font-weight: bold;
 }
 
 
+/*cambiar el color de los nav-bill*/
 
-
-
+.nav-link.active
+{
+	background-color: #F0EFEF !important;
+}
 
