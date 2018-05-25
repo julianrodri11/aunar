@@ -128,7 +128,7 @@
         <div class="col-12 ">
           <div class="row ">            
               <div class=" col-4 fondo-amarillo sombra-iconos icono-blanco text-center "><i class="fa fa-envelope" ></i></div>
-              <div class=" col-8 fondo-azul text-white">Necesitas  ? Contáctanos</div>
+              <div class=" col-8 fondo-azul text-white">Necesitas ayuda? Contáctanos</div>
           </div>
         </div>        
       </div>
