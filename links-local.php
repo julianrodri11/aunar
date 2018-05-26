@@ -15,5 +15,4 @@
   <!-- ESTILOS PERSONALES -->
   <link rel="stylesheet" type="text/css" href="css/personalizado.css">
 	<script src="js/bootstrap.min.js"></script>
-	<!--TÍTULO DE LA PÁGINA-->
-	<title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>
+	<script type="text/javascript" src="js/personalizado.js"></script>

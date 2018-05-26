@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es-CO">
 <head>
-	<?php /*ENLACES DE LIBRERIAS*/ include_once('links-url.php');  ?> 
+	<?php /*ENLACES DE LIBRERIAS*/ include_once('links-local.php');  ?> 
 	<title>Sistema de inscripciones en línea AUNAR</title>
 </head>
 <body>
@@ -18,12 +18,12 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-12">
-				<img class="img-fluid" src="img/inscripciones/sistema-inscripciones-en-linea.png">
+				<img class="img-fluid" src="img/inscripciones/sistema-inscripciones-en-linea.png"/>
 			</div>
 		</div>
 	</div>
 
-<div class="container-fluid border-bottom borde-azul">
+<div class="container-fluid border-bottom borde-azul pb-4">
 	<div class="container fuente-institucional ">
 		<div class="row ">		
 			<div class="col-12 p-3"><h1 class="texto-azul f-negrita"> Sistema de inscripciones en línea </h1></div>
@@ -62,38 +62,35 @@
 </div>	
 
 	
-<!-- preinscripción y requisitos-->
+<!-- PREINSCRIPCIÓN -->
 
-	<div class="container-fluid border-bottom borde-azul">
-		
-
-		<div class="row pt-3 ">
-			<div class="col-12 col-lg-4  text-center p-5">
-				<div class="row fondo-amarillo">	
-						<div class="col-12">	
-								<h1 class=" f-negrita fuente-institucional texto-azul">Preinscripción</h1>
-						</div>
+	<div class="container-fluid">
+		<div class="row  ">
+			<div class="col-12 col-lg-4 ">				
+				<div class="row mt-5">
+					<div class=" col-12  fondo-amarillo text-center"><h1 class=" f-negrita fuente-institucional texto-azul">Preinscripción</h1> </div> 
 				</div>
 			</div>
-			<div class="col-12 col-lg-8 fondo-gris-c p-5  border-bottom borde-azul">
+			<div class=" col-12 col-lg-8 fondo-gris-c pt-5 pb-5  border-bottom borde-azul ">
 				<div class="row text-center">				
 					<div class="col-12">Para realizar su Preinscripción haga clic en el siguiente enlace</div>
 					<div class="col-12"><a class="btn text-light fondo-azul-oscuro" href="http://inscripciones.aunar.edu.co/inscripcion.php">Click aquí</a> </div>
 				</div>
 			</div>
-		</div>
+		</div>		
+	</div>
 
+<!-- REQUISITOS -->
 
-		<div class="row pt-3 border-bottom borde-azul">			
-			<div class="col-12 col-lg-4  text-center p-5">
-				<div class="row fondo-amarillo">	
-						<div class="col-12">	
-								<h1 class=" f-negrita fuente-institucional texto-azul">Requisitos</h1>
-						</div>
+	<div class="container-fluid  border-bottom borde-azul">
+		<div class="row  ">
+			<div class="col-12 col-lg-4 ">				
+				<div class="row mt-5 pt-3">
+					<div class=" col-12  fondo-amarillo text-center"><h1 class=" f-negrita fuente-institucional texto-azul">Requisitos</h1> </div> 
 				</div>
-			</div>			
-			<div class="col-12 col-lg-8 fondo-gris-c">
-				<div class="row p-5">				
+			</div>
+			<div class=" col-12 col-lg-8 fondo-gris-c pl-5 pt-3 pb-3   ">
+				<div class="row ">				
 					<div class="col-12">* Copia de documento de identidad ampliado 150% (Tarjeta de identidad, cédula de ciudadanía o contraseña)</div>
 					<div class="col-12">* Copia a color de resultados PRUEBAS SABER 11 (ICFES)</div>
 					<div class="col-12">* Copia del diploma de bachillerato</div>
@@ -106,10 +103,55 @@
 					<div class="col-12">* 1 Foto fondo azul 3x4</div>
 					<div class="col-12">* 1 Carpeta ocio color café</div>					
 				</div>
+
+			</div>
+		</div>		
+	</div>
+
+
+
+	<!-- consulta de admitidos -->
+	<div class="container-fluid">
+		<div class="row fondo-gris-os mt-5">
+			<div class="container">
+				<div class="col-12 p-2 "><h1 class=" f-negrita fuente-institucional texto-azul">Consulta de admitidos</h1></div>
+			</div>
+		</div>		
+		<div class="container">
+			<div class="">
+				<div class="col-12"><h3 class="p-2 f-negrita fuente-institucional texto-azul">Aspirantes a programas presenciales y a distancia</h3></div>
+				<div class="col-12 text-justify f-myriad texto-azul">Todo aspirante de programa presencial y a distancia debe realizar su preinscripción por medio de esta página. Posteriormente, cancelar el valor de inscripción en la cuenta especicada en su recibo de pago. Una vez consignado el pago, deben acercarse a la Ofc. de Mercadeo para legalizar su inscripción con los documentos requeridos y el soporte de pago de inscripción.
+				<div class="col-12  mt-3">
+					<div class="row">
+						<a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Conoce más</a>
+						<a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Pdf admitidos</a>
+					</div>
+				</div>
 				
 			</div>
 		</div>
 	</div>
+</div>
+
+<!-- Aspirantes a programas de pregado -->
+	<div class="container-fluid">
+		<div class="row fondo-gris-os mt-5">
+			<div class="container">
+				<div class="col-12 p-2"><h1 class=" f-negrita fuente-institucional texto-azul">Aspirantes a programas virtuales</h1></div>
+			</div>
+		</div>		
+		<div class="container">
+			<div class=" fuente-institucional texto-azul ">				
+				<div class="col-12 text-center f-myriad texto-azul m-3">Todo aspirante de programa virtual debe realizar su prescripción por medio de esta página y enviar al correo mercadeo@aunar.edu.co los requisitos solicitados para legalizar su inscripción o hacerlos llegar por medio físico a la sede principal de San Juan de Pasto - Carrera 28 No. 19-24</div>
+				<div class="col-12 f-negrita hover-texto-amarillo">Calendarios Académicos</div>
+				<div class="col-12 f-negrita hover-texto-amarillo">Derechos Pecuniarios</div>
+				<div class="col-12 f-negrita hover-texto-amarillo">Ayudas y Becas</div>
+				<div class="col-12 f-negrita hover-texto-amarillo">(Información Pendiente)</div>
+			</div>
+		</div>
+	</div>
+
+
 	<br>
 	<?php include_once('footer-principal.php'); ?>
 	

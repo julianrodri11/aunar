@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <?php /*ENLACES DE LIBRERIAS */ include_once('links-url.php');  ?> 
+  <?php /*ENLACES DE LIBRERIAS */ include_once('links-local.php');  ?> 
 
   <!--TÍTULO DE LA PÁGINA-->
   <title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>  
@@ -194,7 +194,7 @@
             <label class="texto-amarillo f-negrita f-size-18">MAQUINARTE: </label> <label class="texto-azul f-size-14">IX MUESTRA DE PROYECTOS DE INGENIERÍA</label>            
             <div class="text-justify">
             <p class="texto-azul f-myriad">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante evento...</p>
-            <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul">Conoce más</a>          
+            <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul">Conoce más</a>
             </div>
       </div>
     </div>
