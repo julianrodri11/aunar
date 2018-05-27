@@ -51,13 +51,13 @@
 					<div class="col-12 p-2 f-size-18 f-negrita hover-texto-blanco">Docentes</div>
 					<div class="col-12 fondo-gris-os py-2">
 						
-						<div class="col-12 f-size-14 p-2">DOCENTE FACULTADES DE INGENIERÍA MECÁNICA Y ELECTRÓNICA</div>
+						<div class="col-12 f-size-14 p-3">DOCENTE FACULTADES DE INGENIERÍA MECÁNICA Y ELECTRÓNICA</div>
 						<div class="col-12"><a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Resultados</a></div>
 
-						<div class="col-12 f-size-14 p-2">DOCENTE FACULTADES DE INGENIERÍA MECÁNICA Y ELECTRÓNICA</div>
+						<div class="col-12 f-size-14 p-3">DOCENTE FACULTADES DE INGENIERÍA MECÁNICA Y ELECTRÓNICA</div>
 						<div class="col-12"><a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Resultados</a></div>
 						
-						<div class="col-12 f-size-14 p-2">DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES</div>
+						<div class="col-12 f-size-14 p-3">DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES</div>
 						<div class="col-12"><a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Resultados</a></div>
 
 					</div>
@@ -70,13 +70,13 @@
 					<div class="col-12 p-2 f-size-18 f-negrita hover-texto-blanco">Administrativos</div>
 					<div class="col-12 fondo-gris-os py-2">
 						
-						<div class="col-12 f-size-14 p-2">DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES</div>
+						<div class="col-12 f-size-14 p-3">DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES</div>
 						<div class="col-12"><a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Resultados</a></div>
 
-						<div class="col-12 f-size-14 p-2">DOCENTE FACULTADES DE INGENIERÍA MECÁNICA Y ELECTRÓNICA</div>
+						<div class="col-12 f-size-14 p-3">DOCENTE FACULTADES DE INGENIERÍA MECÁNICA Y ELECTRÓNICA</div>
 						<div class="col-12"><a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Resultados</a></div>
 						
-						<div class="col-12 f-size-14 p-2">DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES</div>
+						<div class="col-12 f-size-14 p-3">DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES</div>
 						<div class="col-12"><a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Resultados</a></div>
 
 					</div>
