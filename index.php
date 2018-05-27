@@ -20,7 +20,7 @@
       
         <!-- Modal Header -->
         <div class="modal-header">
-          <h4 class="modal-title">Bienvenidos</h4>
+          <h4 class="modal-title fuente-institucional texto-azul">Bienvenidos</h4>
           <button type="button" class="close" data-dismiss="modal">×</button>
           
         </div>
@@ -30,31 +30,24 @@
 
           <!-- ---------- -->
           <!-- Media middle -->
-               <div class="card-group">
+               <div class="card-group fuente-institucional texto-azul">
                 <div class="card">
                   <img class="card-img-top" src="http://imgholder.ru/600x300/ccc/333.png?text=placeholder" alt="Card image cap">
                   <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <h5 class="card-title f-negrita">Lorem ipsum.</h5>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, eaque aliquam. Voluptate saepe, veniam unde!</p>
+                    <p class="card-text"><small class="text-muted">Lorem ipsum. Last updated 3 mins ago</small></p>
                   </div>
                 </div>
                 <div class="card">
                   <img class="card-img-top" src="http://imgholder.ru/600x300/ccc/333.png?text=placeholder" alt="Card image cap">
                   <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <h5 class="card-title f-negrita">Lorem ipsum.</h5>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat expedita, sint ullam accusantium, magni consequatur.</p>
+                    <p class="card-text"><small class="text-muted">Lorem ipsum. Last updated 3 mins ago</small></p>
                   </div>
                 </div>
-                <div class="card">
-                  <img class="card-img-top" src="http://imgholder.ru/600x300/ccc/333.png?text=placeholder" alt="Card image cap">
-                  <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                  </div>
-                </div>
+                
               </div>
           <!-- ----------- -->
 

@@ -26,7 +26,7 @@
 
 
   <!-- Nav tabs -->
-  <ul class="nav nav-pills justify-content-center p-4" >
+  <ul class="nav nav-pills justify-content-center p-4 flex-column flex-sm-row flex-md-row flex-lg-row text-center" >
     
     <li class="nav-item   border-right borde-azul">
       <a class="nav-link fuente-institucional texto-azul hover-texto-amarillo" data-toggle="pill" href="#institucional">Institucional</a>
