@@ -56,7 +56,7 @@
                   <!-- The slideshow -->
                   <div class="carousel-inner">
                     <div class="carousel-item active">
-                      <img class="img-fluid" src="http://dummyimage.com/400x150/5be332/333.png?text=AUTÓNOMA" alt="Los Angeles" width="1100" height="500">
+                      <img class="img-fluid" src="http://dummyimage.com/400x150/3f73f5/333.png?text=AUTÓNOMA" alt="Los Angeles" width="1100" height="500">
                     </div>
                     <div class="carousel-item">
                       <img class="img-fluid" src="http://imgholder.ru/400x150/6c35e3/333.png?text=placeholder" alt="Chicago" width="1100" height="500">
