@@ -238,7 +238,7 @@
       <div class="text-center p-5  ">
             <label class="texto-amarillo f-negrita f-size-18">MAQUINARTE: </label> <label class="texto-azul f-size-14">IX MUESTRA DE PROYECTOS DE INGENIERÍA</label>            
             <div class="text-justify">
-            <p class="texto-azul f-myriad">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante evento...</p>
+            <p class="texto-azul pt-sans">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante evento...</p>
             <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul">Conoce más</a>
             </div>
       </div>
@@ -252,7 +252,7 @@
       <div class="text-center p-5  ">
             <label class="texto-amarillo f-negrita f-size-18">Michael Villota, </label> <label class="texto-azul f-size-14">el pastuso que representará a Colombia</label>            
             <div class="text-justify">
-            <p class="texto-azul f-myriad">Charlamos con Michael Villota, un joven de 22 años de edad y estudiante del programa de Ingeniería Mecánica de la Corporación Universitaria Autónoma de Nariño. Gracias a su pasión, dedicación y reconocimientos obtenidos en el karate Do, Michael viajará en el mes de julio del presente año a Japón para representar a Colombia en este deporte</p>
+            <p class="texto-azul pt-sans">Charlamos con Michael Villota, un joven de 22 años de edad y estudiante del programa de Ingeniería Mecánica de la Corporación Universitaria Autónoma de Nariño. Gracias a su pasión, dedicación y reconocimientos obtenidos en el karate Do, Michael viajará en el mes de julio del presente año a Japón para representar a Colombia en este deporte</p>
             <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul">Conoce más</a>
             </div>
       </div>
@@ -265,12 +265,12 @@
 
 
 <!-- ----------------OFERTAS DE INTERES ---------------------- -->
-<div class="container-fluid fondo-gris-os p-3 mb-3">
+<div class="container-fluid fondo-gris-os p-4 ">
   <div class="row">
     <div class="col-12 col-lg-8">
       <div class="row texto-azul">
         <div class="col-12 pl-5 pr-5 pb-2 text-center">Recuerda que la Corporación Universitaria Autónoma de Nariño, también cuenta con programas de formación continua para que perfecciones tu perfil profesional.</div>
-        <div class="col-12 text-center text-lg-right"><strong> AUNAR</strong> te ofrece la siguiente oferta educativa: <a class="texto-amarillo-oscuro f-negrita" href="">Cursos, </a><a class="texto-amarillo-oscuro f-negrita" href="">Diplomados, </a><a class="texto-amarillo-oscuro f-negrita" href="">Seminarios</a> </div>
+        <div class="col-12 text-center text-center"><strong> AUNAR</strong> te ofrece la siguiente oferta educativa: <a class="texto-amarillo-oscuro f-negrita" href="">Cursos, </a><a class="texto-amarillo-oscuro f-negrita" href="">Diplomados, </a><a class="texto-amarillo-oscuro f-negrita" href="">Seminarios</a> </div>
       </div>
     </div>
     <div class="col-12 col-lg-4 d-flex align-items-center justify-content-center ">

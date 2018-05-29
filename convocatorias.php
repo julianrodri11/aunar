@@ -18,7 +18,7 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-12">
-				<img class="mx-auto img-fluid" src="img/convocatorias/convocatorias-aunar.png"/>
+				<img class="mx-auto img-fluid" width="100%" src="img/convocatorias/convocatorias-aunar.png"/>
 			</div>
 		</div>
 	</div>
@@ -33,9 +33,9 @@
 		</div>
 		<div class="row m-2 border-bottom borde-azul pb-3">			
 			<div class="col-12 col-lg-12 ">
-				<div class="row  text-center justify-content-center f-negrita  texto-azul  f-size-18">
-					<div class="row col-10 col-lg-6 p-2 m-2 fondo-amarillo hover-texto-blanco">Hoja de vida para docentes</div>
-					<div class="row col-10 col-lg-6 p-2 m-2 fondo-amarillo hover-texto-blanco">Hoja de vida para administrativos</div>
+				<div class="row f-negrita  texto-azul  f-size-18 d-flex justify-content-center">					
+						<div class="col-12 col-lg-6 p-2 m-1 fondo-amarillo text-center hover-texto-blanco">Hoja de vida para docentes</div>
+						<div class="col-12 col-lg-6 p-2 m-1 fondo-amarillo text-center hover-texto-blanco">Hoja de vida para administrativos</div>					
 				</div>				
 			</div>
 		</div>
@@ -44,11 +44,11 @@
 			<div class="col-12 p-3"><h1 class="texto-azul text-center f-negrita">Convocatorias</h1></div>
 		</div>
 		<!-- divs de  docentes y administrativos -->
-		<div class="row m-2 text-center fuente-institucional texto-azul  fondo-gris-c">			
+		<div class="row m-2 text-center fuente-institucional texto-azul  ">			
 			
 			<div class="col-12 col-lg-6 ">
 				<div class="row">
-					<div class="col-12 p-2 f-size-18 f-negrita hover-texto-blanco">Docentes</div>
+					<div class="col-12 p-2 f-size-18 f-negrita fondo-gris-c hover-texto-amarillo hover-transparente ">Docentes</div>
 					<div class="col-12 fondo-gris-os py-2">
 						
 						<div class="col-12 f-size-14 p-3">DOCENTE FACULTADES DE INGENIERÍA MECÁNICA Y ELECTRÓNICA</div>
@@ -67,7 +67,7 @@
 
 			<div class="col-12 col-lg-6 ">
 				<div class="row">
-					<div class="col-12 p-2 f-size-18 f-negrita hover-texto-blanco">Administrativos</div>
+					<div class="col-12 p-2 f-size-18 f-negrita fondo-gris-c hover-texto-amarillo  hover-transparente">Administrativos</div>
 					<div class="col-12 fondo-gris-os py-2">
 						
 						<div class="col-12 f-size-14 p-3">DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES</div>
