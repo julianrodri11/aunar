@@ -14,7 +14,7 @@
 } 
 /*fuente pt-sans*/
 @font-face{   
-   font-family: 'PT Sans', sans-serif;;
+   font-family: 'PT Sans', sans-serif;
    src: url('../fonts/PT_Sans-Web-Regular.ttf');
 
 } 
@@ -22,13 +22,13 @@
 /*fuente myriad pro*/
 .f-myriad
 {
-	font-family: "myriad pro" !important;
+	font-family: "myriad pro" !important ;
 	
 }
 /*fuetne pt-sans*/
 .pt-sans
 {
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'PT Sans', sans-serif !important;
 
 }
 
@@ -361,7 +361,7 @@ font-weight: bold;
 	width: 0px;
     height: 160px;    
     border-left: -50px solid red;
-    border-right: 40px solid #FFD608;
+    border-right: 40px solid #F4D460;
     border-bottom: 20px solid transparent;
 	
 	/*transicion al final de medio segundo*/
@@ -410,6 +410,22 @@ font-weight: bold;
     /*font-size: 16px;*/
 
     /*text-shadow: 1px 1px 1px rgba(255, 255, 255, 1);*/
+}
+
+/*cuadro necesitas ayuda fijo*/
+
+.contenedor-ayuda
+{	
+	/*posicionamiento fijo a la derecha y un poco abajo*/
+	position: fixed;	
+	left: 0;	/*alinear a la deracha*/
+	top:150px;
+	z-index: 1040;
+}
+
+.mostrar
+{
+	display: none;
 }
 
 

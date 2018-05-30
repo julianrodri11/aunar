@@ -1,5 +1,5 @@
 <!-------------------MENÚ PRINCIPAL-------------------------- -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top bg-white texto-azul " id="navbar1" >
+<nav class="navbar navbar-expand-lg navbar-light fixed-top bg-white texto-azul bg-success" id="navbar1" >
   <!--div class=" "><a class="hover-texto-amarillo hover-texto-subrayado mx-auto navbar-brand fuente-institucional texto-azul f-size-18 " data-toggle="tooltip" data-placement="auto" title="Ir al inicio" href="index.php"><i class="fa fa-home"></i></a></div-->
   
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -9,7 +9,7 @@
   <div class="collapse navbar-collapse f-size-12 " id="navbarSupportedContent">
     
     <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0  ">
-      <li class="nav-item active pt-2 pb-2  ">
+      <li class="nav-item pt-2 pb-2  ">
         <a class="hover-texto-amarillo hover-texto-subrayado nav-link texto-azul pl-md-2 pl-sm-2 border-left border-right borde-amarillo" href="inscripciones.php">Admisiones <span class="sr-only">(current)</span></a>
       </li>
 

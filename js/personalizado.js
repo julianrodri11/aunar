@@ -64,5 +64,16 @@
 
     });
 
+     // cuando se pase el mouse en el icono de pregunta se muestra
+    $(document).ready(function () 
+    {
+       $('.ico-ayuda').hover(function () 
+       {            
+            $( ".mostrar" ).toggle('display');            
+            
+       });        
+
+    });
+
 
     

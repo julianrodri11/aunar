@@ -11,84 +11,8 @@
 
 
 
-
 <!-- --------------------MODAL INICIAL----------------------- -->
-<!-- The Modal -->
-  <div class="modal fade" id="myModal">
-    <div class="modal-dialog modal-md modal-dialog-centered">
-      <div class="modal-content">
-      
-        <!-- Modal Header -->
-        <div class="modal-header">
-          <h4 class="modal-title fuente-institucional texto-azul">Bienvenidos</h4>
-          <button type="button" class="close" data-dismiss="modal">×</button>
-          
-        </div>
-        
-        <!-- Modal body -->
-        <div class="modal-body">
-
-          <!-- ---------- -->
-          <!-- Media middle -->
-               <div class="card-group fuente-institucional texto-azul">
-                <div class="card">
-                  <img class="card-img-top" src="http://fpoimg.com/450x150?text=Preview&bg_color=fd8c8c&text_color=ffffff" alt="Card image cap">
-                  <div class="card-body">
-                    <h5 class="card-title f-negrita">Lorem ipsum.</h5>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, eaque aliquam. Voluptate saepe, veniam unde!</p>
-                    <p class="card-text"><small class="text-muted">Lorem ipsum. Last updated 3 mins ago</small></p>
-                  </div>
-                </div>
-               
-              </div>
-
- <!-- --------silider-------- -->
-              
-                <div id="myCarousel" class="carousel slide" data-ride="carousel">
-
-                  <!-- Indicators -->
-                  <ul class="carousel-indicators">
-                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#myCarousel" data-slide-to="1"></li>
-                    <li data-target="#myCarousel" data-slide-to="2"></li>
-                  </ul>
-                  
-                  <!-- The slideshow -->
-                  <div class="carousel-inner">
-                    <div class="carousel-item active">
-                      <img class="img-fluid" src="http://dummyimage.com/400x150/3f73f5/333.png?text=AUTÓNOMA" alt="Los Angeles" width="1100" height="500">
-                    </div>
-                    <div class="carousel-item">
-                      <img class="img-fluid" src="http://imgholder.ru/400x150/6c35e3/333.png?text=placeholder" alt="Chicago" width="1100" height="500">
-                    </div>
-                    <div class="carousel-item">
-                      <img class="img-fluid" src="http://fpoimg.com/400x150?text=Preview&bg_color=fdb08c" alt="New York" width="1100" height="500">
-                    </div>
-                  </div>
-                  
-                  <!-- Left and right controls -->
-                  <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
-                    <span class="carousel-control-prev-icon"></span>
-                  </a>
-                  <a class="carousel-control-next" href="#myCarousel" data-slide="next">
-                    <span class="carousel-control-next-icon"></span>
-                  </a>
-                </div>
-              <!-- ----------------------- -->
-
-          <!-- ----------- -->
-
-        </div>
-        
-        <!-- Modal footer -->
-        <div class="modal-footer">
-          <button type="button" class="btn btn-warning">Ver más</button>
-          <button type="button" class="btn fondo-azul-oscuro text-white" data-dismiss="modal">Cerrar</button>
-        </div>
-        
-      </div>
-    </div>
-  </div>
+<?php include_once('modal/modal-inicial-1.php');?>
 <!-- -------------------FIN MODAL INICIAL-------------------- -->
 
 <!-- ------------------MODAL TRADUCTOR----------------------- -->
@@ -99,85 +23,33 @@
 <?php include_once('menu1.php');?>
 <!-------------------FIN MENÚ PRINCIPAL----------------------- -->
 
-
 <!----------------------- LOGO CENTRAL ----------------------- -->       
 <?php include_once('logo-central.php');?>
 <!-- -----------------------FIN LOGO CENTRAL------------------ -->
 
-
-<!-- ------------------FIGURA ZOOM------------------------- -->
+<!-- ------------------FIGURA ZOOM---------------------------- -->
 <?php include_once('zoom.php');?>
-<!-- ------------------FIN ZOOM--------------------- -->
-
+<!-- ------------------FIN ZOOM------------------------------- -->
 
 <!-- ------------------REDES SOCIALES------------------------- -->
 <?php include_once('redes-sociales-aunar.php');?>
 <!-- ------------------FIN REDES SOCIALES--------------------- -->
 
-
-
 <!-- -----------------SLIDER---------------------------------- -->
-
-
-<div id="carouselExampleIndicators" class="carousel slide mt-lg-5 mt-md-4 mt-sm-4 mt-5 pt-2 " data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <a href="inscripciones.php"> <img data-toggle="tooltip" data-placement="auto" title="Ver más sobre la oferta académica" class="d-block w-100" src="img/slider1.jpg" alt="First slide"></a>
-      <div class="carousel-caption">
-        <h3></h3>
-        <p></p>
-      </div> 
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="img/slider2.jpg" alt="Second slide">
-      <div class="carousel-caption">
-        <h3>Lorem Fuga, nesciunt </h3>
-        <p>voluptatibus consectetur, consequuntur nemo necessitatibus.</p>
-      </div> 
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="img/slider3.jpg" alt="Second slide">
-      <div class="carousel-caption">
-        <h3>Lorem ipsum.</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-      </div> 
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="img/slider2.jpg" alt="Third slide">
-      <div class="carousel-caption">
-        <h3>Lorem.</h3>
-        <p>Lorem ipsum dolor sit.</p>
-      </div> 
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon " aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon " aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-
+<?php include_once('slider/slider-1.php');?>
 <!-- -----------------FIN SLIDER------------------------------ -->
-
-
-
 
 <!-- ----------------MENÚ INSTITUCIONAL----------------------- -->  
  <?php include_once('menu2.php');?>
 <!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
 
+<!-- ----------------MENÚ INSTITUCIONAL----------------------- -->  
+ <?php include_once('ayuda.php');?>
+<!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
+
 
 <!-- ------------------------DOCUMENTOS----------------------- -->
+
 <div class="container-fluid fondo-gris-c">
   <div class="row pt-5 pb-5 ">
     <div class="col-lg-3 col-md-3 col-sm-12">
@@ -200,67 +72,13 @@
     </div>
   </div>
 </div>
+
 <!-- --------------------FIN DOCUMENTOS----------------------- -->
 
 
 
 <!-- ----------------SECCIÓN NOTICIAS------------------------- -->
-
-<!-- -- título notiicas ------------ -->
-<div class="container-fluid">
-  <div class="row"> 
-    <div class="col-lg-2 col-sm-12 col-md-4 pt-sm-4  d-flex align-items-center justify-content-center">
-      <div class="row ">
-        <div class="col-12 ">
-          <div class="row ">            
-              <div class=" col-4 fondo-amarillo sombra-iconos icono-blanco text-center "><i class="fa fa-envelope" ></i></div>
-              <div class=" col-8 fondo-azul text-white">Necesitas ayuda? Contáctanos</div>
-          </div>
-        </div>        
-      </div>
-    </div>
-    <div class="col-lg-8 col-sm-12 col-md-6  text-center border-bottom borde-azul">
-      <div class="row">          
-          <div class="col-12 pt-1 pl-1 mt-sm-5  text-center  "><h2 class=" mt-0 fuente-institucional texto-azul f-negrita">Noticias</h2></div>          
-          <div class="col-12 pb-2 texto-azul">¡Conoce las principales acciones y logros de nuestra comunidad!</div>
-      </div>
-    </div>    
-  </div>
-</div>
-<!-- -- Fin título notiicas -------- -->
-
-<!-- inicio de noticias -->
-<div class="container-fluid">
-  <div class="row d-flex align-items-stretch ">
-    
-    <!-- noticia 1 -->
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 d-flex align-items-center">
-      <div class="text-center p-5  ">
-            <label class="texto-amarillo f-negrita f-size-18">MAQUINARTE: </label> <label class="texto-azul f-size-14">IX MUESTRA DE PROYECTOS DE INGENIERÍA</label>            
-            <div class="text-justify">
-            <p class="texto-azul pt-sans">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante evento...</p>
-            <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul">Conoce más</a>
-            </div>
-      </div>
-    </div>
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 p-5 text-center"><img class="img-fluid " src="img/noticia1.png" alt="Noticias Aunar"></div>
-
-
-    <!-- noticia 2 -->
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 p-5 text-center"><img class="img-fluid " src="img/noticia2.png" alt="Noticias Aunar"></div>
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 d-flex align-items-center">
-      <div class="text-center p-5  ">
-            <label class="texto-amarillo f-negrita f-size-18">Michael Villota, </label> <label class="texto-azul f-size-14">el pastuso que representará a Colombia</label>            
-            <div class="text-justify">
-            <p class="texto-azul pt-sans">Charlamos con Michael Villota, un joven de 22 años de edad y estudiante del programa de Ingeniería Mecánica de la Corporación Universitaria Autónoma de Nariño. Gracias a su pasión, dedicación y reconocimientos obtenidos en el karate Do, Michael viajará en el mes de julio del presente año a Japón para representar a Colombia en este deporte</p>
-            <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul">Conoce más</a>
-            </div>
-      </div>
-    </div>    
-  </div>  
-</div>
-
-
+<?php include_once('noticias/noticia-1.php');?>
 <!-- ----------------FIN SECCIÓN NOTICIAS--------------------- -->
 
 
