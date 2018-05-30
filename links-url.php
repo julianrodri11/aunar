@@ -14,6 +14,7 @@
   <!-- Latest compiled JavaScript -->
   <!-- ESTILOS PERSONALES -->
   <link rel="stylesheet" type="text/css" href="css/personalizado.css">
+  <link rel="stylesheet" type="text/css" href="css/hover.css">
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="js/personalizado.js"></script>
 	

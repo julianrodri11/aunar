@@ -446,3 +446,11 @@ font-weight: bold;
 	background-color: #F0EFEF !important;
 }
 
+
+/*color de la raya cuando se coloca el mouse sobre el menú 1*/
+.hvr-underline-from-center:before, .hvr-overline-from-center:before
+{
+	/*background: #F4D460 !important;*/
+	/*background: #FFD608 !important;*/
+	background: #FFD608 !important;
+}
