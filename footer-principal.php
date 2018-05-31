@@ -75,10 +75,12 @@
     </div>
     <div class="col-lg-6 col-sm-12 mt-3 text-light text-lg-left text-center small fuente-institucional">
       <div class="">
-        <div>Corporación Universitaria Autónoma de Nariño </div>
-        <div>Carrera 28 No. 19-24 </div>
-        <div>Tel. 729 05 08 - 723 24 52 - 722 60 20</div>
-        <div>Pasto(Nariño) Colombia</div>
+        <div><a href="#" class="hvr-icon-pulse">
+          <i class="fa fa-map-marker text-white" ></i>
+        </a> Corporación Universitaria Autónoma de Nariño </div>
+        <div>&nbsp;&nbsp;&nbsp;Carrera 28 No. 19-24 </div>
+        <div>&nbsp;&nbsp;&nbsp;Tel. 729 05 08 - 723 24 52 - 722 60 20</div>
+        <div>&nbsp;&nbsp;&nbsp;Pasto(Nariño) Colombia</div>
       </div>
     </div>
     <div class="col-lg-12 mt-3 text-center text-light fuente-institucional small">
