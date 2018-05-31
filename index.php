@@ -43,8 +43,8 @@
  <?php include_once('menu2.php');?>
 <!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
 
-<!-- ----------------MENÚ INSTITUCIONAL----------------------- -->  
- <?php include_once('ayuda.php');?>
+<!-- ----------------MENÚ INSTITUCIONAL----------------------- -->   
+ <?php include_once('modal/modal-contactenos.php');?>
 <!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
 
 

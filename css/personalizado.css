@@ -419,15 +419,9 @@ font-weight: bold;
 	/*posicionamiento fijo a la derecha y un poco abajo*/
 	position: fixed;	
 	left: 0;	/*alinear a la deracha*/
-	top:150px;
+	top: 200px;	
 	z-index: 1040;
 }
-
-.mostrar
-{
-	display: none;
-}
-
 
 
 
