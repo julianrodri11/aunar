@@ -1,6 +1,7 @@
 	
 <!-- ----------------PIE DE PÁGINA---------------------------- -->
-	<footer class="fondo-azul">
+	
+  <footer class="cinta">
     
 		<div class="container-fluid pt-4">
       <div class="container py-1">
@@ -62,7 +63,7 @@
 
 
 <!-- -------------------FOOTER CONTACTOS---------------------- -->
-<div class="container-fluid fondo-azul-oscuro">
+<div class="container-fluid ">
   <div class="row p-3">  
 
     <div class="col-lg-6 col-sm-12 mt-3  text-light d-flex justify-content-center d-flex justify-content-lg-end ">      

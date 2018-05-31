@@ -7,7 +7,7 @@
     <div class="contenedor-ayuda ">
       <div class="ico-ayuda  ">       
         <div class="sombra-iconos p-1 icono-blanco  " data-toggle="modal"   data-target="#myModalContactenos">
-          <i class="fa fa-question-circle"></i>
+          <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="right" title="¿Necesitas ayuda?, haz click"></i>
         </div>
       </div>
     </div>
@@ -24,41 +24,51 @@
       <div class="modal-content">
       
         <!-- Modal Header -->
-        <div class="modal-header">        
-          <button type="button" class="close" data-dismiss="modal">×</button>          
-        </div>
+        
+          
+        
         
         <!-- Modal body -->
-        <div class="modal-body">
+        <div class="modal-body fondo-gris-c">
+          <button type="button" class="close bg-warning text-white" data-dismiss="modal" data-toggle="tooltip" data-placement="left" title="Cerrar">X</button>
 
           <!-- ---------- -->
-          <div class="container-fluid fondo-gris-c">
+          <div class="container-fluid bg-white">
             <div class="row">
+              
               <div class="col-12 p-2 m-1 ">
                 <div class="row">
+
                   <div class="col-12 col-lg-4 p-3 text-center"><img class="img-fluid rounded-circle " src="img/aunar.jpg"></div>
-                  <div class="col-12 col-lg-7 p-3 text-justify fuente-institucional texto-azul">Si deseas hacer parte de nuestra institución, enviarnos un comentario o conocernos más, escríbenos:</div>
+                  <div class="col-12 col-lg-7 p-3 text-justify pt-sans texto-azul">Si deseas hacer parte de nuestra institución, enviarnos un comentario o conocernos más, escríbenos:</div>
                 </div>
               </div>
               
                 <div class="col-12 p-2 m-1 ">
-                  <form action="#">
-                    <input type="text" class="form-control fuente-institucional" id="nombre" placeholder="Escribe tu nombre aquí">
+                  
+                    <input type="text" class="form-control pt-sans" id="nombre" placeholder="Escribe tu nombre aquí">
                 </div>
                 <div class="col-12 p-2 m-1 ">
-                    <input type="email" class="form-control fuente-institucional" id="correo" placeholder="Escribe tu correo aquí">
+                    <input type="email" class="form-control pt-sans" id="correo" placeholder="Escribe tu correo aquí">
                 </div>
                 <div class="col-12 p-2 m-1 ">
-                    <input type="number" class="form-control fuente-institucional" id="celular" placeholder="Escribe tu teléfono aquí">
+                    <input type="number" class="form-control pt-sans" id="celular" placeholder="Escribe tu teléfono aquí">
                 </div>
                 <div class="col-12 p-2 m-1 ">
-                  <textarea class="form-control fuente-institucional" rows="5" id="comment" placeholder="Escríbenos tu mensaje"></textarea></div>
+                  <textarea class="form-control pt-sans" rows="4" id="comment" placeholder="Escríbenos tu mensaje"></textarea></div>
                 <div class="col-12 p-2 m-1 ">
-                  <button type="button" class="btn fondo-amarillo btn-block text-white fuente-institucional f-negrita">ENVIAR</button>
-                </form>
-              </div>
+                  <button type="button" class="btn fondo-amarillo btn-block text-white pt-sans f-negrita">ENVIAR</button>
+                
+                </div>
               
             </div>
+          </div>
+
+          <div class="container-fluid bg-white mt-3 p-1 bg-danger text-center pt-sans texto-azul">
+            <p>Información de Contacto<br><label class="f-negrita">mercadeo@aunar.edu.co</label></p>
+            <hr width="50%" bgcolor="red">
+            <p>Horario de Atención<br>Lunes a Viernes:<br>8:00 am  a  12:00 pm <br>2:00 am  a   6:00  pm </p>
+            
           </div>
 
  

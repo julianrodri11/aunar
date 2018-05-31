@@ -49,6 +49,12 @@
 {
 font-weight: bold;
 }
+/*fuente regular*/
+.f-regular
+{
+	font-weight: regular;
+}
+
 /*fuente color amarillo institucional*/
 .texto-amarillo
 {
@@ -447,4 +453,11 @@ font-weight: bold;
 	/*background: #F4D460 !important;*/
 	/*background: #FFD608 !important;*/
 	background: #FFD608 !important;
+}
+/*imagen de 1px para el fondo del footer de la página pricnipal*/
+.cinta
+{		
+	background-image: url("../img/1px.png");	
+	background-repeat: repeat-x;	
+	background-size: contain;
 }
