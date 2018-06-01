@@ -142,11 +142,7 @@
 		</div>		
 		<div class="container">
 			<div class=" fuente-institucional texto-azul ">				
-				<div class="col-12 text-center pt-sans texto-azul m-3">Todo aspirante de programa virtual debe realizar su prescripción por medio de esta página y enviar al correo mercadeo@aunar.edu.co los requisitos solicitados para legalizar su inscripción o hacerlos llegar por medio físico a la sede principal de San Juan de Pasto - Carrera 28 No. 19-24</div>
-				<div class="col-12 f-negrita hover-texto-amarillo">Calendarios Académicos</div>
-				<div class="col-12 f-negrita hover-texto-amarillo">Derechos Pecuniarios</div>
-				<div class="col-12 f-negrita hover-texto-amarillo">Ayudas y Becas</div>
-				<div class="col-12 f-negrita hover-texto-amarillo">(Información Pendiente)</div>
+				<div class="col-12 text-center pt-sans texto-azul m-3">Todo aspirante de programa virtual debe realizar su prescripción por medio de esta página y enviar al correo mercadeo@aunar.edu.co los requisitos solicitados para legalizar su inscripción o hacerlos llegar por medio físico a la sede principal de San Juan de Pasto - Carrera 28 No. 19-24</div>				
 			</div>
 		</div>
 	</div>

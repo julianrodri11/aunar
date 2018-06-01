@@ -23,6 +23,10 @@
     <li class="nav-item   border-right borde-azul">
       <a class="nav-link fuente-institucional texto-azul hover-texto-amarillo" data-toggle="pill" href="#bienestar-universitario">Bienestar universitario</a>
     </li>
+
+    <li class="nav-item   border-right borde-azul">
+      <a class="nav-link fuente-institucional texto-azul hover-texto-amarillo" data-toggle="pill" href="#talento-humano">Talento Humano</a>
+    </li>
     
     <li class="nav-item   border-right borde-azul">
       <a class="nav-link fuente-institucional texto-azul hover-texto-amarillo" data-toggle="pill" href="#poryeccion-institucional">Proyección Institucional</a>

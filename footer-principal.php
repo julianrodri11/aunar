@@ -69,14 +69,14 @@
     <div class="col-lg-6 col-sm-12 mt-3  text-light d-flex justify-content-center d-flex justify-content-lg-end ">      
         
         <div class="col-12 col-md-6 col-sm-6">
-          <img class="img-fluid" src="img/aunar-logo.svg" alt="Logo AUNAR Autónoma de Nariño">
+          <img class="img-fluid" src="img/aunar-logo-antiguo.svg" alt="Logo AUNAR Autónoma de Nariño">
         </div>
       
     </div>
     <div class="col-lg-6 col-sm-12 mt-3 text-light text-lg-left text-center small fuente-institucional">
       <div class="">
         <div><a href="#" class="hvr-icon-pulse">
-          <i class="fa fa-map-marker text-white" ></i>
+          <i class="fa fa-map-marker texto-amarillo f-size-14" ></i>
         </a> Corporación Universitaria Autónoma de Nariño </div>
         <div>&nbsp;&nbsp;&nbsp;Carrera 28 No. 19-24 </div>
         <div>&nbsp;&nbsp;&nbsp;Tel. 729 05 08 - 723 24 52 - 722 60 20</div>

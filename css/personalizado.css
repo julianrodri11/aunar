@@ -465,3 +465,10 @@ font-weight: bold;
 	background-repeat: repeat-x;	
 	background-size: contain;
 }
+
+.fondo-mundo
+{
+	background-image: url("../img/donde-quieres-estudiar-aunar.png");
+	background-size: cover;/*necesario para que se mire en todas las pantallas*/
+
+}

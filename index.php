@@ -74,10 +74,61 @@
 </div>
 
 <!-- --------------------FIN DOCUMENTOS----------------------- -->
+
 <!-- ----------------DONDE QUIERES ESTUDIAR------------------- -->
 <div class="container-fluid">
-  <div class="row">
-    <img class="img-fluid position-relative" width="100%" src="img/donde-quieres-estudiar-aunar.png">
+  <div class="row fondo-mundo">
+     <div class="row col-12">
+      <div class="row col-12 col-lg-6 col-xl-6 p-2  d-flex align-content-center justify-content-center">
+        <div class="col-11 col-lg-10 fondo-amarillo mt-2">
+          <h1 class="f-negrita fuente-institucional text-center">¿Donde quieres estudiar?</h1>
+        </div>
+        <div class="col-12 col-lg-10 text-center text-light fuente-institucional p-3">
+          <strong>AUNAR</strong> te permite elegir tu programa de interés para que estudies en cualquier sede del país
+        </div>
+      </div>
+      <div class="col-12 col-lg-6 col-xl-6 p-2 ">
+        <div class="row  d-flex justify-content-end mr-lg-2">          
+          <div class="row col-12 col-lg-10 p-2 m-1">
+            
+            <form class="col-12">
+  
+              <div class="form-group pt-sans">                
+                <select class="form-control" id="exampleSelect1">
+                  <option>Seleccione Programa</option>
+                  <option>2</option>
+                  <option>3</option>
+                  <option>4</option>
+                  <option>5</option>
+                </select>
+              </div>
+              <div class="form-group pt-sans">                
+                <select class="form-control" id="exampleSelect1">
+                  <option>Seleccione Sede</option>
+                  <option>2</option>
+                  <option>3</option>
+                  <option>4</option>
+                  <option>5</option>
+                </select>
+              </div>
+              <div class="form-group pt-sans">                
+                <select class="form-control" id="exampleSelect1">
+                  <option>Seleccione Modalidad</option>
+                  <option>2</option>
+                  <option>3</option>
+                  <option>4</option>
+                  <option>5</option>
+                </select>
+              </div>
+             
+              <button type="submit" class="btn btn-primary fondo-amarillo float-right f-negrita pt-sans">Enviar</button>
+            </form>
+
+          </div>
+          
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 

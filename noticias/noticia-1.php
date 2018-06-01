@@ -2,7 +2,7 @@
 <!-- ----------------SECCIÓN NOTICIAS------------------------- -->
 
 <!-- -- título notiicas ------------ -->
-<div class="container-fluid">
+<div class="container-fluid mt-3">
   <div class="row"> 
     <div class="col-lg-2 col-sm-12 col-md-4 pt-sm-4  d-flex align-items-center justify-content-center">
       <div class="row ">
