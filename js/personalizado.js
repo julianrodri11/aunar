@@ -21,13 +21,13 @@
       });
 
     //funcion cuando el mouse pase sobre el menu, se despliegue
-     $(document).ready(function () 
-    {
-       $('.dropdown-toggle').mouseenter(function () 
-       {
-          $(this).dropdown("toggle");
-       });
-    });
+    //  $(document).ready(function () 
+    // {
+    //    $('.dropdown-toggle').mouseenter(function () 
+    //    {
+    //       $(this).dropdown("toggle");
+    //    });
+    // });
 
 
      // para el modal de inicio

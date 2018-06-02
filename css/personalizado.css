@@ -472,3 +472,18 @@ font-weight: bold;
 	background-size: cover;/*necesario para que se mire en todas las pantallas*/
 
 }
+
+
+/*---------------------------*/
+
+.dropdown:hover>.dropdown-menu
+{
+	display: block;
+}
+
+.bbb
+{
+	
+	
+	
+}
