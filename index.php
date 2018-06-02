@@ -89,7 +89,7 @@
       </div>
       <div class="col-12 col-lg-6 col-xl-6 p-2 ">
         <div class="row  d-flex justify-content-end mr-lg-2">          
-          <div class="row col-12 col-lg-10 p-2 m-1">
+          <div class="row col-12 col-lg-8 p-2 m-1">
             
             <form class="col-12">
   

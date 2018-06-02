@@ -11,7 +11,7 @@
                 <img class="img-fluid " src="img/iconos/periodico.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0">Periódico Estudiantil</p> 
+            <p class="pt-2 mb-0 f-size-16">Periódico Estudiantil</p> 
     </div>
 
 
@@ -21,7 +21,7 @@
                 <img class="img-fluid " src="img/iconos/album.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0">Albúm Fotográfico</p> 
+            <p class="pt-2 mb-0 f-size-16">Albúm Fotográfico</p> 
     </div>
 
 
@@ -31,7 +31,7 @@
                 <img class="img-fluid " src="img/iconos/v-institucional.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0">Video Institucional</p> 
+            <p class="pt-2 mb-0 f-size-16">Video Institucional</p> 
     </div>
 
 
@@ -41,7 +41,7 @@
                 <img class="img-fluid " src="img/iconos/astereo.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0">Aunar Stereo</p> 
+            <p class="pt-2 mb-0 f-size-16">Aunar Stereo</p> 
     </div>
 
 
@@ -51,7 +51,7 @@
                 <img class="img-fluid " src="img/iconos/aunartv.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0">Aunar TV</p> 
+            <p class="pt-2 mb-0 f-size-16">Aunar TV</p> 
     </div>
 
 
@@ -61,7 +61,7 @@
                 <img class="img-fluid " src="img/iconos/campus-virtual.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0">Campus Virtual</p> 
+            <p class="pt-2 mb-0 f-size-16">Campus Virtual</p> 
     </div>
 
 
@@ -71,7 +71,7 @@
                 <img class="img-fluid " src="img/iconos/atech.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0">Aunar Tech</p> 
+            <p class="pt-2 mb-0 f-size-16">Aunar Tech</p> 
     </div>
 
 
@@ -81,7 +81,7 @@
                 <img class="img-fluid " src="img/iconos/campus-presencial.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0">Campus Presencial</p> 
+            <p class="pt-2 mb-0 f-size-16">Campus Presencial</p> 
     </div>
 
 
@@ -91,7 +91,7 @@
                 <img class="img-fluid " src="img/iconos/bdocentes.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0">Bisel Docentes</p>
+            <p class="pt-2 mb-0 f-size-16">Bisel Docentes</p>
     </div>
 
 
@@ -101,7 +101,7 @@
                 <img class="img-fluid " src="img/iconos/bestudiantes.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0">Bisel Estudiantes</p> 
+            <p class="pt-2 mb-0 f-size-16">Bisel Estudiantes</p> 
     </div>
 
 
@@ -111,7 +111,7 @@
                 <img class="img-fluid " src="img/iconos/publicaciones.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0">Publicaciones</p> </div> 
+            <p class="pt-2 mb-0 f-size-16">Publicaciones</p> </div> 
 
 
 
@@ -121,7 +121,7 @@
                 <img class="img-fluid " src="img/iconos/biblioteca.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0">Biblíoteca</p> </div> 
+            <p class="pt-2 mb-0 f-size-16">Biblíoteca</p> </div> 
 
 
 
