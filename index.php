@@ -40,7 +40,7 @@
 <!-- -----------------FIN SLIDER------------------------------ -->
 
 <!-- ----------------MENÚ INSTITUCIONAL----------------------- -->  
- <?php include_once('menu2.php');?>
+ <?php include_once('menu2.php');?> 
 <!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
 
 <!-- ----------------MENÚ INSTITUCIONAL----------------------- -->   
