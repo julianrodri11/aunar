@@ -159,12 +159,20 @@
       
     </div>
   </li>
-  <li class="nav-item  border-right borde-azul">
-    <a class=" nav-link hvr-curl-top-right " >Talento Humano</a>
-  </li>
+  
   <li class="nav-item dropdown  border-right borde-azul">
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="proyeccion-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Proyección Institucional</a>
+    <div class="dropdown-menu f-size-12" aria-labelledby="proyeccion-institucional">
+      <a class=" dropdown-item  ">Proyección Institucional Aunar</a>
+      <a class=" dropdown-item  ">Internacionalización</a>
+      <a class=" dropdown-item  ">Proyección Social</a>
+      
+    </div>
+  </li>
+  <li class="nav-item dropdown  border-right borde-azul">
+    <!--a class="nav-link active    " >Extensiones</a-->
+    <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="proyeccion-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Talento Humano</a>
     <div class="dropdown-menu f-size-12" aria-labelledby="proyeccion-institucional">
       <a class=" dropdown-item  ">Información Oficina Talento Humano</a>
       <a class=" dropdown-item  ">circulares, permisos y licencias</a>
@@ -177,9 +185,6 @@
       
     </div>
   </li>
-  <li class="nav-item border-right borde-azul">
-    <a class=" nav-link hvr-curl-top-right ">Aunar Virtual</a>
-  </li>
   <li class="nav-item dropdown  border-right borde-azul">
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="proyeccion-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">CIAN</a>
@@ -187,6 +192,9 @@
       <a class=" dropdown-item  ">Dpto de Inglés</a>      
       
     </div>
+  </li>
+  <li class="nav-item border-right borde-azul">
+    <a class=" nav-link hvr-curl-top-right ">Aunar Virtual</a>
   </li>
 
 </ul>
