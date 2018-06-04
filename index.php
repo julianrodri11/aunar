@@ -68,7 +68,7 @@
         </div>
     </div>
     <div class="col-lg-2 col-md-3 col-sm-12 border-left borde-azul">
-        <div class="pt-1 pl-1 mt-sm-5  text-center  "><h3 class=" mt-0 fuente-institucional texto-azul f-negrita">Plan de Inversión</h3></div>
+        <div class="pt-1 pl-1 mt-sm-5  text-center  "><h3 class=" mt-0 fuente-institucional texto-azul f-negrita hvr-underline-from-center hvr-buzz-out">Plan de Inversión</h3></div>
     </div>
   </div>
 </div>
@@ -168,7 +168,7 @@
 
 
 <!-- -----------------EVENTOS--------------------------------- -->
-<div class="container-fluid">
+<div class="container-fluid fondo-amarillo">
   <div class="row">
     <div class="col-lg-2 p-2 d-flex align-items-center justify-content-center justify-content-sm-center justify-content-md-center">
         

@@ -10,39 +10,39 @@
 <ul class="nav d-flex justify-content-center  ">
   <li class="nav-item  dropdown border-right borde-azul">
     <a class=" nav-link dropdown-toggle fuente-institucional hvr-curl-top-right "  id="institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Institucional <span class="sr-only">(current)</span></a>
-    <div class="dropdown-menu f-size-12" aria-labelledby="institucional">
-      <a class=" dropdown-item ">Misión</a>
-      <a class=" dropdown-item ">Visión</a>
-      <a class=" dropdown-item ">Reglamentos</a>  
-      <a class=" dropdown-item ">Resoluciones</a>  
-      <a class=" dropdown-item ">Organigrama</a>  
-      <a class=" dropdown-item ">Simbolos de la institución</a>  
-      <a class=" dropdown-item ">Directorio</a>  
-      <a class=" dropdown-item ">Rectoria</a>  
-      <a class=" dropdown-item ">Vicerrectoras</a>  
-      <a class=" dropdown-item ">Planeación</a>  
+    <div class="dropdown-menu fuente-institucional texto-azul " aria-labelledby="institucional">
+      <a class=" dropdown-item hvr-underline-from-left">Misión</a>
+      <a class=" dropdown-item hvr-underline-from-left">Visión</a>
+      <a class=" dropdown-item hvr-underline-from-left">Reglamentos</a>  
+      <a class=" dropdown-item hvr-underline-from-left">Resoluciones</a>  
+      <a class=" dropdown-item hvr-underline-from-left">Organigrama</a>  
+      <a class=" dropdown-item hvr-underline-from-left">Simbolos de la institución</a>  
+      <a class=" dropdown-item hvr-underline-from-left">Directorio</a>  
+      <a class=" dropdown-item hvr-underline-from-left">Rectoria</a>  
+      <a class=" dropdown-item hvr-underline-from-left">Vicerrectoras</a>  
+      <a class=" dropdown-item hvr-underline-from-left">Planeación</a>  
 
     </div>
     
   </li>
   <li class="nav-item dropdown border-right borde-azul ">
     <a class=" nav-link dropdown-toggle hvr-curl-top-right "  id="oferta-academica" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Oferta Académica</a>
-<div class="dropdown-menu f-size-12" aria-labelledby="oferta-academica">     
+<div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="oferta-academica">     
       
       <ul class="navbar-nav"> <!-- navbar-nav -->
         <li class="col-12 nav-item dropdown dropright ">
-          <a class="nav-link dropdown-toggle" href="" id="facultades" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Facultades </a>
-          <div class="dropdown-menu  f-size-12" aria-labelledby="facultades">
-            <!-- <a class=" dropdown-item ">Lorem ipsum.</a> -->
+          <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="facultades" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Facultades </a>
+          <div class="dropdown-menu  " aria-labelledby="facultades">
+            <!-- <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a> -->
             
             <!-- }}}}}}}}}}}}}} -->
             <ul class="navbar-nav"> 
               <li class="col-12 nav-item dropdown dropright ">
-                <a class="nav-link dropdown-toggle" href="" id="ingenieria" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ingeniería </a>
-                <div class="dropdown-menu  f-size-12" aria-labelledby="ingenieria">
-                  <a class=" dropdown-item ">Ingenieria electrónica</a>
-                  <a class=" dropdown-item ">Ingenieria Mecánica</a>
-                  <a class=" dropdown-item ">Ingenieria Informática</a>                  
+                <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ingenieria" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ingeniería </a>
+                <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="ingenieria">
+                  <a class=" dropdown-item hvr-underline-from-left">Ingenieria electrónica</a>
+                  <a class=" dropdown-item hvr-underline-from-left">Ingenieria Mecánica</a>
+                  <a class=" dropdown-item hvr-underline-from-left">Ingenieria Informática</a>                  
                 </div>
               </li>
             </ul>
@@ -50,10 +50,10 @@
             <!-- }}}}}}}}}}}}}} -->
             <ul class="navbar-nav"> 
               <li class="col-12 nav-item dropdown dropright ">
-                <a class="nav-link dropdown-toggle" href="" id="ciencias-admon-conta" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ciencias Adm. y Contables</a>
-                <div class="dropdown-menu  f-size-12" aria-labelledby="ciencias-admon-conta">
-                  <a class=" dropdown-item ">Administración de Empresas</a>
-                  <a class=" dropdown-item ">Contaduria Publica </a>
+                <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ciencias-admon-conta" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ciencias Adm. y Contables</a>
+                <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="ciencias-admon-conta">
+                  <a class=" dropdown-item hvr-underline-from-left">Administración de Empresas</a>
+                  <a class=" dropdown-item hvr-underline-from-left">Contaduria Publica </a>
                 </div>
               </li>
             </ul>
@@ -62,10 +62,10 @@
             <!-- }}}}}}}}}}}}}} -->
             <ul class="navbar-nav"> 
               <li class="col-12 nav-item dropdown dropright ">
-                <a class="nav-link dropdown-toggle" href="" id="ciencias-admon-conta" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Bellas artes:</a>
-                <div class="dropdown-menu  f-size-12" aria-labelledby="ciencias-admon-conta">
-                  <a class=" dropdown-item ">Tecnología en Diseño de Modas (No ofertado)</a>
-                  <a class=" dropdown-item ">Técnico laboral por competencias en Diseño de Modas y Confección</a>
+                <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="bellas-artes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Bellas artes</a>
+                <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="bellas-artes">
+                  <a class=" dropdown-item hvr-underline-from-left">Tecnología en Diseño de Modas (No ofertado)</a>
+                  <a class=" dropdown-item hvr-underline-from-left">Técnico laboral por competencias en Diseño de Modas y Confección</a>
                 </div>
               </li>
             </ul>
@@ -73,9 +73,9 @@
              <!-- }}}}}}}}}}}}}} -->
             <ul class="navbar-nav"> 
               <li class="col-12 nav-item dropdown dropright ">
-                <a class="nav-link dropdown-toggle" href="" id="ciencias-admon-conta" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ciencias de la Salud:</a>
-                <div class="dropdown-menu  f-size-12" aria-labelledby="ciencias-admon-conta">
-                  <a class=" dropdown-item ">Tecnologia en Mecanica Dental No ofertado</a>                  
+                <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ciencias-salud" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ciencias de la Salud:</a>
+                <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="ciencias-salud">
+                  <a class=" dropdown-item hvr-underline-from-left">Tecnologia en Mecanica Dental No ofertado</a>                  
                 </div>
               </li>
             </ul>
@@ -90,10 +90,10 @@
       
       <ul class="navbar-nav"> <!-- navbar-nav -->
         <li class="col-12 nav-item dropdown dropright ">
-          <a class="nav-link dropdown-toggle" href="" id="programas-virtuales" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Programas Virtuales </a>
-          <div class="dropdown-menu  f-size-12" aria-labelledby="programas-virtuales">
-            <a class=" dropdown-item ">Tecnologia en Mercadeo Agropecuario</a>
-            <a class=" dropdown-item ">Tecnologia en Transformacion de Plantas Aromáticas</a>
+          <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="programas-virtuales" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Programas Virtuales </a>
+          <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="programas-virtuales">
+            <a class=" dropdown-item hvr-underline-from-left">Tecnologia en Mercadeo Agropecuario</a>
+            <a class=" dropdown-item hvr-underline-from-left">Tecnologia en Transformacion de Plantas Aromáticas</a>
 
             
           </div>
@@ -102,18 +102,18 @@
 
       <ul class="navbar-nav"> <!-- navbar-nav -->
         <li class="col-12 nav-item dropdown dropright ">
-          <a class="nav-link dropdown-toggle" href="" id="ayudas-becas" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ayudas y Becas </a>
-          <div class="dropdown-menu  f-size-12" aria-labelledby="ayudas-becas">
-            <a class=" dropdown-item ">Lorem ipsum.</a>
+          <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ayudas-becas" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ayudas y Becas </a>
+          <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="ayudas-becas">
+            <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum</a>
 
              <!-- }}}}}}}}}}}}}} -->
             <ul class="navbar-nav"> 
               <li class="col-12 nav-item dropdown dropright ">
-                <a class="nav-link dropdown-toggle" href="" id="ingenieria" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Lorem ipsum. </a>
-                <div class="dropdown-menu  f-size-12" aria-labelledby="ingenieria">
-                  <a class=" dropdown-item ">Lorem ipsum.</a>
-                  <a class=" dropdown-item ">Lorem ipsum.</a>
-                  <a class=" dropdown-item ">Lorem ipsum.</a>                  
+                <a class="nav-link dropdown-toggle fuente-institucional texto-azul" href="" id="loremlll" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Lorem ipsum.</a>
+                <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="loremlll">
+                  <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a>
+                  <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a>
+                  <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a>                  
                 </div>
               </li>
             </ul>
@@ -128,20 +128,20 @@
 
   <li class="nav-item  dropdown border-right borde-azul ">
     <a class=" nav-link dropdown-toggle hvr-curl-top-right "  id="investigacion" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Investigación <span class="sr-only">(current)</span></a>
-    <div class="dropdown-menu f-size-12" aria-labelledby="institucional">
-      <a class=" dropdown-item   ">Vicerrectoria de Investigacion</a>
-      <a class=" dropdown-item   ">CIDAE</a>
-      <a class=" dropdown-item   ">Crean</a>
-      <a class=" dropdown-item   ">Otri</a>      
-      <a class=" dropdown-item   ">Oficina de Postgrados</a>
-      <a class=" dropdown-item   ">Investigadores</a>
-      <a class=" dropdown-item   ">Grupos de investigación</a>
-      <a class=" dropdown-item   ">Jóvenes Investigadores</a>
-      <a class=" dropdown-item   ">Red Internacional</a>
-      <a class=" dropdown-item   ">Semilleros</a>
-      <a class=" dropdown-item   ">Convocatorias</a>
-      <a class=" dropdown-item   ">Congreso</a>
-      <a class=" dropdown-item   ">Publicaciones</a>
+    <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="investigacion">
+      <a class=" dropdown-item hvr-underline-from-left  ">Vicerrectoria de Investigacion</a>
+      <a class=" dropdown-item hvr-underline-from-left  ">CIDAE</a>
+      <a class=" dropdown-item hvr-underline-from-left  ">Crean</a>
+      <a class=" dropdown-item hvr-underline-from-left  ">Otri</a>      
+      <a class=" dropdown-item hvr-underline-from-left  ">Oficina de Postgrados</a>
+      <a class=" dropdown-item hvr-underline-from-left  ">Investigadores</a>
+      <a class=" dropdown-item hvr-underline-from-left  ">Grupos de investigación</a>
+      <a class=" dropdown-item hvr-underline-from-left  ">Jóvenes Investigadores</a>
+      <a class=" dropdown-item hvr-underline-from-left  ">Red Internacional</a>
+      <a class=" dropdown-item hvr-underline-from-left  ">Semilleros</a>
+      <a class=" dropdown-item hvr-underline-from-left  ">Convocatorias</a>
+      <a class=" dropdown-item hvr-underline-from-left  ">Congreso</a>
+      <a class=" dropdown-item hvr-underline-from-left  ">Publicaciones</a>
 
 
       
@@ -150,12 +150,12 @@
 
   <li class="nav-item dropdown  border-right borde-azul">
     <a class=" nav-link dropdown-toggle hvr-curl-top-right "  id="bienestar-universitario" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Bienestar Universitario</a>
-    <div class="dropdown-menu f-size-12" aria-labelledby="bienestar-universitario">
-      <a class=" dropdown-item  ">Vicerrectoría de Bienestar Universitario</a>
-      <a class=" dropdown-item  ">Primeros auxilios</a>
-      <a class=" dropdown-item  ">Psicología</a>
-      <a class=" dropdown-item  ">Deporte </a>
-      <a class=" dropdown-item  ">Cultura</a>
+    <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="bienestar-universitario">
+      <a class=" dropdown-item hvr-underline-from-left ">Vicerrectoría de Bienestar Universitario</a>
+      <a class=" dropdown-item hvr-underline-from-left ">Primeros auxilios</a>
+      <a class=" dropdown-item hvr-underline-from-left ">Psicología</a>
+      <a class=" dropdown-item hvr-underline-from-left ">Deporte </a>
+      <a class=" dropdown-item hvr-underline-from-left ">Cultura</a>
       
     </div>
   </li>
@@ -163,33 +163,33 @@
   <li class="nav-item dropdown  border-right borde-azul">
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="proyeccion-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Proyección Institucional</a>
-    <div class="dropdown-menu f-size-12" aria-labelledby="proyeccion-institucional">
-      <a class=" dropdown-item  ">Proyección Institucional Aunar</a>
-      <a class=" dropdown-item  ">Internacionalización</a>
-      <a class=" dropdown-item  ">Proyección Social</a>
+    <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="proyeccion-institucional">
+      <a class=" dropdown-item hvr-underline-from-left ">Proyección Institucional Aunar</a>
+      <a class=" dropdown-item hvr-underline-from-left ">Internacionalización</a>
+      <a class=" dropdown-item hvr-underline-from-left ">Proyección Social</a>
       
     </div>
   </li>
   <li class="nav-item dropdown  border-right borde-azul">
     <!--a class="nav-link active    " >Extensiones</a-->
-    <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="proyeccion-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Talento Humano</a>
-    <div class="dropdown-menu f-size-12" aria-labelledby="proyeccion-institucional">
-      <a class=" dropdown-item  ">Información Oficina Talento Humano</a>
-      <a class=" dropdown-item  ">circulares, permisos y licencias</a>
-      <a class=" dropdown-item  ">Reporte de salidas</a>
-      <a class=" dropdown-item  ">seguridad y salud en el trabajo</a>
-      <a class=" dropdown-item  ">psicología</a>
-      <a class=" dropdown-item  ">Deporte</a>
-      <a class=" dropdown-item  ">Cultura</a>
-      <a class=" dropdown-item  ">reglamentos</a>
+    <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="talento-humano" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Talento Humano</a>
+    <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="talento-humano">
+      <a class=" dropdown-item hvr-underline-from-left ">Información Oficina Talento Humano</a>
+      <a class=" dropdown-item hvr-underline-from-left ">circulares, permisos y licencias</a>
+      <a class=" dropdown-item hvr-underline-from-left ">Reporte de salidas</a>
+      <a class=" dropdown-item hvr-underline-from-left ">seguridad y salud en el trabajo</a>
+      <a class=" dropdown-item hvr-underline-from-left ">psicología</a>
+      <a class=" dropdown-item hvr-underline-from-left ">Deporte</a>
+      <a class=" dropdown-item hvr-underline-from-left ">Cultura</a>
+      <a class=" dropdown-item hvr-underline-from-left ">reglamentos</a>
       
     </div>
   </li>
   <li class="nav-item dropdown  border-right borde-azul">
     <!--a class="nav-link active    " >Extensiones</a-->
-    <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="proyeccion-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">CIAN</a>
-    <div class="dropdown-menu dropdown-menu-left f-size-12" aria-labelledby="proyeccion-institucional">
-      <a class=" dropdown-item  ">Dpto de Inglés</a>      
+    <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="cian" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">CIAN</a>
+    <div class="dropdown-menu dropdown-menu-left fuente-institucional texto-azul" aria-labelledby="cian">
+      <a class=" dropdown-item hvr-underline-from-left ">Dpto de Inglés</a>      
       
     </div>
   </li>

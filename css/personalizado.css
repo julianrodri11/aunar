@@ -474,10 +474,20 @@ font-weight: bold;
 }
 
 
-/*---------------------------*/
+/*para desplegar o mostrar el menú1 y 2 cuando el mouse se pase por encima de la opción*/
 
 .dropdown:hover>.dropdown-menu
 {
 	display: block;
+}
+
+.hvr-underline-from-left:hover
+{
+	background: #F5F5F5;
+}
+
+.hvr-underline-from-left:before
+{
+	background: #FFD608 !important;
 }
 
