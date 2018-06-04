@@ -170,20 +170,20 @@
 <!-- -----------------EVENTOS--------------------------------- -->
 <div class="container-fluid fondo-amarillo">
   <div class="row">
-    <div class="col-lg-2 p-2 d-flex align-items-center justify-content-center justify-content-sm-center justify-content-md-center">
+    <div class="col-lg-12 p-2 d-flex align-items-center justify-content-center justify-content-sm-center justify-content-md-center">
         
-          <div class="p-1 mt-5 mt-sm-5 bd-highlight border-right borde-amarillo borde-ancho text-center pr-3">
+          <div class="p-1 mt-5 mt-sm-5 bd-highlight text-center pr-3">
             <h1 class="my-1 fuente-institucional texto-azul f-negrita">Eventos</h1>
-            <label class="texto-azul fue">Entérate nuestras novedades</label>
+            <label class="texto-azul f-myriad">Entérate nuestras novedades</label>
           </div>
           <!-- div class="p-1 bg-primary bd-highlight">Flex item 2</div>
           <div class="p-1 bg-white bd-highlight">Flex item 3</div> -->                
     </div>
 
-    <div class="col-lg-10 p-5 ">
+    <div class="col-lg-12 p-5 ">
       <div class="row p-3 ">
         <div class="col-md-6 p-2  border-right border-white fondo-gris-os">
-          <div class="col p-2 text-center"><img class="img-fluid" alt="Responsive image" src="img/aunar_stereo.png"/></div>
+          <div class="col p-2 text-center"><img class="img-fluid" alt="AUNAR ESTEREO" src="img/aunar_stereo.png"/></div>
           <div class=" texto-azul text-center ">
             <div class="row">
                 <div class="col-12 mb-0 p-0 fuente-institucional ">AUNAR STEREO</div>
