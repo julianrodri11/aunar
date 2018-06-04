@@ -196,7 +196,7 @@
             
               <!-- seccion de eventos  -->
               <!-- evento 1 -->
-              <div class="row p-3 hover-texto-amarillo eventos hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
+              <div class="row p-1 hover-texto-amarillo eventos hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
                 <div class="col-md-4 col-12 ">
                   <div class=" hexagon p-4">
                     <div class="row pt-2 text-center "> 
@@ -214,7 +214,7 @@
                 </div>
               </div>
               <!-- evetnos 2 -->
-               <div class="row p-3 hover-texto-amarillo hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
+               <div class="row p-1 pl-5 hover-texto-amarillo hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
                 <div class="col-md-4 col-12 ">
                   <div class=" hexagon p-4">
                     <div class="row pt-2 text-center "> 
@@ -232,7 +232,7 @@
                 </div>
               </div>
               <!-- evento 3 -->
-               <div class="row p-3 hover-texto-amarillo hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
+               <div class="row p-1 hover-texto-amarillo hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
                 <div class="col-md-4 col-12 ">
                   <div class=" hexagon p-4">
                     <div class="row pt-2 text-center "> 
