@@ -83,6 +83,10 @@ font-weight: bold;
 	background-color: #FFD608 !important;
 
 }
+.hover-azul:hover
+{
+	background-color: #2B275B !important;
+}
 /*fondo transparente*/
 .hover-transparente:hover
 {
@@ -483,7 +487,7 @@ font-weight: bold;
 
 .hvr-underline-from-left:hover
 {
-	background: #F5F5F5;
+	background: #F5F5F5 !important;
 }
 
 .hvr-underline-from-left:before
@@ -491,3 +495,21 @@ font-weight: bold;
 	background: #FFD608 !important;
 }
 
+.hexagon
+{
+	background-image: url('../img/hexagono.svg');
+	background-repeat: no-repeat;
+    background-size: 100px; 
+    height: 120px;
+    width: 100px;
+    display: block;
+    
+}
+
+.hexagon:hover
+{
+	background-image: url('../img/hexagono-azul.svg');
+	background-repeat: no-repeat;
+   
+    
+}
