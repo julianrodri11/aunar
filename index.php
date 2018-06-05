@@ -145,7 +145,7 @@
 
 <!-- ----------------OFERTAS DE INTERES ---------------------- -->
 <div class="container-fluid fondo-gris-os p-4 ">
-  <div class="row">
+  <div class="row e_arriba_abajo">
     <div class="col-12 col-lg-12">
       <div class="row texto-azul d-flex justify-content-center">
         <div class="col-10 pl-5 pr-5 pb-2 text-center fuente-institucional f-negrita f-size-16">Recuerda que la Corporación Universitaria Autónoma de Nariño, también cuenta con programas de formación continua para que perfecciones tu perfil profesional.</div>
@@ -172,7 +172,7 @@
 <!-- -----------------EVENTOS--------------------------------- -->
 <div class="container-fluid fondo-amarillo">
   <div class="row">
-    <div class="col-lg-12 p-2 d-flex align-items-center justify-content-center justify-content-sm-center justify-content-md-center">
+    <div class="col-lg-12 p-2 d-flex align-items-center justify-content-center justify-content-sm-center justify-content-md-center e_abajo_arriba">
         
           <div class="p-1 mt-5 mt-sm-5 bd-highlight text-center pr-3">
             <h1 class="my-1 fuente-institucional texto-azul f-negrita">Eventos</h1>
@@ -184,7 +184,7 @@
 
     <div class="col-lg-12 p-5 ">
       <div class="row p-3 ">
-        <div class="col-md-6 p-2  border-right border-white fondo-gris-os">
+        <div class="col-md-6 p-2  border-right border-white fondo-gris-os izquierda_derecha">
           <div class="col p-2 text-center"><img class="img-fluid" width="100%" alt="AUNAR ESTEREO" src="img/aunar_stereo.png"/></div>
           <div class=" texto-azul text-center ">
             <div class="row">
@@ -193,7 +193,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6 p-3 ">           
+        <div class="col-md-6 p-3 derecha_izquierda">           
             <div class="col-12 p-4 mb-3 ">
             
               <!-- seccion de eventos  -->

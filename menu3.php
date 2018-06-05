@@ -1,10 +1,10 @@
 <!-- -----------------MENU ICONOS----------------------------- -->
 <div class="container-fluid p-4   ">
     <div class="row justify-content-center">  
-        <h1 class="pb-4 fuente-institucional texto-azul f-negrita">Enlaces de interés</h1>
+        <h1 class="pb-4 fuente-institucional texto-azul f-negrita e_arriba_abajo">Enlaces de interés</h1>
     </div>
 
-  <div class="row text-center justify-content-center  fuente-institucional f-x-small">    
+  <div class="row text-center justify-content-center  fuente-institucional f-x-small e_rotacion">    
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
         <div class="p-2 ">
             <a href="#" data-toggle="tooltip" data-placement="bottom" title="Ir a " target="_blanck">

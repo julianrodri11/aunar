@@ -29,16 +29,24 @@ moveX:'270px',
 
 
 $('.e_arriba_abajo').smoove({
-moveY:'350px',
+moveY:'-450px',
 });
 
 
 $('.e_abajo_arriba').smoove({
-moveY:'-350px',
+moveY:'450px',
 });
 
 $('.e_noticias').smoove({
 moveY:'350px',
+});
+
+$('.e_rotacion').smoove({
+rotate:'10deg',
+});
+
+$('.e_escala').smoove({
+scale3d:'2,2,0.5',
 });
 
 });
