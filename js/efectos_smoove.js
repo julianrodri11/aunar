@@ -29,12 +29,12 @@ moveX:'400px',
 
 
 $('.e_arriba_abajo').smoove({
-rotate:'90deg',
+moveY:'300px',
 });
 
 
 $('.e_abajo_arriba').smoove({
-rotate:'-90deg',
+moveY:'-300px',
 });
 
 $('.e_noticias').smoove({
