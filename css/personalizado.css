@@ -506,10 +506,21 @@ font-weight: bold;
     
 }
 
-.hexagon:hover
+
+.eventos:hover>div>.hexagon
 {
 	background-image: url('../img/hexagono-azul.svg');
 	background-repeat: no-repeat;
    
-    
+
+}
+
+.transparencia-hover:hover
+{
+ 	-webkit-transition: all 500ms ease;
+    -moz-transition: all  500ms ease;
+    -o-transition: all  500ms ease;
+    transition: all  500ms ease;
+	background-image: url(../img/transparente5x5px.png);
+	background-repeat: all;
 }

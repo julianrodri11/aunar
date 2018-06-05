@@ -196,54 +196,54 @@
             
               <!-- seccion de eventos  -->
               <!-- evento 1 -->
-              <div class="row p-1 hover-texto-amarillo eventos hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
-                <div class="col-md-4 col-12 ">
+              <div class="row p-1 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
+                <div class="col-md-4 col-12 aaa ">
                   <div class=" hexagon p-4">
-                    <div class="row pt-2 text-center "> 
-                      <span class="col-12">10</span>
-                      <span class="col-12">May</span>
+                    <div class="row pt-2 text-center f-myriad "> 
+                      <span class="col-12">20</span>
+                      <span class="col-12">Jun</span>
                     </div>
                   </div>
                 </div> 
                 <div class="col-md-8 col-12">
-                  <div class="row texto-azul">
-                    <div class="col-lg-12 text-center text-lg-left text-md-left">II Encuentro de Bibliotecas.</div>
+                  <div class="row texto-azul pt-sans">
+                    <div class="col-lg-12 text-center text-lg-left text-md-left f-negrita">II Encuentro de Bibliotecas.</div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">Hora: 8:00 am</div>
                   </div>
                 </div>
               </div>
               <!-- evetnos 2 -->
-               <div class="row p-1 pl-5 hover-texto-amarillo hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
+               <div class="row p-1 pl-5 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
                 <div class="col-md-4 col-12 ">
                   <div class=" hexagon p-4">
-                    <div class="row pt-2 text-center "> 
-                      <span class="col-12">10</span>
-                      <span class="col-12">May</span>
+                    <div class="row pt-2 text-center f-myriad "> 
+                      <span class="col-12">17</span>
+                      <span class="col-12">Jul</span>
                     </div>
                   </div>
                 </div> 
                 <div class="col-md-8 col-12">
-                  <div class="row texto-azul">
-                    <div class="col-lg-12 text-center text-lg-left text-md-left">II Encuentro de Bibliotecas.</div>
+                  <div class="row texto-azul pt-sans">
+                    <div class="col-lg-12 text-center text-lg-left text-md-left f-negrita">II Encuentro de Bibliotecas.</div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">Hora: 8:00 am</div>
                   </div>
                 </div>
               </div>
               <!-- evento 3 -->
-               <div class="row p-1 hover-texto-amarillo hover-borde-blanco hover-amarillo d-flex align-items-center texto-azul">
+               <div class="row p-1 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
                 <div class="col-md-4 col-12 ">
                   <div class=" hexagon p-4">
-                    <div class="row pt-2 text-center "> 
-                      <span class="col-12">10</span>
-                      <span class="col-12">May</span>
+                    <div class="row pt-2 text-center f-myriad "> 
+                      <span class="col-12">30</span>
+                      <span class="col-12">Agt</span>
                     </div>
                   </div>
                 </div> 
                 <div class="col-md-8 col-12">
-                  <div class="row texto-azul">
-                    <div class="col-lg-12 text-center text-lg-left text-md-left">II Encuentro de Bibliotecas.</div>
+                  <div class="row texto-azul pt-sans">
+                    <div class="col-lg-12 text-center text-lg-left text-md-left f-negrita">II Encuentro de Bibliotecas.</div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">Hora: 8:00 am</div>
                   </div>
