@@ -2,7 +2,7 @@
 <!-- -----------------SLIDER---------------------------------- -->
 
 
-<div id="carouselExampleIndicators" class="carousel slide mt-lg-5 mt-md-4 mt-sm-4 mt-5 pt-2 wow zoomInDown" data-ride="carousel">
+<div id="carouselExampleIndicators" class="carousel slide mt-lg-5 mt-md-4 mt-sm-4 mt-5 pt-2 animated zoomInDown" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>

@@ -52,7 +52,7 @@
 
 <!-- ------------------------DOCUMENTOS----------------------- -->
 
-<div class="container-fluid fondo-gris-c wow zoomIn">
+<div class="container-fluid fondo-gris-c ">
   <div class="row pt-5 pb-5 ">
     <div class="col-lg-3 col-md-3 col-sm-12">
         <div class="row p-3 fondo-azul text-white">
@@ -81,7 +81,7 @@
 <div class="container-fluid">
   <div class="row fondo-mundo">
      <div class="row col-12">
-      <div class="row col-12 col-lg-6 col-xl-6 p-2  d-flex align-content-center justify-content-center">
+      <div class="row col-12 col-lg-6 col-xl-6 p-2  d-flex align-content-center justify-content-center abajo_arriba_derecha">
         <div class="col-11 col-lg-10 fondo-amarillo mt-2">
           <h1 class="f-negrita fuente-institucional text-center">¿Donde quieres estudiar?</h1>
         </div>
@@ -89,7 +89,7 @@
           <strong>AUNAR</strong> te permite elegir tu programa de interés para que estudies en cualquier sede del país
         </div>
       </div>
-      <div class="col-12 col-lg-6 col-xl-6 p-2 ">
+      <div class="col-12 col-lg-6 col-xl-6 p-2 abajo_arriba_izquierda">
         <div class="row  d-flex justify-content-end mr-lg-2">          
           <div class="row col-12 col-lg-8 p-2 m-1">
             
