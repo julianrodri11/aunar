@@ -8,37 +8,37 @@ $(function( $ ){
 // });
 
 $('.abajo_arriba_derecha').smoove({
-moveX:'-350px',
-moveY:'150px',
-moveZ:'350px'
+moveX:'-250px',
+moveY:'350px',
+moveZ:'250px'
 });
 
 $('.abajo_arriba_izquierda').smoove({
-moveX:'350px',
-moveY:'150px',
-moveZ:'350px'
+moveX:'250px',
+moveY:'350px',
+moveZ:'250px'
 });
 
 $('.izquierda_derecha').smoove({
-moveX:'-400px',
+moveX:'-270px',
 });
 
 $('.derecha_izquierda').smoove({
-moveX:'400px',
+moveX:'270px',
 });
 
 
 $('.e_arriba_abajo').smoove({
-moveY:'300px',
+moveY:'350px',
 });
 
 
 $('.e_abajo_arriba').smoove({
-moveY:'-300px',
+moveY:'-350px',
 });
 
 $('.e_noticias').smoove({
-moveY:'300px',
+moveY:'350px',
 });
 
 });
