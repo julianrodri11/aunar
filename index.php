@@ -4,7 +4,9 @@
   <?php /*ENLACES DE LIBRERIAS */ include_once('links-local.php');  ?> 
 
   <!--TÍTULO DE LA PÁGINA-->
-  <title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>  
+  <title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>
+
+  
   
 </head>
 <body>
@@ -50,7 +52,7 @@
 
 <!-- ------------------------DOCUMENTOS----------------------- -->
 
-<div class="container-fluid fondo-gris-c">
+<div class="container-fluid fondo-gris-c wow zoomIn">
   <div class="row pt-5 pb-5 ">
     <div class="col-lg-3 col-md-3 col-sm-12">
         <div class="row p-3 fondo-azul text-white">

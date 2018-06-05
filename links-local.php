@@ -16,5 +16,8 @@
   <!-- ESTILOS PERSONALES -->
   <link rel="stylesheet" type="text/css" href="css/personalizado.css">
   <link rel="stylesheet" type="text/css" href="css/hover.css">
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
 	<script src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/personalizado.js"></script>
+  <script src="js/wow.min.js"></script>  
+  <script> new WOW().init(); </script>
