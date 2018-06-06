@@ -57,7 +57,7 @@
   <hr width="90%" class="linea-footer2"></hr>
   <!-- -------------------FOOTER CONTACTOS---------------------- -->
   <div class="container-fluid ">
-    <div class="row p-3 e_abajo_arriba">
+    <div class="row p-3 e_arriba_abajo">
       <div class="col-lg-6 col-sm-12 mt-3  text-light d-flex justify-content-center align-items-center justify-content-lg-end ">
         
         <div class="col-12 col-md-6 col-sm-6">
