@@ -5,7 +5,7 @@
   <span class="navbar-toggler-icon "></span>
   </button>
   <div class="collapse navbar-collapse f-size-12 " id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0  ">
+    <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0  animated bounceInLeft">
       <li class="nav-item pt-2 pb-2  dropdown">
         <a class=" nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-left border-right borde-amarillo hvr-underline-from-center" href="inscripciones.php" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
         <div class="dropdown-menu f-size-12" aria-labelledby="admisiones">
@@ -62,7 +62,7 @@
   <a class=" nav-link texto-azul pl-md-2 pl-sm-2 border-right borde-amarillo hvr-underline-from-center" href="http://190.121.158.228/public/" target="_blanck">Graduados</a>
 </li>
 </ul>
-<div class="rectangulo-sesgado pt-2 pb-2 ">
+<div class="rectangulo-sesgado pt-2 pb-2 animated bounceInRight">
 <div class="row pt-3 mt-1 ml-0  float-right float-md-none mr-2">
   <div class=" f-italica f-negrita hvr-underline-from-center f-size-14 ">La Tecnología es el Camino hacia un Mundo sin Fronteras</div>
   <span class="ml-1 mr-1  badge badge-pill badge-primary fondo-azul" data-toggle="modal"   data-target="#btn_traductor">Idioma</span>

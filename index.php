@@ -52,7 +52,7 @@
 
 <!-- ------------------------DOCUMENTOS----------------------- -->
 
-<div class="container-fluid fondo-gris-c ">
+<div class="container-fluid fondo-gris-c animated bounceIn ">
   <div class="row pt-5 pb-5 ">
     <div class="col-lg-3 col-md-3 col-sm-12">
         <div class="row p-3 fondo-azul text-white">
