@@ -185,7 +185,7 @@
     <div class="col-lg-12 p-5 ">
       <div class="row p-3 ">
         <div class="col-md-6 p-2  border-right border-white fondo-gris-os  hvr-grow-shadow izquierda_derecha">
-          <div class="col p-2 text-center "><img class="img-fluid" width="100%" alt="AUNAR ESTEREO" src="img/aunar_stereo.png"/></div>
+          <div class="col p-2 text-center "><img class="img-fluid" width="100%" alt="AUNAR ESTEREO" src="img/aunar_stereo.jpg"/></div>
           <div class=" texto-azul text-center ">
             <div class="row">
                 <div class="col-12 mb-0 p-0 fuente-institucional ">AUNAR STEREO</div>

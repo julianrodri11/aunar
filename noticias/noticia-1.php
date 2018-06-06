@@ -44,7 +44,7 @@
         <!-- imagen -->
         
             <div class="col-12">
-              <img class="img-fluid " src="img/noticias/noticia1.png" alt="Noticias Aunar" width="100%">
+              <img class="img-fluid " src="img/noticias/noticia1.jpg" alt="Noticias Aunar" width="100%">
             </div>
         
       </div>
@@ -60,7 +60,7 @@
         <!-- imagen -->
         
             <div class="col-12">
-              <img class="img-fluid " src="img/noticias/noticia2.png" alt="Noticias Aunar" width="100%">
+              <img class="img-fluid " src="img/noticias/noticia2.jpg" alt="Noticias Aunar" width="100%">
             </div>
         
       </div>
@@ -103,7 +103,7 @@
         <!-- imagen -->
         
             <div class="col-12">
-              <img class="img-fluid " src="img/noticias/noticia3.png" alt="Noticias Aunar" width="100%">
+              <img class="img-fluid " src="img/noticias/noticia3.jpg" alt="Noticias Aunar" width="100%">
             </div>
         
       </div>
@@ -119,7 +119,7 @@
         <!-- imagen -->
         
             <div class="col-12">
-              <img class="img-fluid " src="img/noticias/noticia4.png" alt="Noticias Aunar" width="100%">
+              <img class="img-fluid " src="img/noticias/noticia4.jpg" alt="Noticias Aunar" width="100%">
             </div>
         
       </div>
