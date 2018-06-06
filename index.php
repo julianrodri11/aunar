@@ -89,7 +89,7 @@
           <strong>AUNAR</strong> te permite elegir tu programa de interés para que estudies en cualquier sede del país
         </div>
       </div>
-      <div class="col-12 col-lg-6 col-xl-6 p-2 abajo_arriba_izquierda">
+      <div class="col-12 col-lg-6 col-xl-6 p-2 abajo_arriba_derecha">
         <div class="row  d-flex justify-content-end mr-lg-2">          
           <div class="row col-12 col-lg-8 p-2 m-1">
             

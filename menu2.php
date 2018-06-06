@@ -64,8 +64,8 @@
               <li class="col-12 nav-item dropdown dropright ">
                 <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="bellas-artes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Bellas artes</a>
                 <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="bellas-artes">
-                  <a class=" dropdown-item hvr-underline-from-left">Tecnología en Diseño de Modas (No ofertado)</a>
-                  <a class=" dropdown-item hvr-underline-from-left">Técnico laboral por competencias en Diseño de Modas y Confección</a>
+                  <a class=" dropdown-item hvr-underline-from-left">Tecnología en Diseño<br> de Modas (No ofertado)</a>
+                  <a class=" dropdown-item hvr-underline-from-left">Técnico laboral por<br> competencias en Diseño<br> de Modas y Confección</a>
                 </div>
               </li>
             </ul>
@@ -75,7 +75,7 @@
               <li class="col-12 nav-item dropdown dropright ">
                 <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ciencias-salud" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ciencias de la Salud:</a>
                 <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="ciencias-salud">
-                  <a class=" dropdown-item hvr-underline-from-left">Tecnología en Mecánica Dental (No ofertado)</a>
+                  <a class=" dropdown-item hvr-underline-from-left">Tecnología en Mecánica<br> Dental (No ofertado)</a>
                 </div>
               </li>
             </ul>
@@ -92,8 +92,8 @@
         <li class="col-12 nav-item dropdown dropright ">
           <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="programas-virtuales" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Programas Virtuales </a>
           <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-c" aria-labelledby="programas-virtuales">
-            <a class=" dropdown-item hvr-underline-from-left">Tecnología en Mercadeo Agropecuario</a>
-            <a class=" dropdown-item hvr-underline-from-left">Tecnología en Transformacion de Plantas Aromáticas</a>
+            <a class=" dropdown-item hvr-underline-from-left">Tecnología en Mercadeo<br>Agropecuario</a>
+            <a class=" dropdown-item hvr-underline-from-left">Tecnología en <br>Transformación de<br>Plantas Aromáticas</a>
 
             
           </div>
@@ -151,7 +151,7 @@
   <li class="nav-item dropdown  border-right borde-azul">
     <a class=" nav-link dropdown-toggle hvr-curl-top-right "  id="bienestar-universitario" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Bienestar Universitario</a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="bienestar-universitario">
-      <a class=" dropdown-item hvr-underline-from-left ">Vicerrectoría de Bienestar Universitario</a>
+      <a class=" dropdown-item hvr-underline-from-left ">Vicerrectoría de Bienestar<br> Universitario</a>
       <a class=" dropdown-item hvr-underline-from-left ">Primeros auxilios</a>
       <a class=" dropdown-item hvr-underline-from-left ">Psicología</a>
       <a class=" dropdown-item hvr-underline-from-left ">Deporte </a>
@@ -164,7 +164,7 @@
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="proyeccion-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Proyección Institucional</a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="proyeccion-institucional">
-      <a class=" dropdown-item hvr-underline-from-left ">Proyección Institucional Aunar</a>
+      <a class=" dropdown-item hvr-underline-from-left ">Proyección Institucional<br> Aunar</a>
       <a class=" dropdown-item hvr-underline-from-left ">Internacionalización</a>
       <a class=" dropdown-item hvr-underline-from-left ">Proyección Social</a>
       
@@ -174,10 +174,10 @@
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="talento-humano" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Talento Humano</a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="talento-humano">
-      <a class=" dropdown-item hvr-underline-from-left ">Información Oficina Talento Humano</a>
-      <a class=" dropdown-item hvr-underline-from-left ">circulares, permisos y licencias</a>
+      <a class=" dropdown-item hvr-underline-from-left ">Información Oficina<br> Talento Humano</a>
+      <a class=" dropdown-item hvr-underline-from-left ">circulares, permisos<br> y licencias</a>
       <a class=" dropdown-item hvr-underline-from-left ">Reporte de salidas</a>
-      <a class=" dropdown-item hvr-underline-from-left ">seguridad y salud en el trabajo</a>
+      <a class=" dropdown-item hvr-underline-from-left ">seguridad y salud en<br> el trabajo</a>
       <a class=" dropdown-item hvr-underline-from-left ">psicología</a>
       <a class=" dropdown-item hvr-underline-from-left ">Deporte</a>
       <a class=" dropdown-item hvr-underline-from-left ">Cultura</a>
