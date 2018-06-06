@@ -5,7 +5,7 @@
   <div class="container-fluid pt-4">
     <div class="container py-1">
       
-      <div class="row">
+      <div class="row ">
         <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 ">
           <label class=" texto-amarillo fuente-institucional small f-negrita" >NORMATIVIDAD INSTITUCIONAL</label>
           <div class="mb-1 text-light fuente-institucional small">Estatuto general</div>
@@ -57,7 +57,7 @@
   <hr width="90%" class="linea-footer2"></hr>
   <!-- -------------------FOOTER CONTACTOS---------------------- -->
   <div class="container-fluid ">
-    <div class="row p-3">
+    <div class="row p-3 e_abajo_arriba">
       <div class="col-lg-6 col-sm-12 mt-3  text-light d-flex justify-content-center align-items-center justify-content-lg-end ">
         
         <div class="col-12 col-md-6 col-sm-6">

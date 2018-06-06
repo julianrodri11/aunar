@@ -45,8 +45,6 @@ $('.e_rotacion').smoove({
 rotate:'10deg',
 });
 
-$('.e_escala').smoove({
-scale3d:'2,2,0.5',
-});
+
 
 });
