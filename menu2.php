@@ -32,14 +32,14 @@
       <ul class="navbar-nav"> <!-- navbar-nav -->
         <li class="col-12 nav-item dropdown dropright ">
           <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="facultades" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Facultades </a>
-          <div class="dropdown-menu  " aria-labelledby="facultades">
+          <div class="dropdown-menu  fondo-gris-c " aria-labelledby="facultades">
             <!-- <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a> -->
             
             <!-- }}}}}}}}}}}}}} -->
-            <ul class="navbar-nav"> 
+            <ul class="navbar-nav "> 
               <li class="col-12 nav-item dropdown dropright ">
                 <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ingenieria" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ingeniería </a>
-                <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="ingenieria">
+                <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="ingenieria">
                   <a class=" dropdown-item hvr-underline-from-left">Ingenieria electrónica</a>
                   <a class=" dropdown-item hvr-underline-from-left">Ingenieria Mecánica</a>
                   <a class=" dropdown-item hvr-underline-from-left">Ingenieria Informática</a>                  
@@ -48,10 +48,10 @@
             </ul>
             <!-- }}}}}}}}}}}}}} -->
             <!-- }}}}}}}}}}}}}} -->
-            <ul class="navbar-nav"> 
+            <ul class="navbar-nav "> 
               <li class="col-12 nav-item dropdown dropright ">
                 <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ciencias-admon-conta" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ciencias Adm. y Contables</a>
-                <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="ciencias-admon-conta">
+                <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="ciencias-admon-conta">
                   <a class=" dropdown-item hvr-underline-from-left">Administración de Empresas</a>
                   <a class=" dropdown-item hvr-underline-from-left">Contaduria Publica </a>
                 </div>
@@ -60,10 +60,10 @@
             <!-- }}}}}}}}}}}}}} -->
 
             <!-- }}}}}}}}}}}}}} -->
-            <ul class="navbar-nav"> 
+            <ul class="navbar-nav "> 
               <li class="col-12 nav-item dropdown dropright ">
                 <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="bellas-artes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Bellas artes</a>
-                <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="bellas-artes">
+                <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="bellas-artes">
                   <a class=" dropdown-item hvr-underline-from-left">Tecnología en Diseño de Modas (No ofertado)</a>
                   <a class=" dropdown-item hvr-underline-from-left">Técnico laboral por competencias en Diseño de Modas y Confección</a>
                 </div>
@@ -71,11 +71,11 @@
             </ul>
             <!-- }}}}}}}}}}}}}} -->
              <!-- }}}}}}}}}}}}}} -->
-            <ul class="navbar-nav"> 
+            <ul class="navbar-nav "> 
               <li class="col-12 nav-item dropdown dropright ">
                 <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ciencias-salud" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ciencias de la Salud:</a>
-                <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="ciencias-salud">
-                  <a class=" dropdown-item hvr-underline-from-left">Tecnologia en Mecanica Dental No ofertado</a>                  
+                <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="ciencias-salud">
+                  <a class=" dropdown-item hvr-underline-from-left">Tecnología en Mecánica Dental (No ofertado)</a>
                 </div>
               </li>
             </ul>
@@ -91,9 +91,9 @@
       <ul class="navbar-nav"> <!-- navbar-nav -->
         <li class="col-12 nav-item dropdown dropright ">
           <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="programas-virtuales" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Programas Virtuales </a>
-          <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="programas-virtuales">
-            <a class=" dropdown-item hvr-underline-from-left">Tecnologia en Mercadeo Agropecuario</a>
-            <a class=" dropdown-item hvr-underline-from-left">Tecnologia en Transformacion de Plantas Aromáticas</a>
+          <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-c" aria-labelledby="programas-virtuales">
+            <a class=" dropdown-item hvr-underline-from-left">Tecnología en Mercadeo Agropecuario</a>
+            <a class=" dropdown-item hvr-underline-from-left">Tecnología en Transformacion de Plantas Aromáticas</a>
 
             
           </div>
@@ -103,7 +103,7 @@
       <ul class="navbar-nav"> <!-- navbar-nav -->
         <li class="col-12 nav-item dropdown dropright ">
           <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ayudas-becas" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ayudas y Becas </a>
-          <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="ayudas-becas">
+          <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-c" aria-labelledby="ayudas-becas">
             <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum</a>
 
              <!-- }}}}}}}}}}}}}} -->
