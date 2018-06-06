@@ -46,5 +46,14 @@ rotate:'10deg',
 });
 
 
+$('.e_rotatey_a').smoove({
+rotateY:'270deg',
+moveX:'-150%',
+});
+
+$('.e_rotatey_b').smoove({
+rotateY:'270deg',
+moveX:'150%',
+});
 
 });

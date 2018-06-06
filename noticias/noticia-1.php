@@ -84,7 +84,7 @@
 
    <!-- noticia 3 -->
   <div class="row">
-    <div class="col-12 col-lg-6 mt-3 d-flex justify-content-center align-items-center e_arriba_abajo">
+    <div class="col-12 col-lg-6 mt-3 d-flex justify-content-center align-items-center e_rotatey_a">
       <div class="row col-12 ">
         <!-- texto -->
         <div class="col-12  text-center">
@@ -98,7 +98,7 @@
         </div>
       </div>
     </div>
-    <div class="col-12 col-lg-6 mt-3  e_arriba_abajo" >
+    <div class="col-12 col-lg-6 mt-3  e_rotatey_b" >
       <div class="row">
         <!-- imagen -->
         
