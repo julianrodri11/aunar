@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="es-CO">
 <head>
-	<?php /*ENLACES DE LIBRERIAS*/ include_once('links-local.php');  ?> 
+	<?php /*ENLACES DE LIBRERIAS*/ include_once('secciones/links-local.php');  ?> 
 	<title>Sistema de inscripciones en línea AUNAR</title>
 </head>
 <body>
 	
 	<?php 
-		include_once('menu1.php'); 
-		include_once('logo-central.php');
-		include_once('zoom.php');
-		include_once('redes-sociales-aunar.php');
-		include_once('modal-traductor.php');
+		include_once('secciones/menu1.php'); 
+		include_once('secciones/logo-central.php');
+		include_once('secciones/zoom.php');
+		include_once('secciones/redes-sociales-aunar.php');
+		include_once('secciones/modal-traductor.php');
 
 	?>
 
@@ -149,7 +149,7 @@
 
 
 	<br>
-	<?php include_once('footer-principal.php'); ?>
+	<?php include_once('secciones/footer-principal.php'); ?>
 	
 </body>
 </html>

@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <?php /*ENLACES DE LIBRERIAS */ include_once('links-local.php');  ?> 
+  <?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?> 
 
   <!--TÍTULO DE LA PÁGINA-->
-  <title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>
-
-  
+  <title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>  
   
 </head>
 <body>
@@ -18,23 +16,23 @@
 <!-- -------------------FIN MODAL INICIAL-------------------- -->
 
 <!-- ------------------MODAL TRADUCTOR----------------------- -->
-<?php include_once('modal-traductor.php');?>
+<?php include_once('secciones/modal-traductor.php');?>
 <!-- ----------------FIN MODAL TRADUCTOR--------------------- -->
 
 <!-------------------MENÚ PRINCIPAL-------------------------- -->
-<?php include_once('menu1.php');?>
+<?php include_once('secciones/menu1.php');?>
 <!-------------------FIN MENÚ PRINCIPAL----------------------- -->
 
 <!----------------------- LOGO CENTRAL ----------------------- -->       
-<?php include_once('logo-central.php');?>
+<?php include_once('secciones/logo-central.php');?>
 <!-- -----------------------FIN LOGO CENTRAL------------------ -->
 
 <!-- ------------------FIGURA ZOOM---------------------------- -->
-<?php include_once('zoom.php');?>
+<?php include_once('secciones/zoom.php');?>
 <!-- ------------------FIN ZOOM------------------------------- -->
 
 <!-- ------------------REDES SOCIALES------------------------- -->
-<?php include_once('redes-sociales-aunar.php');?>
+<?php include_once('secciones/redes-sociales-aunar.php');?>
 <!-- ------------------FIN REDES SOCIALES--------------------- -->
 
 <!-- -----------------SLIDER---------------------------------- -->
@@ -42,11 +40,11 @@
 <!-- -----------------FIN SLIDER------------------------------ -->
 
 <!-- ----------------MENÚ INSTITUCIONAL----------------------- -->  
- <?php include_once('menu2.php');?> 
+ <?php include_once('secciones/menu2.php');?> 
 <!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
 
 <!-- ----------------MENÚ INSTITUCIONAL----------------------- -->   
- <?php include_once('modal/modal-contactenos.php');?>
+ <?php include_once('/modal/modal-contactenos.php');?>
 <!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
 
 
@@ -164,7 +162,7 @@
 
 
 <!-- -----------------MENU ICONOS----------------------------- -->
-<?php include_once('menu3.php');?>
+<?php include_once('secciones/menu3.php');?>
 <!-- -----------------FIN MENÚ ICONOS------------------------- -->
 
 
@@ -264,13 +262,13 @@
 
 
 <!-- -----------------IMAGENES ENLACES DE EXTERNOS----------------------------- -->
-  <?php include_once('enlaces-externos-aunar.php') ?>
+  <?php include_once('secciones/enlaces-externos-aunar.php') ?>
 <!-- -----------------FIN ENLACES DE EXTERNOS------------------------- -->
 
 
 	
 <!-- ----------------PIE DE PÁGINA---------------------------- -->
-	<?php include_once('footer-principal.php') ?>
+	<?php include_once('secciones/footer-principal.php') ?>
 <!-- -------------------FIN PIE DE PÁGINA--------------------- -->
 
 
