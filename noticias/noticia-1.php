@@ -12,7 +12,7 @@
         </div>
       </div>
     </div>
-    <div class="col-lg-8 col-sm-12 col-md-6  text-center border-bottom borde-azul e_noticias">
+    <div class="col-lg-8 col-sm-12 col-md-6  text-center border-bottom borde-azul e_arriba_abajo">
       <div class="row">
         <div class="col-12 pt-1 pl-1 mt-sm-5  text-center  "><h1 class=" mt-0 fuente-institucional texto-azul f-negrita">Noticias</h1></div>
         <div class="col-12 pb-2 texto-azul f-size-18">¡Conoce las principales acciones y logros de nuestra comunidad!</div>
@@ -25,7 +25,7 @@
   
   <!-- noticia 1 -->
   <div class="row">
-    <div class="col-12 col-lg-6 mt-3 d-flex justify-content-center align-items-center izquierda_derecha">
+    <div class="col-12 col-lg-6 mt-3 d-flex justify-content-center align-items-center">
       <div class="row col-12 ">
         <!-- texto -->
         <div class="col-12  text-center">
@@ -39,7 +39,7 @@
         </div>
       </div>
     </div>
-    <div class="col-12 col-lg-6 mt-3 derecha_izquierda" >
+    <div class="col-12 col-lg-6 mt-3 " >
       <div class="row">
         <!-- imagen -->
         
@@ -55,7 +55,7 @@
 
   <!-- noticia 2 -->
   <div class="row">
-    <div class="col-12 col-lg-6 order-2 order-lg-1 e_abajo_arriba">
+    <div class="col-12 col-lg-6 order-2 order-lg-1 ">
       <div class="row">
         <!-- imagen -->
         
@@ -65,7 +65,7 @@
         
       </div>
     </div>
-    <div class="col-12 col-lg-6  d-flex justify-content-center align-items-center order-1 order-lg-2 e_abajo_arriba">
+    <div class="col-12 col-lg-6  d-flex justify-content-center align-items-center order-1 order-lg-2">
       <div class="row col-12 ">
         <!-- texto -->
         <div class="col-12  text-center">
@@ -84,7 +84,7 @@
 
    <!-- noticia 3 -->
   <div class="row">
-    <div class="col-12 col-lg-6 mt-3 d-flex justify-content-center align-items-center e_arriba_abajo">
+    <div class="col-12 col-lg-6 mt-3 d-flex justify-content-center align-items-center ">
       <div class="row col-12 ">
         <!-- texto -->
         <div class="col-12  text-center">
@@ -98,7 +98,7 @@
         </div>
       </div>
     </div>
-    <div class="col-12 col-lg-6 mt-3  e_arriba_abajo" >
+    <div class="col-12 col-lg-6 mt-3 " >
       <div class="row">
         <!-- imagen -->
         
@@ -114,7 +114,7 @@
 
   <!-- noticia 4 -->
   <div class="row">
-    <div class="col-12 col-lg-6 order-2 order-lg-1 izquierda_derecha">
+    <div class="col-12 col-lg-6 order-2 order-lg-1 ">
       <div class="row">
         <!-- imagen -->
         
@@ -124,7 +124,7 @@
         
       </div>
     </div>
-    <div class="col-12 col-lg-6  d-flex justify-content-center align-items-center order-1 order-lg-2 mb-3 derecha_izquierda">
+    <div class="col-12 col-lg-6  d-flex justify-content-center align-items-center order-1 order-lg-2 mb-3">
       <div class="row col-12 ">
         <!-- texto -->
         <div class="col-12  text-center">

@@ -8,9 +8,9 @@ $(function( $ ){
 // });
 
 $('.abajo_arriba_derecha').smoove({
-moveX:'-250px',
-moveY:'350px',
-moveZ:'250px'
+moveX:'-75px',
+moveY:'50px',
+moveZ:'50px'
 });
 
 // $('.abajo_arriba_izquierda').smoove({
@@ -20,7 +20,7 @@ moveZ:'250px'
 // });
 
 $('.izquierda_derecha').smoove({
-moveX:'-270px',
+moveX:'-80px',
 });
 
 $('.derecha_izquierda').smoove({
@@ -29,16 +29,16 @@ moveX:'1px',
 
 
 $('.e_arriba_abajo').smoove({
-moveY:'-100px',
+moveY:'-25px',
 });
 
 
 $('.e_abajo_arriba').smoove({
-moveY:'150px',
+moveY:'25px',
 });
 
 $('.e_noticias').smoove({
-moveY:'350px',
+moveY:'25px',
 });
 
 // $('.e_rotacion').smoove({

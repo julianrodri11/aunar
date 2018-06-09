@@ -81,7 +81,7 @@
 <div class="container-fluid">
   <div class="row fondo-mundo">
      <div class="row col-12">
-      <div class="row col-12 col-lg-6 col-xl-6 p-2  d-flex align-content-center justify-content-center abajo_arriba_derecha">
+      <div class="row col-12 col-lg-6 col-xl-6 p-2  d-flex align-content-center justify-content-center izquierda_derecha">
         <div class="col-11 col-lg-10 fondo-amarillo mt-2 hvr-wobble-horizontal">
           <h1 class="f-negrita fuente-institucional text-center">¿Donde quieres estudiar?</h1>
         </div>
@@ -89,7 +89,7 @@
           <strong>AUNAR</strong> te permite elegir tu programa de interés para que estudies en cualquier sede del país
         </div>
       </div>
-      <div class="col-12 col-lg-6 col-xl-6 p-2 abajo_arriba_derecha">
+      <div class="col-12 col-lg-6 col-xl-6 p-2 izquierda_derecha">
         <div class="row  d-flex justify-content-end mr-lg-2">          
           <div class="row col-12 col-lg-8 p-2 m-1">
             
@@ -145,7 +145,7 @@
 
 <!-- ----------------OFERTAS DE INTERES ---------------------- -->
 <div class="container-fluid fondo-gris-os p-4 ">
-  <div class="row e_arriba_abajo">
+  <div class="row ">
     <div class="col-12 col-lg-12">
       <div class="row texto-azul d-flex justify-content-center">
         <div class="col-10 pl-5 pr-5 pb-2 text-center fuente-institucional f-negrita f-size-16">Recuerda que la Corporación Universitaria Autónoma de Nariño, también cuenta con programas de formación continua para que perfecciones tu perfil profesional.</div>
@@ -172,7 +172,7 @@
 <!-- -----------------EVENTOS--------------------------------- -->
 <div class="container-fluid fondo-amarillo">
   <div class="row">
-    <div class="col-lg-12 p-2 d-flex align-items-center justify-content-center justify-content-sm-center justify-content-md-center e_abajo_arriba">
+    <div class="col-lg-12 p-2 d-flex align-items-center justify-content-center justify-content-sm-center justify-content-md-center e_arriba_abajo">
         
           <div class="p-1 mt-5 mt-sm-5 bd-highlight text-center pr-3">
             <h1 class="my-1 fuente-institucional texto-azul f-negrita">Eventos</h1>
