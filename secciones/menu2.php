@@ -40,7 +40,7 @@
               <li class="col-12 nav-item dropdown dropright ">
                 <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ingenieria" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ingeniería </a>
                 <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="ingenieria">
-                  <a class=" dropdown-item hvr-underline-from-left">Ingenieria electrónica</a>
+                  <a class=" dropdown-item hvr-underline-from-left" href="ingenieria-electronica.php">Ingenieria electrónica</a>
                   <a class=" dropdown-item hvr-underline-from-left">Ingenieria Mecánica</a>
                   <a class=" dropdown-item hvr-underline-from-left">Ingenieria Informática</a>                  
                 </div>
