@@ -54,7 +54,7 @@
                 <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="ciencias-admon-conta">
                   <a class=" dropdown-item hvr-underline-from-left" href="administracion-empresas.php">Administración de Empresas</a>
                   <a class=" dropdown-item hvr-underline-from-left" href="administracion-empresas-a-distancia.php">Administración de Empresas a distancia</a>
-                  <a class=" dropdown-item hvr-underline-from-left" href="contaduria-publica.php">Contaduria Publica </a>
+                  <a class=" dropdown-item hvr-underline-from-left" href="contaduria-publica.php">Contaduria Pública </a>
                   <a class=" dropdown-item hvr-underline-from-left" href="contaduria-publica-a-distancia.php">Contaduria Pública a distancia</a>
                 </div>
               </li>
