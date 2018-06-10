@@ -476,7 +476,12 @@ font-weight: bold;
 	background-size: cover;/*necesario para que se mire en todas las pantallas*/
 
 }
+.fondo-carreras
+{
+	background-image: url("../img/carreras-aunar.jpg");
+	background-size: cover;/*necesario para que se mire en todas las pantallas*/
 
+}
 
 /*para desplegar o mostrar el menú1 y 2 cuando el mouse se pase por encima de la opción*/
 
@@ -523,4 +528,52 @@ font-weight: bold;
     transition: all  500ms ease;
 	background-image: url(../img/transparente5x5px.png);
 	background-repeat: all;
+}
+
+
+
+
+
+
+/*COLORES DE CARRERAS*/
+
+/*azul oscuro*/
+.f-color-imecanica
+{
+	color: #001A5A;
+}
+/*verde limon*/
+.f-color-paromaticas
+{
+	color: #A3BD31;
+}
+/*admon empresas*/
+.f-color-aempresas
+{
+	color: #A01127;
+}
+/*contaduria publica a distancia*/
+.f-color-cpublica-dis
+{
+	color: #204B22;
+}
+/*mecanica dental*/
+.f-color-mdental
+{
+	color: #001A5A;
+}
+/*diseño de modas*/
+.f-color-dmodas
+{
+	color: #58167D;
+}
+/*mercadeo agropecuario*/
+.f-color-magropecuario
+{
+	color:#3C2C17;
+}
+/*ingenieria informática*/
+.f-color-iinformatica
+{
+	color:#4A72B2;
 }

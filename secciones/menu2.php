@@ -41,8 +41,8 @@
                 <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ingenieria" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ingeniería </a>
                 <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="ingenieria">
                   <a class=" dropdown-item hvr-underline-from-left" href="ingenieria-electronica.php">Ingenieria electrónica</a>
-                  <a class=" dropdown-item hvr-underline-from-left">Ingenieria Mecánica</a>
-                  <a class=" dropdown-item hvr-underline-from-left">Ingenieria Informática</a>                  
+                  <a class=" dropdown-item hvr-underline-from-left" href="ingenieria-mecanica.php">Ingenieria Mecánica</a>
+                  <a class=" dropdown-item hvr-underline-from-left" href="ingenieria-informatica.php">Ingenieria Informática</a>                  
                 </div>
               </li>
             </ul>
@@ -52,8 +52,10 @@
               <li class="col-12 nav-item dropdown dropright ">
                 <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ciencias-admon-conta" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ciencias Adm. y Contables</a>
                 <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="ciencias-admon-conta">
-                  <a class=" dropdown-item hvr-underline-from-left">Administración de Empresas</a>
-                  <a class=" dropdown-item hvr-underline-from-left">Contaduria Publica </a>
+                  <a class=" dropdown-item hvr-underline-from-left" href="administracion-empresas.php">Administración de Empresas</a>
+                  <a class=" dropdown-item hvr-underline-from-left" href="administracion-empresas-a-distancia.php">Administración de Empresas a distancia</a>
+                  <a class=" dropdown-item hvr-underline-from-left" href="contaduria-publica.php">Contaduria Publica </a>
+                  <a class=" dropdown-item hvr-underline-from-left" href="contaduria-publica-a-distancia.php">Contaduria Pública a distancia</a>
                 </div>
               </li>
             </ul>
@@ -64,7 +66,7 @@
               <li class="col-12 nav-item dropdown dropright ">
                 <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="bellas-artes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Bellas artes</a>
                 <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="bellas-artes">
-                  <a class=" dropdown-item hvr-underline-from-left">Tecnología en Diseño<br> de Modas (No ofertado)</a>
+                  <a class=" dropdown-item hvr-underline-from-left" href="diseno-de-modas.php">Tecnología en Diseño<br> de Modas (No ofertado)</a>
                   <a class=" dropdown-item hvr-underline-from-left">Técnico laboral por<br> competencias en Diseño<br> de Modas y Confección</a>
                 </div>
               </li>
@@ -75,7 +77,7 @@
               <li class="col-12 nav-item dropdown dropright ">
                 <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ciencias-salud" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ciencias de la Salud:</a>
                 <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="ciencias-salud">
-                  <a class=" dropdown-item hvr-underline-from-left">Tecnología en Mecánica<br> Dental (No ofertado)</a>
+                  <a class=" dropdown-item hvr-underline-from-left" href="mecanica-dental.php">Tecnología en Mecánica<br> Dental (No ofertado)</a>
                 </div>
               </li>
             </ul>
@@ -92,8 +94,8 @@
         <li class="col-12 nav-item dropdown dropright ">
           <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="programas-virtuales" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Programas Virtuales </a>
           <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-c" aria-labelledby="programas-virtuales">
-            <a class=" dropdown-item hvr-underline-from-left">Tecnología en Mercadeo<br>Agropecuario</a>
-            <a class=" dropdown-item hvr-underline-from-left">Tecnología en <br>Transformación de<br>Plantas Aromáticas</a>
+            <a class=" dropdown-item hvr-underline-from-left" href="mercadeo-agropecuario.php">Tecnología en Mercadeo<br>Agropecuario</a>
+            <a class=" dropdown-item hvr-underline-from-left" href="plantas-aromaticas.php">Tecnología en <br>Transformación de<br>Plantas Aromáticas</a>
 
             
           </div>
