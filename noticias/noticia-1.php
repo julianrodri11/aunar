@@ -72,9 +72,127 @@
     </div>
   </div>
   <!-- fin noticia 2 -->
+</div>
+
+  <div class="container bg-primary">
+    <div class="row d-flex justify-content-center">
+      <div class="col-12">
+      <!-- silider -->
+              
+                <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="500">
+
+                  <!-- Indicators -->
+                  <ul class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                  </ul>
+                  
+                  <!-- The slideshow -->
+                  <div class="carousel-inner">
+                    <div class="carousel-item active bg-success">
+                      <div class="card-group">
+                          <div class="card p-4">
+                            <img class="card-img-top" src="http://dummyimage.com/150x100/3f73f5/333.png?text=NOTICIAS" alt="Card image cap" width="90%">
+                            <div class="card-body fuente-institucional texto-azul">
+                              <h5 class="card-title f-negrita">MAQUINARTE</h5>
+                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius cupiditate labore ratione fugiat culpa, quidem eveniet accusantium itaque adipisci ad?</p>
+                              <p class="card-text"><small class="text-muted">Leer más</small></p>
+                            </div>
+                          </div>
+                          <div class="card p-4">
+                            <img class="card-img-top" src="http://dummyimage.com/150x100/3f73f5/333.png?text=NOTICIAS" alt="Card image cap" width="90%">
+                            <div class="card-body fuente-institucional texto-azul">
+                              <h5 class="card-title f-negrita">MAQUINARTE</h5>
+                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis nisi animi voluptatibus omnis aliquam cumque sint consequatur expedita similique et.</p>
+                              <p class="card-text"><small class="text-muted">Leer más</small></p>
+                            </div>
+                          </div>
+                          <div class="card p-4">
+                            <img class="card-img-top" src="http://dummyimage.com/150x100/3f73f5/333.png?text=NOTICIAS" alt="Card image cap" width="90%">
+                            <div class="card-body fuente-institucional texto-azul">
+                              <h5 class="card-title f-negrita">MAQUINARTE</h5>
+                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, unde, placeat. Totam consequatur consectetur ipsam provident laborum, velit maiores obcaecati.</p>
+                              <p class="card-text"><small class="text-muted">Leer más</small></p>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item p-4 bg-warning">
+                      <div class="card-group">
+                          <div class="card p-4">
+                            <img class="card-img-top" src="http://dummyimage.com/150x100/AFAECE/333.png?text=NOTICIAS" alt="Card image cap" width="90%">
+                            <div class="card-body fuente-institucional texto-azul">
+                              <h5 class="card-title f-negrita">MAQUINARTE</h5>
+                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius cupiditate labore ratione fugiat culpa, quidem eveniet accusantium itaque adipisci ad?</p>
+                              <p class="card-text"><small class="text-muted">Leer más</small></p>
+                            </div>
+                          </div>
+                          <div class="card p-4">
+                            <img class="card-img-top" src="http://dummyimage.com/150x100/AFAECE/333.png?text=NOTICIAS" alt="Card image cap" width="90%">
+                            <div class="card-body fuente-institucional texto-azul">
+                              <h5 class="card-title f-negrita">MAQUINARTE</h5>
+                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis nisi animi voluptatibus omnis aliquam cumque sint consequatur expedita similique et.</p>
+                              <p class="card-text"><small class="text-muted">Leer más</small></p>
+                            </div>
+                          </div>
+                          <div class="card p-4">
+                            <img class="card-img-top" src="http://dummyimage.com/150x100/AFAECE/333.png?text=NOTICIAS" alt="Card image cap" width="90%">
+                            <div class="card-body fuente-institucional texto-azul">
+                              <h5 class="card-title f-negrita">MAQUINARTE</h5>
+                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, unde, placeat. Totam consequatur consectetur ipsam provident laborum, velit maiores obcaecati.</p>
+                              <p class="card-text"><small class="text-muted">Leer más</small></p>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item p-4 bg-success">
+                      <div class="card-group">
+                          <div class="card p-4">
+                            <img class="card-img-top" src="http://dummyimage.com/150x100/898989/333.png?text=NOTICIAS" alt="Card image cap" width="90%">
+                            <div class="card-body fuente-institucional texto-azul">
+                              <h5 class="card-title f-negrita">MAQUINARTE</h5>
+                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius cupiditate labore ratione fugiat culpa, quidem eveniet accusantium itaque adipisci ad?</p>
+                              <p class="card-text"><small class="text-muted">Leer más</small></p>
+                            </div>
+                          </div>
+                          <div class="card p-4">
+                            <img class="card-img-top" src="http://dummyimage.com/150x100/898989/333.png?text=NOTICIAS" alt="Card image cap" width="90%">
+                            <div class="card-body fuente-institucional texto-azul">
+                              <h5 class="card-title f-negrita">MAQUINARTE</h5>
+                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis nisi animi voluptatibus omnis aliquam cumque sint consequatur expedita similique et.</p>
+                              <p class="card-text"><small class="text-muted">Leer más</small></p>
+                            </div>
+                          </div>
+                          <div class="card p-4">
+                            <img class="card-img-top" src="http://dummyimage.com/150x100/898989/333.png?text=NOTICIAS" alt="Card image cap" width="90%">
+                            <div class="card-body fuente-institucional texto-azul">
+                              <h5 class="card-title f-negrita">MAQUINARTE</h5>
+                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, unde, placeat. Totam consequatur consectetur ipsam provident laborum, velit maiores obcaecati.</p>
+                              <p class="card-text"><small class="text-muted">Leer más</small></p>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                  </div> <!--fin carrousel inner -->
+                  
+                  <!-- Left and right controls -->
+                  <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+                    <span class="carousel-control-prev-icon"></span>
+                  </a>
+                  <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+                    <span class="carousel-control-next-icon"></span>
+                  </a>
+                </div>
+                
+                <!-- fin slider -->
+                </div>
+    </div>
+  </div>
 
   
   
   
-</div>
+  
+
 

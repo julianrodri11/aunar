@@ -4,18 +4,7 @@
         <h1 class="pb-4 fuente-institucional texto-azul f-negrita e_arriba_abajo">Enlaces de interés</h1>
     </div>
 
-  <div class="row text-center justify-content-center  fuente-institucional f-x-small e_rotacion">    
-    <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
-        <div class="p-2 ">
-            <a href="#" data-toggle="tooltip" data-placement="bottom" title="Ir a " target="_blanck">
-                <img class="img-fluid hvr-pop" src="img/iconos/periodico.svg" alt="">
-            </a>
-        </div>
-            <p class="pt-2 mb-0 f-size-16">Periódico Estudiantil</p> 
-    </div>
-
-
-    
+  <div class="row text-center justify-content-center  fuente-institucional f-x-small e_rotacion">        
 
 
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">

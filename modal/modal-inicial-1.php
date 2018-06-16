@@ -30,7 +30,7 @@
                
               </div>
 
- <!-- --------silider-------- -->
+                <!-- silider -->
               
                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
@@ -62,7 +62,8 @@
                     <span class="carousel-control-next-icon"></span>
                   </a>
                 </div>
-              <!-- ----------------------- -->
+                
+                <!-- fin slider -->
 
           <!-- ----------- -->
 
