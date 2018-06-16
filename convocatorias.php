@@ -12,6 +12,7 @@
 			include_once('secciones/zoom.php');
 			include_once('secciones/redes-sociales-aunar.php');
 			include_once('secciones/modal-traductor.php');
+			include_once('modal/modal-contactenos.php');
 		?>
 		<div class="container-fluid">
 			<div class="row">
@@ -72,11 +73,7 @@
 					</div>
 					
 					</div> 		<!-- fin docentes y administrativos -->
-					<div class="row m-2">
-						
-						<div class="col-12 col-lg-6"><div class="col-9 mx-auto fuente-institucional text-center p-2 fondo-azul-oscuro text-white bor-red-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, esse!</div></div>
-						<div class="col-12 col-lg-6"><div class="col-9 mx-auto fuente-institucional text-center p-2 fondo-azul-oscuro text-white bor-red-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, quae!</div></div>
-					</div>
+					
 				</div>
 			</div>
 			

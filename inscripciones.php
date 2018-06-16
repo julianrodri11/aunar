@@ -12,6 +12,7 @@
 		include_once('secciones/zoom.php');
 		include_once('secciones/redes-sociales-aunar.php');
 		include_once('secciones/modal-traductor.php');
+		include_once('modal/modal-contactenos.php');
 
 	?>
 
@@ -29,25 +30,25 @@
 			<div class="col-12 p-3"><h1 class="texto-azul f-negrita"> Sistema de inscripciones en línea </h1></div>
 		</div>
 		<div class="row m-2">			
-			<div class="col-12 col-lg-2 fondo-amarillo">
+			<div class="col-12 col-lg-2 fondo-amarillo-intenso">
 				<div class=""><h1 class="text-center text-lg-left text-white f-negrita p-2">1.</h1></div>
 			</div>
 			<div class="col-12 col-lg-10">Diríjase a la sección Preinscripción y diligencie los datos solicitados en el formulario.</div>
 		</div>
 		<div class="row m-2">
-			<div class="col-12 col-lg-3 fondo-amarillo">
+			<div class="col-12 col-lg-3 fondo-amarillo-intenso">
 				<div class=""><h1 class="text-center text-lg-left text-white f-negrita p-2">2.</h1></div>
 			</div>
 			<div class="col-12 col-lg-9 text-justify">Una vez registre los datos realice clic en el botón Enviar. Sus datos serán validados y verificados en nuestra base de datos</div>
 		</div>
 		<div class="row m-2">
-			<div class="col-12 col-lg-4 fondo-amarillo">
+			<div class="col-12 col-lg-4 fondo-amarillo-intenso">
 				<div class=""><h1 class="text-center text-lg-left text-white f-negrita p-2">3.</h1></div>
 			</div>
 			<div class="col-12 col-lg-8 text-justify">Los aspirantes a programas presenciales, virtuales o a distancia deben descargar el formulario e imprimir una copia, descargar e imprimir el formato de pago, cancelar el valor de la inscripción y anexar los requisitos solicitados.</div>
 		</div>
 		<div class="row m-2">
-			<div class="col-12 col-lg-5 fondo-amarillo">
+			<div class="col-12 col-lg-5 fondo-amarillo-intenso">
 				<div class=""><h1 class="text-center text-lg-left text-white f-negrita p-2">4.</h1></div>
 			</div>
 			<div class="col-12 col-lg-7 text-justify">Si el estudiante es aspirante a un programa virtual envíe los requisitos solicitados en medio físico a la siguiente dirección: Carrera 28 No 19 - 24 Centro - San Juan de Pasto - Nariño. Sus datos registrados quedarán consignados en nuestra base de datos.</div>
@@ -56,52 +57,50 @@
 			<div class="col-0 col-lg-4 ">
 				<div class=""></div>
 			</div>
-			<div class="col-12 col-lg-8"><div class="col-9 mx-auto fuente-institucional text-center p-2 fondo-azul-oscuro text-white bor-red-20">Por favor revise las pestañas Requisitos y Admisiones para obtener mayor información</div></div>
+			<div class="col-12 col-lg-8"><div class="col-9 mx-auto fuente-institucional text-center p-2 fondo-azul-oscuro text-white">Por favor revise las pestañas Requisitos y Admisiones para obtener mayor información</div></div>
 		</div>
 	</div>
 </div>	
 
 	
 <!-- PREINSCRIPCIÓN -->
-
-	<div class="container-fluid">
-		<div class="row  ">
-			<div class="col-12 col-lg-4 ">				
-				<div class="row mt-5">
-					<div class=" col-12  fondo-amarillo text-center"><h1 class=" f-negrita fuente-institucional texto-azul">Preinscripción</h1> </div> 
-				</div>
+	
+	<div class=" contenedor_preinscripcion">
+		<img src="img/admisiones-autonoma-de-narino.jpg" alt="Norway" style="width:100%;">
+		  <div class="text-block"> 
+			<div class=" text-center">	
+				<div class="col-12 text-center"><h1 class=" f-negrita fuente-institucional texto-azul">Preinscripción</h1> </div> 			
+				<div class="col-12 texto-azul">Para realizar su Preinscripción haga clic en el siguiente enlace</div>
+				<div class="col-12"><a class="btn text-light fondo-azul-oscuro pt-sans hvr-forward" href="http://inscripciones.aunar.edu.co/inscripcion.php">Click aquí</a> </div>
 			</div>
-			<div class=" col-12 col-lg-8 fondo-gris-c pt-5 pb-5  border-bottom borde-azul ">
-				<div class="row text-center">				
-					<div class="col-12">Para realizar su Preinscripción haga clic en el siguiente enlace</div>
-					<div class="col-12"><a class="btn text-light fondo-azul-oscuro" href="http://inscripciones.aunar.edu.co/inscripcion.php">Click aquí</a> </div>
-				</div>
-			</div>
-		</div>		
+		  </div>
+	  
 	</div>
 
 <!-- REQUISITOS -->
 
 	<div class="container-fluid  border-bottom borde-azul">
 		<div class="row  ">
-			<div class="col-12 col-lg-4 ">				
-				<div class="row mt-5 pt-3">
-					<div class=" col-12  fondo-amarillo text-center"><h1 class=" f-negrita fuente-institucional texto-azul">Requisitos</h1> </div> 
+			<div class="col-12 col-lg-12 ">				
+				<div class="row mt-5 pt-3 d-flex justify-content-center">
+					<div class="col-12 col-lg-5  fondo-amarillo-intenso text-center"><h1 class=" f-negrita fuente-institucional texto-azul">Requisitos</h1> </div> 
 				</div>
 			</div>
-			<div class=" col-12 col-lg-8 fondo-gris-c pl-5 pt-3 pb-3   ">
-				<div class="row ">				
-					<div class="col-12">* Copia de documento de identidad ampliado 150% (Tarjeta de identidad, cédula de ciudadanía o contraseña)</div>
-					<div class="col-12">* Copia a color de resultados PRUEBAS SABER 11 (ICFES)</div>
-					<div class="col-12">* Copia del diploma de bachillerato</div>
-					<div class="col-12">* Copia del acta de grado</div>
-					<div class="col-12">* Certificado médico</div>
-					<div class="col-12">* Examen de serología</div>
-					<div class="col-12">* Registro civil</div>
-					<div class="col-12">* Copia carné de salud</div>
-					<div class="col-12">* Libreta militar</div>
-					<div class="col-12">* 1 Foto fondo azul 3x4</div>
-					<div class="col-12">* 1 Carpeta ocio color café</div>					
+			<div class=" col-12 col-lg-12 pl-5 pt-3 pb-3   ">
+				<div class="row d-flex justify-content-center">	
+					<div class="col-12 col-lg-6 ">
+						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i> Copia de documento de identidad ampliado 150% (Tarjeta de identidad, cédula de ciudadanía o contraseña)</div>
+						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Copia a color de resultados PRUEBAS SABER 11 (ICFES)</div>
+						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Copia del diploma de bachillerato</div>
+						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Copia del acta de grado</div>
+						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Certificado médico</div>
+						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Examen de serología</div>
+						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Registro civil</div>
+						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Copia carné de salud</div>
+						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Libreta militar</div>
+						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  1 Foto fondo azul 3x4</div>
+						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  1 Carpeta ocio color café</div>
+					</div>
 				</div>
 
 			</div>
@@ -111,19 +110,19 @@
 
 
 	<!-- consulta de admitidos -->
-	<div class="container-fluid">
+	<div class="container-fluid ">
 		<div class="row fondo-gris-os mt-5">
 			<div class="container">
-				<div class="col-12 p-2 "><h1 class=" f-negrita fuente-institucional texto-azul">Consulta de admitidos</h1></div>
+				<div class="col-12 p-2 "><h1 class=" f-negrita fuente-institucional texto-azul text-center">Consulta de admitidos</h1></div>
 			</div>
 		</div>		
-		<div class="container">
-			<div class="">
-				<div class="col-12"><h3 class="p-2 f-negrita fuente-institucional texto-azul">Aspirantes a programas presenciales y a distancia</h3></div>
+		<div class="container border-bottom borde-azul pb-4">
+			<div class="mt-4   ">
+				<div class="col-12"><h3 class="p-2 f-negrita fuente-institucional texto-azul text-center">Aspirantes a programas presenciales y a distancia</h3></div>
 				<div class="col-12 text-justify pt-sans texto-azul">Todo aspirante de programa presencial y a distancia debe realizar su preinscripción por medio de esta página. Posteriormente, cancelar el valor de inscripción en la cuenta especicada en su recibo de pago. Una vez consignado el pago, deben acercarse a la Ofc. de Mercadeo para legalizar su inscripción con los documentos requeridos y el soporte de pago de inscripción.
 				<div class="col-12  mt-3">
-					<div class="row">
-						<a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Conoce más</a>
+					<div class="row d-flex justify-content-center">
+						<a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">leer más</a>
 						<a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Pdf admitidos</a>
 					</div>
 				</div>
@@ -135,9 +134,9 @@
 
 <!-- Aspirantes a programas de pregado -->
 	<div class="container-fluid">
-		<div class="row fondo-gris-os mt-5">
+		<div class="row mt-3">
 			<div class="container">
-				<div class="col-12 p-2"><h1 class=" f-negrita fuente-institucional texto-azul">Aspirantes a programas virtuales</h1></div>
+				<div class="col-12 p-2 text-center"><h1 class=" f-negrita fuente-institucional texto-azul">Aspirantes a programas virtuales</h1></div>
 			</div>
 		</div>		
 		<div class="container">

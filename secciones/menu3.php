@@ -15,14 +15,7 @@
     </div>
 
 
-    <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
-        <div class="p-2 ">
-            <a href="#" data-toggle="tooltip" data-placement="bottom" title="Ir a " target="_blanck">
-                <img class="img-fluid hvr-pop" src="img/iconos/album.svg" alt="">
-            </a>
-        </div>
-            <p class="pt-2 mb-0 f-size-16">Albúm Fotográfico</p> 
-    </div>
+    
 
 
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
@@ -103,17 +96,7 @@
         </div>
             <p class="pt-2 mb-0 f-size-16">Bisel Estudiantes</p> 
     </div>
-
-
-    <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
-        <div class="p-2 ">
-            <a href="#" data-toggle="tooltip" data-placement="bottom" title="Ir a " target="_blanck">
-                <img class="img-fluid hvr-pop" src="img/iconos/publicaciones.svg" alt="">
-            </a>
-        </div>
-            <p class="pt-2 mb-0 f-size-16">Publicaciones</p> </div> 
-
-
+ 
 
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
         <div class="p-2 ">

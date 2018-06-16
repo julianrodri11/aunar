@@ -3,9 +3,9 @@
 <footer class="cinta">
   
   <div class="container-fluid pt-4">
-    <div class="container py-1">
+    <div class="container py-1 ">
       
-      <div class="row ">
+      <div class="row d-flex justify-content-between">
         <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 ">
           <label class=" texto-amarillo fuente-institucional small f-negrita" >NORMATIVIDAD INSTITUCIONAL</label>
           <div class="mb-1 text-light fuente-institucional small">Estatuto general</div>
@@ -16,7 +16,7 @@
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
           <label class=" texto-amarillo fuente-institucional small f-negrita" >PROGRAMAS ACADÉMICOS</label>
-          <div class="mb-1 text-light fuente-institucional small">Por facultades</div>
+          <div class="mb-1 text-light fuente-institucional small">Facultades</div>
           <div class="mb-1 text-light fuente-institucional small">Programas</div>
           <div class="mb-1 text-light fuente-institucional small">Modalidades</div>
         </div>
@@ -35,18 +35,13 @@
         </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
           <label class=" texto-amarillo fuente-institucional small f-negrita" >FORMATOS INSTITUCIONALES</label>
-          <div class="mb-1 text-light fuente-institucional small ">Hoja de vida docentes</div>
-          <div class="mb-1 text-light fuente-institucional small ">Hoja de vida administrativos</div>
-        </div>
-        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-          <label class=" texto-amarillo fuente-institucional small f-negrita" >FORMATOS INSTITUCIONALES</label>
           <div class="mb-1 text-light fuente-institucional small ">
             <a class="text-white" href="docs/hoja_vida_docentes.doc" data-toggle="tooltip" data-placement="auto" title="Descargar formato hoja de vida docentes" target="_blanck">Hoja de vida docentes</a>
           </div>
           <div class="mb-1 text-light fuente-institucional small ">
             <a class="text-white" href="docs/hoja_vida_docentes.doc" data-toggle="tooltip" data-placement="auto" title="Descargar formato hoja de vida administrativos" target="_blanck">Hoja de vida administrativos</a>
           </div>
-          <div class="mb-1 text-light fuente-institucional small ">Actualización de formatos organigrama</div>
+          
         </div>
         
       </div>
