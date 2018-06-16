@@ -168,31 +168,31 @@
 
 
 <!-- -----------------EVENTOS--------------------------------- -->
-<div class="container-fluid fondo-amarillo">
+<div class="container-fluid fondo-amarillo fondo-eventos">
   <div class="row">
     <div class="col-lg-12 p-2 d-flex align-items-center justify-content-center justify-content-sm-center justify-content-md-center e_arriba_abajo">
         
           <div class="p-1 mt-5 mt-sm-5 bd-highlight text-center pr-3">
             <h1 class="my-1 fuente-institucional texto-azul f-negrita">Eventos</h1>
-            <label class="texto-azul f-myriad">Entérate nuestras novedades</label>
+            <label class="texto-azul f-myriad f-size-16">!Entérate nuestras novedades¡</label>
           </div>
           <!-- div class="p-1 bg-primary bd-highlight">Flex item 2</div>
           <div class="p-1 bg-white bd-highlight">Flex item 3</div> -->                
     </div>
 
-    <div class="col-lg-12 p-5 ">
+    <div class="col-lg-12  ">
       <div class="row p-3 ">
-        <div class="col-md-6 p-2  border-right border-white fondo-gris-os  hvr-grow-shadow izquierda_derecha">
-          <div class="col p-2 text-center "><img class="img-fluid" width="100%" alt="AUNAR ESTEREO" src="img/aunar_stereo.jpg"/></div>
-          <div class=" texto-azul text-center ">
+        <div class="col-md-6 p-2 hvr-grow-shadow izquierda_derecha d-flex align-items-center" >
+          <div class="col p-2 text-center "><img class="img-fluid" width="100%" alt="AUNAR ESTEREO" src="img/aunar-stereo.png"/></div>
+          <!-- <div class=" texto-azul text-center ">
             <div class="row">
                 <div class="col-12 mb-0 p-0 fuente-institucional ">AUNAR STEREO</div>
                 <div class="col-12 "><label class="f-size-14">¡Tú también puedes ser un creador de espacios de diálogo!</label></div>
             </div>
-          </div>
+          </div> -->
         </div>
-        <div class="col-md-6 p-3 derecha_izquierda">           
-            <div class="col-12 p-4 mb-3 ">
+        <div class="col-md-6 p-3 derecha_izquierda d-flex align-items-center">           
+            <div class="col-12 p-4 mb-3">
             
               <!-- seccion de eventos  -->
               <!-- evento 1 -->

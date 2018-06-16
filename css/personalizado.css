@@ -471,9 +471,18 @@ font-weight: bold;
 	background-size: cover;/*necesario para que se mire en todas las pantallas*/
 
 }
+/*fondo de pupitres en cada carrera del texto 
+  Deseas Preinscribirse en este programa*/
 .fondo-carreras
 {
 	background-image: url("../img/carreras-aunar.jpg");
+	background-size: cover;/*necesario para que se mire en todas las pantallas*/
+
+}
+
+.fondo-eventos
+{
+	background-image: url("../img/eventos-autonoma-de-narino.jpg");
 	background-size: cover;/*necesario para que se mire en todas las pantallas*/
 
 }
