@@ -202,9 +202,7 @@ font-weight: bold;
 
 .carousel-control-prev,
 .carousel-control-next {
-  position: absolute;
-  /*top: 4;*/
-  /*bottom: 50px;*/
+  /*position: absolute;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-align: center;
@@ -215,8 +213,10 @@ font-weight: bold;
   color: #fff;
   text-align: center;
   opacity: 0.5;
-  padding: 30px;
+  padding: 30px;*/
   /*background-color: red;*/
+  /*bottom: 50px;*/
+  /*top: 4;*/
 }
 
 .navbar
