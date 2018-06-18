@@ -140,6 +140,9 @@
 <?php include_once('noticias/noticia-1.php');?>
 <!-- ----------------FIN SECCIÓN NOTICIAS--------------------- -->
 
+<!-- ----------------SECCIÓN NOTICIAS------------------------- -->
+<?php include_once('slider/noticias-autonoma-de-narino.php');?>
+<!-- ----------------FIN SECCIÓN NOTICIAS--------------------- -->
 
 <!-- ----------------OFERTAS DE INTERES ---------------------- -->
 <div class="container-fluid fondo-gris-os p-4 ">

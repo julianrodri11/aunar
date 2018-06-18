@@ -65,6 +65,13 @@
 				</div>
 			</div>
 		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-12 fuente-institucional texto-azul f-negrita pt-3">COMPARTE ESTE CONTENIDO</div>
+				<div class="col-12 fuente-institucional texto-azul f-negrita pt-3">INCONOS DE REDES SOCIALES</div>
+			</div>
+		</div>
+		<?php include_once('slider/noticias-autonoma-de-narino.php') ?>
 
 	</body>
 </html>
