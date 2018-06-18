@@ -141,7 +141,14 @@
 			<div class="row p-4 m-1 bg-secondary">PLAN DE ESTUDIOS</div>
 		</div>
 		<div class="container-fluid">
-			<div class="row p-4 m-1 bg-secondary">Eveniet minus, deserunt.</div>
+			<div class="row  m-1 fuente-institucional texto-azul">
+				<div class="col-4 p-4 fondo-amarillo-intenso hover-texto-blanco text-center f-negrita">Mlla Curricular</div>
+				<div class="col-4"></div>
+				<div class="col-4 p-4 fondo-amarillo-intenso hover-texto-blanco text-center f-negrita">Grupos de Investigacón</div>
+				<div class="col-12">
+					<img class="img-fluid" width="100%" src="img/carreras/ingenieria-electronica-docentes-aunar.jpg" alt="docentes ingenieria-electronica autónoma de nariño" />
+				</div>
+			</div>
 		</div>
 	</body>
 </html>

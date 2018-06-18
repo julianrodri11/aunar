@@ -26,18 +26,20 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-2 p-2 fondo-azul text-white">
-					<div class="col-12 p-1 text-right f-negrita">ENERO</div>
-					<div class="col-12 p-1 text-right">Maquinarte</div>
-					<div class="col-12 p-1 text-right">Feria Institucional</div>
-					<div class="col-12 p-1 text-right">Maquinarte</div>
-					<div class="col-12 p-1 text-right">Feria Institucional</div>
-					<div class="col-12 p-1 text-right">Maquinarte</div>
-					<div class="col-12 p-1 text-right">Feria Institucional</div>
-					<div class="col-12 p-1 text-right"></div>
-					<div class="col-12 p-1 text-right"></div>
-					<div class="col-12 text-right f-negrita">FEBRERO</div>
-					<div class="col-12 text-right f-negrita">MARZO</div>
-					<div class="col-12 text-right f-negrita">ABRIL</div>
+					<div class="col-12 pr-2 pt-3 text-right f-negrita">ENERO</div>
+					<div class="col-12 p-2 text-right"></div>
+					<div class="col-12 p-2 text-right"></div>
+					<div class="col-12 pr-2 text-right">Maquinarte</div>
+					<div class="col-12 pr-2 text-right">Feria Institucional</div>
+					<div class="col-12 pr-2 text-right">Maquinarte</div>
+					<div class="col-12 pr-2 text-right">Feria Institucional</div>
+					<div class="col-12 pr-2 text-right">Maquinarte</div>
+					<div class="col-12 pr-2 text-right">Feria Institucional</div>
+					<div class="col-12 p-2 text-right"></div>
+					<div class="col-12 p-2 text-right"></div>
+					<div class="col-12 pr-2 text-right f-negrita">FEBRERO</div>
+					<div class="col-12 pr-2 text-right f-negrita">MARZO</div>
+					<div class="col-12 pr-2 text-right f-negrita">ABRIL</div>
 					
 				</div>
 				<div class="col-10 p-lg-5 fondo-gris-c">
@@ -71,7 +73,11 @@
 				<div class="col-12 fuente-institucional texto-azul f-negrita pt-3">INCONOS DE REDES SOCIALES</div>
 			</div>
 		</div>
+	<!-- selider de noticias -->
 		<?php include_once('slider/noticias-autonoma-de-narino.php') ?>
+	<!-- fin selider de noticias -->
+
+	
 
 	</body>
 </html>
