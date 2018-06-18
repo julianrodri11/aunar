@@ -44,7 +44,7 @@
 <!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
 
 <!-- ----------------MENÚ INSTITUCIONAL----------------------- -->   
- <?php include_once('/modal/modal-contactenos.php');?>
+ <?php include_once('modal/modal-contactenos.php');?>
 <!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
 
 
