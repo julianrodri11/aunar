@@ -244,7 +244,7 @@
             <h4 class="texto-amarillo f-negrita fuente-institucional  ">Portal Noticias</h4>
           </div>
           <div class="col-4 d-flex align-items-center justify-content-center">
-            <a href="#" class="p-2 border borde-azul badge badge-pill bg-white hover-amarillo hover-texto-blanco texto-azul">Más Noticias</a>
+            <a href="portal-noticias-aunar.php" class="p-2 border borde-azul badge badge-pill bg-white hover-amarillo hover-texto-blanco texto-azul">Más Noticias</a>
           </div>
         </div>
       </div>
