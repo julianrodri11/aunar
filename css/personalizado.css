@@ -262,7 +262,7 @@ font-weight: bold;
 /* redes sociales */
 
 /*efectos radios sobre el logo */
- #efecto-borde1
+ .efecto-borde1
 {		
 	-webkit-transition:all 0.4s ease-out;
     -moz-transition: all 0.4s ease-out;
@@ -270,15 +270,9 @@ font-weight: bold;
     transition: all 0.4s ease-out;
 }
 
-#efecto-borde2
-{		
-	-webkit-transition-duration: 3s;
-    -moz-transition-duration: 3s;
-    -o-transition-duration: 3s;
-    transition-duration: 3s;
-}
 
-#efecto-borde1:hover
+
+.efecto-borde1-hover
 {		            
 	/*background-color: #10447A;			
 	border-width: 2px;
@@ -298,17 +292,7 @@ font-weight: bold;
 	
 }
 
-#efecto-borde2:hover
-{	
-	/*background-color: #FFD608;			
-	border-width: 3px;
-	border-style: solid;
-	border-color: white !important;	
-	-webkit-transition-duration: 100ms;
-    -moz-transition-duration: 100ms;
-    -o-transition-duration: 100ms;
-    transition-duration: 100ms;*/
-}
+
 /*FIN efectos radios sobre el logo */
 
 
