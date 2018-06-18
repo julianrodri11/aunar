@@ -23,5 +23,33 @@
 		</div>
 		<?php include_once('secciones/menu2.php'); ?>
 
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-2 p-2 fondo-azul text-white">
+					<div class="col-12 p-1 text-right f-negrita">ENERO</div>
+					<div class="col-12 p-1 text-right">Maquinarte</div>
+					<div class="col-12 p-1 text-right">Feria Institucional</div>
+					<div class="col-12 p-1 text-right">Maquinarte</div>
+					<div class="col-12 p-1 text-right">Feria Institucional</div>
+					<div class="col-12 p-1 text-right">Maquinarte</div>
+					<div class="col-12 p-1 text-right">Feria Institucional</div>
+					<div class="col-12 p-1 text-right"></div>
+					<div class="col-12 p-1 text-right"></div>
+					<div class="col-12 text-right f-negrita">FEBRERO</div>
+					<div class="col-12 text-right f-negrita">MARZO</div>
+					<div class="col-12 text-right f-negrita">ABRIL</div>
+					
+				</div>
+				<div class="col-10 p-lg-5 fondo-gris-c">
+					<div class="row d-flex justify-content-center fuente-institucional">
+						<div class="col-8 text-center f-negrita texto-azul border-bottom borde-azul pb-3">
+							Ipialeña ha conseguido importantes reconocimientos en campeonatos internacionales de ciclo montañismo
+						</div>
+						<div class="col-8"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
 	</body>
 </html>
