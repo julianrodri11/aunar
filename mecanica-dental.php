@@ -140,8 +140,9 @@
 		<div class="container-fluid">
 			<div class="row p-4 m-1 bg-secondary">PLAN DE ESTUDIOS</div>
 		</div>
-		<div class="container-fluid">
-			<div class="row p-4 m-1 bg-secondary">Eveniet minus, deserunt.</div>
-		</div>
+		
+		<!-- malla curricular -->
+		<?php include_once('secciones/malla-curricular.php'); ?>
+
 	</body>
 </html>

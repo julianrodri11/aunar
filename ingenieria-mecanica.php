@@ -67,7 +67,7 @@
         <div class="col-12 col-lg-7 mt-2 hvr-wobble-horizontal text-right ">
         	<div class="col-12 fuente-institucional text-white f-negrita f-size-18 text-right">¿Deseas Preinscribirse en este programa?</div>
         	<div class="col-12 fuente-institucional text-white f-size-16 text-right">Encuentra toda la información</div>
-        	<div class="col-12 fuente-institucional f-size-16 text-right"><a href="" class="f-color-imecanica">Aquí</a></div>
+        	<div class="col-12 fuente-institucional f-size-16 text-right"><a href="" class="texto-amarillo">Aquí</a></div>
         </div>        
       </div>     
     </div>
@@ -140,8 +140,10 @@
 		<div class="container-fluid">
 			<div class="row p-4 m-1 bg-secondary">PLAN DE ESTUDIOS</div>
 		</div>
-		<div class="container-fluid">
-			<div class="row p-4 m-1 bg-secondary">Eveniet minus, deserunt.</div>
-		</div>
+		
+		<!-- malla curricular -->
+		<?php include_once('secciones/malla-curricular.php'); ?>
+
+
 	</body>
 </html>

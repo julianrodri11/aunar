@@ -431,7 +431,12 @@ font-weight: bold;
 	background-repeat: repeat-x;	
 	background-size: contain;
 }
-
+.cinta-slider
+{		
+	background-image: url("../img/1px.png");	
+	background-repeat: repeat-x;	
+	background-size: contain;
+}
 .fondo-mundo
 {
 	background-image: url("../img/donde-quieres-estudiar-aunar.jpg");
