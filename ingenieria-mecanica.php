@@ -2,7 +2,7 @@
 <html lang="es">
 	<head>
 		<?php /*ENLACES DE LIBRERIAS*/ include_once('secciones/links-local.php');  ?>
-		<title>Convocatorias Autónoma de Nariño</title>
+		<title>Ingeniería Mecánica - Autónoma de Nariño</title>
 	</head>
 	<body>
 		
@@ -21,6 +21,7 @@
 				</div>
 			</div>
 		</div>
+		<?php include_once('secciones/menu2.php');?>
 		<div class="container-fluid">
 			<div class="row ">
 				<div class="col-12 col-lg-5 col-md-6 fondo-gris-c p-5">

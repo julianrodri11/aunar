@@ -271,28 +271,6 @@ font-weight: bold;
 }
 
 
-
-.efecto-borde1-hover
-{		            
-	/*background-color: #10447A;			
-	border-width: 2px;
-	border-style: solid;
-	border-color: #FFD608 !important; /*borde amarillo */
-	/*-webkit-box-shadow: 0px 0px 19px 0px rgba(247,247,10,1);
-	-moz-box-shadow: 0px 0px 19px 0px rgba(247,247,10,1);
-	box-shadow: 0px 0px 19px 0px rgba(247,247,10,1);*/
-
-	/*aumentar el tamaño del loho*/
-	-webkit-transform: scale(1.3);
-	-moz-transform: scale(1.3);
-	-o-transform: scale(1.3);
-	transform: scale(1.3);
-	
-	
-	
-}
-
-
 /*FIN efectos radios sobre el logo */
 
 
