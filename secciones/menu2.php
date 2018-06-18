@@ -124,6 +124,30 @@
         </li>
       </ul>
 
+
+
+      <ul class="navbar-nav"> <!-- navbar-nav -->
+        <li class="col-12 nav-item dropdown dropright ">
+          <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="cursos-diplomas" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Cursos y Diplomas</a>
+          <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-c" aria-labelledby="cursos-diplomas">
+            <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum</a>
+
+             <!-- }}}}}}}}}}}}}} -->
+            <ul class="navbar-nav"> 
+              <li class="col-12 nav-item dropdown dropright ">
+                <a class="nav-link dropdown-toggle fuente-institucional texto-azul" href="" id="loremlll" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Lorem ipsum.</a>
+                <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="loremlll">
+                  <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a>
+                  <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a>
+                  <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a>                  
+                </div>
+              </li>
+            </ul>
+            <!-- }}}}}}}}}}}}}} -->
+          </div>
+        </li>
+      </ul>
+
     </div>
 
   </li>
