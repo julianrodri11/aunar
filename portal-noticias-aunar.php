@@ -49,10 +49,10 @@
 
 						<div class="col-8 pt-sans f-italica p-lg-4"><p>Leidy Mera, estudiante de la Corporación Universitaria Autónoma de Nariño, sede Ipiales, ha ganado importantes reconocimientos a nivel mundial debido a su pasión y dedicación por el ciclo montañismo ¡Conozcamos esta desafiante historia!</p></div>
 						
-						<div class="col-10">
+						<div class="col-8">
 							<img class="mx-auto img-fluid" width="100%" src="img/noticias/slider-portal-de-noticias.jpg"/>
 						</div>
-						<div class="col-10 text-justify ">
+						<div class="col-8 text-justify pt-3">
 							<h5 class="text-center">¿Quién eres?</h5>
 							<p>Mi nombre es Leidy Johana Mera, pertenezco a la Corporación Universitaria Autónoma de Nariño y hace diez años practico el ciclo montañismo.</p>
 							<p>Cuéntanos tu historia con este deporte</p>
