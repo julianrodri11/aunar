@@ -5,7 +5,7 @@
       <div class="col-12 ">
       <!-- silider -->
               
-              <div id="myCarousel2" class="carousel slide " data-ride="carousel" data-interval="2000">
+              <div id="myCarousel2" class="carousel slide " data-ride="carousel" data-interval="4000">
 
               <!-- Indicators -->
               <!-- <ul class="carousel-indicators ">
@@ -25,7 +25,7 @@
                             <div class="card-body">
                               <h5 class="card-title f-negrita">MAQUINARTE 1</h5>
                               <p class="card-text f-myriad text-justify">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante eventoMAQUINARTE: IX MUESTRA DE PROYECTOS DE INGENIERíA</p>
-                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">leer más</a>
+                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">LEER MÁS</a>
                             </div>
                           </div>
                         <!-- fin noticia -->
@@ -37,7 +37,7 @@
                             <div class="card-body">
                               <h5 class="card-title f-negrita">MAQUINARTE 1</h5>
                               <p class="card-text f-myriad text-justify">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante eventoMAQUINARTE: IX MUESTRA DE PROYECTOS DE INGENIERíA</p>
-                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">leer más</a>
+                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">LEER MÁS</a>
                             </div>
                           </div>
                         <!-- fin noticia -->
@@ -49,7 +49,7 @@
                             <div class="card-body">
                               <h5 class="card-title f-negrita">MAQUINARTE 1</h5>
                               <p class="card-text f-myriad text-justify">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante eventoMAQUINARTE: IX MUESTRA DE PROYECTOS DE INGENIERíA</p>
-                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">leer más</a>
+                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">LEER MÁS</a>
                             </div>
                           </div>
                         <!-- fin noticia -->
@@ -66,7 +66,7 @@
                             <div class="card-body">
                               <h5 class="card-title f-negrita">MAQUINARTE 2</h5>
                               <p class="card-text f-myriad text-justify">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante eventoMAQUINARTE: IX MUESTRA DE PROYECTOS DE INGENIERíA</p>
-                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">leer más</a>
+                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado sin-texto-subrayado">LEER MÁS</a>
                             </div>
                           </div>
                         <!-- fin noticia -->
@@ -78,7 +78,7 @@
                             <div class="card-body">
                               <h5 class="card-title f-negrita">MAQUINARTE 2</h5>
                               <p class="card-text f-myriad text-justify">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante eventoMAQUINARTE: IX MUESTRA DE PROYECTOS DE INGENIERíA</p>
-                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">leer más</a>
+                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">LEER MÁS</a>
                             </div>
                           </div>
                         <!-- fin noticia -->
@@ -90,7 +90,7 @@
                             <div class="card-body">
                               <h5 class="card-title f-negrita">MAQUINARTE 2</h5>
                               <p class="card-text f-myriad text-justify">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante eventoMAQUINARTE: IX MUESTRA DE PROYECTOS DE INGENIERíA</p>
-                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">leer más</a>
+                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado sin-texto-subrayado">LEER MÁS</a>
                             </div>
                           </div>
                         <!-- fin noticia -->
@@ -107,7 +107,7 @@
                             <div class="card-body">
                               <h5 class="card-title f-negrita">MAQUINARTE 3</h5>
                               <p class="card-text f-myriad text-justify">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante eventoMAQUINARTE: IX MUESTRA DE PROYECTOS DE INGENIERíA</p>
-                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">leer más</a>
+                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">LEER MÁS</a>
                             </div>
                           </div>
                         <!-- fin noticia -->
@@ -119,7 +119,7 @@
                             <div class="card-body">
                               <h5 class="card-title f-negrita">MAQUINARTE 3</h5>
                               <p class="card-text f-myriad text-justify">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante eventoMAQUINARTE: IX MUESTRA DE PROYECTOS DE INGENIERíA</p>
-                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">leer más</a>
+                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">LEER MÁS</a>
                             </div>
                           </div>
                         <!-- fin noticia -->
@@ -131,7 +131,7 @@
                             <div class="card-body">
                               <h5 class="card-title f-negrita">MAQUINARTE 3</h5>
                               <p class="card-text f-myriad text-justify">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante eventoMAQUINARTE: IX MUESTRA DE PROYECTOS DE INGENIERíA</p>
-                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">leer más</a>
+                              <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">LEER MÁS</a>
                             </div>
                           </div>
                         <!-- fin noticia -->

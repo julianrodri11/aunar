@@ -1,5 +1,5 @@
 <!-- menu 1 -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top bg-white texto-azul bg-success" id="navbar1" >
+<nav class="navbar navbar-expand-lg navbar-light fixed-top bg-white texto-azul bg-success f-negrita" id="navbar1" >
   <!--div class=" "><a class=" mx-auto navbar-brand fuente-institucional texto-azul f-size-18 " data-toggle="tooltip" data-placement="auto" title="Ir al inicio" href="index.php"><i class="fa fa-home"></i></a></div-->
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon "></span>MENÚ
@@ -9,7 +9,7 @@
       <li class="nav-item pt-2 pb-2  dropdown">
         <a class=" nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-left border-left borde-amarillo hvr-underline-from-center" href="inscripciones.php" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
         <div class="dropdown-menu f-size-12" aria-labelledby="admisiones">
-          <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="inscripciones.php" target="_blanck">Admisiones</a>
+          <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="inscripciones.php">Admisiones</a>
           <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck">Ayudas y Becas</a>
           <ul class="navbar-nav"> <!-- navbar-nav -->
           <li class="col-12 nav-item dropdown dropright ">
@@ -64,8 +64,8 @@
 </ul>
 <div class="rectangulo-sesgado pt-2 pb-2 animated bounceInRight">
 <div class="row pt-3 mt-1 ml-0  float-right float-md-none mr-2">
-  <div class=" f-italica f-negrita hvr-underline-from-center f-size-14 ">La Tecnología es el Camino hacia un Mundo sin Fronteras</div>
-  <span class="ml-1 mr-1  badge badge-pill badge-primary fondo-azul" data-toggle="modal"   data-target="#btn_traductor">Idioma</span>
+  <div class=" f-italica f-negrita f-size-14 ">La Tecnología es el Camino hacia un Mundo sin Fronteras</div>
+  <span class="ml-1 mr-1  badge badge-pill badge-primary fondo-azul pointer" data-toggle="modal"   data-target="#btn_traductor">Idioma</span>
 </div>
 </div>
 <!-- <form class="form-inline my-2 my-lg-0">
@@ -75,3 +75,6 @@
 </div>
 </nav>
 <!-- fin menu -->
+
+<!-- boton ir al inicio -->
+<button class="efecto-borde1" onclick="iralinicio()" id="myBtn" title="Go to top">Inicio</button>

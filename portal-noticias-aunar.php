@@ -14,6 +14,7 @@
 			include_once('secciones/modal-traductor.php');
 			include_once('modal/modal-contactenos.php');
 		?>
+		<div class="container-fluid"><div class="row p-3 ">.</div></div>
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-12">
@@ -21,6 +22,7 @@
 				</div>
 			</div>
 		</div>
+
 		<?php include_once('secciones/menu2.php'); ?>
 
 		<div class="container-fluid">
@@ -74,7 +76,9 @@
 			</div>
 		</div>
 	<!-- selider de noticias -->
-		<?php include_once('slider/noticias-autonoma-de-narino.php') ?>
+		<?php 
+			include_once('slider/noticias-autonoma-de-narino.php');
+			include_once('secciones/footer-principal.php'); ?>
 	<!-- fin selider de noticias -->
 
 	

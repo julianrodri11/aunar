@@ -24,10 +24,10 @@
 		</div>
 	</div>
 
-<div class="container-fluid border-bottom borde-azul pb-4">
+<div class="container-fluid pb-4">
 	<div class="container fuente-institucional ">
 		<div class="row ">		
-			<div class="col-12 p-3"><h1 class="texto-azul f-negrita"> Sistema de inscripciones en línea </h1></div>
+			<div class="col-12 p-3 py-5"><h1 class="texto-azul f-negrita"> Sistema de inscripciones en línea </h1></div>
 		</div>
 		<div class="row m-2">			
 			<div class="col-12 col-lg-2 fondo-amarillo-intenso">
@@ -70,7 +70,7 @@
 		  <div class="text-block"> 
 			<div class=" text-center">	
 				<div class="col-12 text-center"><h1 class=" f-negrita fuente-institucional texto-azul">Preinscripción</h1> </div> 			
-				<div class="col-12 texto-azul">Para realizar su Preinscripción haga clic en el siguiente enlace</div>
+				<div class="col-12 texto-azul">Para realizar su Preinscripción</div>
 				<div class="col-12"><a class="btn text-light fondo-azul-oscuro pt-sans hvr-forward" href="http://inscripciones.aunar.edu.co/inscripcion.php">Click aquí</a> </div>
 			</div>
 		  </div>
@@ -79,7 +79,7 @@
 
 <!-- REQUISITOS -->
 
-	<div class="container-fluid  border-bottom borde-azul">
+	<div class="container-fluid ">
 		<div class="row  ">
 			<div class="col-12 col-lg-12 ">				
 				<div class="row mt-5 pt-3 d-flex justify-content-center">
@@ -88,7 +88,7 @@
 			</div>
 			<div class=" col-12 col-lg-12 pl-5 pt-3 pb-3   ">
 				<div class="row d-flex justify-content-center">	
-					<div class="col-12 col-lg-6 ">
+					<div class="col-12 col-lg-6 texto-azul ">
 						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i> Copia de documento de identidad ampliado 150% (Tarjeta de identidad, cédula de ciudadanía o contraseña)</div>
 						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Copia a color de resultados PRUEBAS SABER 11 (ICFES)</div>
 						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Copia del diploma de bachillerato</div>
@@ -122,8 +122,8 @@
 				<div class="col-12 text-justify pt-sans texto-azul">Todo aspirante de programa presencial y a distancia debe realizar su preinscripción por medio de esta página. Posteriormente, cancelar el valor de inscripción en la cuenta especicada en su recibo de pago. Una vez consignado el pago, deben acercarse a la Ofc. de Mercadeo para legalizar su inscripción con los documentos requeridos y el soporte de pago de inscripción.
 				<div class="col-12  mt-3">
 					<div class="row d-flex justify-content-center">
-						<a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">leer más</a>
-						<a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Pdf admitidos</a>
+						<a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">LEER MÁS</a>
+						<a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">PDF ADMITIDOS</a>
 					</div>
 				</div>
 				

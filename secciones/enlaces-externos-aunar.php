@@ -1,11 +1,12 @@
 <!-- -----------------IMAGENES ENLACES DE EXTERNOS----------------------------- -->
 <div class="container-fluid p-4  fondo-amarillo bg-white fuente-institucional">
   <div class="row text-center justify-content-center ">
-    <div class=" col-12 fuente-institucional texto-azul f-negrita e_arriba_abajo "><h1 class="pb-4 fuente-institucional texto-azul f-negrita">Enlaces Externos</h1></div>
+    <div class=" col-12 fuente-institucional texto-azul py-4 f-negrita e_arriba_abajo "><h1 class="pb-4 fuente-institucional texto-azul f-negrita">Enlaces Externos</h1></div>
+    
     <div class=" col-lg-1 col-sm-2 col-md-2 col-3 ">
       <div class="p-0">
-        <a href="http://www.comuna.com.co/" class="hvr-wobble-vertical" target="_blanck">
-          <img class="img-fluid " src="img/comuna-cooperativa.png" alt="Comuna">
+        <a href="http://mail.google.com/a/aunar.edu.co/" class="hvr-wobble-vertical" target="_blanck">
+          <img class="img-fluid " src="img/logo.gif" alt="Correo institucional aunar">
         </a>
       </div>      
     </div>
@@ -52,8 +53,8 @@
 
     <div class=" col-lg-1 col-sm-2 col-md-2 col-3 ">
       <div class="p-0">
-        <a href="http://mail.google.com/a/aunar.edu.co/" class="hvr-wobble-vertical" target="_blanck">
-          <img class="img-fluid " src="img/logo.gif" alt="Correo institucional aunar">
+        <a href="http://www.comuna.com.co/" class="hvr-wobble-vertical" target="_blanck">
+          <img class="img-fluid " src="img/comuna-cooperativa.png" alt="Comuna">
         </a>
       </div>      
     </div>

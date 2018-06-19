@@ -53,10 +53,10 @@
 <div class="container-fluid fondo-gris-c ">
   <div class="row pt-5 pb-5 ">
     <div class="col-lg-3 col-md-3 col-sm-12">
-        <div class="row p-3 fondo-azul text-white">
-          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_1.pdf" data-toggle="tooltip" data-placement="left" title="Ver Cronograma General 2017-1" target="_blank">Calendario Académico 2017-1</a></div>
-          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_2.pdf" data-toggle="tooltip" data-placement="left" title="Ver Calendario Académico 2017-2" target="_blank">Calendario Académico 2017-2</a></div>
-          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2018_1.pdf" data-toggle="tooltip" data-placement="left" title="Ver Calendario Académico 2018-1" target="_blank">Calendario Académico 2018-1</a></div>          
+        <div class="row p-3 fondo-azul text-white d-flex justify-content-center align-items-center">
+          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_1.pdf" target="_blank">Calendario Académico 2017-1</a></div>
+          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_2.pdf" target="_blank">Calendario Académico 2017-2</a></div>
+          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2018_1.pdf" target="_blank">Calendario Académico 2018-1</a></div>          
         </div>
     </div>
     <div class="col-lg-7 col-md-6 col-sm-12 text-center">
@@ -68,7 +68,7 @@
         </div>
     </div>
     <div class="col-lg-2 col-md-3 col-sm-12 border-left borde-azul">
-        <div class="pt-1 pl-1 mt-sm-5  text-center  "><h3 class=" mt-0 fuente-institucional texto-azul f-negrita hvr-underline-from-center hvr-buzz-out">Plan de Inversión</h3></div>
+        <div class="pt-1 pl-1 mt-sm-5  text-center  "><h3 class=" mt-0 fuente-institucional texto-azul f-negrita hvr-underline-from-center pointer">Plan de Inversión</h3></div>
     </div>
   </div>
 </div>
@@ -76,7 +76,7 @@
 <!-- --------------------FIN DOCUMENTOS----------------------- -->
 
 <!-- ----------------DONDE QUIERES ESTUDIAR------------------- -->
-<div class="container-fluid">
+<div class="container-fluid mb-5">
   <div class="row fondo-mundo">
      <div class="row col-12">
       <div class="row col-12 col-lg-6 col-xl-6 p-2  d-flex align-content-center justify-content-center izquierda_derecha">
@@ -121,7 +121,7 @@
                 </select>
               </div>
              
-              <button type="submit" class="btn btn-primary fondo-amarillo float-right f-negrita pt-sans hvr-forward">Enviar</button>
+              <button type="submit" class="btn btn-primary fondo-amarillo float-right f-negrita pt-sans hvr-forward">Buscar</button>
             </form>
 
           </div>
@@ -144,13 +144,13 @@
 <?php include_once('slider/noticias-autonoma-de-narino.php');?>
 <div class="container-fluid">
       <div class="row d-flex justify-content-center ">
-        <div class="col-6 col-lg-3 p-2 fondo-azul-oscuro">
+        <div class="col-6 col-lg-8 p-2 fondo-azul-oscuro">
           <div class="row ">
             <div class="col-8 d-flex align-items-center justify-content-center">
               <h4 class="texto-amarillo f-negrita fuente-institucional  ">Portal Noticias</h4>
             </div>
             <div class="col-4 d-flex align-items-center justify-content-center">
-              <a href="portal-noticias-aunar.php" class="p-2 border borde-azul badge badge-pill bg-white hover-amarillo hover-texto-blanco texto-azul">Más Noticias</a>
+              <a href="portal-noticias-aunar.php" class="p-2 border borde-azul badge badge-pill bg-white hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">Más Noticias</a>
             </div>
           </div>
         </div>
@@ -169,7 +169,7 @@
     </div>
     <div class="col-12 col-lg-12 d-flex align-items-center justify-content-center ">
       <div class="text-center ">
-        <a href="#" class="p-2 border borde-azul badge badge-pill bg-white hover-texto-blanco hover-amarillo  texto-azul">Ver Oferta</a>
+        <a href="#" class="p-2 border borde-azul badge badge-pill bg-white hover-texto-blanco hover-amarillo  texto-azul sin-texto-subrayado">Ver Oferta</a>
         </div>
     </div>
   </div>
@@ -216,9 +216,9 @@
               <div class="row p-1 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
                 <div class="col-md-4 col-12 aaa ">
                   <div class=" hexagon p-4">
-                    <div class="row pt-2 text-center f-myriad "> 
-                      <span class="col-12">20</span>
-                      <span class="col-12">Jun</span>
+                    <div class="row pt-2 text-center "> 
+                      <span class="col-12 f-myriad">20</span>
+                      <span class="col-12 f-myriad">Jun</span>
                     </div>
                   </div>
                 </div> 
@@ -234,9 +234,9 @@
                <div class="row p-1 pl-5 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
                 <div class="col-md-4 col-12 ">
                   <div class=" hexagon p-4">
-                    <div class="row pt-2 text-center f-myriad "> 
-                      <span class="col-12">17</span>
-                      <span class="col-12">Jul</span>
+                    <div class="row pt-2 text-center "> 
+                      <span class="col-12 f-myriad">17</span>
+                      <span class="col-12 f-myriad">Jul</span>
                     </div>
                   </div>
                 </div> 
@@ -252,9 +252,9 @@
                <div class="row p-1 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
                 <div class="col-md-4 col-12 ">
                   <div class=" hexagon p-4">
-                    <div class="row pt-2 text-center f-myriad "> 
-                      <span class="col-12">30</span>
-                      <span class="col-12">Agt</span>
+                    <div class="row pt-2 text-center "> 
+                      <span class="col-12 f-myriad">30</span>
+                      <span class="col-12 f-myriad">Agt</span>
                     </div>
                   </div>
                 </div> 

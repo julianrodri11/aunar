@@ -12,13 +12,30 @@
             // para arreglar el traductor
             $("#navbar1").removeClass("mt-5");
 
+            //boton de ir al inicio
+            document.getElementById("myBtn").style.display = "block";
+
         } else {          
             $("#cont-logo").removeClass("pl-3 pr-3 pl-sm-4 pr-sm-4  pl-md-4  pr-md-4  pl-lg-4 pr-lg-4  efecto-despues");        
             
             // para arreglar el traductor            
-            $("#navbar1").addClass("mt-0");            
+            $("#navbar1").addClass("mt-0");  
+
+            //boton ir al inicio ocultar
+            document.getElementById("myBtn").style.display = "none";          
         }
       });
+
+    //funcion que sirve para ir al inicio de la pagina cuando se haga click
+    function iralinicio() 
+    {
+      //document.body.scrollTop = 0;
+      //document.documentElement.scrollTop = 0;
+      var body = $("html, body");
+      body.stop().animate({scrollTop:0}, 500, 'swing', function() { 
+         //alert("Finished animating");
+      });
+    }
 
     //funcion cuando el mouse pase sobre el menu, se despliegue
     //  $(document).ready(function () 
