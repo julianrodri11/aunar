@@ -35,7 +35,7 @@
         <!-- imagen -->
         
             <div class="col-12">
-              <img class="img-fluid " src="img/noticias/noticia1.jpg" alt="Noticias Aunar" width="100%">
+              <img class="img-fluid " src="img/noticias/noticias-autonoma-de-narino-estudiantes.jpg" alt="Noticias Autónoma de Nariño" width="100%">
             </div>
         
       </div>
@@ -51,7 +51,7 @@
         <!-- imagen -->
         
             <div class="col-12">
-              <img class="img-fluid " src="img/noticias/noticia2.jpg" alt="Noticias Aunar" width="100%">
+              <img class="img-fluid " src="img/noticias/noticias-autonoma-de-narino.-docentes.jpg" alt="Noticias Aunar" width="100%">
             </div>
         
       </div>

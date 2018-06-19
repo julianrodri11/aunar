@@ -603,3 +603,10 @@ font-weight: bold;
 #myBtn:hover {
   background-color: #F4D460;
 }
+
+/*quitar color azul del menu dropdown item active*/
+.dropdown-item.active, .dropdown-item:active {
+    /*color: #F10000;*/
+    text-decoration: none;
+    background-color: #FFFFFF;
+}
