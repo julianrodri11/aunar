@@ -1,10 +1,10 @@
 <!-- -----------------MENU ICONOS----------------------------- -->
-<div class="container-fluid p-4   ">
+<div class="container-fluid pt-3   ">
     <div class="row justify-content-center">  
-        <h1 class="pb-4 py-4 fuente-institucional texto-azul f-negrita f-negrita e_arriba_abajo">Enlaces de interés</h1>
+        <h1 class="pt-3 pb-1 fuente-institucional texto-azul f-negrita f-negrita e_arriba_abajo">Enlaces de interés</h1>
     </div>
 
-  <div class="row d-flex text-center justify-content-around fuente-institucional f-x-small e_rotacion">        
+  <div class="row d-flex text-center justify-content-around fuente-institucional f-x-small e_rotacion pb-5">
 
 
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">

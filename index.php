@@ -41,6 +41,7 @@
 
 <!-- ----------------MENÚ INSTITUCIONAL----------------------- -->  
  <?php include_once('secciones/menu2.php');?> 
+ <?php //include_once('secciones/menu2_pruebas.php');?> 
 <!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
 
 <!-- ----------------MENÚ INSTITUCIONAL----------------------- -->   
@@ -52,23 +53,26 @@
 
 <div class="container-fluid fondo-gris-c ">
   <div class="row ">
-    <div class="col-lg-3 pt-5 pb-4 col-md-3 col-sm-12">
-        <div class="row p-3 fondo-azul text-white d-flex justify-content-center ">
+    <div class="col-lg-3 pt-5 pb-4 col-md-3 col-sm-12 d-flex justify-content-center align-items-center">
+        <div class="row p-3 fondo-azul text-white ">
           <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_1.pdf" target="_blank">Calendario Académico 2017-1</a></div>
           <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_2.pdf" target="_blank">Calendario Académico 2017-2</a></div>
           <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2018_1.pdf" target="_blank">Calendario Académico 2018-1</a></div>          
         </div>
     </div>
-    <div class="col-lg-7 pt-5 pb-4 col-md-6 col-sm-12 text-center">
-        <div class="row">
-          <div class="col-12 border-right borde-azul ">
-            <a href="docs/derechos_pecuniarios2018.pdf"  data-toggle="tooltip" data-placement="bottom" title="Click para ver derechos pecuniarios" target="_blank"> <img  class=" img-fluid" alt="Derechos pecuniarios autonoma de nariño" src="img/derechos.png"></a>
+    <div class="col-lg-7 pt-5 pb-4 col-md-6 col-sm-12 text-center ">
+        <div class="row ">
+          <div class="col-12 ">
+
+            <a class="hvr-underline-from-center pb-2" href="docs/derechos_pecuniarios2018.pdf"  data-toggle="tooltip" data-placement="bottom" title="Click aquí" target="_blank"> 
+              <img  class=" img-fluid" alt="Derechos pecuniarios autonoma de nariño" src="img/derechos.png"></a>
+
           </div>
-          <div class="col-12 p-3 texto-azul">Los siguientes son los montos de los derechos pecuniarios por servicios académicos y administrativos para el año 2018, debidamente aprobados por el Consejo Directivo de la Corporación Universitaria Autónoma de Nariño</div>
+          <div class="col-12 p-5 texto-azul">Los siguientes son los montos de los derechos pecuniarios por servicios académicos y administrativos para el año 2018, debidamente aprobados por el Consejo Directivo de la Corporación Universitaria Autónoma de Nariño</div>
         </div>
     </div>
-    <div class="col-lg-2 col-md-3 col-sm-12">
-        <div class="pl-1 pt-5 pb-4 text-center ">
+    <div class="col-lg-2 col-md-3 col-sm-12 d-flex justify-content-center align-items-center">
+        <div class="pl-1 pt-5 pb-4 text-center  border-left borde-azul">
           <h3 class=" mt-0 pt-0 fuente-institucional texto-azul f-negrita hvr-underline-from-center pointer">Plan de Inversión</h3>
         </div>
     </div>
@@ -81,7 +85,7 @@
 <div class="container-fluid mb-5">
   <div class="row fondo-mundo">
      <div class="row col-12">
-      <div class="row col-12 col-lg-6 col-xl-6 p-2  d-flex align-content-center justify-content-center izquierda_derecha">
+      <div class="row col-12 col-lg-6 col-xl-7 p-2  d-flex align-content-center justify-content-center izquierda_derecha">
         <div class="col-11 col-lg-10 fondo-amarillo mt-2 hvr-wobble-horizontal">
           <h1 class="f-negrita fuente-institucional text-center">¿Donde quieres estudiar?</h1>
         </div>
@@ -89,7 +93,7 @@
           <strong>AUNAR</strong> te permite elegir tu programa de interés para que estudies en cualquier sede del país
         </div>
       </div>
-      <div class="col-12 col-lg-6 col-xl-6 p-2 izquierda_derecha">
+      <div class="col-12 col-lg-6 col-xl-5 p-2 izquierda_derecha">
         <div class="row  d-flex justify-content-end mr-lg-2">          
           <div class="row col-12 col-lg-8 p-2 m-1">
             
@@ -144,15 +148,16 @@
 
 <!-- ----------------SECCIÓN NOTICIAS------------------------- -->
 <?php include_once('slider/noticias-autonoma-de-narino.php');?>
+
 <div class="container-fluid">
-      <div class="row d-flex justify-content-center ">
-        <div class="col-6 col-lg-8 p-2 fondo-azul-oscuro">
+      <div class="row d-flex justify-content-center">
+        <div class="col-12 col-lg-12 p-2 fondo-azul-oscuro">
           <div class="row ">
-            <div class="col-8 d-flex align-items-center justify-content-center">
+            <div class="col-12 col-sm-6 text-center text-sm-right">
               <h4 class="texto-amarillo f-negrita fuente-institucional  ">Portal Noticias</h4>
             </div>
-            <div class="col-4 d-flex align-items-center justify-content-center">
-              <a href="portal-noticias-aunar.php" class="p-2 border borde-azul badge badge-pill bg-white hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">Más Noticias</a>
+            <div class="col-12 col-sm-6 text-center text-sm-left">
+              <a href="portal-noticias-aunar.php" class="p-2 border borde-azul badge badge-pill bg-white hover-amarillo texto-azul sin-texto-subrayado hover-sin-borde">Más Noticias</a>
             </div>
           </div>
         </div>
@@ -171,7 +176,7 @@
     </div>
     <div class="col-12 col-lg-12 d-flex align-items-center justify-content-center ">
       <div class="text-center ">
-        <a href="#" class="p-2 border borde-azul badge badge-pill bg-white hover-texto-blanco hover-amarillo  texto-azul sin-texto-subrayado">Ver Oferta</a>
+        <a href="#" class="p-2 border borde-azul badge badge-pill bg-white hover-amarillo  texto-azul sin-texto-subrayado hover-sin-borde">Ver Oferta</a>
         </div>
     </div>
   </div>

@@ -5,9 +5,9 @@
 
 
     <div class="contenedor-ayuda ">
-      <div class="ico-ayuda  ">       
-        <div class="sombra-iconos p-1 icono-blanco  " data-toggle="modal"   data-target="#myModalContactenos">
-          <i class="fa fa-envelope" data-toggle="tooltip" data-placement="right" title="¿Necesitas ayuda?, haz click"></i>
+      <div class="ico-ayuda">       
+        <div class="sombra-iconos icono-blanco " data-toggle="modal"   data-target="#myModalContactenos">
+          <i class="fa fa-envelope " data-toggle="tooltip" data-placement="right" title="¿Necesitas ayuda?, haz click"></i>
         </div>
       </div>
     </div>

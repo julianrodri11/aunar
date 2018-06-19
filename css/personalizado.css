@@ -116,6 +116,11 @@ font-weight: bold;
 	color: white !important;	
 	border-color: white !important;
 }
+/*quitar borde de un elemento-usado en leer más en portal noticias-index*/
+.hover-sin-borde:hover
+{
+	border-color: none !important;
+}
 
 /*fondo amarillo para los menus y zonas que lo requieran*/
 .fondo-amarillo
@@ -133,7 +138,7 @@ font-weight: bold;
 {
 	font-size:35px;
 	color:lightblue;
-	text-shadow:2px 2px 2px #000000;
+	text-shadow:3px 3px 3px #000000;
 	color: #10447A !important;
 }
 .icono-blanco
@@ -371,7 +376,7 @@ font-weight: bold;
     width: 0px;
     height: 165px;    
     border-left: -50px solid red;
-    border-right: 50px solid #FFC208;
+    border-right: 50px solid #F4D460;
     border-bottom: 20px solid transparent;
 
     -webkit-transition: all 500ms ease;

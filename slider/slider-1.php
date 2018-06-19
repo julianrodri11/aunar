@@ -16,14 +16,14 @@
       </div-->
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/slider2.jpg" alt="Second slide">
+      <img class="d-block w-100" src="img/slider2.png" alt="Second slide">
       <!--div class="carousel-caption">
         <h3>Lorem Fuga, nesciunt </h3>
         <p>voluptatibus consectetur, consequuntur nemo necessitatibus.</p>
       </div-->
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/slider3.jpg" alt="Second slide">
+      <img class="d-block w-100" src="img/slider3.png" alt="Second slide">
       <!--div class="carousel-caption">
         <h3>Lorem ipsum.</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
