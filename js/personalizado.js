@@ -26,7 +26,10 @@
         }
       });
 
-    //funcion que sirve para ir al inicio de la pagina cuando se haga click
+    
+
+    //función que sirve para ir al inicio de la página cuando se haga click
+    //boton ubicado en el menú 1
     function iralinicio() 
     {
       //document.body.scrollTop = 0;
@@ -36,6 +39,8 @@
          //alert("Finished animating");
       });
     }
+
+
 
     //funcion cuando el mouse pase sobre el menu, se despliegue
     //  $(document).ready(function () 
@@ -49,7 +54,7 @@
 
      // para el modal de inicio
      
-     // 
+     
     $(document).ready(function(){
        // verifica si existe una sesión, si no existe abre el modal 
       
@@ -71,6 +76,7 @@
 
 
     // cuando se haga click en el cuadro de traducción
+    // baje un poco la margen para que se visualice bien el menú
     $(document).ready(function () 
     {
        $('#google_translate_element').click(function () 

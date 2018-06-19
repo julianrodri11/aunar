@@ -77,4 +77,4 @@
 <!-- fin menu -->
 
 <!-- boton ir al inicio -->
-<button class="efecto-borde1" onclick="iralinicio()" id="myBtn" title="Go to top">Inicio</button>
+<button class="efecto-borde1" onclick="iralinicio()" id="myBtn" title="Subir"><i class="fa fa-arrow-circle-up f-size-16"></i></button>

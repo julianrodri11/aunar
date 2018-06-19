@@ -30,7 +30,7 @@
         
         <!-- Modal body -->
         <div class="modal-body fondo-gris-c">
-          <button type="button" class="close bg-warning text-white" data-dismiss="modal" data-toggle="tooltip" data-placement="left" title="Cerrar">X</button>
+          <button type="button" class="close bg-warning text-white f-negrita" data-dismiss="modal" data-toggle="tooltip" data-placement="left" title="Cerrar">X</button>
 
           <!-- ---------- -->
           <div class="container-fluid bg-white">
@@ -39,7 +39,7 @@
               <div class="col-12 p-2 m-1 ">
                 <div class="row">
 
-                  <div class="col-12 p-2 text-center"><img class="img-fluid rounded-circle " src="img/aunar.jpg"></div>
+                  <div class="col-12 p-2 text-center"><img class="img-fluid rounded-circle " src="img/aunar.jpg" width="50%"></div>
                   <div class="col-12 p-2 text-justify pt-sans texto-azul">Si deseas hacer parte de nuestra institución, enviarnos un comentario o conocernos más, escríbenos:</div>
                 </div>
               </div>
