@@ -1,7 +1,7 @@
 <!-- -----------------MENU ICONOS----------------------------- -->
 <div class="container-fluid p-4   ">
     <div class="row justify-content-center">  
-        <h1 class="pb-4 py-4 fuente-institucional texto-azul f-negrita e_arriba_abajo">Enlaces de interés</h1>
+        <h1 class="pb-4 py-4 fuente-institucional texto-azul f-negrita f-negrita e_arriba_abajo">Enlaces de interés</h1>
     </div>
 
   <div class="row d-flex text-center justify-content-around fuente-institucional f-x-small e_rotacion">        
@@ -13,7 +13,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/v-institucional.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0 f-size-16">Video Institucional</p> 
+            <p class="pt-2 mb-0 f-size-16 texto-azul f-negrita">VIDEO INSTITUCIONAL</p> 
     </div>
 
 
@@ -23,7 +23,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/astereo.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0 f-size-16">Aunar Stereo</p> 
+            <p class="pt-2 mb-0 f-size-16 texto-azul f-negrita">AUNAR STEREO</p> 
     </div>
 
 
@@ -33,7 +33,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/aunartv.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0 f-size-16">Aunar TV</p> 
+            <p class="pt-2 mb-0 f-size-16 texto-azul f-negrita">AUNAR TV</p> 
     </div>
 
 
@@ -43,7 +43,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/campus-virtual.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0 f-size-16">Campus Virtual</p> 
+            <p class="pt-2 mb-0 f-size-16 texto-azul f-negrita">CAMPUS VIRTUAL</p> 
     </div>
 
 
@@ -53,7 +53,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/atech.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0 f-size-16">Aunar Tech</p> 
+            <p class="pt-2 mb-0 f-size-16 texto-azul f-negrita">AUNAR TECH</p> 
     </div>
 
 
@@ -63,7 +63,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/campus-presencial.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0 f-size-16">Campus Presencial</p> 
+            <p class="pt-2 mb-0 f-size-16 texto-azul f-negrita">CAMPUS PRESENCIAL</p> 
     </div>
 
 
@@ -73,7 +73,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/bdocentes.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0 f-size-16">Bisel Docentes</p>
+            <p class="pt-2 mb-0 f-size-16 texto-azul f-negrita">BISEL DOCENTES</p>
     </div>
 
 
@@ -83,7 +83,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/bestudiantes.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0 f-size-16">Bisel Estudiantes</p> 
+            <p class="pt-2 mb-0 f-size-16 texto-azul f-negrita">BISEL ESTUDIANTES</p> 
     </div>
  
 
@@ -93,7 +93,8 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/biblioteca.svg" alt="">
             </a>
         </div>
-            <p class="pt-2 mb-0 f-size-16">Biblíoteca</p> </div> 
+            <p class="pt-2 mb-0 f-size-16 texto-azul f-negrita">BIBLÍOTECA</P> 
+    </div> 
 
 
 
