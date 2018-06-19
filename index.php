@@ -51,24 +51,26 @@
 <!-- ------------------------DOCUMENTOS----------------------- -->
 
 <div class="container-fluid fondo-gris-c ">
-  <div class="row pt-5 pb-5 ">
-    <div class="col-lg-3 col-md-3 col-sm-12">
-        <div class="row p-3 fondo-azul text-white d-flex justify-content-center align-items-center">
+  <div class="row ">
+    <div class="col-lg-3 pt-5 pb-4 col-md-3 col-sm-12">
+        <div class="row p-3 fondo-azul text-white d-flex justify-content-center ">
           <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_1.pdf" target="_blank">Calendario Académico 2017-1</a></div>
           <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_2.pdf" target="_blank">Calendario Académico 2017-2</a></div>
           <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2018_1.pdf" target="_blank">Calendario Académico 2018-1</a></div>          
         </div>
     </div>
-    <div class="col-lg-7 col-md-6 col-sm-12 text-center">
+    <div class="col-lg-7 pt-5 pb-4 col-md-6 col-sm-12 text-center">
         <div class="row">
-          <div class="col-12 p-2">
+          <div class="col-12 ">
             <a href="docs/derechos_pecuniarios2018.pdf"  data-toggle="tooltip" data-placement="bottom" title="Click para ver derechos pecuniarios" target="_blank"> <img  class=" img-fluid" alt="Derechos pecuniarios autonoma de nariño" src="img/derechos.png"></a>
           </div>
-          <div class="col-12 p-2 texto-azul">Los siguientes son los montos de los derechos pecuniarios por servicios académicos y administrativos para el año 2018, debidamente aprobados por el Consejo Directivo de la Corporación Universitaria Autónoma de Nariño</div>
+          <div class="col-12 p-3 texto-azul">Los siguientes son los montos de los derechos pecuniarios por servicios académicos y administrativos para el año 2018, debidamente aprobados por el Consejo Directivo de la Corporación Universitaria Autónoma de Nariño</div>
         </div>
     </div>
-    <div class="col-lg-2 col-md-3 col-sm-12 border-left borde-azul">
-        <div class="pt-1 pl-1 mt-sm-5  text-center  "><h3 class=" mt-0 fuente-institucional texto-azul f-negrita hvr-underline-from-center pointer">Plan de Inversión</h3></div>
+    <div class="col-lg-2 col-md-3 col-sm-12 border-left borde-azul ">
+        <div class="pl-1 pt-5 pb-4 text-center">
+          <h3 class=" mt-0 pt-0 fuente-institucional texto-azul f-negrita hvr-underline-from-center pointer">Plan de Inversión</h3>
+        </div>
     </div>
   </div>
 </div>
