@@ -35,8 +35,7 @@
         </div>
         
         <!-- Modal footer -->
-        <div class="modal-footer">
-          <button type="button" class="btn btn-warning">Ver más</button>
+        <div class="modal-footer">          
           <button type="button" class="btn fondo-azul-oscuro text-white" data-dismiss="modal">Cerrar</button>
         </div>
         

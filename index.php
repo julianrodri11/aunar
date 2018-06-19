@@ -121,7 +121,7 @@
                 </select>
               </div>
              
-              <button type="submit" class="btn btn-primary fondo-amarillo float-right f-negrita pt-sans hvr-forward">Buscar</button>
+              <button type="button" class="btn btn-primary fondo-amarillo float-right f-negrita pt-sans hvr-forward">Buscar</button>
             </form>
 
           </div>
