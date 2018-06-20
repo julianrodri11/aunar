@@ -43,7 +43,7 @@
 					</div>
 					<div class="col-12 mt-5"> 
 						<label class="fuente-institucional f-color-cpublica-dis f-negrita">CONTACTOS</label><br>
-						<label class="fuente-institucional ">ingenieria.electronica@aunar.edu.co</label>
+						<label class="fuente-institucional ">x x x @aunar.edu.co</label>
 					</div>
 				</div>
 				<div class="col-12 col-lg-7 col-md-6 p-5">

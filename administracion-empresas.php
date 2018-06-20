@@ -28,31 +28,33 @@
 				<div class="col-12 col-lg-5 col-md-6 fondo-gris-c p-5">
 					<div class="col-12 "> <h3 class="fuente-institucional f-color-aempresas f-negrita">Identificación del programa</h3></div>
 					<div class="col-12 ">
-						<label for="">Facultad a la que está adscrito: <strong>Ingeniería</strong></label>
-						<label for="">Nombre del Programa:<strong> Ingeniería Electrónica</strong></label>
+						<label for="">Facultad a la que está adscrito: <strong>Ciencias Adm. Y contables</strong></label>
+						<label for="">Nombre del Programa:<strong> Administración de Empresas</strong></label>
 						<label for="">Nivel de formación:<strong> Profesional Universitario</strong></label>
-						<label for="">Título que otorga:<strong> Ingeniero Electrónico</strong></label>
+						<label for="">Título que otorga:<strong> Administrador(a) de Empresas</strong></label>
 						<label for="">Modalidad: <strong> Presencial</strong></label>
 						<label for="">Número de Semestres: <strong> 10 semestres</strong></label>
 						<label for="">Periodicidad de la admisión: <strong> Semestral</strong></label>
-						<label for="">Acuerdo de creación: <strong> Acuerdo Consejo Directivo No. 15 del 15 de septiembre 2005.</strong></label>
-						<label for="">Resolución de Registro Calificado: <strong> 10546 de agosto 2013</strong></label>
-						<label for="">Código SNIES: <strong> 52536</strong></label>
-						<label for="">Créditos: <strong> 174 </strong></label>
+						<label for="">Acuerdo de creación: <strong> Acuerdo Consejo Directivo N0. 12 del 17 de septiembre del 2005.</strong></label>
+						<label for="">Resolución de Registro Calificado: <strong> Resolución 06545, mayo 12 del 2015.</strong></label>
+						<label for="">Código SNIES: <strong> 52928</strong></label>
+						<label for="">Créditos: <strong> 162 </strong></label>
 						<label for="">Lugar de desarrollo del programa: <strong> Pasto – Nariño</strong></label>
 					</div>
 					<div class="col-12 mt-5"> 
 						<label class="fuente-institucional f-color-aempresas f-negrita">CONTACTOS</label><br>
-						<label class="fuente-institucional ">ingenieria.electronica@aunar.edu.co</label>
+						<label class="fuente-institucional ">x x x @aunar.edu.co</label>
 					</div>
 				</div>
 				<div class="col-12 col-lg-7 col-md-6 p-5">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-aempresas f-negrita">Objetivo General</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						<p>El Programa de Ingeniería Electrónica que ofrece la Corporación Universitaria Autónoma de Nariño posee el contenido curricular de la formación profesional que responde a los lineamientos nacionales e internacionales, complementando los elementos teóricos con los aspectos prácticos en un ambiente integral y dinámico en la formación de las competencias y saberes que dan competitividad al egresado, en un contexto cada vez más globalizado.							
+						<p>
+						El Programa de <strong>ADMINISTRACIÓN DE EMPRESAS</strong> de “AUNAR” se enfoca en el desarrollo de habilidades y conocimientos para el, análisis en la gestión y evaluación de procesos organizacionales en un contexto de desarrollo socio-económico autosostenible que ofrece. El Programa de administración de empresas Aunar es el único en el departamento de Nariño y Putumayo proveniente de una empresa netamente nariñense y dedicada a la sociedad de consumo de estrato social 1,2 y 3. Su flexibilidad permite ahondar en las áreas que el estudiante elija sin que esto signifique una debilidad en su capacidad integral; de hecho, la habilidad de desenvolverse en campos de muy diversa índole es una de las fortalezas del administrador de empresas. Formar un profesional como administrador de empresas para entregarlo a una sociedad de consumo con gran capacidad de trabajo en equipo, formador de formadores de aprender a aprender y de estar en permanente perfeccionamiento dado el avance científico y tecnológico.						
 						</p>
 						<p>
-							Específicamente el <strong> PROFESIONAL DE INGENIERÍA ELECTRÓNICA</strong>, será capaz de   desempeñarse en el sector industrial, en el diseño, investigación, desarrollo, innovación, consultoría, gestión, supervisión, implementación y mantenimiento de sistemas electrónicos. El campo del conocimiento del ingeniero en electrónica de la autónoma de Nariño está centrado en el diseño y desarrollo de todo tipo de circuitos electrónicos   con alto índice de complejidad, además dar soporte en los campos de las telecomunicaciones, electro medicina, automatización en las organizaciones en donde se desempeñe.
+						Formar un <strong> ADMINISTRADOR DE EMPRESAS</strong> con enfoque humanista, socialmente comprometido con la gestión de empresas, de carácter económico, industrial, financiero y de servicios en todos los sectores de la sociedad, orientado a la solución integral de problemas administrativos, con competencias investigativas y actitud competitiva para optimizar el uso de los recursos, formando profesionales con una sólida fundamentación epistemológica, metodológica y técnica que contribuya al desarrollo y la transformación de las organizaciones y del país.
+
 						</p>
 					</div>
 				</div>
@@ -79,11 +81,13 @@
 			<div class="row p-4 m-1 ">
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-aempresas f-negrita text-center">Misión</h3></div>
-					<div class="col-12 pt-sans text-justify">La misión del programa de Ingeniería Electrónica de la Corporación Universitaria Autónoma de Nariño, es la formación de Ingenieros en electrónica, competitivos en el mercado de la automatización, el control, las telecomunicaciones y la electro medicina, fieles a los principios Institucionales de excelencia académica y proyección social a partir de la recopilación de una excelente planta docente, un currículo pertinente con las problemáticas del entorno y las herramientas necesarias para una formación integral de calidad.</div>
+					<div class="col-12 pt-sans text-justify">El Programa de Administración de Empresas de La Corporación Universitaria Autónoma de Nariño, crea, dirige, conserva, participa y aprovecha conocimiento organizacional y administrativo, para   la formación de profesionales con perspectiva global, estratégica, comprensión humana y  enfoque social capaz de ofrecer servicios a las comunidades y unidades económicas, que requieran soporte profesional en el campo de la gestión empresarial.
+					</div>
 				</div>
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-aempresas f-negrita text-center">Visión</h3></div>
-					<div class="col-12 pt-sans text-justify">El programa de ingeniería electrónica de la Corporación Universitaria Autónoma de Nariño, será pionero en el manejo de nuevas tecnologías en las ciencias de la electrónica, líder en el sur-occidente Colombiano, en la formación de ingenieros en electrónica, generadora de procesos investigativos como base de la proyección social de nuestra región y formadora de profesionales humanos con alta responsabilidad social y cultural, ofreciendo a los beneficiaros de este programa el mejoramiento constante de su calidad de vida.</div>
+					<div class="col-12 pt-sans text-justify">En el año 2025 el Programa de Administración de Empresas será reconocido en los contextos local, nacional e internacional por la formación de profesionales íntegros e idóneos con autonomía intelectual e investigativa, comprometidos desde lo organizacional y administrativo con las causas sociales.
+					</div>
 				</div>
 			</div>
 		</div>

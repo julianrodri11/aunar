@@ -29,30 +29,30 @@
 					<div class="col-12 "> <h3 class="fuente-institucional f-color-iinformatica f-negrita">Identificación del programa</h3></div>
 					<div class="col-12 ">
 						<label for="">Facultad a la que está adscrito: <strong>Ingeniería</strong></label>
-						<label for="">Nombre del Programa:<strong> Ingeniería Electrónica</strong></label>
+						<label for="">Nombre del Programa:<strong> Ingeniería informática</strong></label>
 						<label for="">Nivel de formación:<strong> Profesional Universitario</strong></label>
-						<label for="">Título que otorga:<strong> Ingeniero Electrónico</strong></label>
-						<label for="">Modalidad: <strong> Presencial</strong></label>
-						<label for="">Número de Semestres: <strong> 10 semestres</strong></label>
+						<label for="">Título que otorga:<strong> Ingeniero(a) Informático(a)</strong></label>
+						<label for="">Modalidad: <strong> Distancia</strong></label>
+						<label for="">Número de Semestres: <strong> 9 semestres</strong></label>
 						<label for="">Periodicidad de la admisión: <strong> Semestral</strong></label>
-						<label for="">Acuerdo de creación: <strong> Acuerdo Consejo Directivo No. 15 del 15 de septiembre 2005.</strong></label>
-						<label for="">Resolución de Registro Calificado: <strong> 10546 de agosto 2013</strong></label>
+						<label for="">Acuerdo de creación: <strong> Acuerdo Consejo Directivo No. 56-10 de noviembre 5 de 2010.</strong></label>						
 						<label for="">Código SNIES: <strong> 52536</strong></label>
-						<label for="">Créditos: <strong> 174 </strong></label>
+						<label for="">Créditos: <strong>  </strong></label>
 						<label for="">Lugar de desarrollo del programa: <strong> Pasto – Nariño</strong></label>
 					</div>
 					<div class="col-12 mt-5"> 
 						<label class="fuente-institucional f-color-iinformatica f-negrita">CONTACTOS</label><br>
-						<label class="fuente-institucional ">ingenieria.electronica@aunar.edu.co</label>
+						<label class="fuente-institucional ">x x x @aunar.edu.co</label>
 					</div>
 				</div>
 				<div class="col-12 col-lg-7 col-md-6 p-5">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-iinformatica f-negrita">Objetivo General</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						<p>El Programa de Ingeniería Electrónica que ofrece la Corporación Universitaria Autónoma de Nariño posee el contenido curricular de la formación profesional que responde a los lineamientos nacionales e internacionales, complementando los elementos teóricos con los aspectos prácticos en un ambiente integral y dinámico en la formación de las competencias y saberes que dan competitividad al egresado, en un contexto cada vez más globalizado.							
+						<p>El programa de Ingeniería Informática de la Corporación Universitaria Autónoma de Nariño, es un programa en modalidad a distancia, que se orienta específicamente al desarrollo de software para atender las necesidades actuales, en el tratamiento de grandes volúmenes de datos.			
 						</p>
 						<p>
-							Específicamente el <strong> PROFESIONAL DE INGENIERÍA ELECTRÓNICA</strong>, será capaz de   desempeñarse en el sector industrial, en el diseño, investigación, desarrollo, innovación, consultoría, gestión, supervisión, implementación y mantenimiento de sistemas electrónicos. El campo del conocimiento del ingeniero en electrónica de la autónoma de Nariño está centrado en el diseño y desarrollo de todo tipo de circuitos electrónicos   con alto índice de complejidad, además dar soporte en los campos de las telecomunicaciones, electro medicina, automatización en las organizaciones en donde se desempeñe.
+							Específicamente el <strong> PROFESIONAL DE INGENIERÍA INFORMÁTICA</strong>, <label class="text-danger"> complementar Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim repellat ducimus, fugit sit explicabo autem voluptas, pariatur, veniam fugiat provident maxime? Itaque unde sequi eius, corporis dolore excepturi iste id maxime, cupiditate, reprehenderit harum autem distinctio inventore voluptatibus. Quas eos, cumque veniam ab unde sint, voluptates, maxime eius tempore molestias repellendus quasi. Voluptas numquam, libero alias quidem cum eligendi unde error, saepe hic, odio repellendus laboriosam molestiae illum, reiciendis id voluptatibus voluptatum facere. A, perspiciatis. Ullam modi, dolorum sunt at eligendi incidunt, dolores nisi. Cumque adipisci ratione aut blanditiis nisi commodi atque culpa qui? Consequatur distinctio, dicta et dolorem quos.
+								</label>
 						</p>
 					</div>
 				</div>
@@ -79,11 +79,14 @@
 			<div class="row p-4 m-1 ">
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-iinformatica f-negrita text-center">Misión</h3></div>
-					<div class="col-12 pt-sans text-justify">La misión del programa de Ingeniería Electrónica de la Corporación Universitaria Autónoma de Nariño, es la formación de Ingenieros en electrónica, competitivos en el mercado de la automatización, el control, las telecomunicaciones y la electro medicina, fieles a los principios Institucionales de excelencia académica y proyección social a partir de la recopilación de una excelente planta docente, un currículo pertinente con las problemáticas del entorno y las herramientas necesarias para una formación integral de calidad.</div>
+					<div class="col-12 pt-sans text-justify">El programa de Ingeniería Informática de la Corporación Universitaria Autónoma de Nariño, brinda la oportunidad de mejorar la calidad de vida de las personas a través de la formación profesional e investigativa en áreas relacionadas con la tecnología de la información, haciendo uso de la creatividad y la innovación para la solución de problemas presentes en nuestro contexto.
+					</div>
+
 				</div>
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-iinformatica f-negrita text-center">Visión</h3></div>
-					<div class="col-12 pt-sans text-justify">El programa de ingeniería electrónica de la Corporación Universitaria Autónoma de Nariño, será pionero en el manejo de nuevas tecnologías en las ciencias de la electrónica, líder en el sur-occidente Colombiano, en la formación de ingenieros en electrónica, generadora de procesos investigativos como base de la proyección social de nuestra región y formadora de profesionales humanos con alta responsabilidad social y cultural, ofreciendo a los beneficiaros de este programa el mejoramiento constante de su calidad de vida.</div>
+					<div class="col-12 pt-sans text-justify">El programa de Ingeniería Informática de la Corporación Universitaria Autónoma de Nariño, se consolidará como una de las mejores alternativas de educación de base tecnológica y científica con proyección nacional e internacional en el manejo de tecnologías de la información para la formación de profesionales líderes e innovadores con sentido ético y crítico, comprometidos con el desarrollo de la región.
+					</div>
 				</div>
 			</div>
 		</div>
