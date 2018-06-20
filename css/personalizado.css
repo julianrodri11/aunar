@@ -517,7 +517,7 @@ font-weight: bold;
 
 
 .eventos:hover>div>.hexagon
-{
+{	
 	background-image: url('../img/hexagono-azul.svg');
 	background-repeat: no-repeat;
    
