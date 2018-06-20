@@ -7,7 +7,7 @@
   <div class="collapse navbar-collapse f-size-12 " id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0  animated bounceInLeft">
       <li class="nav-item pt-2 pb-2  dropdown">
-        <a class=" nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-left border-left borde-amarillo hvr-underline-from-center" href="inscripciones.php" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
+        <a class=" nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-left borde-2 borde-amarillo hvr-underline-from-center" href="inscripciones.php" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
         <div class="dropdown-menu f-size-12" aria-labelledby="admisiones">
           <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="inscripciones.php">Admisiones</a>
           <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck">Ayudas y Becas</a>
@@ -28,7 +28,7 @@
       </div>
     </li>
     <li class="nav-item pt-2 pb-2 dropdown  ">
-      <a class=" nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-left borde-amarillo hvr-underline-from-center" href="#" id="estudiantes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Estudiantes</a>
+      <a class=" nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-left borde-2 borde-amarillo hvr-underline-from-center" href="#" id="estudiantes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Estudiantes</a>
       <div class="dropdown-menu f-size-12" aria-labelledby="estudiantes">
         <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/reglamento_estudiantil.pdf" target="_blanck">Reglamento Estudiantil</a>
         <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://estudiantes.aunar.edu.co/" target="_blanck">Bisel Estudiantes</a>
@@ -38,18 +38,18 @@
   </div>
 </li>
 <li class="nav-item pt-2 pb-2 dropdown  ">
-  <a class=" nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-left borde-amarillo hvr-underline-from-center" href="#" id="docentes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Docentes</a>
+  <a class=" nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-left borde-2 borde-amarillo hvr-underline-from-center" href="#" id="docentes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Docentes</a>
   <div class="dropdown-menu f-size-12" aria-labelledby="docentes">
     <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/reglamento_docentes.pdf" target="_blanck">Reglamento Docentes</a>
     <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://docentes.aunar.edu.co/"  target="_blanck">Bisel Docentes</a>
   </div>
 </li>
 <li class="nav-item pt-2 pb-2  ">
-  <a class=" nav-link texto-azul pl-md-2 pl-sm-2 border-left borde-amarillo hvr-underline-from-center" href="convocatorias.php">Convocatorias</a>
+  <a class=" nav-link texto-azul pl-md-2 pl-sm-2 border-left borde-2 borde-amarillo hvr-underline-from-center" href="convocatorias.php">Convocatorias</a>
 </li>
 <li class="nav-item pt-2 pb-2 dropdown  ">
-  <!--a class="nav-link active texto-azul pl-md-2 pl-sm-2 border-left borde-amarillo hvr-underline-from-center" href="#">Extensiones</a-->
-  <a class=" nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-left borde-amarillo hvr-underline-from-center" href="#" id="extensiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Extensiones</a>
+  <!--a class="nav-link active texto-azul pl-md-2 pl-sm-2 border-left borde-2 borde-amarillo hvr-underline-from-center" href="#">Extensiones</a-->
+  <a class=" nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-left borde-2 borde-amarillo hvr-underline-from-center" href="#" id="extensiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Extensiones</a>
   <div class="dropdown-menu f-size-12" aria-labelledby="extensiones">
     <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://aunarcali.edu.co/ext/" target="_blanck">Cali</a>
     <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://www.aunarvillavicencio.edu.co/"  target="_blanck">Villavicencio</a>
@@ -59,7 +59,7 @@
   </div>
 </li>
 <li class="nav-item pt-2 pb-2  ">
-  <a class=" nav-link texto-azul pl-md-2 pl-sm-2 border-left borde-amarillo hvr-underline-from-center" href="http://190.121.158.228/public/" target="_blanck">Graduados</a>
+  <a class=" nav-link texto-azul pl-md-2 pl-sm-2 border-left borde-2 borde-amarillo hvr-underline-from-center" href="http://190.121.158.228/public/" target="_blanck">Graduados</a>
 </li>
 </ul>
 <div class="rectangulo-sesgado pt-2 pb-2 animated bounceInRight">

@@ -40,8 +40,8 @@
 <!-- -----------------FIN SLIDER------------------------------ -->
 
 <!-- ----------------MENÚ INSTITUCIONAL----------------------- -->  
- <?php //include_once('secciones/menu2.php');?> 
- <?php include_once('secciones/menu2_pruebas.php');?> 
+ <?php include_once('secciones/menu2.php');?> 
+ <?php //include_once('secciones/menu2_pruebas.php');?> 
 <!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
 
 <!-- ----------------MENÚ INSTITUCIONAL----------------------- -->   

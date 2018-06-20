@@ -1,5 +1,5 @@
 <!-- menu 1 -->
-<nav class=" navbar-expand  fuente-institucional navbar-light justify-content-center bg-white texto-azul p-4 py-4" id="navbar2" >
+<nav class=" navbar-expand  fuente-institucional navbar-light justify-content-center bg-white texto-azul p-4 " id="navbar2" >
   <!--div class=" "><a class=" mx-auto navbar-brand fuente-institucional texto-azul f-size-18 " data-toggle="tooltip" data-placement="auto" title="Ir al inicio" href="index.php"><i class="fa fa-home"></i></a></div-->
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon "></span>
@@ -8,7 +8,7 @@
 
 
 <ul class="nav d-flex justify-content-center  ">
-  <li class="nav-item  dropdown border-right borde-azul">
+  <li class="nav-item  dropdown border-right borde-azul borde-2">
     <a class=" nav-link dropdown-toggle fuente-institucional hvr-curl-top-right "  id="institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Institucional <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul " aria-labelledby="institucional">
       <a class=" dropdown-item hvr-underline-from-left">Misión</a>
@@ -25,134 +25,13 @@
     </div>
     
   </li>
-  <li class="nav-item dropdown border-right borde-azul ">
-    <a class=" nav-link dropdown-toggle hvr-curl-top-right "  id="oferta-academica" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Oferta Académica</a>
-<div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="oferta-academica">     
-      
-      <ul class="navbar-nav"> <!-- navbar-nav -->
-        <li class="col-12 nav-item dropdown dropright ">
-          <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="facultades" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Facultades </a>
-          <div class="dropdown-menu  fondo-gris-c " aria-labelledby="facultades">
-            <!-- <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a> -->
-            
-            <!-- }}}}}}}}}}}}}} -->
-            <ul class="navbar-nav "> 
-              <li class="col-12 nav-item dropdown dropright ">
-                <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ingenieria" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ingeniería </a>
-                <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="ingenieria">
-                  <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="ingenieria-electronica.php">Ingenieria electrónica</a>
-                  <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="ingenieria-mecanica.php">Ingenieria Mecánica</a>
-                  <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="ingenieria-informatica.php">Ingenieria Informática</a>                  
-                </div>
-              </li>
-            </ul>
-            <!-- }}}}}}}}}}}}}} -->
-            <!-- }}}}}}}}}}}}}} -->
-            <ul class="navbar-nav "> 
-              <li class="col-12 nav-item dropdown dropright ">
-                <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ciencias-admon-conta" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ciencias Adm. y Contables</a>
-                <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="ciencias-admon-conta">
-                  <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="administracion-empresas.php">Administración de Empresas</a>
-                  <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="administracion-empresas-a-distancia.php">Administración de Empresas a distancia</a>
-                  <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="contaduria-publica.php">Contaduria Pública </a>
-                  <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="contaduria-publica-a-distancia.php">Contaduria Pública a distancia</a>
-                </div>
-              </li>
-            </ul>
-            <!-- }}}}}}}}}}}}}} -->
+  <li class="nav-item  border-right borde-azul borde-2 " id="oferta-academica">
+    <a class=" nav-link hvr-curl-top-right fuente-institucional texto-azul "   >Oferta Académica</a>
 
-            <!-- }}}}}}}}}}}}}} -->
-            <ul class="navbar-nav "> 
-              <li class="col-12 nav-item dropdown dropright ">
-                <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="bellas-artes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Bellas artes</a>
-                <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="bellas-artes">
-                  <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="diseno-de-modas.php">Tecnología en Diseño<br> de Modas (No ofertado)</a>
-                  <a class=" dropdown-item hvr-underline-from-left texto-azul-os">Técnico laboral por<br> Competencias en Diseño<br> de Modas y Confección</a>
-                </div>
-              </li>
-            </ul>
-            <!-- }}}}}}}}}}}}}} -->
-             <!-- }}}}}}}}}}}}}} -->
-            <ul class="navbar-nav "> 
-              <li class="col-12 nav-item dropdown dropright ">
-                <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ciencias-salud" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ciencias de la Salud:</a>
-                <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="ciencias-salud">
-                  <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="mecanica-dental.php">Tecnología en Mecánica<br> Dental (No ofertado)</a>
-                </div>
-              </li>
-            </ul>
-            <!-- }}}}}}}}}}}}}} -->
-
-            
-            
-
-          </div>
-        </li>
-      </ul>
-      
-      <ul class="navbar-nav"> <!-- navbar-nav -->
-        <li class="col-12 nav-item dropdown dropright ">
-          <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="programas-virtuales" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Programas Virtuales </a>
-          <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-c" aria-labelledby="programas-virtuales">
-            <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="mercadeo-agropecuario.php">Tecnología en Mercadeo<br>Agropecuario</a>
-            <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="plantas-aromaticas.php">Tecnología en <br>Transformación de<br>Plantas Aromáticas</a>
-
-            
-          </div>
-        </li>
-      </ul>
-
-      <ul class="navbar-nav"> <!-- navbar-nav -->
-        <li class="col-12 nav-item dropdown dropright ">
-          <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="ayudas-becas" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Ayudas, Becas </a>
-          <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-c" aria-labelledby="ayudas-becas">
-            <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum</a>
-
-             <!-- }}}}}}}}}}}}}} -->
-            <ul class="navbar-nav"> 
-              <li class="col-12 nav-item dropdown dropright ">
-                <a class="nav-link dropdown-toggle fuente-institucional texto-azul" href="" id="loremlll" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Lorem ipsum.</a>
-                <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="loremlll">
-                  <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a>
-                  <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a>
-                  <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a>                  
-                </div>
-              </li>
-            </ul>
-            <!-- }}}}}}}}}}}}}} -->
-          </div>
-        </li>
-      </ul>
-
-
-
-      <ul class="navbar-nav"> <!-- navbar-nav -->
-        <li class="col-12 nav-item dropdown dropright ">
-          <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="cursos-diplomas" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Cursos, Diplomados</a>
-          <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-c" aria-labelledby="cursos-diplomas">
-            <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum</a>
-
-             <!-- }}}}}}}}}}}}}} -->
-            <ul class="navbar-nav"> 
-              <li class="col-12 nav-item dropdown dropright ">
-                <a class="nav-link dropdown-toggle fuente-institucional texto-azul" href="" id="loremlll" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Lorem ipsum.</a>
-                <div class="dropdown-menu  fuente-institucional texto-azul" aria-labelledby="loremlll">
-                  <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a>
-                  <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a>
-                  <a class=" dropdown-item hvr-underline-from-left">Lorem ipsum.</a>                  
-                </div>
-              </li>
-            </ul>
-            <!-- }}}}}}}}}}}}}} -->
-          </div>
-        </li>
-      </ul>
-
-    </div>
-
+  
   </li>
 
-  <li class="nav-item  dropdown border-right borde-azul ">
+  <li class="nav-item  dropdown border-right borde-azul borde-2 ">
     <a class=" nav-link dropdown-toggle hvr-curl-top-right "  id="investigacion" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Investigación <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="investigacion">
       <a class=" dropdown-item hvr-underline-from-left  ">Vicerrectoria de Investigacion</a>
@@ -174,7 +53,7 @@
     </div>
   </li>
 
-  <li class="nav-item dropdown  border-right borde-azul">
+  <li class="nav-item dropdown  border-right borde-azul borde-2">
     <a class=" nav-link dropdown-toggle hvr-curl-top-right "  id="bienestar-universitario" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Bienestar Universitario</a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="bienestar-universitario">
       <a class=" dropdown-item hvr-underline-from-left ">Vicerrectoría de Bienestar<br> Universitario</a>
@@ -186,7 +65,7 @@
     </div>
   </li>
   
-  <li class="nav-item dropdown  border-right borde-azul">
+  <li class="nav-item dropdown  border-right borde-azul borde-2">
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="proyeccion-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Proyección Institucional</a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="proyeccion-institucional">
@@ -196,7 +75,7 @@
       
     </div>
   </li>
-  <li class="nav-item dropdown  border-right borde-azul">
+  <li class="nav-item dropdown  border-right borde-azul borde-2">
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="talento-humano" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Talento Humano</a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="talento-humano">
@@ -211,7 +90,7 @@
       
     </div>
   </li>
-  <li class="nav-item dropdown  border-right borde-azul">
+  <li class="nav-item dropdown  border-right borde-azul borde-2">
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="cian" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">CIAN</a>
     <div class="dropdown-menu dropdown-menu-left fuente-institucional texto-azul" aria-labelledby="cian">
@@ -219,9 +98,63 @@
       
     </div>
   </li>
-  <li class="nav-item border-right borde-azul">
+  <li class="nav-item border-right borde-azul borde-2">
     <a class=" nav-link hvr-curl-top-right ">Aunar Virtual</a>
   </li>
+
+      <!-- Tab panes -->
+  <div class="container-fluid " id="cont-oferta-institucional">
+
+    <div class="container-fluid ">
+     <div class="row " id="ver-oferta-institucional">
+      <div class="col-12">
+        <div class="row f-size-14 d-flex justify-content-around ">
+          <div class="col-12 texto-azul fuente-institucional f-negrita p-2 f-size-16 text-center">OFERTA ACADÉMICA</div>
+          <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
+            <div class="col-12 f-negrita pb-2">INGENIERÍA</div>
+            <div class="col-12 hvr-underline-from-center pointer">ingeniería Electrónica</div>
+            <div class="col-12 hvr-underline-from-center pointer">ingeniería Mecánica</div>
+            <div class="col-12 hvr-underline-from-center pointer">ingeniería Informática</div>
+          </div></div>
+          <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
+            <div class="col-12 f-negrita pb-2">CIENCIAS ADMINISTRATIVAS Y CONTABLES</div>
+            <div class="col-12 hvr-underline-from-center pointer">Administración de Empresas</div>
+            <div class="col-12 hvr-underline-from-center pointer">Administración de Empresas a Distancia</div>
+            <div class="col-12 hvr-underline-from-center pointer">Contaduría Pública</div>
+            <div class="col-12 hvr-underline-from-center pointer">Contaduría Pública a Distancia</div>
+          </div></div>
+          <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
+            <div class="col-12 f-negrita pb-2">BELLAS ARTES</div>
+            <div class="col-12 hvr-underline-from-center pointer">Tecnología en Diseño<br> de Modas <strong>(No ofertado)</strong></div>
+            <div class="col-12 hvr-underline-from-center pointer">Competencias en Diseño<br> de Modas y Confección</div>            
+          </div></div>
+          <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
+            <div class="col-12 f-negrita pb-2">CIENCIAS DE LA SALUD</div>
+            <div class="col-12 hvr-underline-from-center pointer">Tecnología en Mecánica<br> Dental <strong>(No ofertado)</strong></div>            
+          </div></div>
+          <div class="col-6 col-sm-3 col-md-2 "><div class="row ">
+            <div class="col-12 f-negrita pb-2">PROGRAMAS VIRTUALES</div>
+            <div class="col-12 hvr-underline-from-center pointer">Tecnología en Mercadeo<br>Agropecuario</div>
+            <div class="col-12 hvr-underline-from-center pointer">Tecnología en <br>Transformación de<br>Plantas Aromáticas</div>
+          </div></div>
+          <div class="col-6 col-sm-3 col-md-2 "><div class="row ">
+            <div class="col-12 f-negrita pb-2">AYUDAS Y BECAS</div>
+            <div class="col-12 hvr-underline-from-center pointer">Lorem ipsum.</div>
+          </div></div>          
+          <div class="col-6 col-sm-3 col-lg-2 "><div class="row ">
+            <div class="col-12 f-negrita pb-2">CURSOS Y DIPLOMADOS</div>
+            <div class="col-12 hvr-underline-from-center pointer">Diplomado en ...</div>
+            <div class="col-12 hvr-underline-from-center pointer">Diplomado en ...</div>
+
+          </div></div>          
+        </div>
+        
+        
+     </div>
+     </div>
+         
+    </div>
+  </div>
 
 </ul>
 </nav>
