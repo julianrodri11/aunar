@@ -16,8 +16,9 @@
               
               <!-- The slideshow -->
               <div class="carousel-inner ">
-                <div class="carousel-item p-5 active">
-                  <div class="row p-2 m-5 ">
+                <div class="carousel-item p-1 p-sm-4 active">
+                  <div class="row p-2 m-1 m-sm-5 ">
+                    
                     <div class="col-12 col-md-6 col-lg-4">  
                         <!-- noticia -->
                           <div class="card ">
@@ -91,8 +92,8 @@
                   </div>
                 </div>
 
-                <div class="carousel-item p-5 ">
-                  <div class="row p-2 m-5 ">
+                <div class="carousel-item p-1 p-sm-4 ">
+                  <div class="row p-2 m-1 m-sm-5 ">
                     <div class="col-12 col-md-6 col-lg-4">  
                         <!-- noticia -->
                           <div class="card ">
@@ -142,7 +143,7 @@
                     <div class="col-12 col-md-6 col-lg-4">  
                         <!-- noticia -->
                           <div class="card ">
-                            
+
                             <figure class="imghvr-zoom-out-up">
                                 <img  class="card-img-top img-fluid" src="img/noticias/noticia2.png" width="100%">
                                 <figcaption>
@@ -165,8 +166,8 @@
                   </div>
                 </div>
 
-                <div class="carousel-item p-5 ">
-                  <div class="row p-2 m-5 ">
+                <div class="carousel-item p-1 p-sm-4 ">
+                  <div class="row p-2 m-1 m-sm-5 ">
                     <div class="col-12 col-md-6 col-lg-4">  
                         <!-- noticia -->
                           <div class="card ">
