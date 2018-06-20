@@ -24,10 +24,12 @@
 		<div class="container-fluid pb-4">
 			<div class="container fuente-institucional ">
 				<div class="row ">
-					<div class="col-12 p-3 py-5"><h1 class="texto-azul text-center f-negrita">Formatos Institucionales</h1></div>
+					<div class="col-12 pt-5">
+						<h1 class="texto-azul text-center f-negrita fuente-institucional">Formatos Institucionales</h1>
+					</div>
 				</div>
 				<div class="row m-2">
-					<div class="col-12 col-lg-12 text-center">Si crees que cumples con estas características, puedes acceder a los siguientes</div>
+					<div class="col-12 col-lg-12 text-center f-myriad texto-azul">Si crees que cumples con estas características, puedes acceder a los siguientes</div>
 				</div>
 				<div class="row m-2 border-bottom borde-azul pb-3">
 					<div class="col-12 col-lg-12 ">
@@ -38,7 +40,7 @@
 					</div>
 				</div>
 				<div class="row m-2">
-					<div class="col-12 p-3"><h1 class="texto-azul text-center f-negrita">Convocatorias</h1></div>
+					<div class="col-12 p-3"><h1 class="texto-azul text-center f-negrita fuente-institucional">Convocatorias</h1></div>
 				</div>
 				<!-- divs de  docentes y administrativos -->
 				<div class="row m-2 text-center fuente-institucional texto-azul  ">

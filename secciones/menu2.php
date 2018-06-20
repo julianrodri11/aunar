@@ -67,7 +67,7 @@
                 <a class="nav-link dropdown-toggle fuente-institucional texto-azul hvr-underline-from-center" href="" id="bellas-artes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Bellas artes</a>
                 <div class="dropdown-menu  fuente-institucional texto-azul fondo-gris-os" aria-labelledby="bellas-artes">
                   <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="diseno-de-modas.php">Tecnología en Diseño<br> de Modas (No ofertado)</a>
-                  <a class=" dropdown-item hvr-underline-from-left texto-azul-os">Técnico laboral por<br> competencias en Diseño<br> de Modas y Confección</a>
+                  <a class=" dropdown-item hvr-underline-from-left texto-azul-os">Técnico laboral por<br> Competencias en Diseño<br> de Modas y Confección</a>
                 </div>
               </li>
             </ul>

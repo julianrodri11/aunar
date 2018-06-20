@@ -1,5 +1,5 @@
 <!-- menu 1 -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top bg-white texto-azul bg-success f-negrita" id="navbar1" >
+<nav class="navbar navbar-expand-lg navbar-light fixed-top bg-white texto-azul bg-success f-negrita fuente-institucional" id="navbar1" >
   <!--div class=" "><a class=" mx-auto navbar-brand fuente-institucional texto-azul f-size-18 " data-toggle="tooltip" data-placement="auto" title="Ir al inicio" href="index.php"><i class="fa fa-home"></i></a></div-->
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon "></span>MENÚ

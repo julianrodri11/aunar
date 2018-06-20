@@ -22,12 +22,11 @@
             $("#navbar1").addClass("mt-0");  
 
             //boton ir al inicio ocultar
-            document.getElementById("myBtn").style.display = "none";          
+            document.getElementById("myBtn").style.display = "none";
         }
       });
 
     
-
     //función que sirve para ir al inicio de la página cuando se haga click
     //boton ubicado en el menú 1
     function iralinicio() 
@@ -87,7 +86,25 @@
 
     });
 
-    
+     $(document).ready(function () 
+    {
+       $('#oferta-academica').mouseenter(function () 
+       {    
+        document.getElementById("cont-oferta-institucional").style.display = "block";
+       });
+
+       $('#cont-oferta-institucional').mouseleave(function () 
+       {    
+        document.getElementById("cont-oferta-institucional").style.display = "none";
+
+       });      
+
+       $('#oferta-academica').mouseleave(function () 
+       {    
+        document.getElementById("cont-oferta-institucional").style.display = "block";
+       });
+
+    });
 
 
     

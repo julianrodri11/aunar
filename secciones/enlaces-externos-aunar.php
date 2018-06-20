@@ -1,9 +1,9 @@
 <!-- -----------------IMAGENES ENLACES DE EXTERNOS----------------------------- -->
 <div class="container-fluid p-4  fondo-amarillo bg-white fuente-institucional">
   <div class="row text-center justify-content-center ">
-    <div class=" col-12 fuente-institucional texto-azul py-4 f-negrita e_arriba_abajo "><h1 class="pb-4 fuente-institucional texto-azul f-negrita">Enlaces Externos</h1></div>
+    <div class=" col-12 fuente-institucional texto-azul py-3 f-negrita e_arriba_abajo "><h1 class="pb-4 fuente-institucional texto-azul f-negrita">Enlaces Externos</h1></div>
     
-    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 ">
+    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 pb-3 ">
       <div class="p-0">
         <a href="http://mail.google.com/a/aunar.edu.co/" class="hvr-wobble-vertical" target="_blanck">
           <img class="img-fluid " src="img/logo.gif" alt="Correo institucional aunar">
@@ -11,7 +11,7 @@
       </div>      
     </div>
 
-    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 ">
+    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 pb-3 ">
       <div class="p-0">
         <a href="https://www.bancopichincha.com.co/" class="hvr-wobble-vertical" target="_blanck">
           <img class="img-fluid " src="img/pichincha.png" alt="Banco Pichincha Colombia">
@@ -19,7 +19,7 @@
       </div>      
     </div>
 
-    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 ">
+    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 pb-3 ">
       <div class="p-0">
         <a href="https://portal.icetex.gov.co/Portal/Home/HomeEstudiante/creditos-tu-eliges" class="hvr-wobble-vertical" target="_blanck">
           <img class="img-fluid " src="img/icetex.png" alt="icetex">
@@ -27,7 +27,7 @@
       </div>      
     </div>
 
-    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 ">
+    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 pb-3 ">
       <div class="p-0">
         <a href="http://www.icfesinteractivo.gov.co/" class="hvr-wobble-vertical" target="_blanck">
           <img class="img-fluid " src="img/icfes.png" alt="Icfes">
@@ -35,7 +35,7 @@
       </div>      
     </div>
 
-    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 ">
+    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 pb-3 ">
       <div class="p-0">
         <a href="https://www.mineducacion.gov.co" class="hvr-wobble-vertical" target="_blanck">
           <img class="img-fluid " src="img/colciencias.jpg" alt="Colciencias">
@@ -43,7 +43,7 @@
       </div>      
     </div>
 
-    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 ">
+    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 pb-3 ">
       <div class="p-0">
         <a href="http://aprende.colombiaaprende.edu.co" class="hvr-wobble-vertical" target="_blanck">
           <img class="img-fluid " src="img/logo-colombiaprende.jpg" alt="Colombia aprende">
@@ -51,7 +51,7 @@
       </div>      
     </div>
 
-    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 ">
+    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 pb-3 ">
       <div class="p-0">
         <a href="http://www.comuna.com.co/" class="hvr-wobble-vertical" target="_blanck">
           <img class="img-fluid " src="img/comuna-cooperativa.png" alt="Comuna">
@@ -59,7 +59,7 @@
       </div>      
     </div>
 
-    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 ">
+    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 pb-3 ">
       <div class="p-0">
         <a href="http://www.eduteka.org/" class="hvr-wobble-vertical" target="_blanck">
           <img class="img-fluid " src="img/Logo-Eduteka.png" alt="Eduteka">
@@ -67,7 +67,7 @@
       </div>      
     </div>
 
-    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 ">
+    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 pb-3 ">
       <div class="p-0">
         <a href="http://docentes.aunar.edu.co/" class="hvr-wobble-vertical" target="_blanck">
           <img class="img-fluid " src="http://dummyimage.com/600x300/378DB5/333.png?text=sistema-académia" alt="Sistema de notas académia aunar">

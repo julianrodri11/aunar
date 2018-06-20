@@ -6,6 +6,14 @@
    src: url('../fonts/GOTHIC.TTF');
 
 } 
+
+/*importacion de fuente Century Gothic bold*/
+@font-face{   
+   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+   src: url('../fonts/century-gothic-bold.ttf');
+
+} 
+
 /*IMPROTACIÓN MYRIAD PRO*/
 @font-face{   
    font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -34,10 +42,8 @@
 
 /*Fuente color azul de acuerdo institucional*/
 .texto-azul
-{		
-	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+{			
 	color: #00255A !important;
-
 }
 .texto-azul-os
 {		
@@ -357,10 +363,10 @@ font-weight: bold;
     border-bottom: 20px solid transparent;
 	
 	/*transicion al final de medio segundo*/
-	-webkit-transition: all 500ms ease-out;
-    -moz-transition: all  500ms ease-out;
-    -o-transition: all  500ms ease-out;
-    transition: all  500ms ease-out;
+	-webkit-transition: all 300ms ease-out;
+    -moz-transition: all  300ms ease-out;
+    -o-transition: all  300ms ease-out;
+    transition: all  300ms ease-out;
 
 	/*posicionamiento fijo a la derecha y un poco abajo*/
 	position: fixed;	
@@ -379,10 +385,10 @@ font-weight: bold;
     border-right: 50px solid #F4D460;
     border-bottom: 20px solid transparent;
 
-    -webkit-transition: all 500ms ease;
-    -moz-transition: all  500ms ease;
-    -o-transition: all  500ms ease;
-    transition: all  500ms ease;	
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all  300ms ease;
+    -o-transition: all  300ms ease;
+    transition: all  300ms ease;	
 }
 /*texto vertical de redes sociales*/
 .tredes
@@ -614,4 +620,9 @@ font-weight: bold;
     /*color: #F10000;*/
     text-decoration: none;
     background-color: #FFFFFF;
+}
+
+#cont-oferta-institucional
+{
+	display: none;
 }

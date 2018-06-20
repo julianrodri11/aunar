@@ -40,8 +40,8 @@
 <!-- -----------------FIN SLIDER------------------------------ -->
 
 <!-- ----------------MENÚ INSTITUCIONAL----------------------- -->  
- <?php include_once('secciones/menu2.php');?> 
- <?php //include_once('secciones/menu2_pruebas.php');?> 
+ <?php //include_once('secciones/menu2.php');?> 
+ <?php include_once('secciones/menu2_pruebas.php');?> 
 <!-- ----------------FIN MENÚ INSTITUCIONAL------------------- -->
 
 <!-- ----------------MENÚ INSTITUCIONAL----------------------- -->   
@@ -54,10 +54,10 @@
 <div class="container-fluid fondo-gris-c ">
   <div class="row ">
     <div class="col-lg-3 pt-5 pb-4 col-md-3 col-sm-12 d-flex justify-content-center align-items-center">
-        <div class="row p-3 fondo-azul text-white ">
-          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_1.pdf" target="_blank">Calendario Académico 2017-1</a></div>
-          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_2.pdf" target="_blank">Calendario Académico 2017-2</a></div>
-          <div class="pr-3"><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2018_1.pdf" target="_blank">Calendario Académico 2018-1</a></div>          
+        <div class="row p-3 fondo-azul text-whited-flex justify-content-center">
+          <div class="pl-1 pr-1 "><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_1.pdf" target="_blank">Calendario Académico 2017-1</a></div>
+          <div class="pl-1 pr-1 "><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_2.pdf" target="_blank">Calendario Académico 2017-2</a></div>
+          <div class="pl-1 pr-1 "><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2018_1.pdf" target="_blank">Calendario Académico 2018-1</a></div>          
         </div>
     </div>
     <div class="col-lg-7 pt-5 pb-4 col-md-6 col-sm-12 text-center ">
@@ -68,7 +68,7 @@
               <img  class=" img-fluid" alt="Derechos pecuniarios autonoma de nariño" src="img/derechos.png"></a>
 
           </div>
-          <div class="col-12 p-5 texto-azul">Los siguientes son los montos de los derechos pecuniarios por servicios académicos y administrativos para el año 2018, debidamente aprobados por el Consejo Directivo de la Corporación Universitaria Autónoma de Nariño</div>
+          <div class="col-12 p-5 texto-azul fuente-institucional">Los siguientes son los montos de los derechos pecuniarios por servicios académicos y administrativos para el año 2018, debidamente aprobados por el Consejo Directivo de la Corporación Universitaria Autónoma de Nariño</div>
         </div>
     </div>
     <div class="col-lg-2 col-md-3 col-sm-12 d-flex justify-content-center align-items-center">

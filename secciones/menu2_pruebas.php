@@ -25,8 +25,8 @@
     </div>
     
   </li>
-  <li class="nav-item  border-right borde-azul ">
-    <a class=" nav-link hvr-curl-top-right "  id="oferta-academica" data-toggle="pill" href="#prueee">Oferta Académica</a>
+  <li class="nav-item  border-right borde-azul " id="oferta-academica">
+    <a class=" nav-link hvr-curl-top-right fuente-institucional texto-azul "   >Oferta Académica</a>
 
   
   </li>
@@ -103,13 +103,54 @@
   </li>
 
       <!-- Tab panes -->
-  <div class="tab-content">
+  <div class="container " id="cont-oferta-institucional">
 
-    <div id="prueee" class="container tab-pane fade">
-      
-      <h3>Oferta Académica</h3><h4>menus y submenus - en desarrollo</h4>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium laborum dolorum, aliquid incidunt sapiente doloremque ullam fuga cum nihil facere.</p>
-    
+    <div class="container-fluid ">
+     <div class="row " id="ver-oferta-institucional">
+      <div class="col-12">
+        <div class="row text-center f-size-12 d-flex justify-content-around ">
+          <div class="col-12 texto-azul fuente-institucional f-negrita text-center p-2 f-size-16">OFERTA ACADÉMICA</div>
+          <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
+            <div class="col-12 f-negrita">INGENIERÍA</div>
+            <div class="col-12 hvr-underline-from-center pointer">ingeniería Electrónica</div>
+            <div class="col-12 hvr-underline-from-center pointer">ingeniería Mecánica</div>
+            <div class="col-12 hvr-underline-from-center pointer">ingeniería Informática</div>
+          </div></div>
+          <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
+            <div class="col-12 f-negrita">CIENCIAS ADM. Y CONTABLES</div>
+            <div class="col-12 hvr-underline-from-center pointer">Administración de Empresas</div>
+            <div class="col-12 hvr-underline-from-center pointer">Administración de Empresas a distancia</div>
+            <div class="col-12 hvr-underline-from-center pointer">Contaduría Pública</div>
+            <div class="col-12 hvr-underline-from-center pointer">Contaduría Pública a distancia</div>
+          </div></div>
+          <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
+            <div class="col-12 f-negrita">BELLAS ARTES</div>
+            <div class="col-12 hvr-underline-from-center pointer">Tecnología en Diseño<br> de Modas <strong>(No ofertado)</strong></div>
+            <div class="col-12 hvr-underline-from-center pointer">Competencias en Diseño<br> de Modas y Confección</div>            
+          </div></div>
+          <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
+            <div class="col-12 f-negrita">CIENCIAS DE LA SALUD</div>
+            <div class="col-12 hvr-underline-from-center pointer">Tecnología en Mecánica<br> Dental <strong>(No ofertado)</strong></div>            
+          </div></div>
+          <div class="col-6 col-sm-3 col-md-2 "><div class="row ">
+            <div class="col-12 f-negrita">PROGRAMAS VIRTUALES</div>
+            <div class="col-12 hvr-underline-from-center pointer">Tecnología en Mercadeo<br>Agropecuario</div>
+            <div class="col-12 hvr-underline-from-center pointer">Tecnología en <br>Transformación de<br>Plantas Aromáticas</div>
+          </div></div>
+          <div class="col-6 col-sm-3 col-md-2 "><div class="row ">
+            <div class="col-12 f-negrita">AYUDAS Y BECAS</div>
+            <div class="col-12 hvr-underline-from-center pointer">Maxime, error.</div>
+          </div></div>          
+          <div class="col-6 col-sm-3 col-lg-2 "><div class="row ">
+            <div class="col-12 f-negrita">CURSOS Y DIPLOMADOS</div>
+            <div class="col-12 hvr-underline-from-center pointer">Non, mollitia!</div>
+          </div></div>          
+        </div>
+        
+        
+     </div>
+     </div>
+         
     </div>
   </div>
 
