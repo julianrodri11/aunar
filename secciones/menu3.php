@@ -13,7 +13,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/v-institucional.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-10 texto-azul f-negrita">VIDEO INSTITUCIONAL</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita">VIDEO INSTITUCIONAL</p> 
     </div>
 
 
@@ -23,7 +23,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/astereo.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-10 texto-azul f-negrita">AUNAR STEREO</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita">AUNAR STEREO</p> 
     </div>
 
 
@@ -33,7 +33,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/aunartv.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-10 texto-azul f-negrita">AUNAR TV</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita">AUNAR TV</p> 
     </div>
 
 
@@ -43,7 +43,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/campus-virtual.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-10 texto-azul f-negrita">CAMPUS VIRTUAL</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita">CAMPUS VIRTUAL</p> 
     </div>
 
 
@@ -53,7 +53,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/atech.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-10 texto-azul f-negrita">AUNAR TECH</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita">AUNAR TECH</p> 
     </div>
 
 
@@ -63,7 +63,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/campus-presencial.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-10 texto-azul f-negrita">CAMPUS PRESENCIAL</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita">CAMPUS PRESENCIAL</p> 
     </div>
 
 
@@ -73,7 +73,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/bdocentes.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-10 texto-azul f-negrita">BISEL DOCENTES</p>
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita">BISEL DOCENTES</p>
     </div>
 
 
@@ -83,7 +83,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/bestudiantes.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-10 texto-azul f-negrita">BISEL ESTUDIANTES</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita">BISEL ESTUDIANTES</p> 
     </div>
  
 
@@ -93,7 +93,7 @@
                 <img class="img-fluid hvr-pop" src="img/iconos/biblioteca.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-10 texto-azul f-negrita">BIBLÍOTECA</P> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita">BIBLÍOTECA</P> 
     </div> 
 
 

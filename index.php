@@ -198,7 +198,7 @@
         
           <div class="p-1 mt-5 mt-sm-5 bd-highlight text-center pr-3">
             <h1 class="my-1 fuente-institucional texto-azul f-negrita">Eventos</h1>
-            <label class="texto-azul f-myriad f-size-16">!Entérate nuestras novedades¡</label>
+            <label class="texto-azul fuente-institucional f-size-18">!Entérate nuestras novedades¡</label>
           </div>
           <!-- div class="p-1 bg-primary bd-highlight">Flex item 2</div>
           <div class="p-1 bg-white bd-highlight">Flex item 3</div> -->                
@@ -221,17 +221,17 @@
               <!-- seccion de eventos  -->
               <!-- evento 1 -->
               <div class="row p-1 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
-                <div class="col-md-4 col-12 aaa ">
-                  <div class=" hexagon p-4">
+                <div class="col-md-3 col-12 ">
+                  <div class=" hexagon p-3">
                     <div class="row pt-2 text-center "> 
-                      <span class="col-12 f-myriad">20</span>
-                      <span class="col-12 f-myriad">Jun</span>
+                      <span class="col-12 fuente-institucional f-negrita f-size-16">20</span>
+                      <span class="col-12 fuente-institucional f-negrita f-size-16">Junio</span>
                     </div>
                   </div>
                 </div> 
-                <div class="col-md-8 col-12">
+                <div class="col-md-9 col-12">
                   <div class="row texto-azul pt-sans">
-                    <div class="col-lg-12 text-center text-lg-left text-md-left f-negrita">II Encuentro de Bibliotecas.</div>
+                    <div class="col-lg-12 text-center text-lg-left text-md-left f-negrita f-size-16"><label class="border-bottom borde-azul">II Encuentro de Bibliotecas.</label></div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">Hora: 8:00 am</div>
                   </div>
@@ -239,17 +239,17 @@
               </div>
               <!-- evetnos 2 -->
                <div class="row p-1 pl-5 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
-                <div class="col-md-4 col-12 ">
-                  <div class=" hexagon p-4">
+                <div class="col-md-3 col-12 ">
+                  <div class=" hexagon p-3">
                     <div class="row pt-2 text-center "> 
-                      <span class="col-12 f-myriad">17</span>
-                      <span class="col-12 f-myriad">Jul</span>
+                      <span class="col-12 fuente-institucional f-negrita f-size-16">17</span>
+                      <span class="col-12 fuente-institucional f-negrita f-size-16">Julio</span>
                     </div>
                   </div>
                 </div> 
-                <div class="col-md-8 col-12">
+                <div class="col-md-9 col-12">
                   <div class="row texto-azul pt-sans">
-                    <div class="col-lg-12 text-center text-lg-left text-md-left f-negrita">II Encuentro de Bibliotecas.</div>
+                    <div class="col-lg-12 text-center text-lg-left text-md-left f-negrita f-size-16"><label class="border-bottom borde-azul">II Encuentro de Bibliotecas.</label></div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">Hora: 8:00 am</div>
                   </div>
@@ -257,17 +257,17 @@
               </div>
               <!-- evento 3 -->
                <div class="row p-1 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
-                <div class="col-md-4 col-12 ">
-                  <div class=" hexagon p-4">
+                <div class="col-md-3 col-12 ">
+                  <div class=" hexagon p-3">
                     <div class="row pt-2 text-center "> 
-                      <span class="col-12 f-myriad">30</span>
-                      <span class="col-12 f-myriad">Agt</span>
+                      <span class="col-12 fuente-institucional f-negrita f-size-16">30</span>
+                      <span class="col-12 fuente-institucional f-negrita f-size-16">Agosto</span>
                     </div>
                   </div>
                 </div> 
-                <div class="col-md-8 col-12">
+                <div class="col-md-9 col-12">
                   <div class="row texto-azul pt-sans">
-                    <div class="col-lg-12 text-center text-lg-left text-md-left f-negrita">II Encuentro de Bibliotecas.</div>
+                    <div class="col-lg-12 text-center text-lg-left text-md-left f-negrita f-size-16"><label class="border-bottom borde-azul">II Encuentro de Bibliotecas.</label></div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">Hora: 8:00 am</div>
                   </div>
