@@ -39,13 +39,13 @@
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="bg-dark p-1 " aria-hidden="true">
+    <span class="fondo-azul-oscuro p-2" aria-hidden="true">
       <i class="fa fa-chevron-left text-white f-size-18" ></i>
     </span>
     <span class="sr-only">Previus</span>
   </a>
   <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="bg-dark  p-1" aria-hidden="true">
+    <span class="fondo-azul-oscuro  p-2" aria-hidden="true">
       <i class="fa fa-chevron-right text-white f-size-18" ></i>
     </span>
     <span class="sr-only">Next</span>

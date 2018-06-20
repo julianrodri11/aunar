@@ -143,10 +143,14 @@
               
               <!-- Left and right controls -->
               <a class="carousel-control-prev" href="#myCarousel2" data-slide="prev">
-                <span class="carousel-control-prev-icon fondo-azul-oscuro"></span>
+                 <span class="fondo-azul-oscuro p-2 " aria-hidden="true">
+                  <i class="fa fa-chevron-left text-white f-size-18" ></i>
+                </span>
               </a>
               <a class="carousel-control-next" href="#myCarousel2" data-slide="next">
-                <span class="carousel-control-next-icon fondo-azul-oscuro"></span>
+                 <span class="fondo-azul-oscuro p-2 " aria-hidden="true">
+                  <i class="fa fa-chevron-right text-white f-size-18" ></i>
+                </span>
               </a>
             </div>
                 
