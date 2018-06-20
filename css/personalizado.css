@@ -650,4 +650,9 @@ font-weight: bold;
   transform: scale(1.5) !important;
 }
 
-
+/*
+[class^='imghvr-'],
+[class*=' imghvr-'] {
+  background-color: #F4D460 !important;
+  opacity: 0.9;
+}*/
