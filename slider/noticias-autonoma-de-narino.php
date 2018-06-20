@@ -98,7 +98,7 @@
                           <div class="card ">
                             
 
-                            <figure class="imghvr-zoom-out-flip-horiz">
+                            <figure class="imghvr-zoom-out-up">
                                 <img  class="card-img-top img-fluid" src="img/noticias/noticia3.png" width="100%">
                                 <figcaption>
                                     <h3 class="ih-fade-down ih-delay-sm fuente-institucional">MAQUINARTE</h3>
@@ -121,7 +121,7 @@
                           <div class="card ">
                             
 
-                            <figure class="imghvr-zoom-out-flip-horiz">
+                            <figure class="imghvr-zoom-out-up">
                                 <img  class="card-img-top img-fluid" src="img/noticias/noticia1.png" width="100%">
                                 <figcaption>
                                     <h3 class="ih-fade-down ih-delay-sm fuente-institucional">MAQUINARTE</h3>
@@ -142,7 +142,8 @@
                     <div class="col-12 col-md-6 col-lg-4">  
                         <!-- noticia -->
                           <div class="card ">
-                            <figure class="imghvr-zoom-out-flip-horiz">
+                            
+                            <figure class="imghvr-zoom-out-up">
                                 <img  class="card-img-top img-fluid" src="img/noticias/noticia2.png" width="100%">
                                 <figcaption>
                                     <h3 class="ih-fade-down ih-delay-sm fuente-institucional">MAQUINARTE</h3>
@@ -170,7 +171,7 @@
                         <!-- noticia -->
                           <div class="card ">
                             
-                            <figure class="imghvr-zoom-out-flip-horiz">
+                            <figure class="imghvr-blur">
                                 <img  class="card-img-top img-fluid" src="img/noticias/noticia2.png" width="100%">
                                 <figcaption>
                                     <h3 class="ih-fade-down ih-delay-sm fuente-institucional">MAQUINARTE</h3>
@@ -192,7 +193,7 @@
                         <!-- noticia -->
                           <div class="card ">
 
-                            <figure class="imghvr-zoom-out-flip-horiz">
+                            <figure class="imghvr-blur">
                                 <img  class="card-img-top img-fluid" src="img/noticias/noticia3.png" width="100%">
                                 <figcaption>
                                     <h3 class="ih-fade-down ih-delay-sm fuente-institucional">MAQUINARTE</h3>
@@ -215,7 +216,7 @@
                           <div class="card ">
                             
                             
-                            <figure class="imghvr-zoom-out-flip-horiz">
+                            <figure class="imghvr-blur">
                                 <img  class="card-img-top img-fluid" src="img/noticias/noticia1.png" width="100%">
                                 <figcaption>
                                     <h3 class="ih-fade-down ih-delay-sm fuente-institucional">MAQUINARTE</h3>
