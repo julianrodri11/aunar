@@ -112,38 +112,38 @@
           <div class="col-12 texto-azul fuente-institucional f-negrita p-2 f-size-16 text-center">OFERTA ACADÉMICA</div>
           <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
             <div class="col-12 f-negrita pb-2">INGENIERÍA</div>
-            <div class="col-12 hvr-underline-from-center pointer">ingeniería Electrónica</div>
-            <div class="col-12 hvr-underline-from-center pointer">ingeniería Mecánica</div>
-            <div class="col-12 hvr-underline-from-center pointer">ingeniería Informática</div>
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/electronica.png" width="25">Ingeniería Electrónica</div>
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/mecanica.png" width="25">Ingeniería Mecánica</div>
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/sistemas2.png" width="25">Ingeniería Informática</div>
           </div></div>
           <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
             <div class="col-12 f-negrita pb-2">CIENCIAS ADMINISTRATIVAS Y CONTABLES</div>
-            <div class="col-12 hvr-underline-from-center pointer">Administración de Empresas</div>
-            <div class="col-12 hvr-underline-from-center pointer">Administración de Empresas a Distancia</div>
-            <div class="col-12 hvr-underline-from-center pointer">Contaduría Pública</div>
-            <div class="col-12 hvr-underline-from-center pointer">Contaduría Pública a Distancia</div>
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/admon-empresas.png" width="25">Administración de Empresas</div>
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/admon-distancia.png" width="25">Administración de Empresas a Distancia</div>
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/contador.png" width="25">Contaduría Pública</div>
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/contador2.png" width="25">Contaduría Pública a Distancia</div>
           </div></div>
           <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
             <div class="col-12 f-negrita pb-2">BELLAS ARTES</div>
-            <div class="col-12 hvr-underline-from-center pointer">Tecnología en Diseño<br> de Modas <strong>(No ofertado)</strong></div>
-            <div class="col-12 hvr-underline-from-center pointer">Competencias en Diseño<br> de Modas y Confección</div>            
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/diseno-modas.png" width="25">Tecnología en Diseño de Modas <strong>(No ofertado)</strong></div>
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/confeccion.png" width="25">Competencias en Diseño de Modas y Confección</div>
           </div></div>
           <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
             <div class="col-12 f-negrita pb-2">CIENCIAS DE LA SALUD</div>
-            <div class="col-12 hvr-underline-from-center pointer">Tecnología en Mecánica<br> Dental <strong>(No ofertado)</strong></div>            
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/dental.png" width="25">Tecnología en Mecánica Dental <strong>(No ofertado)</strong></div>
           </div></div>
           <div class="col-6 col-sm-3 col-md-2 "><div class="row ">
             <div class="col-12 f-negrita pb-2">PROGRAMAS VIRTUALES</div>
-            <div class="col-12 hvr-underline-from-center pointer">Tecnología en Mercadeo<br>Agropecuario</div>
-            <div class="col-12 hvr-underline-from-center pointer">Tecnología en <br>Transformación de<br>Plantas Aromáticas</div>
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/agropecuario.png" width="25">Tecnología en Mercadeo Agropecuario</div>
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/plantas.png" width="25">Tecnología en Transformación de Plantas Aromáticas</div>
           </div></div>
           <div class="col-6 col-sm-3 col-md-2 "><div class="row ">
             <div class="col-12 f-negrita pb-2">AYUDAS Y BECAS</div>
-            <div class="col-12 hvr-underline-from-center pointer">Lorem ipsum.</div>
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/becas.png" width="25">Lorem ipsum.</div>
           </div></div>          
           <div class="col-6 col-sm-3 col-lg-2 "><div class="row ">
             <div class="col-12 f-negrita pb-2">CURSOS Y DIPLOMADOS</div>
-            <div class="col-12 hvr-underline-from-center pointer">Diplomado en ...</div>
+            <div class="col-12 hvr-underline-from-center pointer"><img class="pr-1" src="img/carreras/diplomas.png" width="25">Diplomado en ...</div>
             <div class="col-12 hvr-underline-from-center pointer">Diplomado en ...</div>
 
           </div></div>          
