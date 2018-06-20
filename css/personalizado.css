@@ -55,6 +55,12 @@
 {	
 	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif !important;	
 }
+
+.fuente-institucional-bold
+{	
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif !important;	
+	font-weight: bold;
+}
 /*fuente negrita*/
 .f-negrita
 {
@@ -419,6 +425,11 @@ font-weight: bold;
 	left: 0;	/*alinear a la deracha*/
 	top: 200px;	
 	z-index: 1040;
+	width: 40px;
+	height: 60px;
+	background-color: #F4D460;
+	border-top-right-radius: 25%;
+	border-bottom-right-radius: 25%;
 }
 
 /*cambiar el color de los nav-bill*/
@@ -610,7 +621,7 @@ font-weight: bold;
   padding: 15px;
   border-radius: 4px;
 }
-
+/*fondo azul cuanco se coloque el mouse sobre el boton subir*/
 #myBtn:hover {
   background-color: #0B2851;
 }
@@ -621,13 +632,22 @@ font-weight: bold;
     text-decoration: none;
     background-color: #FFFFFF;
 }
-
+/*oculta el menu de la oferta académica en menu 2*/
 #cont-oferta-institucional
 {
 	display: none;
 }
-
+/*borde ancho para menu 1 y 2*/
 .borde-2
 {
 	border-width: 2px !important;
 }
+
+/*efecto para los iconos del menú 3*/
+.hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
+  -webkit-transform: scale(1.5) !important;
+  -moz-transform:scale(1.5) !important;
+  transform: scale(1.5) !important;
+}
+
+

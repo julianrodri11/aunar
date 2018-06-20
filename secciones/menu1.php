@@ -77,4 +77,6 @@
 <!-- fin menu -->
 
 <!-- boton ir al inicio -->
-<button class="efecto-borde1" onclick="iralinicio()" id="myBtn" title="Subir"><i class="fa fa-arrow-circle-up f-size-16 sombra-iconos icono-blanco"></i></button>
+<button class="efecto-borde1" onclick="iralinicio()" id="myBtn" title="Subir">
+  <i class="fa fa-arrow-circle-up f-size-16 sombra-iconos icono-blanco"></i>
+</button>

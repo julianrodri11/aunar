@@ -4,12 +4,12 @@
 <!-- ------------------BOTON FIJO AYUDA------------------------- -->
 
 
-    <div class="contenedor-ayuda ">
-      <div class="ico-ayuda">       
-        <div class="sombra-iconos icono-blanco " data-toggle="modal"   data-target="#myModalContactenos">
-          <i class="fa fa-envelope " data-toggle="tooltip" data-placement="right" title="¿Necesitas ayuda?, haz click"></i>
+    <div class="contenedor-ayuda p-0 m-0">
+           
+        <div class="sombra-iconos icono-blanco p-0 m-0 py-0 " data-toggle="modal"   data-target="#myModalContactenos">
+          <i class="fa fa-envelope p-0 m-0 " data-toggle="tooltip" data-placement="right" title="¿Necesitas ayuda?, haz click"></i>
         </div>
-      </div>
+      
     </div>
 
 

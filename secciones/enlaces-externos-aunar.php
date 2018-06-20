@@ -70,7 +70,7 @@
     <div class=" col-lg-1 col-sm-2 col-md-2 col-3 pb-3 ">
       <div class="p-0">
         <a href="http://docentes.aunar.edu.co/" class="hvr-wobble-vertical" target="_blanck">
-          <img class="img-fluid " src="http://dummyimage.com/600x300/378DB5/333.png?text=sistema-académia" alt="Sistema de notas académia aunar">
+          <img class="img-fluid " src="img/sistema-academia.png" alt="Sistema de notas académia aunar">
         </a>
       </div>      
     </div>

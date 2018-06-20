@@ -73,7 +73,7 @@
     </div>
     <div class="col-lg-2 col-md-3 col-sm-12 d-flex justify-content-center align-items-center">
         <div class="pl-1 pt-5 pb-4 text-center  border-left borde-azul">
-          <h3 class=" mt-0 pt-0 fuente-institucional texto-azul f-negrita hvr-underline-from-center pointer">Plan de Inversión</h3>
+          <h3 class=" mt-0 pt-0 fuente-institucional-bold texto-azul f-negrita hvr-underline-from-center pointer">Plan de Inversión</h3>
         </div>
     </div>
   </div>
@@ -198,7 +198,7 @@
         
           <div class="p-1 mt-5 mt-sm-5 bd-highlight text-center pr-3">
             <h1 class="my-1 fuente-institucional texto-azul f-negrita">Eventos</h1>
-            <label class="texto-azul fuente-institucional f-size-18">!Entérate nuestras novedades¡</label>
+            <label class="texto-azul fuente-institucional f-size-18">¡Entérate nuestras novedades!</label>
           </div>
           <!-- div class="p-1 bg-primary bd-highlight">Flex item 2</div>
           <div class="p-1 bg-white bd-highlight">Flex item 3</div> -->                
