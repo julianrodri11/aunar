@@ -7,7 +7,7 @@
   <div class="collapse navbar-collapse f-size-12 " id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0  animated bounceInLeft">
       <li class="nav-item pt-2 pb-2  dropdown">
-        <a class=" nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 border-left borde-2 borde-azul hvr-underline-from-center" href="inscripciones.php" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
+        <a class=" nav-link dropdown-toggle texto-azul pl-md-2 pl-sm-2 hvr-underline-from-center" href="inscripciones.php" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
         <div class="dropdown-menu f-size-12" aria-labelledby="admisiones">
           <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="inscripciones.php">Admisiones</a>
           <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck">Ayudas y Becas</a>
@@ -78,5 +78,5 @@
 
 <!-- boton ir al inicio -->
 <button class="efecto-borde1" onclick="iralinicio()" id="myBtn" title="Subir">
-  <i class="fa fa-arrow-circle-up f-size-16 sombra-iconos icono-blanco"></i>
+  
 </button>

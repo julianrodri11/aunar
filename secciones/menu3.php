@@ -13,7 +13,7 @@
                 <img class="img-fluid hvr-grow " src="img/iconos/v-institucional.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita hvr-underline-from-center pb-1">VIDEO INSTITUCIONAL</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita pb-1">VIDEO INSTITUCIONAL</p> 
     </div>
 
 
@@ -23,7 +23,7 @@
                 <img class="img-fluid hvr-grow " src="img/iconos/astereo.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita hvr-underline-from-center pb-1">AUNAR STEREO</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita pb-1">AUNAR STEREO</p> 
     </div>
 
 
@@ -33,7 +33,7 @@
                 <img class="img-fluid hvr-grow " src="img/iconos/aunartv.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita hvr-underline-from-center pb-1">AUNAR TV</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita pb-1">AUNAR TV</p> 
     </div>
 
 
@@ -43,7 +43,7 @@
                 <img class="img-fluid hvr-grow " src="img/iconos/campus-virtual.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita hvr-underline-from-center pb-1">CAMPUS VIRTUAL</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita pb-1">CAMPUS VIRTUAL</p> 
     </div>
 
 
@@ -53,7 +53,7 @@
                 <img class="img-fluid hvr-grow " src="img/iconos/atech.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita hvr-underline-from-center pb-1">AUNAR TECH</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita pb-1">AUNAR TECH</p> 
     </div>
 
 
@@ -63,7 +63,7 @@
                 <img class="img-fluid hvr-grow " src="img/iconos/campus-presencial.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita hvr-underline-from-center pb-1">CAMPUS PRESENCIAL</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita pb-1">CAMPUS PRESENCIAL</p> 
     </div>
 
 
@@ -73,7 +73,7 @@
                 <img class="img-fluid hvr-grow " src="img/iconos/bdocentes.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita hvr-underline-from-center pb-1">BISEL DOCENTES</p>
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita pb-1">BISEL DOCENTES</p>
     </div>
 
 
@@ -83,7 +83,7 @@
                 <img class="img-fluid hvr-grow " src="img/iconos/bestudiantes.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita hvr-underline-from-center pb-1">BISEL ESTUDIANTES</p> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita pb-1">BISEL ESTUDIANTES</p> 
     </div>
  
 
@@ -93,7 +93,7 @@
                 <img class="img-fluid hvr-grow " src="img/iconos/biblioteca.svg" alt="">
             </a>
         </div>
-            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita hvr-underline-from-center pb-1">BIBLÍOTECA</P> 
+            <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita pb-1">BIBLÍOTECA</P> 
     </div> 
 
 

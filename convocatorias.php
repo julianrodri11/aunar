@@ -36,8 +36,8 @@
 				<div class="row m-2 border-bottom borde-azul pb-3">
 					<div class="col-12 col-lg-12 ">
 						<div class="row f-negrita  texto-azul  f-size-18 d-flex justify-content-center">
-							<div class="col-12 col-lg-6 p-2 m-1 fondo-amarillo text-center hover-texto-blanco">Hoja de vida para docentes</div>
-							<div class="col-12 col-lg-6 p-2 m-1 fondo-amarillo text-center hover-texto-blanco">Hoja de vida para administrativos</div>
+							<div class="col-12 col-lg-6 p-2 m-1 fondo-amarillo text-center hover-texto-blanco pointer">Hoja de vida para docentes</div>
+							<div class="col-12 col-lg-6 p-2 m-1 fondo-amarillo text-center hover-texto-blanco pointer">Hoja de vida para administrativos</div>
 						</div>
 					</div>
 				</div>

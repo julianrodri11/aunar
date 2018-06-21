@@ -35,25 +35,25 @@
 			<div class="col-12 col-lg-2 fondo-amarillo-intenso">
 				<div class=""><h1 class="text-center text-lg-left text-white f-negrita p-2">1.</h1></div>
 			</div>
-			<div class="col-12 col-lg-10">Diríjase a la sección Preinscripción y diligencie los datos solicitados en el formulario.</div>
+			<div class="col-12 col-lg-10 texto-azul-os">Diríjase a la sección Preinscripción y diligencie los datos solicitados en el formulario.</div>
 		</div>
 		<div class="row m-2">
 			<div class="col-12 col-lg-3 fondo-amarillo-intenso">
 				<div class=""><h1 class="text-center text-lg-left text-white f-negrita p-2">2.</h1></div>
 			</div>
-			<div class="col-12 col-lg-9 text-justify">Una vez registre los datos realice clic en el botón Enviar. Sus datos serán validados y verificados en nuestra base de datos</div>
+			<div class="col-12 col-lg-9 text-justify texto-azul-os">Una vez registre los datos realice clic en el botón Enviar. Sus datos serán validados y verificados en nuestra base de datos</div>
 		</div>
 		<div class="row m-2">
 			<div class="col-12 col-lg-4 fondo-amarillo-intenso">
 				<div class=""><h1 class="text-center text-lg-left text-white f-negrita p-2">3.</h1></div>
 			</div>
-			<div class="col-12 col-lg-8 text-justify">Los aspirantes a programas presenciales, virtuales o a distancia deben descargar el formulario e imprimir una copia, descargar e imprimir el formato de pago, cancelar el valor de la inscripción y anexar los requisitos solicitados.</div>
+			<div class="col-12 col-lg-8 text-justify texto-azul-os">Los aspirantes a programas presenciales, virtuales o a distancia deben descargar el formulario e imprimir una copia, descargar e imprimir el formato de pago, cancelar el valor de la inscripción y anexar los requisitos solicitados.</div>
 		</div>
 		<div class="row m-2">
 			<div class="col-12 col-lg-5 fondo-amarillo-intenso">
 				<div class=""><h1 class="text-center text-lg-left text-white f-negrita p-2">4.</h1></div>
 			</div>
-			<div class="col-12 col-lg-7 text-justify">Si el estudiante es aspirante a un programa virtual envíe los requisitos solicitados en medio físico a la siguiente dirección: Carrera 28 No 19 - 24 Centro - San Juan de Pasto - Nariño. Sus datos registrados quedarán consignados en nuestra base de datos.</div>
+			<div class="col-12 col-lg-7 text-justify texto-azul-os">Si el estudiante es aspirante a un programa virtual envíe los requisitos solicitados en medio físico a la siguiente dirección: Carrera 28 No 19 - 24 Centro - San Juan de Pasto - Nariño. Sus datos registrados quedarán consignados en nuestra base de datos.</div>
 		</div>
 		<div class="row m-2">
 			<div class="col-0 col-lg-4 ">
@@ -73,7 +73,7 @@
 			<div class=" text-center">	
 				<div class="col-12 text-center"><h1 class=" f-negrita fuente-institucional texto-azul">Preinscripción</h1> </div> 			
 				<div class="col-12 texto-azul">Para realizar su Preinscripción</div>
-				<div class="col-12"><a class="btn text-light fondo-azul-oscuro pt-sans hvr-forward" href="http://inscripciones.aunar.edu.co/inscripcion.php">Click aquí</a> </div>
+				<div class="col-12"><a class="btn text-light fondo-azul-oscuro pt-sans hvr-forward" href="http://inscripciones.aunar.edu.co/inscripcion.php" target="_blanck">Click aquí</a> </div>
 			</div>
 		  </div>
 	  

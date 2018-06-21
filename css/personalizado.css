@@ -616,9 +616,12 @@ font-weight: bold;
   border: none;
   outline: none;
   background-color: #F4D460;
+  background-image: url('../img/flecha_arriba.png');
+  background-size: contain;
+  background-repeat: no-repeat;
   color: white;
   cursor: pointer;
-  
+  padding: 20px;
   border-radius: 4px;
 }
 /*fondo azul cuanco se coloque el mouse sobre el boton subir*/
