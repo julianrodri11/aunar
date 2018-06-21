@@ -112,38 +112,38 @@
           <div class="col-12 texto-azul fuente-institucional f-negrita p-2 f-size-16 text-center">OFERTA ACADÉMICA</div>
           <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
             <div class="col-12 f-negrita py-2 ">INGENIERÍA</div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="ingenieria-electronica.php" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/electronica.png" width="25">Ingeniería Electrónica</a></div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="ingenieria-mecanica.php" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/mecanica.png" width="25">Ingeniería Mecánica</a></div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="ingenieria-informatica.php" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/sistemas2.png" width="25">Ingeniería Informática</a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="ingenieria-electronica.php" class="sin-texto-subrayado texto-azul-os">Ingeniería Electrónica</a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="ingenieria-mecanica.php" class="sin-texto-subrayado texto-azul-os">Ingeniería Mecánica</a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="ingenieria-informatica.php" class="sin-texto-subrayado texto-azul-os">Ingeniería Informática</a></div>
           </div></div>
           <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
             <div class="col-12 f-negrita py-2 ">CIENCIAS ADMINISTRATIVAS Y CONTABLES</div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="administracion-empresas.php" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/admon-empresas.png" width="25">Administración de Empresas</a></div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="administracion-empresas-a-distancia.php" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/admon-distancia.png" width="25">Administración de Empresas a Distancia</a></div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="contaduria-publica.php" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/contador.png" width="25">Contaduría Pública</a></div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="contaduria-publica-a-distancia.php" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/contador2.png" width="25">Contaduría Pública a Distancia</a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="administracion-empresas.php" class="sin-texto-subrayado texto-azul-os">Administración de Empresas</a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="administracion-empresas-a-distancia.php" class="sin-texto-subrayado texto-azul-os">Administración de Empresas a Distancia</a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="contaduria-publica.php" class="sin-texto-subrayado texto-azul-os">Contaduría Pública</a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="contaduria-publica-a-distancia.php" class="sin-texto-subrayado texto-azul-os">Contaduría Pública a Distancia</a></div>
           </div></div>
           <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
             <div class="col-12 f-negrita py-2 ">BELLAS ARTES</div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="diseno-de-modas.php" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/diseno-modas.png" width="25">Tecnología en Diseño de Modas <strong>(No ofertado)</strong></a></div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="diseno-de-modas.php" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/confeccion.png" width="25">Competencias en Diseño de Modas y Confección</a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="diseno-de-modas.php" class="sin-texto-subrayado texto-azul-os">Tecnología en Diseño de Modas <strong>(No ofertado)</strong></a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="diseno-de-modas.php" class="sin-texto-subrayado texto-azul-os">Competencias en Diseño de Modas y Confección</a></div>
           </div></div>
           <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
             <div class="col-12 f-negrita py-2 ">CIENCIAS DE LA SALUD</div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="mecanica-dental.php" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/dental.png" width="25">Tecnología en Mecánica Dental <strong>(No ofertado)</strong></a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="mecanica-dental.php" class="sin-texto-subrayado texto-azul-os">Tecnología en Mecánica Dental <strong>(No ofertado)</strong></a></div>
           </div></div>
           <div class="col-6 col-sm-3 col-md-2 "><div class="row ">
             <div class="col-12 f-negrita py-2 ">PROGRAMAS VIRTUALES</div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="mercadeo-agropecuario.php" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/agropecuario.png" width="25">Tecnología en Mercadeo Agropecuario</a></div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="plantas-aromaticas.php" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/plantas.png" width="25">Tecnología en Transformación de Plantas Aromáticas</a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="mercadeo-agropecuario.php" class="sin-texto-subrayado texto-azul-os">Tecnología en Mercadeo Agropecuario</a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="plantas-aromaticas.php" class="sin-texto-subrayado texto-azul-os">Tecnología en Transformación de Plantas Aromáticas</a></div>
           </div></div>
           <div class="col-6 col-sm-3 col-md-2 "><div class="row ">
             <div class="col-12 f-negrita py-2 ">AYUDAS Y BECAS</div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/becas.png" width="25">Lorem ipsum.</a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="" class="sin-texto-subrayado texto-azul-os">Lorem ipsum.</a></div>
           </div></div>          
           <div class="col-6 col-sm-3 col-lg-2 "><div class="row ">
             <div class="col-12 f-negrita py-2 ">CURSOS Y DIPLOMADOS</div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="" class="sin-texto-subrayado texto-azul-os"><img class="pr-1" src="img/carreras/diplomas.png" width="25">Diplomado en ...</a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="" class="sin-texto-subrayado texto-azul-os">Diplomado en ...</a></div>
             <div class="col-12 hvr-underline-from-center pointer">Diplomado en ...</div>
 
           </div></div>          

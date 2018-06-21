@@ -1,7 +1,7 @@
 <!-- -----------------IMAGENES ENLACES DE EXTERNOS----------------------------- -->
 <div class="container-fluid p-4  fondo-amarillo bg-white fuente-institucional">
   <div class="row text-center justify-content-center ">
-    <div class=" col-12 fuente-institucional texto-azul py-3 f-negrita e_arriba_abajo "><h1 class="pb-4 fuente-institucional texto-azul f-negrita">Enlaces Externos</h1></div>
+    <div class=" col-12 fuente-institucional texto-azul py-3 f-negrita "><h1 class="pb-4 fuente-institucional texto-azul f-negrita">Enlaces Externos</h1></div>
     
     <div class=" col-lg-1 col-sm-2 col-md-2 col-3 pb-3 ">
       <div class="p-0">

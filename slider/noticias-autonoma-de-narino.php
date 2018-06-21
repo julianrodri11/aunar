@@ -23,16 +23,14 @@
                         <!-- noticia -->
                           <div class="card ">
                             
-                            <figure class="imghvr-zoom-out-flip-horiz">
-                                <img  class="card-img-top img-fluid" src="img/noticias/noticia1.png" width="100%">
-                                <figcaption>
-                                    <h3 class="ih-fade-down ih-delay-sm fuente-institucional">MAQUINARTE</h3>
-                                    <p class="ih-zoom-in ih-delay-md pt-sans">
-                                      <i>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, quam."</i>
-                                    </p>                                
-                                </figcaption>
-                                
-                            </figure>
+
+                            <div class="container-img">
+                              <img src="img/noticias/noticia1.png" alt="Avatar" class="image-hov" style="width:100%">
+                              <div class="middle-hov">
+                                <div class="text-hov fuente-institucional f-negrita ">MAQUINARTE:</div>
+                              </div>
+                            </div>
+
 
                             <div class="card-body">
                               <h5 class="card-title f-negrita fuente-institucional">MAQUINARTE 1</h5>
@@ -49,15 +47,13 @@
                         <!-- noticia -->
                           <div class="card ">
                             
-                            <figure class="imghvr-zoom-out-flip-horiz">
-                                <img  class="card-img-top img-fluid" src="img/noticias/noticia2.png" width="100%">
-                                <figcaption>
-                                    <h3 class="ih-fade-down ih-delay-sm fuente-institucional">MAQUINARTE</h3>
-                                    <p class="ih-zoom-in ih-delay-md pt-sans">
-                                      <i>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, quam."</i>
-                                    </p>                                
-                                </figcaption>                                
-                            </figure>
+                           
+                             <div class="container-img">
+                              <img src="img/noticias/noticia2.png" alt="Avatar" class="image-hov" style="width:100%">
+                              <div class="middle-hov">
+                                <div class="text-hov fuente-institucional f-negrita ">MAQUINARTE:</div>
+                              </div>
+                            </div>
 
                             <div class="card-body">
                               <h5 class="card-title f-negrita fuente-institucional">MAQUINARTE 1</h5>
@@ -71,15 +67,12 @@
                         <!-- noticia -->
                           <div class="card ">
                             
-                            <figure class="imghvr-zoom-out-flip-horiz">
-                                <img  class="card-img-top img-fluid" src="img/noticias/noticia3.png" width="100%">
-                                <figcaption>
-                                    <h3 class="ih-fade-down ih-delay-sm fuente-institucional">MAQUINARTE</h3>
-                                    <p class="ih-zoom-in ih-delay-md pt-sans">
-                                      <i>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, quam."</i>
-                                    </p>                                
-                                </figcaption>                                
-                            </figure>
+                            <div class="container-img">
+                              <img src="img/noticias/noticia3.png" alt="Avatar" class="image-hov" style="width:100%">
+                              <div class="middle-hov">
+                                <div class="text-hov fuente-institucional f-negrita ">MAQUINARTE:</div>
+                              </div>
+                            </div>
 
                             <div class="card-body">
                               <h5 class="card-title f-negrita fuente-institucional">MAQUINARTE 1</h5>
