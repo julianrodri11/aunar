@@ -31,7 +31,7 @@
       </div-->
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/slider4.jpg" alt="Third slide">
+      <img class="d-block w-100" src="img/slider3.jpg" alt="Third slide">
       <!--div class="carousel-caption">
         <h3>Lorem.</h3>
         <p>Lorem ipsum dolor sit.</p>
