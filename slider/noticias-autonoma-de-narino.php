@@ -16,10 +16,10 @@
               
               <!-- The slideshow -->
               <div class="carousel-inner ">
-                <div class="carousel-item p-1 p-sm-4 active">
+                <div class="carousel-item p-1 p-sm-4 active fondo-slider-noticias">
                   <div class="row p-2 m-1 m-sm-5 ">
                     
-                    <div class="col-12 col-md-6 col-lg-4">  
+                    <div class="col-12 col-md-6 col-lg-4 ">  
                         <!-- noticia -->
                           <div class="card ">
                             
@@ -37,13 +37,13 @@
                               <p class="card-text pt-sans text-justify texto-azui">La sub Red de facultades de Ingenierías de Nariño, invita a todos los investigadores de #AunarIngenierías para que participen de este importante eventoMAQUINARTE: IX MUESTRA DE PROYECTOS DE INGENIERíA</p>
                               <a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">Leer Más</a>
                             </div>
-                          </div>
-
-                        
+                          </div>                        
 
                         <!-- fin noticia -->
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4">  
+
+
+                    <div class="col-12 col-md-6 col-lg-4 ">  
                         <!-- noticia -->
                           <div class="card ">
                             
@@ -63,7 +63,8 @@
                           </div>
                         <!-- fin noticia -->
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4">  
+
+                    <div class="col-12 col-md-6 col-lg-4 ">  
                         <!-- noticia -->
                           <div class="card ">
                             
@@ -85,9 +86,9 @@
                   </div>
                 </div>
 
-                <div class="carousel-item p-1 p-sm-4 ">
+                <div class="carousel-item p-1 p-sm-4 fondo-slider-noticias">
                   <div class="row p-2 m-1 m-sm-5 ">
-                    <div class="col-12 col-md-6 col-lg-4">  
+                    <div class="col-12 col-md-6 col-lg-4 ">  
                         <!-- noticia -->
                           <div class="card ">
                             
@@ -110,7 +111,7 @@
                           </div>
                         <!-- fin noticia -->
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4">  
+                    <div class="col-12 col-md-6 col-lg-4 ">  
                         <!-- noticia -->
                           <div class="card ">
                             
@@ -133,7 +134,7 @@
                           </div>
                         <!-- fin noticia -->
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4">  
+                    <div class="col-12 col-md-6 col-lg-4 ">  
                         <!-- noticia -->
                           <div class="card ">
 
@@ -159,9 +160,9 @@
                   </div>
                 </div>
 
-                <div class="carousel-item p-1 p-sm-4 ">
+                <div class="carousel-item p-1 p-sm-4 fondo-slider-noticias">
                   <div class="row p-2 m-1 m-sm-5 ">
-                    <div class="col-12 col-md-6 col-lg-4">  
+                    <div class="col-12 col-md-6 col-lg-4 ">  
                         <!-- noticia -->
                           <div class="card ">
                             
@@ -183,7 +184,7 @@
                           </div>
                         <!-- fin noticia -->
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4">  
+                    <div class="col-12 col-md-6 col-lg-4 ">  
                         <!-- noticia -->
                           <div class="card ">
 
@@ -205,7 +206,7 @@
                           </div>
                         <!-- fin noticia -->
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4">  
+                    <div class="col-12 col-md-6 col-lg-4 ">  
                         <!-- noticia -->
                           <div class="card ">
                             

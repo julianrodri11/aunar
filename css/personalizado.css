@@ -618,7 +618,7 @@ font-weight: bold;
   background-color: #F4D460;
   color: white;
   cursor: pointer;
-  padding: 15px;
+  
   border-radius: 4px;
 }
 /*fondo azul cuanco se coloque el mouse sobre el boton subir*/
@@ -701,4 +701,9 @@ font-weight: bold;
   /*padding: 16px 32px;*/
 }
 
-/* finhover amarillo sobre imagenes en noticias*/
+/*FONDO AMARILLO CLARO ESLIDER NOTICIAS*/
+
+.fondo-slider-noticias
+{
+	background-color: #FFF6DC;
+}
