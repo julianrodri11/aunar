@@ -1,5 +1,5 @@
 <!-- malla curricular -->
-		<div class="container-fluid ">
+		<div class="container-fluid mb-5">
 			<div class="row  fuente-institucional texto-azul">
 				<div class="col-4 p-4 fondo-amarillo-intenso hover-texto-blanco text-center f-negrita">Mlla Curricular</div>
 				<div class="col-4"></div>
@@ -7,13 +7,15 @@
 				
 			</div>
 			<div class="row">
-				
-					<img class="img-fluid" width="100%" src="img/carreras/ingenieria-electronica-docentes-aunar.jpg" alt="docentes ingenieria-electronica autónoma de nariño" />
-				
+				<div class="col-12">
+					<div class="row">
+						<img class="img-fluid" width="100%" src="img/carreras/ingenieria-electronica-docentes-aunar.jpg" alt="docentes ingenieria-electronica autónoma de nariño" />
+					</div>
+				</div>
 			</div>
 			<!-- acordeon -->
 			<div class="row d-flex justify-content-center mt-5">
-				<div class="col-12 col-lg-8">
+				<div class="col-5 col-lg-5">
 					<div id="accordion">
 
 
@@ -85,7 +87,7 @@
 					      <div class="card-header p-0 pl-3">							
 							<div class="row ">
 						      		<div class="col-1 fondo-amarillo-intenso p-2">
-						      			<div class="text-center"  data-toggle="collapse" href="#collapseTwo"> 
+						      			<div class="text-center"  data-toggle="collapse" href="#collapseThree"> 
 						      				<i class="fa fa-chevron-circle-down texto-azul-os f-size-18"></i> 
 						      			</div>
 						      		</div>
@@ -134,6 +136,131 @@
 
 					</div>
 				</div>
+
+<!-- lado derecho -->
+				<div class="col-1 col-lg-1"></div>
+				<div class="col-5 col-lg-5">
+					<div id="accordion2">
+
+
+
+					    <div class="card ">					    	
+					      <div class="card-header p-0 pl-3">
+					      	
+					      	<div class="row ">
+					      		<div class="col-1 fondo-amarillo-intenso p-2">
+					      			<div class="text-center"  data-toggle="collapse" href="#collapse-d1"> 
+					      				<i class="fa fa-chevron-circle-down texto-azul-os f-size-18"></i> 
+					      			</div>
+					      		</div>
+					      		<div class="col-11 p-2 cinta-slider">
+					      			<a class="card-link pt-sans text-white" data-toggle="collapse" href="#collapse-d1">
+							          Fredy Armando Romero
+							        </a>
+					      		</div>
+							</div>
+
+					      </div>
+					      <div id="collapse-d1" class="collapse " data-parent="#accordion2">
+					        <div class="card-body p-4 d-flex justify-content-center">
+							<div class="col-10">
+	
+						          Docente T.C. programa de Programa
+						          <p>Docente Hora catedra departamento </p>
+						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
+							</div>
+					        </div>
+					      </div>
+					    </div>
+
+
+
+
+					    <div class="card">
+					      <div class="card-header p-0 pl-3">
+
+					      		<div class="row ">
+						      		<div class="col-1 fondo-amarillo-intenso p-2">
+						      			<div class="text-center"  data-toggle="collapse" href="#collapse-d2"> 
+						      				<i class="fa fa-chevron-circle-down texto-azul-os f-size-18"></i> 
+						      			</div>
+						      		</div>
+						      		<div class="col-11 p-2 cinta-slider">
+						      			<a class="collapsed card-link pt-sans text-white" data-toggle="collapse" href="#collapse-d2">
+						        		Andres Santacruz</a>
+						      		</div>
+								</div>
+					      
+					      </div>
+					      <div id="collapse-d2" class="collapse" data-parent="#accordion2">
+					        <div class="card-body p-4 d-flex justify-content-center">
+							<div class="col-10">
+	
+						          Docente T.C. programa de Programa
+						          <p>Docente Hora catedra departamento </p>
+						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
+							</div>
+					        </div>
+					      </div>
+					    </div>
+
+
+
+
+					    <div class="card">
+					      <div class="card-header p-0 pl-3">							
+							<div class="row ">
+						      		<div class="col-1 fondo-amarillo-intenso p-2">
+						      			<div class="text-center"  data-toggle="collapse" href="#collapse-d3"> 
+						      				<i class="fa fa-chevron-circle-down texto-azul-os f-size-18"></i> 
+						      			</div>
+						      		</div>
+						      		<div class="col-11 p-2 cinta-slider">
+								        <a class="collapsed card-link pt-sans text-white" data-toggle="collapse" href="#collapse-d3">Fredy Armando Romero</a>			    
+						      		</div>
+							</div>
+					      </div>
+					      <div id="collapse-d3" class="collapse" data-parent="#accordion2">
+					        <div class="card-body p-4 d-flex justify-content-center">
+							<div class="col-10">
+	
+						          Docente T.C. programa de Programa
+						          <p>Docente Hora catedra departamento </p>
+						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
+							</div>
+					        </div>
+					      </div>
+					    </div>
+						
+
+						<div class="card">
+					      <div class="card-header p-0 pl-3">							
+							<div class="row ">
+						      		<div class="col-1 fondo-amarillo-intenso p-2">
+						      			<div class="text-center"  data-toggle="collapse" href="#collapse-d4"> 
+						      				<i class="fa fa-chevron-circle-down texto-azul-os f-size-18"></i> 
+						      			</div>
+						      		</div>
+						      		<div class="col-11 p-2 cinta-slider">
+								        <a class="collapsed card-link pt-sans text-white" data-toggle="collapse" href="#collapse-d4">Fredy Armando Romero</a>			    
+						      		</div>
+							</div>
+					      </div>
+					      <div id="collapse-d4" class="collapse" data-parent="#accordion2">
+					        <div class="card-body p-4 d-flex justify-content-center">
+							<div class="col-10">
+	
+						          Docente T.C. programa de Programa
+						          <p>Docente Hora catedra departamento </p>
+						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
+							</div>
+					        </div>
+					      </div>
+					    </div>
+
+					</div>
+				</div>
+				<!-- fin lado derecjo -->
 
 			</div>
 		</div>

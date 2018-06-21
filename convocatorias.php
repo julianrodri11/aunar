@@ -17,7 +17,9 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-12">
-					<img class="mx-auto img-fluid" width="100%" src="img/convocatorias/convocatorias-aunar.jpg"/>
+					<div class="row">
+						<img class="mx-auto img-fluid" width="100%" src="img/convocatorias/convocatorias-aunar.jpg"/>
+					</div>
 				</div>
 			</div>
 		</div>

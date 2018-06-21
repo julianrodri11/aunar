@@ -143,7 +143,9 @@
 
 
 		<!-- malla curricular -->
-		<?php include_once('secciones/malla-curricular.php'); ?>
+		<?php 
+				include_once('secciones/malla-curricular.php');
+				include_once('secciones/footer-principal.php'); ?>
 		
 	</body>
 </html>
