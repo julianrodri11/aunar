@@ -425,11 +425,9 @@ font-weight: bold;
 	left: 0;	/*alinear a la deracha*/
 	top: 200px;	
 	z-index: 1040;
-	width: 40px;
-	height: 60px;
-	background-color: #F4D460;
-	border-top-right-radius: 25%;
-	border-bottom-right-radius: 25%;
+	
+	
+	
 }
 
 /*cambiar el color de los nav-bill*/
@@ -615,11 +613,11 @@ font-weight: bold;
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: #F4D460;
+  background-color: transparent !important;
   background-image: url('../img/flecha_arriba.png');
   background-size: contain;
   background-repeat: no-repeat;
-  color: white;
+  /*color: white;*/
   cursor: pointer;
   padding: 20px;
   border-radius: 4px;
@@ -648,9 +646,9 @@ font-weight: bold;
 
 /*efecto para los iconos del menú 3*/
 .hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
-  -webkit-transform: scale(1.5) !important;
-  -moz-transform:scale(1.5) !important;
-  transform: scale(1.5) !important;
+  -webkit-transform: scale(1.3) !important;
+  -moz-transform:scale(1.3) !important;
+  transform: scale(1.3) !important;
 }
 
 /*

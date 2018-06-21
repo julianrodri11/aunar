@@ -6,8 +6,8 @@
 
     <div class="contenedor-ayuda p-0 m-0">
            
-        <div class="sombra-iconos icono-blanco p-0 m-0 py-0 " data-toggle="modal"   data-target="#myModalContactenos">
-          <i class="fa fa-envelope p-0 m-0 " data-toggle="tooltip" data-placement="right" title="¿Necesitas ayuda?, haz click"></i>
+        <div class="sombra-iconos icono-blanco p-0 m-0 py-0 " data-toggle="modal"   data-target="#myModalContactenos">     
+          <img src="img/mensaje.png" alt="contactacto autónoma de nariño" width="45" data-toggle="tooltip" data-placement="right" title="¿Necesitas ayuda?, haz click">
         </div>
       
     </div>
