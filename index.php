@@ -188,6 +188,9 @@
 <!-- -----------------MENU ICONOS----------------------------- -->
 <?php include_once('secciones/menu3.php');?>
 <!-- -----------------FIN MENÚ ICONOS------------------------- -->
+<!-- video institucional -->
+<?php include_once('modal/modal-video-institucional.php');?>
+<!-- fin video institucional -->
 
 
 

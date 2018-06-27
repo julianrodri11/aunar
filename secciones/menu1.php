@@ -1,7 +1,17 @@
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-6 fondo-amarillo texto-azul-cl fuente-institucional f-negrita text-center p-2">Corporación Universitaira Autónoma de Nariño</div>
+    <div class="col-6 fondo-gris-c texto-azul-cl fuente-institucional f-negrita f-italica text-center p-2">La Tecnología es el Camino hacia un Mundo sin Fronteras</div>
+  </div>
+</div>
+
+
+
 <!-- menu 1 -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top bg-white texto-azul bg-success f-negrita fuente-institucional" id="navbar1" >
+<nav class="navbar navbar-expand-lg  navbar-light sticky-top bg-white texto-azul bg-success f-negrita fuente-institucional" id="navbar1" >
   <!--div class=" "><a class=" mx-auto navbar-brand fuente-institucional texto-azul f-size-18 " data-toggle="tooltip" data-placement="auto" title="Ir al inicio" href="index.php"><i class="fa fa-home"></i></a></div-->
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler"  type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon "></span>MENÚ
   </button>
   <div class="collapse navbar-collapse f-size-12 " id="navbarSupportedContent">
@@ -62,9 +72,11 @@
   <a class=" nav-link texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="http://190.121.158.228/public/" target="_blanck">Graduados</a>
 </li>
 </ul>
-<div class="rectangulo-sesgado pt-2 pb-2 animated bounceInRight">
+<!-- <div class="rectangulo-sesgado pt-2 pb-2 animated bounceInRight"> -->
+<div class="pt-2 pb-2 animated bounceInRight">
 <div class="row pt-3 mt-1 ml-0  float-right float-md-none mr-2">
-  <div class=" f-italica f-negrita f-size-14 ">La Tecnología es el Camino hacia un Mundo sin Fronteras</div>
+  <!-- <div class=" f-italica f-negrita f-size-14 ">La Tecnología es el Camino hacia un Mundo sin Fronteras</div> -->
+  <div class=" f-italica f-negrita f-size-14 "></div>
   <span class="ml-2 mr-1  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo p-1" data-toggle="modal"   data-target="#btn_traductor">Idioma</span>
 </div>
 </div>
