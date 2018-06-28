@@ -1,9 +1,9 @@
 <!-- malla curricular -->
 		<div class="container-fluid mb-5">
 			<div class="row  fuente-institucional texto-azul">
-				<div class="col-4 p-4 fondo-amarillo-intenso hover-texto-blanco text-center f-negrita">Mlla Curricular</div>
+				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">Malla Curricular</div>
 				<div class="col-4"></div>
-				<div class="col-4 p-4 fondo-amarillo-intenso hover-texto-blanco text-center f-negrita">Grupos de Investigacón</div>
+				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">Grupos de Investigacón</div>
 				
 			</div>
 			<div class="row">
@@ -15,22 +15,22 @@
 			</div>
 			<!-- acordeon -->
 			<div class="row d-flex justify-content-center mt-5">
-				<div class="col-5 col-lg-5">
+				<div class="col-10 col-lg-5">
 					<div id="accordion">
 
 
 
-					    <div class="card ">					    	
-					      <div class="card-header p-0 pl-3">
+					    <div class="card sin-borde">					    	
+					      <div class="card-header bg-white p-0 pl-3">
 					      	
 					      	<div class="row ">
-					      		<div class="col-1 fondo-amarillo-intenso p-2">
-					      			<div class="text-center"  data-toggle="collapse" href="#collapseOne"> 
-					      				<i class="fa fa-chevron-circle-down texto-azul-os f-size-18"></i> 
+					      		<div class="col-1  p-2">
+					      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseOne"> 
+					      				+
 					      			</div>
 					      		</div>
-					      		<div class="col-11 p-2 cinta-slider">
-					      			<a class="card-link pt-sans text-white" data-toggle="collapse" href="#collapseOne">
+					      		<div class="col-11 p-2">
+					      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseOne">
 							          Fredy Armando Romero
 							        </a>
 					      		</div>
@@ -52,17 +52,17 @@
 
 
 
-					    <div class="card">
-					      <div class="card-header p-0 pl-3">
+					    <div class="card sin-borde">
+					      <div class="card-header bg-white p-0 pl-3">
 
 					      		<div class="row ">
-						      		<div class="col-1 fondo-amarillo-intenso p-2">
-						      			<div class="text-center"  data-toggle="collapse" href="#collapseTwo"> 
-						      				<i class="fa fa-chevron-circle-down texto-azul-os f-size-18"></i> 
+						      		<div class="col-1  p-2">
+						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseTwo"> 
+						      				+
 						      			</div>
 						      		</div>
-						      		<div class="col-11 p-2 cinta-slider">
-						      			<a class="collapsed card-link pt-sans text-white" data-toggle="collapse" href="#collapseTwo">
+						      		<div class="col-11 p-2">
+						      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseTwo">
 						        		Andres Santacruz</a>
 						      		</div>
 								</div>
@@ -83,16 +83,16 @@
 
 
 
-					    <div class="card">
-					      <div class="card-header p-0 pl-3">							
+					    <div class="card sin-borde">
+					      <div class="card-header bg-white p-0 pl-3">							
 							<div class="row ">
-						      		<div class="col-1 fondo-amarillo-intenso p-2">
-						      			<div class="text-center"  data-toggle="collapse" href="#collapseThree"> 
-						      				<i class="fa fa-chevron-circle-down texto-azul-os f-size-18"></i> 
+						      		<div class="col-1  p-2">
+						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseThree"> 
+						      				+
 						      			</div>
 						      		</div>
-						      		<div class="col-11 p-2 cinta-slider">
-								        <a class="collapsed card-link pt-sans text-white" data-toggle="collapse" href="#collapseThree">Fredy Armando Romero</a>			    
+						      		<div class="col-11 p-2">
+								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseThree">Fredy Armando Romero</a>			    
 						      		</div>
 							</div>
 					      </div>
@@ -109,16 +109,16 @@
 					    </div>
 						
 
-						<div class="card">
-					      <div class="card-header p-0 pl-3">							
+						<div class="card sin-borde">
+					      <div class="card-header bg-white p-0 pl-3">							
 							<div class="row ">
-						      		<div class="col-1 fondo-amarillo-intenso p-2">
-						      			<div class="text-center"  data-toggle="collapse" href="#collapseFour"> 
-						      				<i class="fa fa-chevron-circle-down texto-azul-os f-size-18"></i> 
+						      		<div class="col-1  p-2">
+						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseFour"> 
+						      				+
 						      			</div>
 						      		</div>
-						      		<div class="col-11 p-2 cinta-slider">
-								        <a class="collapsed card-link pt-sans text-white" data-toggle="collapse" href="#collapseFour">Fredy Armando Romero</a>			    
+						      		<div class="col-11 p-2">
+								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseFour">Fredy Armando Romero</a>			    
 						      		</div>
 							</div>
 					      </div>
@@ -138,23 +138,23 @@
 				</div>
 
 <!-- lado derecho -->
-				<div class="col-1 col-lg-1"></div>
-				<div class="col-5 col-lg-5">
+				<!-- <div class="col-2 col-lg-2"></div> -->
+				<div class="col-10 col-lg-5">
 					<div id="accordion2">
 
 
 
-					    <div class="card ">					    	
-					      <div class="card-header p-0 pl-3">
+					    <div class="card sin-borde">					    	
+					      <div class="card-header bg-white p-0 pl-3">
 					      	
 					      	<div class="row ">
-					      		<div class="col-1 fondo-amarillo-intenso p-2">
-					      			<div class="text-center"  data-toggle="collapse" href="#collapse-d1"> 
-					      				<i class="fa fa-chevron-circle-down texto-azul-os f-size-18"></i> 
+					      		<div class="col-1  p-2">
+					      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d1"> 
+					      				+
 					      			</div>
 					      		</div>
-					      		<div class="col-11 p-2 cinta-slider">
-					      			<a class="card-link pt-sans text-white" data-toggle="collapse" href="#collapse-d1">
+					      		<div class="col-11 p-2">
+					      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d1">
 							          Fredy Armando Romero
 							        </a>
 					      		</div>
@@ -176,17 +176,17 @@
 
 
 
-					    <div class="card">
-					      <div class="card-header p-0 pl-3">
+					    <div class="card sin-borde">
+					      <div class="card-header bg-white p-0 pl-3">
 
 					      		<div class="row ">
-						      		<div class="col-1 fondo-amarillo-intenso p-2">
-						      			<div class="text-center"  data-toggle="collapse" href="#collapse-d2"> 
-						      				<i class="fa fa-chevron-circle-down texto-azul-os f-size-18"></i> 
+						      		<div class="col-1  p-2">
+						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d2"> 
+						      				+
 						      			</div>
 						      		</div>
-						      		<div class="col-11 p-2 cinta-slider">
-						      			<a class="collapsed card-link pt-sans text-white" data-toggle="collapse" href="#collapse-d2">
+						      		<div class="col-11 p-2">
+						      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d2">
 						        		Andres Santacruz</a>
 						      		</div>
 								</div>
@@ -207,16 +207,16 @@
 
 
 
-					    <div class="card">
-					      <div class="card-header p-0 pl-3">							
+					    <div class="card sin-borde">
+					      <div class="card-header bg-white p-0 pl-3">							
 							<div class="row ">
-						      		<div class="col-1 fondo-amarillo-intenso p-2">
-						      			<div class="text-center"  data-toggle="collapse" href="#collapse-d3"> 
-						      				<i class="fa fa-chevron-circle-down texto-azul-os f-size-18"></i> 
+						      		<div class="col-1  p-2">
+						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d3"> 
+						      				+
 						      			</div>
 						      		</div>
-						      		<div class="col-11 p-2 cinta-slider">
-								        <a class="collapsed card-link pt-sans text-white" data-toggle="collapse" href="#collapse-d3">Fredy Armando Romero</a>			    
+						      		<div class="col-11 p-2">
+								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d3">Fredy Armando Romero</a>			    
 						      		</div>
 							</div>
 					      </div>
@@ -233,16 +233,16 @@
 					    </div>
 						
 
-						<div class="card">
-					      <div class="card-header p-0 pl-3">							
+						<div class="card sin-borde">
+					      <div class="card-header bg-white p-0 pl-3">							
 							<div class="row ">
-						      		<div class="col-1 fondo-amarillo-intenso p-2">
-						      			<div class="text-center"  data-toggle="collapse" href="#collapse-d4"> 
-						      				<i class="fa fa-chevron-circle-down texto-azul-os f-size-18"></i> 
+						      		<div class="col-1  p-2">
+						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d4"> 
+						      				+
 						      			</div>
 						      		</div>
-						      		<div class="col-11 p-2 cinta-slider">
-								        <a class="collapsed card-link pt-sans text-white" data-toggle="collapse" href="#collapse-d4">Fredy Armando Romero</a>			    
+						      		<div class="col-11 p-2">
+								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d4">Fredy Armando Romero</a>			    
 						      		</div>
 							</div>
 					      </div>

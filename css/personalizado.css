@@ -55,6 +55,12 @@
 	color: #1E3D85 !important;
 
 }
+/*fuente azul oscura para los enlaces*/
+.a-new
+{
+	color: #001A5A !important;
+
+}
 
 /*fuente personalizada institucional*/
 .fuente-institucional
@@ -138,6 +144,11 @@ font-weight: bold;
 .hover-sin-borde:hover
 {
 	border-color: none !important;
+}
+/*quitar borde de acordion*/
+.sin-borde
+{	
+	border: none !important;	
 }
 
 /*fondo amarillo para los menus y zonas que lo requieran*/
@@ -460,7 +471,7 @@ font-weight: bold;
 }
 .cinta-slider
 {		
-	background-image: url("../img/1px.png");	
+	background-image: url("../img/1px.jpg");	
 	background-repeat: repeat-x;	
 	background-size: contain;
 }

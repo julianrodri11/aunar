@@ -14,7 +14,7 @@
 			include_once('secciones/modal-traductor.php');
 			include_once('modal/modal-contactenos.php');
 		?>
-		<div class="container-fluid"><div class="row p-3 ">.</div></div>
+		
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-12">
@@ -138,7 +138,140 @@
 
 
 		<div class="container-fluid">
-			<div class="row p-4 m-1 fondo-azul-oscuro text-white">PLAN DE ESTUDIOS</div>
+			<div class="row">
+	        	<div class="col-12 pt-1 pl-1 mt-sm-5 py-3 text-center  "><h1 class=" mt-0 fuente-institucional texto-azul f-negrita">Plan de estudios</h1></div>
+	    	</div>
+	    	<div class="row d-flex justify-content-around ">
+	    		<div class="col-5 col-lg-2 texto-azul">
+	    			<div class="col-12 py-3 pt-sans f-negrita">I Semestre</div>
+	    			
+	    			<div class="col-12  pt-sans f-size-14">
+	    				<div class="">-Fundamentos Matemáticos.</div>
+	    				<div class="">-Introducción a la ingeniería.</div>
+	    				<div class="">-Circuítos Eléctricos I.</div>
+	    				<div class="">-Lógica Computacional.</div>
+	    				<div class="">Técnicas de Estudio.</div>
+	    				<div class="">-Deporte Formativo.</div>
+	    				<div class="">-Cultura Institucional.</div>
+	    			</div>
+	    		</div>
+	    		<div class="col-5 col-lg-2 texto-azul ">
+	    			<div class="col-12 py-3 pt-sans f-negrita">II Semestre</div>
+	    			
+	    			<div class="col-12  pt-sans f-size-14">
+	    				<div class="">-Algebra Lineal.</div>
+	    				<div class="">-Cálculo Diferencial.</div>
+	    				<div class="">-Física I.</div>
+	    				<div class="">-Programación</div>
+	    				<div class="">-Circuitos Eléctricos II.</div>
+	    				<div class="">-Epistemología de la Investigación.</div>
+	    				<div class="">-Desarrollo Regional y Sostenibilidad</div>
+	    			</div>
+	    		</div>
+	    		<div class="col-5 col-lg-2 texto-azul">
+	    			<div class="col-12 py-3 pt-sans f-negrita">III Semestre</div>
+	    			
+	    			<div class="col-12  pt-sans f-size-14">
+	    				<div class="">-Cálculo Integral.</div>
+	    				<div class="">-Física II.</div>
+	    				<div class="">-Programación Orientada a Objetos.</div>
+	    				<div class="">-Electrónica Básica.</div>
+	    				<div class="">-Circuitos Eléctricos III..</div>
+	    				<div class="">-Metodología de la Investigación</div>
+	    				<div class="">-Seguridad Industrial</div>
+	    			</div>
+	    		</div>
+	    		<div class="col-5 col-lg-2 texto-azul ">
+	    			<div class="col-12 py-3 pt-sans f-negrita">IV Semestre</div>
+	    			
+	    			<div class="col-12  pt-sans f-size-14">
+	    				<div class="">-Cálculo Vectorial</div>
+	    				<div class="">-Ecuaciones Diferenciales</div>
+	    				<div class="">-Física III</div>
+	    				<div class="">-Circuitos Análogos I</div>
+	    				<div class="">-Circuitos Digitales I</div>
+	    				<div class="">-Metodología de la Investigación ii</div>
+	    				
+	    			</div>
+	    		</div>
+	    		<div class="col-5 col-lg-2 texto-azul">
+	    			<div class="col-12 py-3 pt-sans f-negrita">V Semestre</div>
+	    			
+	    			<div class="col-12  pt-sans f-size-14">
+	    				<div class="">-Probabilidad y Estadística</div>
+	    				<div class="">-Física IV</div>
+	    				<div class="">-Campos Electromagnéticos</div>
+	    				<div class="">-Circuitos Análogos II</div>
+	    				<div class="">-Circuitos Digitales II</div>
+	    				<div class="">-Electiva Interdisciplinar</div>
+	    				
+	    			</div>
+	    		</div>
+	    	</div>
+	    			
+
+	    	<div class="row d-flex justify-content-around">
+	    		<div class="col-5 col-lg-2 texto-azul">
+	    			<div class="col-12 py-3 pt-sans f-negrita">VI Semestre</div>
+	    			
+	    			<div class="col-12  pt-sans f-size-14">
+	    				<div class="">-Matemáticas Especiales I</div>
+	    				<div class="">-Señales y Sistemas</div>
+	    				<div class="">-Medios de Transmisión</div>
+	    				<div class="">-Bases de Datos</div>
+	    				<div class="">-Instrumentación Electrónica</div>
+	    				<div class="">-Domótica e Inmótica</div>
+	    				<div class="">-Ética</div>
+	    			</div>
+	    		</div>
+	    		<div class="col-5 col-lg-2 texto-azul ">
+	    			<div class="col-12 py-3 pt-sans f-negrita">VII Semestre</div>
+	    			
+	    			<div class="col-12  pt-sans f-size-14">
+	    				<div class="">-Matemáticas especiales II</div>
+	    				<div class="">-Circuitos digitales III</div>
+	    				<div class="">-Comunicaciones I</div>
+	    				<div class="">-Redes de datos I</div>
+	    				<div class="">-Control I</div>	    				
+	    			</div>
+	    		</div>
+	    		<div class="col-5 col-lg-2 texto-azul">
+	    			<div class="col-12 py-3 pt-sans f-negrita">VIII Semestre</div>
+	    			
+	    			<div class="col-12  pt-sans f-size-14">
+	    				<div class="">-Comunicaciones II</div>
+	    				<div class="">-Redes de datos II</div>
+	    				<div class="">-Control II</div>
+	    				<div class="">-Electiva i</div>
+	    				<div class="">-Mentalidad Emprendedora</div>
+	    				<div class="">-Seminario de Grado I</div>
+	    				<div class="">-</div>
+	    			</div>
+	    		</div>
+	    		<div class="col-5 col-lg-2 texto-azul ">
+	    			<div class="col-12 py-3 pt-sans f-negrita">IV Semestre</div>
+	    			
+	    			<div class="col-12  pt-sans f-size-14">
+	    				<div class="">-Telecomunicaciones</div>
+	    				<div class="">-Sistemas CAD Diseño Electrónico</div>
+	    				<div class="">-Automatización Industrial</div>
+	    				<div class="">-Electiva II</div>
+	    				<div class="">-Ingeniería Económica</div>
+	    				<div class="">-Seminario de Grado II</div>
+	    				<div class="">-</div>
+	    			</div>
+	    		</div>
+	    		<div class="col-5 col-lg-2 texto-azul">
+	    			<div class="col-12 py-3 pt-sans f-negrita">X Semestre</div>
+	    			
+	    			<div class="col-12  pt-sans f-size-14">
+	    				<div class="">-Pasantía 320 horas</div>
+	    				<div class="">-Electiva III</div>
+	    				<div class="">-Gerencia de Proyectos en Ingeniería</div>
+	    				<div class="">-Desarrollo de Trabajo de Grado</div>
+	    			</div>
+	    		</div>
+	    	</div>
 		</div>
 
 
