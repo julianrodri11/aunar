@@ -8,7 +8,11 @@
 <ul class="nav d-flex justify-content-center  ">
   
   <li class="nav-item   border-right borde-azul borde-1">
-	<a href="primeros_auxilios.php" class="nav-link hvr-curl-top-right fuente-institucional texto-azul"  id="" role="button" aria-haspopup="true" aria-expanded="false">Primeros auxilios <span class="sr-only">(current)</span></a>    
+    <a href="bienestar.php" class="nav-link hvr-curl-top-right fuente-institucional texto-azul"  id="" role="button" aria-haspopup="true" aria-expanded="false">Bienestar Universitario <span class="sr-only">(current)</span></a>    
+  </li>
+
+  <li class="nav-item  border-right borde-azul borde-1 " id="">
+    <a href="primeros_auxilios.php" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul ">Primeros auxilios</a>  	
   </li>
 
   <li class="nav-item  border-right borde-azul borde-1 " id="">
