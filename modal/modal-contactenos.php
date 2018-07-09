@@ -20,7 +20,7 @@
 <!-- --------------------MODAL con formulario----------------------- -->
 <!-- The Modal -->
   <div class="modal fade" id="myModalContactenos">
-    <div class="modal-dialog modal-sm modal-dialog-centered">
+    <div class="modal-dialog modal-md modal-dialog-centered">
       <div class="modal-content">
       
         <!-- Modal Header -->
@@ -40,7 +40,7 @@
                 <div class="row">
 
                   <div class="col-12 p-2 text-center"><img class="img-fluid rounded-circle " src="img/aunar.jpg" width="50%"></div>
-                  <div class="col-12 p-2 text-justify pt-sans texto-azul">Si deseas hacer parte de nuestra institución, enviarnos un comentario o conocernos más, escríbenos:</div>
+                  <div class="col-12 p-2 text-justify pt-sans texto-azul">Si deseas hacer parte de nuestra Institución, escríbenos un comentario:</div>
                 </div>
               </div>
               
