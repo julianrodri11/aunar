@@ -18,7 +18,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-12">
-					<img class="mx-auto img-fluid" width="100%" src="img/bienestar/deportes.png"/>
+					<img class="mx-auto img-fluid" width="100%" src="img/bienestar/deportes.jpg"/>
 				</div>
 			</div>
 		</div>
