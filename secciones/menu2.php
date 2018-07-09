@@ -8,7 +8,7 @@
 
 
 <ul class="nav d-flex justify-content-center  ">
-  <li class="nav-item  dropdown border-right borde-azul borde-2">
+  <li class="nav-item  dropdown border-right borde-azul borde-1">
     <a class=" nav-link dropdown-toggle fuente-institucional hvr-curl-top-right "  id="institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Institucional <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul " aria-labelledby="institucional">
       <a class=" dropdown-item hvr-underline-from-left">Misión</a>
@@ -25,13 +25,13 @@
     </div>
     
   </li>
-  <li class="nav-item  border-right borde-azul borde-2 " id="oferta-academica">
+  <li class="nav-item  border-right borde-azul borde-1 " id="oferta-academica">
     <a class=" nav-link hvr-curl-top-right fuente-institucional texto-azul "   >Oferta Académica</a>
 
   
   </li>
 
-  <li class="nav-item  dropdown border-right borde-azul borde-2 ">
+  <li class="nav-item  dropdown border-right borde-azul borde-1 ">
     <a class=" nav-link dropdown-toggle hvr-curl-top-right "  id="investigacion" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Investigación <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="investigacion">
       <a class=" dropdown-item hvr-underline-from-left  ">Vicerrectoria de Investigacion</a>
@@ -53,11 +53,11 @@
     </div>
   </li>
 
-<li class="nav-item dropdown  border-right borde-azul borde-2">
-  <a class=" nav-link texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="bienestar.php">Bienestar Universitario</a>
+<li class="nav-item dropdown  border-right borde-azul borde-1">
+  <a class=" nav-link texto-azul pl-2 hvr-underline-from-center" href="bienestar.php">Bienestar Universitario</a>
 </li>
 
-  <!-- <li class="nav-item dropdown  border-right borde-azul borde-2">
+  <!-- <li class="nav-item dropdown  border-right borde-azul borde-1">
 
     <a href="bienestar.php" class=" nav-link dropdown-toggle hvr-curl-top-right "  id="bienestar-universitario" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Bienestar Universitario</a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="bienestar-universitario">
@@ -70,7 +70,7 @@
     </div>
   </li>
    -->
-  <li class="nav-item dropdown  border-right borde-azul borde-2">
+  <li class="nav-item dropdown  border-right borde-azul borde-1">
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="proyeccion-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Proyección Institucional</a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="proyeccion-institucional">
@@ -80,7 +80,7 @@
       
     </div>
   </li>
-  <li class="nav-item dropdown  border-right borde-azul borde-2">
+  <li class="nav-item dropdown  border-right borde-azul borde-1">
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="talento-humano" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Talento Humano</a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="talento-humano">
@@ -95,7 +95,7 @@
       
     </div>
   </li>
-  <li class="nav-item dropdown  border-right borde-azul borde-2">
+  <li class="nav-item dropdown  border-right borde-azul borde-1">
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="cian" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">CIAN</a>
     <div class="dropdown-menu dropdown-menu-left fuente-institucional texto-azul" aria-labelledby="cian">
@@ -103,7 +103,7 @@
       
     </div>
   </li>
-  <li class="nav-item border-right borde-azul borde-2">
+  <li class="nav-item border-right borde-azul borde-1">
     <a class=" nav-link hvr-curl-top-right ">Aunar Virtual</a>
   </li>
 
