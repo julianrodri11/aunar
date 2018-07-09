@@ -8,8 +8,8 @@
 
 
 <ul class="nav d-flex justify-content-center  ">
-  <li class="nav-item  dropdown border-right borde-azul borde-1">
-    <a class="nav-link dropdown-toggle fuente-institucional hvr-curl-top-right pointer"  id="institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Institucional <span class="sr-only">(current)</span></a>
+  <li class="nav-item  dropdown border-right borde-azul borde-1 ">
+    <a class="nav-link dropdown-toggle fuente-institucional hvr-curl-top-right  pointer"  id="institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Institucional <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul " aria-labelledby="institucional">
       <a class=" dropdown-item hvr-underline-from-left">Misión</a>
       <a class=" dropdown-item hvr-underline-from-left">Visión</a>
@@ -26,7 +26,7 @@
     
   </li>
   <li class="nav-item  border-right borde-azul borde-1 " id="oferta-academica">
-    <a class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center pointer">Oferta Académica Sede Principal</a>
+    <a class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center pointer">Oferta Académica</a>
 
   
   </li>
@@ -114,7 +114,7 @@
      <div class="row " id="ver-oferta-institucional">
       <div class="col-12">
         <div class="row f-size-14 d-flex justify-content-around ">
-          <div class="col-12 texto-azul fuente-institucional f-negrita p-2 f-size-16 text-center">OFERTA ACADÉMICA</div>
+          <div class="col-12 texto-azul fuente-institucional f-negrita p-2 f-size-16 text-center">OFERTA ACADÉMICA SEDE PRINCIPAL</div>
           <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
             <div class="col-12 f-negrita py-2 ">INGENIERÍA</div>
             <div class="col-12 hvr-underline-from-center pointer"><a href="ingenieria-electronica.php" class="sin-texto-subrayado texto-azul-os">Ingeniería Electrónica</a></div>
