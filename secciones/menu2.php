@@ -26,7 +26,7 @@
     
   </li>
   <li class="nav-item  border-right borde-azul borde-1 " id="oferta-academica">
-    <a class=" nav-link hvr-curl-top-right fuente-institucional texto-azul "   >Oferta Académica</a>
+    <a class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center "   >Oferta Académica Sede Principal</a>
 
   
   </li>
