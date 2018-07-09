@@ -16,9 +16,7 @@
   <link rel="stylesheet" type="text/css" href="css/personalizado.css">
   <!-- efectos cuando se colocal el mouse encima de algo -efectos hover -->
   <link rel="stylesheet" type="text/css" href="css/hover.css">
-  <!-- libreria para animaciones del hover de una imágen -->
-  <link rel="stylesheet" type="text/css" href="css/imagehover.css">
-  <!-- libreria para animaciones  -->
+  <!-- libreria para animaciones del hover de una imágen -->  
   <link rel="stylesheet" type="text/css" href="css/animate.css">
   <!-- framework para maquetación  -->
 	<script src="js/bootstrap.min.js"></script>

@@ -53,8 +53,13 @@
     </div>
   </li>
 
-  <li class="nav-item dropdown  border-right borde-azul borde-2">
-    <a class=" nav-link dropdown-toggle hvr-curl-top-right "  id="bienestar-universitario" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Bienestar Universitario</a>
+<li class="nav-item dropdown  border-right borde-azul borde-2">
+  <a class=" nav-link texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="bienestar.php">Bienestar Universitario</a>
+</li>
+
+  <!-- <li class="nav-item dropdown  border-right borde-azul borde-2">
+
+    <a href="bienestar.php" class=" nav-link dropdown-toggle hvr-curl-top-right "  id="bienestar-universitario" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Bienestar Universitario</a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="bienestar-universitario">
       <a class=" dropdown-item hvr-underline-from-left ">Vicerrectoría de Bienestar<br> Universitario</a>
       <a class=" dropdown-item hvr-underline-from-left ">Primeros auxilios</a>
@@ -64,7 +69,7 @@
       
     </div>
   </li>
-  
+   -->
   <li class="nav-item dropdown  border-right borde-azul borde-2">
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="proyeccion-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Proyección Institucional</a>
