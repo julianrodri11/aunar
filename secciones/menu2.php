@@ -138,11 +138,11 @@
             <div class="col-12 hvr-underline-from-center pointer"><a href="mecanica-dental.php" class="sin-texto-subrayado texto-azul-os">Tecnología en Mecánica Dental <strong>(No ofertado)</strong></a></div>
           </div></div>
           <div class="col-6 col-sm-3 col-md-2 "><div class="row ">
-            <div class="col-12 f-negrita py-2 ">PROGRAMAS VIRTUALES</div>
+            <div class="col-12 f-negrita py-2 ">FACULTAD DE CIENCIAS AGROPECUARIAS</div>
             <div class="col-12 hvr-underline-from-center pointer"><a href="mercadeo-agropecuario.php" class="sin-texto-subrayado texto-azul-os">Tecnología en Mercadeo Agropecuario</a></div>
             <div class="col-12 hvr-underline-from-center pointer"><a href="plantas-aromaticas.php" class="sin-texto-subrayado texto-azul-os">Tecnología en Transformación de Plantas Aromáticas</a></div>
           </div></div>
-          <div class="col-6 col-sm-3 col-md-2 "><div class="row ">
+          <!-- <div class="col-6 col-sm-3 col-md-2 "><div class="row ">
             <div class="col-12 f-negrita py-2 ">AYUDAS Y BECAS</div>
             <div class="col-12 hvr-underline-from-center pointer"><a href="" class="sin-texto-subrayado texto-azul-os">Lorem ipsum.</a></div>
           </div></div>          
@@ -151,7 +151,7 @@
             <div class="col-12 hvr-underline-from-center pointer"><a href="" class="sin-texto-subrayado texto-azul-os">Diplomado en ...</a></div>
             <div class="col-12 hvr-underline-from-center pointer">Diplomado en ...</div>
 
-          </div></div>          
+          </div></div> -->          
         </div>
         
         
