@@ -9,7 +9,7 @@
 
 <ul class="nav d-flex justify-content-center  ">
   <li class="nav-item  dropdown border-right borde-azul borde-1">
-    <a class=" nav-link dropdown-toggle fuente-institucional hvr-curl-top-right "  id="institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Institucional <span class="sr-only">(current)</span></a>
+    <a class="nav-link dropdown-toggle fuente-institucional hvr-curl-top-right pointer"  id="institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Institucional <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul " aria-labelledby="institucional">
       <a class=" dropdown-item hvr-underline-from-left">Misión</a>
       <a class=" dropdown-item hvr-underline-from-left">Visión</a>
@@ -26,13 +26,13 @@
     
   </li>
   <li class="nav-item  border-right borde-azul borde-1 " id="oferta-academica">
-    <a class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center "   >Oferta Académica Sede Principal</a>
+    <a class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center pointer"   >Oferta Académica Sede Principal</a>
 
   
   </li>
 
   <li class="nav-item  dropdown border-right borde-azul borde-1 ">
-    <a class=" nav-link dropdown-toggle hvr-curl-top-right "  id="investigacion" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Investigación <span class="sr-only">(current)</span></a>
+    <a class=" nav-link dropdown-toggle hvr-curl-top-right pointer "  id="investigacion" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Investigación <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="investigacion">
       <a class=" dropdown-item hvr-underline-from-left  ">Vicerrectoria de Investigacion</a>
       <a class=" dropdown-item hvr-underline-from-left  ">CIDAE</a>
@@ -72,7 +72,7 @@
    -->
   <li class="nav-item dropdown  border-right borde-azul borde-1">
     <!--a class="nav-link active    " >Extensiones</a-->
-    <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="proyeccion-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Proyección Institucional</a>
+    <a class=" nav-link dropdown-toggle  hvr-curl-top-right pointer"  id="proyeccion-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Proyección Institucional</a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="proyeccion-institucional">
       <a class=" dropdown-item hvr-underline-from-left ">Proyección Institucional<br> Aunar</a>
       <a class=" dropdown-item hvr-underline-from-left ">Internacionalización</a>
@@ -82,7 +82,7 @@
   </li>
   <li class="nav-item dropdown  border-right borde-azul borde-1">
     <!--a class="nav-link active    " >Extensiones</a-->
-    <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="talento-humano" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Talento Humano</a>
+    <a class=" nav-link dropdown-toggle  hvr-curl-top-right pointer"  id="talento-humano" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Talento Humano</a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="talento-humano">
       <a class=" dropdown-item hvr-underline-from-left ">Información Oficina<br> Talento Humano</a>
       <a class=" dropdown-item hvr-underline-from-left ">circulares, permisos<br> y licencias</a>
@@ -97,14 +97,14 @@
   </li>
   <li class="nav-item dropdown  border-right borde-azul borde-1">
     <!--a class="nav-link active    " >Extensiones</a-->
-    <a class=" nav-link dropdown-toggle  hvr-curl-top-right "  id="cian" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">CIAN</a>
+    <a class=" nav-link dropdown-toggle  hvr-curl-top-right pointer"  id="cian" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">CIAN</a>
     <div class="dropdown-menu dropdown-menu-left fuente-institucional texto-azul" aria-labelledby="cian">
       <a class=" dropdown-item hvr-underline-from-left ">Dpto de Inglés</a>      
       
     </div>
   </li>
   <li class="nav-item border-right borde-azul borde-1">
-    <a class=" nav-link hvr-curl-top-right ">Aunar Virtual</a>
+    <a class=" nav-link hvr-curl-top-right pointer ">Aunar Virtual</a>
   </li>
 
       <!-- Tab panes -->
