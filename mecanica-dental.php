@@ -281,7 +281,7 @@
 		<!-- fin plan de estudios -->
 		<!-- malla curricular -->
 		<?php 
-			include_once('secciones/malla-curricular.php'); 
+			include_once('secciones/malla_curricular/mecanica_dental.php'); 
 			include_once('secciones/footer-principal.php');
 		?>
 

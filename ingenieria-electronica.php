@@ -277,7 +277,7 @@
 
 		<!-- malla curricular -->
 		<?php 
-				include_once('secciones/malla-curricular.php');
+				include_once('secciones/malla_curricular/electronica.php');
 				include_once('secciones/footer-principal.php'); ?>
 		
 	</body>

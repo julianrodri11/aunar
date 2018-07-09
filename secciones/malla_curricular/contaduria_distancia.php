@@ -1,7 +1,8 @@
 <!-- malla curricular -->
 		<div class="container-fluid mb-5">
 			<div class="row  fuente-institucional texto-azul">
-				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">Malla Curricular</div>
+				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita pointer">
+					<a class="texto-azul-os sin-texto-subrayado" target="_blanck" href="docs/malla_curricular/contaduria_publica_distancia.pdf">Malla Curricular</a></div>
 				<div class="col-4"></div>
 				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">Grupos de Investigacón</div>
 				

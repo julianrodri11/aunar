@@ -285,7 +285,7 @@
 		
 		<!-- malla curricular -->
 		<?php 
-			include_once('secciones/malla-curricular.php'); 
+			include_once('secciones/malla_curricular/informatica.php'); 
 			include_once('secciones/footer-principal.php');
 		?>
 

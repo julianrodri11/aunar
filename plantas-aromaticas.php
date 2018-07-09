@@ -135,7 +135,6 @@
 			</div>
 		</div>
 
-
 <!-- plan de estudios -->
 			<div class="container-fluid">
 			<div class="row">
@@ -282,7 +281,7 @@
 		
 
 		<!-- malla curricular -->
-		<?php include_once('secciones/malla-curricular.php'); 
+		<?php include_once('secciones/malla_curricular/plantas_aromaticas.php'); 
 			  include_once('secciones/footer-principal.php');
 
 		?>

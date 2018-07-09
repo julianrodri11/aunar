@@ -283,7 +283,7 @@
 		
 		<!-- malla curricular -->
 		<?php 
-			include_once('secciones/malla-curricular.php'); 
+			include_once('secciones/malla_curricular/mecanica.php'); 
 			include_once('secciones/footer-principal.php');
 		?>
 

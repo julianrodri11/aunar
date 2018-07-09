@@ -283,7 +283,7 @@
 		
 		<!-- malla curricular -->
 		<?php 
-			include_once('secciones/malla-curricular.php'); 
+			include_once('secciones/malla_curricular/mercadeo_agropecuario.php'); 
 			include_once('secciones/footer-principal.php');
 		?>
 
