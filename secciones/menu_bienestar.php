@@ -7,26 +7,26 @@
 
 <ul class="nav d-flex justify-content-center  ">
   
-  <li class="nav-item   border-right borde-azul borde-1">
-    <a href="bienestar.php" class="nav-link hvr-curl-top-right fuente-institucional texto-azul"  id="" role="button" aria-haspopup="true" aria-expanded="false">Bienestar Universitario <span class="sr-only">(current)</span></a>    
+  <li class="nav-item">
+    <a href="bienestar.php" class="nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false"><img width="80" src="img/bienestar/ico_primeros_auxilios_aunar.png" ><br>Bienestar Universitario <span class="sr-only">(current)</span></a>    
   </li>
 
-  <li class="nav-item  border-right borde-azul borde-1 " id="">
-    <a href="primeros_auxilios.php" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul ">Primeros auxilios</a>  	
+  <li class="nav-item" id="">
+    <a href="primeros_auxilios.php" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center "><img width="80" src="img/bienestar/ico_primeros_auxilios_aunar.png" ><br> Primeros auxilios</a>  	
   </li>
 
-  <li class="nav-item  border-right borde-azul borde-1 " id="">
-    <a href="psicologia.php" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul ">Psicología</a>  
+  <li class="nav-item" id="">
+    <a href="psicologia.php" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/bienestar/ico_psicologia_aunar.png" ><br>Psicología</a>  
   </li>
 
-   <li class="nav-item  border-right borde-azul borde-1 " id="">
-    <a href="deportes.php" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul ">Deportes</a>  
+   <li class="nav-item" id="">
+    <a href="deportes.php" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/bienestar/ico_deportes_aunar.png" ><br>Deportes</a>  
   </li>
-   <li class="nav-item  border-right borde-azul borde-1 " id="">
-    <a href="cultura.php" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul ">Cultura</a>  
+   <li class="nav-item" id="">
+    <a href="cultura.php" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/bienestar/ico_cultura_aunar.png" ><br>Cultura</a>  
   </li>
-   <li class="nav-item  border-right borde-azul borde-1 " id="">
-    <a href="inclusion_social.php" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul ">Inclusión Social</a>  
+   <li class="nav-item" id="">
+    <a href="inclusion_social.php" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/bienestar/ico_inclusion_social_aunar.png" ><br>Inclusión Social</a>  
   </li>
     
 
