@@ -30,37 +30,37 @@
 			<div class="row">
 				<!-- slider bienestar -->
 				<div class="col-12 col-md-5">
-					<?php include_once('slider/slider-1.php');?>
+					<?php include_once('slider/internacionalizacion.php');?>
 
 				</div>
 				<!-- ultimas noticias -->
 				<div class="col-12 col-md-7">
 					<div class="row">
-						<div class="col-10">
+						<div class="col-12 col-lg-10">
 							<div class="row">
 								<div class="col-8 p-2 fondo-azul-oscuro text-white pl-4"><h3>Últimas Noticias</h3></div>
 								<div class="col-4 p-2 fondo-azul-oscuro texto-amarillo">Conoce más</div>
 							</div>
 						</div>
-						<div class="col-10">
+						<div class="col-12 col-lg-10">
 							<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">Día del Contador:</div>
 								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
 							</div>
 						</div>
-						<div class="col-10 fondo-gris-os">
+						<div class="col-12 col-lg-10 fondo-gris-os">
 							<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">Día del Padre:</div>
 								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
 							</div>
 						</div>
-						<div class="col-10">
+						<div class="col-12 col-lg-10">
 						<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">El Parche AUNAR:</div>
 								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
 						</div>
 						</div>
-						<div class="col-10 fondo-gris-os">
+						<div class="col-12 col-lg-10 fondo-gris-os">
 							<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">Fiestas AUNAR:</div>
 								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
@@ -73,7 +73,7 @@
 		<div class="container-fluid texto-azul-os">
 			<div class="row fondo-gris-c">
 				<!-- misión -->
-				<div class="col-12 col-md-6">
+				<div class="col-12 col-md-5 m-lg-4">
 					<div class="row m-md-2 p-md-5 ">
 						<div class="col-12 pt-5"><h3 class="fuente-institucional f-negrita"> Misión</h3></div>
 						<div class="col-12 text-justify pt-sans">La oficina de internacionalización tiene como misión, promover el movimiento de la comunidad universitaria hacia otras instituciones académicas, empresariales, científicas, culturales, artísticas, gubernamentales o deportivas, de carácter local, regional, nacional e internacional.  </div>
@@ -81,7 +81,7 @@
 					</div>
 				</div>
 				<!-- visión -->
-				<div class="col-12 col-md-6 border-left borde-amarillo">
+				<div class="col-12 col-md-5 m-lg-4 border-left borde-amarillo">
 					<div class="row m-md-2 p-md-5 ">
 						<div class="col-12 pt-5"><h3 class="fuente-institucional f-negrita"> Visión</h3></div>
 						<div class="col-12 text-justify pt-sans">Posicionar a la Corporación Universitaria Autónoma de Nariño, en un mundo globalizado, a través de alianzas estratégicas y de cooperación a nivel regional, nacional e internacional. </div>
