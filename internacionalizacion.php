@@ -45,25 +45,25 @@
 						<div class="col-12 col-lg-10">
 							<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">Día del Contador:</div>
-								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
+								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en <strong>#AunarPasto</strong>... </div>
 							</div>
 						</div>
 						<div class="col-12 col-lg-10 fondo-gris-os">
 							<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">Día del Padre:</div>
-								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
+								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en <strong>#AunarPasto</strong>... </div>
 							</div>
 						</div>
 						<div class="col-12 col-lg-10">
 						<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">El Parche AUNAR:</div>
-								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
+								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en <strong>#AunarPasto</strong>... </div>
 						</div>
 						</div>
 						<div class="col-12 col-lg-10 fondo-gris-os">
 							<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">Fiestas AUNAR:</div>
-								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
+								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en <strong>#AunarPasto</strong>... </div>
 							</div>
 						</div>
 					</div>
@@ -120,10 +120,13 @@
 			<div class="col-8">
 				<div class="tab-content m-5" id="pills-tabContent">
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-				  	Tumaquito es un asentamiento de población afro desplazada por la violencia, el cual se encuentra ubicado en Anganoy... #AunarPasto a través de #AunarProyecciónSocial se preocupó por sus necesidades y decidió empezar un proceso de fortalecimiento comunitario con la ayuda de la Fundación Comuniquemos su Misericordia y el Servicio Jesuita a Refugiados: 3 Visualiza este corto video para que tú también conozcas esta experiencia :) ¡Aquí estamos comprometidos con nuestra comunidad!
-					<br>
-					<?php include_once('modal/modal-video-tumaco.php');?>
-					<a class="btn text-light fondo-azul-oscuro pt-sans hvr-forward" data-toggle="modal"   data-target="#modalVideoTumaco" >Ver Vídeo</a>
+				  	<div class="col-12">Tumaquito es un asentamiento de población afro desplazada por la violencia, el cual se encuentra ubicado en Anganoy... <strong>#AunarPasto</strong> a través de <strong>#AunarProyecciónSocial</strong> se preocupó por sus necesidades y decidió empezar un proceso de fortalecimiento comunitario con la ayuda de la Fundación Comuniquemos su Misericordia y el Servicio Jesuita a Refugiados: 3 Visualiza este corto video para que tú también conozcas esta experiencia :) ¡Aquí estamos comprometidos con nuestra comunidad!</div>
+				  	<div class="col-12 text-center">
+				  		<br>
+						<?php include_once('modal/modal-video-tumaco.php');?>
+						<a class="btn text-light fondo-azul-oscuro pt-sans hvr-forward" data-toggle="modal"   data-target="#modalVideoTumaco" >Ver Vídeo</a>
+					</div>				  	
+					
 				  </div>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
 				  	<div class="col-12">
@@ -181,18 +184,14 @@
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
 				<div class="col-lg-6 ">
 				<!-- Personal -->
-				<div class="media border-bottom borde-amarillo pb-3">
-				  <img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle" width="180px" >
-				  <div class="media-body ">
-				    <h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
+				<div class="media pb-3 d-flex align-items-center">
+				  <img src="img/proyeccion_institucional/sofia_vallejos.png" class="align-self-center mr-3 rounded-circle" width="180px" >
+				  <div class="media-body">				    
 				    <div class="pt-sans">
-				    <p><label class="texto-azul-os f-negrita"> GABRIELA STHEFANNY VARGAS GUZMÁN </label><br>
-				    Administradora de Empresas (Universidad de Nariño)<BR>
-					Magíster en Intervención Social (Universidad Internacional de la Rioja) <br>
-				    Formación en innovación social y emprendimiento.<br>
-					Investigadora Corporación Universitaria Autónoma de Nariño<br>
-					Teléfono: 7226020 ext 112 <br>
-				    Correo electrónico gabriela.vargas@aunar.edu.co  </p>
+				    <p><strong class="texto-azul-os f-negrita"> Coordinadora </strong><br>
+				    Sofía Vallejos Santacruz <BR>
+					Internacionalización@aunar.edu.co   <br>
+				    <p>
 				    </div>
 				  </div>
 				</div>
@@ -200,22 +199,89 @@
 
 				<div class="col-lg-6 ">
 				<!-- Personal -->
-				<div class="media border-bottom borde-amarillo pb-3">
+				<div class="media pb-3 d-flex align-items-center">
 				  <img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle" width="180px" >
-				  <div class="media-body ">
-				    <h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
+				  <div class="media-body">				    
 				    <div class="pt-sans">
-				    <p><label class="texto-azul-os f-negrita"> GABRIELA STHEFANNY VARGAS GUZMÁN </label><br>
-				    Administradora de Empresas (Universidad de Nariño)<BR>
-					Magíster en Intervención Social (Universidad Internacional de la Rioja) <br>
-				    Formación en innovación social y emprendimiento.<br>
-					Investigadora Corporación Universitaria Autónoma de Nariño<br>
-					Teléfono: 7226020 ext 112 <br>
-				    Correo electrónico gabriela.vargas@aunar.edu.co  </p>
+				    <p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				    
+					extensión Villavicencio <br>
+					Cristhian García Silva <br>
+					internacionalización@aunarvillavicencio.edu.co <br>
+				    <p>
 				    </div>
 				  </div>
 				</div>
-				</div>			
+				
+				</div>
+
+				<div class="col-lg-6 ">
+				<!-- Personal -->
+				<div class="media pb-3 d-flex align-items-center">
+				  <img src="img/proyeccion_institucional/sofia_vallejos.png" class="align-self-center mr-3 rounded-circle" width="180px" >
+				  <div class="media-body">				    
+				    <div class="pt-sans">
+				    <p><strong class="texto-azul-os f-negrita">Internacionalización  </strong><br>
+				    extensión Ipiales: <BR>
+				    Nathalie Velásquez <br>					
+					bienestar.ipiales@aunar.edu.co
+				    <p>
+				    </div>
+				  </div>
+				</div>
+				</div>
+
+				<div class="col-lg-6 ">
+				<!-- Personal -->
+				<div class="media pb-3 d-flex align-items-center">
+				  <img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle" width="180px" >
+				  <div class="media-body">				    
+				    <div class="pt-sans">
+				    <p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>
+					extensión Cali: <br>
+					Karen Chamat <br>
+					karen.chamat@aunacali.edu.co
+				    <p>
+				    </div>
+				  </div>
+				</div>
+				
+				</div>
+
+				<div class="col-lg-6 ">
+				<!-- Personal -->
+				<div class="media pb-3 d-flex align-items-center">
+				  <img src="img/proyeccion_institucional/sofia_vallejos.png" class="align-self-center mr-3 rounded-circle" width="180px" >
+				  <div class="media-body">				    
+				    <div class="pt-sans">
+				    <p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				    
+					extensión Putumayo: <br>
+					Julia Inés Cuatindioy <br>
+					putumayo@aunar.edu.co <br>
+				    <p>
+				    </div>
+				  </div>
+				</div>
+				</div>
+
+				<div class="col-lg-6 ">
+				<!-- Personal -->
+				<div class="media pb-3 d-flex align-items-center">
+				  <img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle" width="180px" >
+				  <div class="media-body">				    
+				    <div class="pt-sans">
+				    <p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				   	
+					extensión Cartagena: <br>
+					Ricardo Fuetmayor <br>
+					emprendimiento@aunarcartagena.edu.co <br>
+				    <p>
+				    </div>
+				  </div>
+				</div>
+				
+				</div>
+				
+
+				
 			</div>
 			
 		</div>

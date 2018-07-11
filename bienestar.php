@@ -160,35 +160,35 @@
 		
 		<div class="container-fluid p-5 fondo-gris-os">
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
-				<div class="col-lg-6 ">
+				<div class="col-12 col-lg-6 ">
 				<!-- Personal -->
 				<div class="media border-bottom borde-amarillo pb-3">
 				  <img src="img/bienestar/jaime_colunge.png" class="align-self-center mr-3 rounded-circle" width="180px" >
 				  <div class="media-body ">
 				    <h4 class="fuente-institucional texto-amarillo f-negrita">DIRECTOR</h4>
 				    <div class="pt-sans">
-				    <p><label class="f-negrita">JAIME DAVID COLUNGE ORDOÑEZ </label><br>
+				    <label class="f-negrita">JAIME DAVID COLUNGE ORDOÑEZ </label><br>
 				    Especialista en pedagogía y herramientas virtuales <br>
 				    Vinculación desde 14 de enero del 2013 <br>
 				    Teléfonos: 7226020 – 7232452 Ext 111<br>
 				    Celular: 3163055109<br>
-				    Correo electrónico vicerrectoría.bienestar@aunar.edu.co </p>
+				    Correo electrónico vicerrectoría.bienestar@aunar.edu.co
 				    </div>
 				  </div>
 				</div>
 				</div>			
 			</div>
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
-				<div class="col-lg-6 ">
+				<div class="col-12 col-lg-6 ">
 				<!-- Personal -->
 				<div class="media border-bottom borde-amarillo pb-3">
 				  <img src="img/bienestar/maria_ruiz.png" class="align-self-center mr-3 rounded-circle" width="180px" >
 				  <div class="media-body ">
 				    <h4 class="fuente-institucional texto-amarillo f-negrita">SECRETARIA</h4>
 				    <div class="pt-sans">
-				    <p><label class="f-negrita">ANGÉLICA MARÍA RUIZ JIMÉNEZ </label><br>
+				    <label class="f-negrita">ANGÉLICA MARÍA RUIZ JIMÉNEZ </label><br>
 				    Celular: 3163055109<br>
-				    Correo electrónico bienestar@aunar.edu.co </p>
+				    Correo electrónico bienestar@aunar.edu.co
 				    </div>
 				  </div>
 				</div>
