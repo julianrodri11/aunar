@@ -38,11 +38,26 @@
 				<div class="col-12 col-md-9">
 					<div class="tab-content pt-sans texto-azul-os" id="v-pills-tabContent">
 				      <div class="tab-pane fade p-3 fondo-gris-os show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-						<div class="col-12 p-2 px-md-5 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio optio dolores culpa blanditiis in molestias ipsum commodi vel, dolorum, sit consectetur molestiae nulla. Tenetur animi enim, ab eum quo esse ullam ex fugit saepe, molestias consectetur officia earum sed quam dolore eos recusandae, velit inventore, veritatis necessitatibus in corrupti. Enim!</div>
+						<div class="col-12 p-2 px-md-5 text-justify">
+							<p>Se entiende por primeros auxilios, la atención inmediata y temporal que se brinda a víctimas de accidentes o de afecciones de salud que se presentan repentinamente y que ponen en riesgo el bienestar de la persona. Este servicio se presta sin costo, a cualquier persona que se encuentre en el campus universitario y que requiera de dicha atención.</p>
+							<p>Cuando se requiere este servicio, por favor acérquese a la Oficina de Primeros Auxilios ubicada en el primer piso de Institución.</p>
+						</div>
 						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/aunar_primeros_auxilios.jpg"></div>
 				      </div>
 				      <div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-				      	<div class="col-12 p-2 px-md-5 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio optio dolores culpa blanditiis in molestias ipsum commodi vel, dolorum, sit consectetur molestiae nulla. Tenetur animi enim, ab eum quo esse ullam ex fugit saepe, molestias consectetur officia earum sed quam dolore eos recusandae, velit inventore, veritatis necessitatibus in corrupti. Enim!</div>
+				      	<div class="col-12 p-2 px-md-5 text-justify">
+							<p>La hipertensión arterial es una patología crónica que consiste en el aumento de la presión arterial. Una de las características de esta enfermedad es que no presenta síntomas claros y no se manifiestan durante mucho tiempo.</p>
+							<p>Para una persona hipertensa, es indispensable que controle sus valores de presión sanguínea varias veces por semana. Caso contrario, podría presentar complicaciones silenciosas debido al efecto que produce la hipertensión arterial sobre muchos órganos.</p>
+							<p>¿Cómo controlar la presión arterial?</p>
+							<p>Las siguientes medidas pueden contribuir al control de la presión arterial:</p>
+							<p> - Perder peso
+								- Aumentar la actividad física <br>
+								- Limitar la ingesta de sal <br>
+								- Limitar la ingesta de alcohol <br>
+								- Dejar de fumar <br>
+								- Tomar la medicación aconsejada por tu médico</p>								
+							<p>Cuando se requiere este servicio, por favor acérquese a la Oficina de Primeros Auxilios ubicada en el primer piso de Institución.</p>
+				      	</div>
 						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/tension_arterial.jpg"></div>
 				      </div>
 				      <div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
@@ -56,11 +71,15 @@
 						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/asesorias_educacion_sexual.jpg"></div>
 				      </div>
 				      <div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
-						<div class="col-12 p-2 px-md-5 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio optio dolores culpa blanditiis in molestias ipsum commodi vel, dolorum, sit consectetur molestiae nulla. Tenetur animi enim, ab eum quo esse ullam ex fugit saepe, molestias consectetur officia earum sed quam dolore eos recusandae, velit inventore, veritatis necessitatibus in corrupti. Enim!</div>
+						<div class="col-12 p-2 px-md-5 text-justify">
+							Es un programa que informa y educa a la comunidad universitaria sobre la importancia que tiene el respeto consigo mismo, con el auto cuidado y el aprendizaje significativo de estilos de vida que favorezcan la salud física y mental.
+						</div>
 						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/promocion_y_prevencion.jpg"></div>
 				      </div>
 				      <div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-deportivas" role="tabpanel" aria-labelledby="v-pills-act-deportivas-tab">
-				      	<div class="col-12 p-2 px-md-5 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio optio dolores culpa blanditiis in molestias ipsum commodi vel, dolorum, sit consectetur molestiae nulla. Tenetur animi enim, ab eum quo esse ullam ex fugit saepe, molestias consectetur officia earum sed quam dolore eos recusandae, velit inventore, veritatis necessitatibus in corrupti. Enim!</div>
+				      	<div class="col-12 p-2 px-md-5 text-justify">
+							<p>Durante la realización de cualquier actividad deportiva y cultural AUNAR, se tiene acompañamiento de personal experto en cada área y que garantice las condiciones óptimas en cada evento.</p>
+				      	</div>
 						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/acompanamiento_actividades_deportivas.jpg"></div>
 				      </div>
 				    </div>

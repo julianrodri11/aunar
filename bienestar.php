@@ -142,33 +142,14 @@
 				  	
 				  </div>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-				  	* 2 - Construir comunidad y fortalecerla. De ahí que las actividades que se programen formen parte de los planes de estudio, con oportunidades para todos los estamentos de la Universidad en igualdad de condiciones.<br>
-					* 2 - Organizar, planificar y ejecutar programas de Bienestar, manteniendo una adecuada coordinación entre las distintas dependencias, tanto administrativas como académicas a través de los comités creados para ello (Comités Académicos y Administrativos).<br>
-					* 2 - Apoyar la formación integral de los estudiantes y el bienestar general de directivos, profesores y personal administrativo de la Universidad, favoreciendo el crecimiento personal y de grupo, a través de las diversas actividades programadas, con el fomento del deporte, la recreación, la salud física y psicológica y los valores, éticos y humanísticos que fomenta la Universidad.<br>
-					* 2 - Realizar estudios de evaluación socioeconómica de la comunidad Universitaria con el apoyo de las facultades o de los centros de investigación.<br>
-					* 2 - Prever y facilitar los escenarios deportivos adecuados para la práctica de los deportes básicos, de la cultural, de la lúdica y recreación en general y adecuar los horarios que permitan a la comunidad universitaria participar y desarrollar las actividades que demanda el usuario del servicio y las exigencias curriculares y académicas.<br>
-					* 2 - Articular el proyecto de vida individual de los miembros de la Comunidad AUNAR con el Proyecto Educativo Institucional (PEI). <br>
-					* 2 - El cubrimiento de los programas de Bienestar Institucional debe incluir toda la comunidad AUNAR (estudiantes, docentes, personal administrativo y egresados).<br>
+				  	El continuo crecimiento físico como académico que viene presentando la Corporación Universitaria Autónoma de Nariño hace necesario implementar un marco general para la creación de nuevas técnicas educativas dentro del bienestar institucional, los cuales permitan al estudiante contar con herramientas solidas que reflejen educación integral, ética y moral para solventar las necesidades crecientes de la población.
 				  	
 				  </div>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-				  	* 3 - Construir comunidad y fortalecerla. De ahí que las actividades que se programen formen parte de los planes de estudio, con oportunidades para todos los estamentos de la Universidad en igualdad de condiciones.<br>
-					* 3 - Organizar, planificar y ejecutar programas de Bienestar, manteniendo una adecuada coordinación entre las distintas dependencias, tanto administrativas como académicas a través de los comités creados para ello (Comités Académicos y Administrativos).<br>
-					* 3 - Apoyar la formación integral de los estudiantes y el bienestar general de directivos, profesores y personal administrativo de la Universidad, favoreciendo el crecimiento personal y de grupo, a través de las diversas actividades programadas, con el fomento del deporte, la recreación, la salud física y psicológica y los valores, éticos y humanísticos que fomenta la Universidad.<br>
-					* 3 - Realizar estudios de evaluación socioeconómica de la comunidad Universitaria con el apoyo de las facultades o de los centros de investigación.<br>
-					* 3 - Prever y facilitar los escenarios deportivos adecuados para la práctica de los deportes básicos, de la cultural, de la lúdica y recreación en general y adecuar los horarios que permitan a la comunidad universitaria participar y desarrollar las actividades que demanda el usuario del servicio y las exigencias curriculares y académicas.<br>
-					* 3 - Articular el proyecto de vida individual de los miembros de la Comunidad AUNAR con el Proyecto Educativo Institucional (PEI). <br>
-					* 3 - El cubrimiento de los programas de Bienestar Institucional debe incluir toda la comunidad AUNAR (estudiantes, docentes, personal administrativo y egresados).<br>
-				  	
+				  	Construir viabilidad para las actividades desarrolladas dentro de la institución junto con el departamento de Bienestar, mediante la gestión social, comprometida con el respeto de los derechos humanos, la prestación de servicios con calidad y eficiencia en el suministro oportuno de información de interés público promoviendo el desarrollo universitario.				  	
 				  </div>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-comunicacion" role="tabpanel" aria-labelledby="pills-contact-tab">
-				  	* 4 - Construir comunidad y fortalecerla. De ahí que las actividades que se programen formen parte de los planes de estudio, con oportunidades para todos los estamentos de la Universidad en igualdad de condiciones.<br>
-					* 4 - Organizar, planificar y ejecutar programas de Bienestar, manteniendo una adecuada coordinación entre las distintas dependencias, tanto administrativas como académicas a través de los comités creados para ello (Comités Académicos y Administrativos).<br>
-					* 4 - Apoyar la formación integral de los estudiantes y el bienestar general de directivos, profesores y personal administrativo de la Universidad, favoreciendo el crecimiento personal y de grupo, a través de las diversas actividades programadas, con el fomento del deporte, la recreación, la salud física y psicológica y los valores, éticos y humanísticos que fomenta la Universidad.<br>
-					* 4 - Realizar estudios de evaluación socioeconómica de la comunidad Universitaria con el apoyo de las facultades o de los centros de investigación.<br>
-					* 4 - Prever y facilitar los escenarios deportivos adecuados para la práctica de los deportes básicos, de la cultural, de la lúdica y recreación en general y adecuar los horarios que permitan a la comunidad universitaria participar y desarrollar las actividades que demanda el usuario del servicio y las exigencias curriculares y académicas.<br>
-					* 4 - Articular el proyecto de vida individual de los miembros de la Comunidad AUNAR con el Proyecto Educativo Institucional (PEI). <br>
-					* 4 - El cubrimiento de los programas de Bienestar Institucional debe incluir toda la comunidad AUNAR (estudiantes, docentes, personal administrativo y egresados).<br>
+				  	Vicerrectoría de Bienestar Institucional propenderá un enfoque estratégico orientado a afianzar las relaciones dentro del departamento y hacia fuera de él, manteniendo su identidad corporativa y facilitando la interacción con otras instituciones.
 				  	
 				  </div>
 				</div>
