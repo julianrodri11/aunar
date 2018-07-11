@@ -72,13 +72,13 @@
    -->
   <li class="nav-item dropdown  border-right borde-azul borde-1">
     <!--a class="nav-link active    " >Extensiones</a-->
-    <a class=" nav-link dropdown-toggle  hvr-curl-top-right pointer"  id="proyeccion-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Proyección Institucional</a>
-    <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="proyeccion-institucional">
+    <a class=" nav-link texto-azul hvr-underline-from-center pointer"  href="proyeccion_institucional.php">Proyección Institucional</a>
+    <!-- <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="proyeccion-institucional">
       <a class=" dropdown-item hvr-underline-from-left ">Proyección Institucional<br> Aunar</a>
       <a class=" dropdown-item hvr-underline-from-left ">Internacionalización</a>
       <a class=" dropdown-item hvr-underline-from-left ">Proyección Social</a>
       
-    </div>
+    </div> -->
   </li>
   <li class="nav-item dropdown  border-right borde-azul borde-1">
     <!--a class="nav-link active    " >Extensiones</a-->
