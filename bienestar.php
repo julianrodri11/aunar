@@ -130,6 +130,10 @@
 				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch " id="pills-contact-tab" data-toggle="pill" href="#pills-comunicacion" role="tab" aria-controls="pills-contact" aria-selected="false">POLÍTICA DE COMUNICACIÓN<br></a>
 				  </li>
 				</ul>
+			</div>
+			</div>
+			<div class="row d-flex justify-content-center">
+				<div class="col-11 col-lg-8">
 				<div class="tab-content m-5" id="pills-tabContent">
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
 				  	* Construir comunidad y fortalecerla. De ahí que las actividades que se programen formen parte de los planes de estudio, con oportunidades para todos los estamentos de la Universidad en igualdad de condiciones.<br>
@@ -158,7 +162,7 @@
 			</div>
 		</div>
 		
-		<div class="container-fluid p-2 p-lg-5 fondo-gris-os">
+		<div class="container-fluid p-2 p-lg-5 ">
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
 				<div class="col-12 col-lg-6 ">
 				<!-- Personal -->

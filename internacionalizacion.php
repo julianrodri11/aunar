@@ -132,7 +132,7 @@
 				  	<div class="col-12">
 				  		•	Movilidad académica estudiantil: <br>
 						•	Intercambio académico: Permite a los estudiantes cursar uno o dos periodos académicos en una institución aliada.<br>
-						•	Doble titulación: El objetivo de esta movilidad es ofrecer a estudiantes un segmento de su formación en cada una de las instituciones y, como consecuencia, la obtención del diploma de ambas <br>universidades.
+						•	Doble titulación: El objetivo de esta movilidad es ofrecer a estudiantes un segmento de su formación en cada una de las instituciones y, como consecuencia, la obtención del diploma de ambas universidades.<br>
 						•	Pasantía práctica: Este tipo de movilidad tiene como objetivo, proporcionar al estudiante un espacio vivencial, para aplicar los conocimientos teóricos adquiridos en el transcurso de su programa académico, y al mismo tiempo, proporcionar experiencias para fortalecer su perfil profesional. <br>
 						•	Curso de idioma: Permite al estudiante estar inmerso en la cultura y el idioma del país de selección.<br>
 						•	Misión: Son viajes académicos cortos con el propósito de permitir al estudiante tener un acercamiento a diferentes instituciones, universidades, empresas, organizaciones), generalmente de carácter global. La misión les permite al mismo tiempo, vivir una experiencia cultural.<br>

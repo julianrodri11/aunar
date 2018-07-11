@@ -25,7 +25,7 @@
 		<?php include_once('secciones/menu2.php');?>
 		<div class="container-fluid">
 			<div class="row ">
-				<div class="col-12 col-lg-5 col-md-6 fondo-gris-c p-5">
+				<div class="col-12 col-lg-5 col-md-6 p-5">
 					<div class="col-12 "> <h3 class="fuente-institucional texto-amarillo f-negrita">Identificación del programa</h3></div>					
 					<div class="col-12">
 						<table class="table table-bordered  table-striped pt-sans f-size-14 texto-azul-os">

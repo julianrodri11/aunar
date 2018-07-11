@@ -35,7 +35,7 @@ En ese orden de ideas la Coordinación de cultura ofrece diferentes actividades 
 		</div>
 
 		<!-- personal encargado -->
-		<div class="container-fluid p-5 fondo-gris-os">
+		<div class="container-fluid p-5">
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
 				<div class="col-lg-6 ">
 					<!-- Personal -->
