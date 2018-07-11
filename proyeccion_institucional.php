@@ -45,25 +45,25 @@
 						<div class="col-12 col-lg-10 ">
 							<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">Día del Contador:</div>
-								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
+								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en <strong>#AunarPasto</strong>... </div>
 							</div>
 						</div>
 						<div class="col-12 col-lg-10  fondo-gris-os">
 							<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">Día del Padre:</div>
-								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
+								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en <strong>#AunarPasto</strong>... </div>
 							</div>
 						</div>
 						<div class="col-12 col-lg-10 ">
 						<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">El Parche AUNAR:</div>
-								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
+								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en <strong>#AunarPasto</strong>... </div>
 						</div>
 						</div>
 						<div class="col-12 col-lg-10  fondo-gris-os">
 							<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">Fiestas AUNAR:</div>
-								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
+								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en <strong>#AunarPasto</strong>... </div>
 							</div>
 						</div>
 					</div>
@@ -234,7 +234,7 @@ a Proyección Social </a>
 			<div class="col-8">
 				<div class="tab-content m-5" id="pills-tabContent">
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-				  	<div class="col-12"> Tumaquito es un asentamiento de población afro desplazada por la violencia, el cual se encuentra ubicado en Anganoy... #AunarPasto a través de #AunarProyecciónSocial se preocupó por sus necesidades y decidió empezar un proceso de fortalecimiento comunitario con la ayuda de la Fundación Comuniquemos su Misericordia y el Servicio Jesuita a Refugiados: 3 Visualiza este corto video para que tú también conozcas esta experiencia :) ¡Aquí estamos comprometidos con nuestra comunidad!</div>
+				  	<div class="col-12"> Tumaquito es un asentamiento de población afro desplazada por la violencia, el cual se encuentra ubicado en Anganoy... <strong>#AunarPasto</strong> a través de <strong>#AunarProyecciónSocial</strong> se preocupó por sus necesidades y decidió empezar un proceso de fortalecimiento comunitario con la ayuda de la Fundación Comuniquemos su Misericordia y el Servicio Jesuita a Refugiados: 3 Visualiza este corto video para que tú también conozcas esta experiencia :) ¡Aquí estamos comprometidos con nuestra comunidad!</div>
 					<div class="col-12 text-center">
 						<?php include_once('modal/modal-video-tumaco.php');?>
 						<a class="btn text-light fondo-azul-oscuro pt-sans hvr-forward" data-toggle="modal"   data-target="#modalVideoTumaco" >Ver Vídeo</a>
@@ -245,20 +245,20 @@ a Proyección Social </a>
 					<div class="col-12"><a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/147246490@N05/albums/72157694165509515" title="Articulación internacional"><img src="https://farm5.staticflickr.com/4759/26770842038_a5e89b8307_z.jpg" width="100%"  alt="Articulación internacional"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>				  	
 				  </div>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-					<div class="col-12">#AunarPasto a través de #AunarProyecciónSocial realiza un proceso en la I.E.M Aurelio Arturo, en donde se está formando una escuela de liderazgo y participación ciudadana con adolescentes de grado décimo :) ¡Porque La educación es el motor de transformación Social, AUNAR presente!</div>
+					<div class="col-12"><strong>#AunarPasto</strong> a través de <strong>#AunarProyecciónSocial</strong> realiza un proceso en la I.E.M Aurelio Arturo, en donde se está formando una escuela de liderazgo y participación ciudadana con adolescentes de grado décimo :) ¡Porque La educación es el motor de transformación Social, AUNAR presente!</div>
 				  	<div class="col-12"><a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/147246490@N05/albums/72157694787243362" title="Grados Aunar"><img src="https://farm2.staticflickr.com/1737/41875581385_dd3d434f53_z.jpg" width="100%"  alt="Grados Aunar"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>				
 				  </div>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-22" role="tabpanel" aria-labelledby="pills-2-tab">
-				  	<div class="col-12">"AunarPasto desde #AunarProyecciónSocial se encuentra ejecutando un proyecto llamado "Emprendimiento empresarial" con microempresarios del municipio de Chachagüi, Nariño :)</div>
+				  	<div class="col-12"><strong>#AunarPasto</strong> desde <strong>#AunarProyecciónSocial</strong> se encuentra ejecutando un proyecto llamado <strong> "Emprendimiento empresarial"</strong> con microempresarios del municipio de Chachagüi, Nariño :)</div>
 				  	<div class="col-12"><br><iframe width="100%" height="450" src="https://www.youtube.com/embed/I9xbBT92dXw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 				  	
 				  </div>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-33" role="tabpanel" aria-labelledby="pills-3-tab">
-				  	<div class="col-12">#AunarPasto apoya a microempresarios de nuestra región a través de valiosas capacitaciones dictadas en las instalaciones de nuestra Corporación Universitaria :) Extendemos un agradecimiento especial a #AunarProyecciónSocial por realizar este trabajo tan bonito con las comunidades</div>
+				  	<div class="col-12"><strong>#AunarPasto</strong> apoya a microempresarios de nuestra región a través de valiosas capacitaciones dictadas en las instalaciones de nuestra Corporación Universitaria :) Extendemos un agradecimiento especial a <strong>#AunarProyecciónSocial</strong> por realizar este trabajo tan bonito con las comunidades</div>
 				  	<div class="col-12"><br><iframe width="100%" height="450" src="https://www.youtube.com/embed/Cqbl5HxIJJc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 				  </div>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-44" role="tabpanel" aria-labelledby="pills-4-tab">
-					<div class="col-12">Con la grata intervención de la Secretaria de Equidad de Género e Inclusión Social, Secretaría de TIC Innovación y Gobierno Abierto, Centro de Innovación Social de Nariño (CISNA) por parte de la Gobernación de Nariño y Subsecretaría de Desarrollo Comunitario y Secretaría de Desarrollo Económico por parte de la Alcaldía de Pasto :) A todos ustedes muchas gracias por compartir sus experiencias con nosotros y a todos los estudiantes, docentes y administrativos que nos acompañaron en este foro, gracias también por su activa participación #AunarPasto #AunarProyecciónSocial :D Comprometidos con nuestra comunidad</div>
+					<div class="col-12">Con la grata intervención de la Secretaria de Equidad de Género e Inclusión Social, Secretaría de TIC Innovación y Gobierno Abierto, Centro de Innovación Social de Nariño (CISNA) por parte de la Gobernación de Nariño y Subsecretaría de Desarrollo Comunitario y Secretaría de Desarrollo Económico por parte de la Alcaldía de Pasto :) A todos ustedes muchas gracias por compartir sus experiencias con nosotros y a todos los estudiantes, docentes y administrativos que nos acompañaron en este foro, gracias también por su activa participación <strong>#AunarPasto</strong> <strong>#AunarProyecciónSocial</strong> :D Comprometidos con nuestra comunidad</div>
 					<div class="col-12"><br><img class="img-fluid" src="https://scontent.feoh2-1.fna.fbcdn.net/v/t31.0-8/22904985_1645202652168769_6624260379624144955_o.jpg?_nc_cat=0&_nc_eui2=AeG9bX8fysNByqJzfKqwO1RZwXWpZ0n72SZGBEY09Ksv6DmsZBBn068cGWmam3DqIUIai61T1vRco9Y0ELrGK-b8_33FxA7L2JVOdtEEHj9K2w&oh=f09f8c82b85de41695ec5cadbc3863fc&oe=5B856CA3" width="100%"></div>				  	
 				  </div>
 
