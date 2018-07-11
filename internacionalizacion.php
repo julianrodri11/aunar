@@ -126,24 +126,49 @@
 					<a class="btn text-light fondo-azul-oscuro pt-sans hvr-forward" data-toggle="modal"   data-target="#modalVideoTumaco" >Ver Vídeo</a>
 				  </div>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-				  	* 2 - Construir comunidad y fortalecerla. De ahí que las actividades que se programen formen parte de los planes de estudio, con oportunidades para todos los estamentos de la Universidad en igualdad de condiciones.<br>
-					* 2 - Organizar, planificar y ejecutar programas de Bienestar, manteniendo una adecuada coordinación entre las distintas dependencias, tanto administrativas como académicas a través de los comités creados para ello (Comités Académicos y Administrativos).<br>
-					* 2 - Apoyar la formación integral de los estudiantes y el bienestar general de directivos, profesores y personal administrativo de la Universidad, favoreciendo el crecimiento personal y de grupo, a través de las diversas actividades programadas, con el fomento del deporte, la recreación, la salud física y psicológica y los valores, éticos y humanísticos que fomenta la Universidad.<br>
-					* 2 - Realizar estudios de evaluación socioeconómica de la comunidad Universitaria con el apoyo de las facultades o de los centros de investigación.<br>
-					* 2 - Prever y facilitar los escenarios deportivos adecuados para la práctica de los deportes básicos, de la cultural, de la lúdica y recreación en general y adecuar los horarios que permitan a la comunidad universitaria participar y desarrollar las actividades que demanda el usuario del servicio y las exigencias curriculares y académicas.<br>
-					* 2 - Articular el proyecto de vida individual de los miembros de la Comunidad AUNAR con el Proyecto Educativo Institucional (PEI). <br>
-					* 2 - El cubrimiento de los programas de Bienestar Institucional debe incluir toda la comunidad AUNAR (estudiantes, docentes, personal administrativo y egresados).<br>
-				  	
+				  	<div class="col-12">
+				  		•	Movilidad académica estudiantil: <br>
+						•	Intercambio académico: Permite a los estudiantes cursar uno o dos periodos académicos en una institución aliada.<br>
+						•	Doble titulación: El objetivo de esta movilidad es ofrecer a estudiantes un segmento de su formación en cada una de las instituciones y, como consecuencia, la obtención del diploma de ambas <br>universidades.
+						•	Pasantía práctica: Este tipo de movilidad tiene como objetivo, proporcionar al estudiante un espacio vivencial, para aplicar los conocimientos teóricos adquiridos en el transcurso de su programa académico, y al mismo tiempo, proporcionar experiencias para fortalecer su perfil profesional. <br>
+						•	Curso de idioma: Permite al estudiante estar inmerso en la cultura y el idioma del país de selección.<br>
+						•	Misión: Son viajes académicos cortos con el propósito de permitir al estudiante tener un acercamiento a diferentes instituciones, universidades, empresas, organizaciones), generalmente de carácter global. La misión les permite al mismo tiempo, vivir una experiencia cultural.<br>
+						•	Rotación médica: Son prácticas en áreas específicas de formación que realizan los estudiantes de medicina, durante su tiempo de internado o de práctica, para aplicar sus conocimientos teóricos y prácticos en instituciones de prestación de servicios de salud en el ámbito internacional. <br>
+						•	Curso corto: Son cursos de corta duración que tienen como propósito fomentar la interculturalidad mientras se cursa una materia que se podrá homologar como parte de la malla curricular del estudiante.<br>
+						•	Voluntariado: El voluntariado es un trabajo no remunerado en un área específica. Es útil para los estudiantes que deseen adquirir experiencia laboral y al mismo tiempo tener una experiencia internacional.<br>
+						•	Estancia de investigación: En este tipo de movilidad el estudiante participa en actividades científicas en una universidad o centro de investigación en el exterior. 
+
+				  	</div>				  	
 				  </div>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-				  	* 3 - Construir comunidad y fortalecerla. De ahí que las actividades que se programen formen parte de los planes de estudio, con oportunidades para todos los estamentos de la Universidad en igualdad de condiciones.<br>
-					* 3 - Organizar, planificar y ejecutar programas de Bienestar, manteniendo una adecuada coordinación entre las distintas dependencias, tanto administrativas como académicas a través de los comités creados para ello (Comités Académicos y Administrativos).<br>
-					* 3 - Apoyar la formación integral de los estudiantes y el bienestar general de directivos, profesores y personal administrativo de la Universidad, favoreciendo el crecimiento personal y de grupo, a través de las diversas actividades programadas, con el fomento del deporte, la recreación, la salud física y psicológica y los valores, éticos y humanísticos que fomenta la Universidad.<br>
-					* 3 - Realizar estudios de evaluación socioeconómica de la comunidad Universitaria con el apoyo de las facultades o de los centros de investigación.<br>
-					* 3 - Prever y facilitar los escenarios deportivos adecuados para la práctica de los deportes básicos, de la cultural, de la lúdica y recreación en general y adecuar los horarios que permitan a la comunidad universitaria participar y desarrollar las actividades que demanda el usuario del servicio y las exigencias curriculares y académicas.<br>
-					* 3 - Articular el proyecto de vida individual de los miembros de la Comunidad AUNAR con el Proyecto Educativo Institucional (PEI). <br>
-					* 3 - El cubrimiento de los programas de Bienestar Institucional debe incluir toda la comunidad AUNAR (estudiantes, docentes, personal administrativo y egresados).<br>
-				  	
+				  	<div class="col-12">
+				  		•	<strong> UNIVERSITY OF THE WEST INDIES	JAMAICA</strong> Docencia, investigación e intercambio entre docentes y estudiantes. <br>
+						•	<strong> GRUPO IOE	ESPAÑA</strong>	Bases y mecanismos operativos de colaboración entre IOE y AUNAR. Desarrollo de proyectos, programas y otras acciones en las áreas académicas, científicas, tecnológicas, sociales de interés y para beneficios mutuo.<br>
+						•	<strong> UNIVERSIDAD POLITÉCNICA ESTATAL DEL CARCHI – UPEC ECUADOR</strong>	Establecer un marco amplio de colaboración en actividades de mutuo interés en las áreas de investigación, extensión científica, social, cultural y en todas las demás formas de acción universitarias.<br>
+
+						•	<strong> UNIVERSIDAD INTERNACIONAL DE LA RIOJA – UNIR ESPAÑA</strong> Capacitación para empleados, docentes y egresados en maestrías y doctorados.<br>
+
+						•	<strong> UNIVERSIDAD DE LA FRONTERA CHILE</strong>	Facilitar y promover intercambio académico, proyectos de investigación, desarrollo conjunto e intercambio de materiales para la investigación y la enseñanza, organización de conferencias, seminarios y otras actividades similares.<br>
+
+						•	<strong> UNIVERSIDAD TECNOLÓGICA INDOAMÉRICA, EN ADELANTE “UTI”,
+						           ECUADOR</strong>	Crear y fomentar cuantas actividades, acciones y relaciones sean necesarias para la concreción de planes, programas y proyectos de cooperación, que sean considerados de interés mutuo y con carácter preferente por las instituciones firmantes; para la promoción de estudios, actividades de investigación, impulso de proyectos, programas productivos y de desarrollo; así como de programas conjuntos, de infraestructura física, equipos, laboratorios, bibliografía y demás material de docencia e investigación de que disponga cada una de las partes. <br>
+
+						•	<strong> UNIVERSIDAD TECNOLÓGICA INDOAMÉRICA, EN ADELANTE “UTI	
+						           ECUADOR</strong>	Marco de la movilidad. La colaboración empezará a partir de los campos de interés especificados en el convenio marco. Las partes se comprometen a desarrollar los intercambios de sus estudiantes y docentes e investigadores asignando los recursos necesarios para que puedan trabajar en equipo. Para llevar a cabo esta cooperación cada parte nombrará un responsable encargado de la puesta en operación, desarrollo y seguimiento de las actividades programadas en el marco del presente convenio específico.<br>
+
+						•	<strong> FONDO VERDE PERÚ</strong>	Implementación de acciones, proyectos y programas de investigación y desarrollo en materia de capacitación en medio ambiente y sostenibilidad, asesoramiento científico- técnico y formación de personal.<br>
+
+						•	<strong> ESCUELA DE AGRICULTURA DE LA REGIÓN TROPICAL HÚMEDA – EARTH COSTA RICA</strong>	Intercambio académico, promover el intercambio de experiencias y conocimiento y la movilidad entre sus funcionarios<br>
+
+						•	<strong> UNIVERSIDAD AMERICA DE EUROPA MÉXICO</strong>	Aunar esfuerzos para adelantar acciones conjuntas en temas de interés recíproco para cada una de las partes, en tareas de investigación, extensión, asistencia técnica, administrativa y académica.<br>
+
+						•	<strong> GRUPO IOE	ESPAÑA</strong>	Comercialización De Programas Virtuales.<br>
+
+						•	<strong> LA PONTIFICIA UNIVERSIDAD CATÓLICA DEL ECUADOR SEDE IBARRA ECUADOR</strong>	Definir y establecer el marco general de colaboración entre la Corporación Universitaria Autónoma De Nariño y La Pontificia Universidad Católica del Ecuador Sede Ibarra, para coordinar acciones en el ámbito de sus respectivas competencias y de conformidad con los planes de acción, actividades, programas y proyectos pertinentes, comprometiéndose a unir esfuerzos y trabajos en conjunto para fortalecer los procesos de investigación, impulso de proyectos, programas productivos y de desarrollo; así como de programas conjuntos, de infraestructura física, equipos, laboratorios, bibliografía y demás material de docencia e investigación de que disponga cada una de las partes.<br>
+
+						•	<strong>CENTRO PANAMERICANO DE ESTUDIOS SUPERIORES – CEPES MÉXICO</strong>	Comercialización De Programas Virtuales.
+
+				  	</div>				  	
 				  </div>			  
 
 				</div>
