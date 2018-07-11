@@ -36,31 +36,31 @@
 				<!-- ultimas noticias -->
 				<div class="col-12 col-md-7">
 					<div class="row">
-						<div class="col-10">
+						<div class="col-12 col-md-10">
 							<div class="row">
 								<div class="col-8 p-2 fondo-azul-oscuro text-white pl-4"><h3>Últimas Noticias</h3></div>
 								<div class="col-4 p-2 fondo-azul-oscuro texto-amarillo">Conoce más</div>
 							</div>
 						</div>
-						<div class="col-10">
+						<div class="col-12 col-md-10">
 							<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">Día del Contador:</div>
 								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
 							</div>
 						</div>
-						<div class="col-10 fondo-gris-os">
+						<div class="col-12 col-md-10 fondo-gris-os">
 							<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">Día del Padre:</div>
 								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
 							</div>
 						</div>
-						<div class="col-10">
+						<div class="col-12 col-md-10">
 						<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">El Parche AUNAR:</div>
 								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
 						</div>
 						</div>
-						<div class="col-10 fondo-gris-os">
+						<div class="col-12 col-md-10 fondo-gris-os">
 							<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">Fiestas AUNAR:</div>
 								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
@@ -158,22 +158,32 @@
 			</div>
 		</div>
 		
-		<div class="container-fluid p-5 fondo-gris-os">
+		<div class="container-fluid p-2 p-lg-5 fondo-gris-os">
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
 				<div class="col-12 col-lg-6 ">
 				<!-- Personal -->
 				<div class="media border-bottom borde-amarillo pb-3">
-				  <img src="img/bienestar/jaime_colunge.png" class="align-self-center mr-3 rounded-circle" width="180px" >
-				  <div class="media-body ">
-				    <h4 class="fuente-institucional texto-amarillo f-negrita">DIRECTOR</h4>
-				    <div class="pt-sans">
-				    <label class="f-negrita">JAIME DAVID COLUNGE ORDOÑEZ </label><br>
-				    Especialista en pedagogía y herramientas virtuales <br>
-				    Vinculación desde 14 de enero del 2013 <br>
-				    Teléfonos: 7226020 – 7232452 Ext 111<br>
-				    Celular: 3163055109<br>
-				    Correo electrónico vicerrectoría.bienestar@aunar.edu.co
-				    </div>
+				<div class="media-body ">
+					
+					<div class="row">
+						<div class="col-12 col-md-6 text-center text-sm-left">
+							<img src="img/bienestar/jaime_colunge.png" class="align-self-center mr-3 rounded-circle img-fluid" >
+						</div>
+						<div class="col-12 col-md-6 text-center text-sm-left">
+							<h4 class="fuente-institucional texto-amarillo f-negrita">DIRECTOR</h4>
+						    <div class="pt-sans">
+						    <label class="f-negrita">JAIME DAVID COLUNGE ORDOÑEZ </label><br>
+						    Especialista en pedagogía y herramientas virtuales <br>
+						    Vinculación desde 14 de enero del 2013 <br>
+						    Teléfonos: 7226020 – 7232452 Ext 111<br>
+						    Celular: 3163055109<br>
+						    Correo electrónico vicerrectoría.bienestar@aunar.edu.co
+						    </div>
+						</div>
+					</div>
+				  
+				  
+				    
 				  </div>
 				</div>
 				</div>			
@@ -182,19 +192,28 @@
 				<div class="col-12 col-lg-6 ">
 				<!-- Personal -->
 				<div class="media border-bottom borde-amarillo pb-3">
-				  <img src="img/bienestar/maria_ruiz.png" class="align-self-center mr-3 rounded-circle" width="180px" >
-				  <div class="media-body ">
-				    <h4 class="fuente-institucional texto-amarillo f-negrita">SECRETARIA</h4>
-				    <div class="pt-sans">
-				    <label class="f-negrita">ANGÉLICA MARÍA RUIZ JIMÉNEZ </label><br>
-				    Celular: 3163055109<br>
-				    Correo electrónico bienestar@aunar.edu.co
-				    </div>
-				  </div>
+				<div class="media-body ">
+					
+					<div class="row">
+						<div class="col-12 col-md-6 text-center text-sm-left">
+							<img src="img/bienestar/maria_ruiz.png" class="align-self-center mr-3 rounded-circle img-fluid" >
+						</div>
+						<div class="col-12 col-md-6 text-center text-sm-left">
+							<h4 class="fuente-institucional texto-amarillo f-negrita">SECRETARIA</h4>
+						    <div class="pt-sans">
+							<label class="f-negrita">ANGÉLICA MARÍA RUIZ JIMÉNEZ </label><br>
+							Celular: 3163055109<br>
+				    		Correo electrónico bienestar@aunar.edu.co
+						    </div>
+						</div>
+					</div>	  
+
+
 				</div>
 				</div>				
 			</div>
 		</div>
+	</div>
 
 			<?php include_once('secciones/footer-principal.php');?>
 			
