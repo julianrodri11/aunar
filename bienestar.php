@@ -167,7 +167,7 @@
 				  <div class="media-body ">
 				    <h4 class="fuente-institucional texto-amarillo f-negrita">DIRECTOR</h4>
 				    <div class="pt-sans">
-				    <p>Jaime David Colunge Ordoñez <br>
+				    <p><label class="f-negrita">JAIME DAVID COLUNGE ORDOÑEZ </label><br>
 				    Especialista en pedagogía y herramientas virtuales <br>
 				    Vinculación desde 14 de enero del 2013 <br>
 				    Teléfonos: 7226020 – 7232452 Ext 111<br>
@@ -186,7 +186,7 @@
 				  <div class="media-body ">
 				    <h4 class="fuente-institucional texto-amarillo f-negrita">SECRETARIA</h4>
 				    <div class="pt-sans">
-				    <p>Angélica María Ruiz Jiménez <br>
+				    <p><label class="f-negrita">ANGÉLICA MARÍA RUIZ JIMÉNEZ </label><br>
 				    Celular: 3163055109<br>
 				    Correo electrónico bienestar@aunar.edu.co </p>
 				    </div>
