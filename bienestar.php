@@ -114,20 +114,20 @@
 			</div>			
 		</div>
 		<div class="container-fluid">
-			<div class="row d-flex justify-content-center">
-				<div class="col-11 col-lg-8">
+			<div class="row">
+				<div class="col-11 col-lg-12 d-flex justify-content-center">
 					<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
 				  <li class="nav-item fondo-gris-os d-flex  align-items-center ">
-				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">POLÍTICAS DE LA VICERRECTORÍA<br> DE BIENESTAR INSTITUCIONAL</a>
+				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">POLÍTICAS DE LA VICERRECTORÍA<br> DE BIENESTAR INSTITUCIONAL</a>
 				  </li>
 				  <li class="nav-item fondo-gris-c d-flex  align-items-center ">
-				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch " id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">POLÍTICA EDUCATIVA <br></a>
+				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">POLÍTICA EDUCATIVA <br></a>
 				  </li>
 				  <li class="nav-item fondo-gris-os d-flex  align-items-center ">
-				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch " id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">POLÍTICA SOCIAL <br></a>
+				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">POLÍTICA SOCIAL <br></a>
 				  </li>
 				  <li class="nav-item fondo-gris-c d-flex  align-items-center ">
-				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch " id="pills-contact-tab" data-toggle="pill" href="#pills-comunicacion" role="tab" aria-controls="pills-contact" aria-selected="false">POLÍTICA DE COMUNICACIÓN<br></a>
+				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-contact-tab" data-toggle="pill" href="#pills-comunicacion" role="tab" aria-controls="pills-contact" aria-selected="false">POLÍTICA DE COMUNICACIÓN<br></a>
 				  </li>
 				</ul>
 			</div>
