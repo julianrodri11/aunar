@@ -218,12 +218,12 @@
               <!-- Left and right controls -->
               <a class="carousel-control-prev" href="#myCarousel2" data-slide="prev">
                  <span class="fondo-azul-oscuro p-2 " aria-hidden="true">
-                  <i class="fa fa-chevron-left text-white f-size-18" ></i>
+                    <span class="carousel-control-prev-icon"></span>                    
                 </span>
               </a>
               <a class="carousel-control-next" href="#myCarousel2" data-slide="next">
                  <span class="fondo-azul-oscuro p-2 " aria-hidden="true">
-                  <i class="fa fa-chevron-right text-white f-size-18" ></i>
+                    <span class="carousel-control-next-icon"></span>                                      
                 </span>
               </a>
             </div>
