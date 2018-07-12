@@ -267,28 +267,40 @@ a Proyección Social </a>
 			</div>
 		</div>
 		
-		<div class="container-fluid p-5 ">
+		
+
+		<!-- personal encargado -->		
+
+		<div class="container-fluid p-2 p-lg-5 ">
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
-				<div class="col-lg-6 ">
+				<div class="col-12 col-lg-6 ">
 				<!-- Personal -->
 				<div class="media border-bottom borde-amarillo pb-3">
-				  <img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle" width="180px" >
-				  <div class="media-body ">
-				    <h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
-				    <div class="pt-sans">
-				    <p><label class="texto-azul-os f-negrita"> GABRIELA STHEFANNY VARGAS GUZMÁN </label><br>
-				    Administradora de Empresas (Universidad de Nariño)<BR>
-					Magíster en Intervención Social (Universidad Internacional de la Rioja) <br>
-				    Formación en innovación social y emprendimiento.<br>
-					Investigadora Corporación Universitaria Autónoma de Nariño<br>
-					Teléfono: 7226020 ext 112 <br>
-				    Correo electrónico gabriela.vargas@aunar.edu.co  </p>
-				    </div>
+				<div class="media-body ">
+					
+					<div class="row">
+						<div class="col-12 col-md-4 text-center">
+							<img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle img-fluid" >
+						</div>
+						<div class="col-12 col-md-8 text-center text-md-left">
+							<h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
+						    <div class="pt-sans">
+						    <label class="f-negrita">GABRIELA STHEFANNY VARGAS GUZMÁN </label><br>
+						    Administradora de Empresas (Universidad de Nariño)<BR>
+							Magíster en Intervención Social (Universidad Internacional de la Rioja) <br>
+						    Formación en innovación social y emprendimiento.<br>
+							Investigadora Corporación Universitaria Autónoma de Nariño<br>
+							Teléfono: 7226020 ext 112 <br>
+						    Correo electrónico gabriela.vargas@aunar.edu.co  </p>
+						    </div>
+						</div>
+					</div>	  
+				  
+				    
 				  </div>
 				</div>
 				</div>			
 			</div>
-			
 		</div>
 
 			<?php include_once('secciones/footer-principal.php');?>

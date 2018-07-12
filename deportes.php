@@ -73,25 +73,35 @@
 			</div>
 		</div>
 
-		<!-- personal encargado -->
-		<div class="container-fluid p-5 ">
+		
+		<!-- personal encargado -->		
+
+		<div class="container-fluid p-2 p-lg-5 ">
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
-				<div class="col-lg-6 ">
-					<!-- Personal -->
-					<div class="media border-bottom borde-amarillo pb-3">
-						<img src="img/bienestar/Vanessa_Constanza.png" class="align-self-center mr-3 rounded-circle" width="180px" >
-						<div class="media-body ">
-							<h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
-							<div class="pt-sans">
-								<p><label class="f-negrita">José Luis Yarpaz Benavides</label><br>
-									Coordinador de deporte y cultura <br>									
-									Lic. En educación Física<br>									
-									Candidato A Magister En Deporte Y Actividad Física
-								</p>
-							</div>
+				<div class="col-12 col-lg-6 ">
+				<!-- Personal -->
+				<div class="media border-bottom borde-amarillo pb-3">
+				<div class="media-body ">
+					
+					<div class="row">
+						<div class="col-12 col-md-6 text-center">
+							<img src="img/bienestar/Vanessa_Constanza.png" class="align-self-center mr-3 rounded-circle img-fluid" >
 						</div>
-					</div>
+						<div class="col-12 col-md-6 text-center text-md-left">
+							<h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
+						    <div class="pt-sans">
+						    <label class="f-negrita">JOSÉ LUIS YARPAZ BENAVIDES </label><br>
+						    Coordinador de deporte y cultura <br>									
+							Lic. En educación Física<br>									
+							Candidato A Magister En Deporte Y Actividad Física
+						    </div>
+						</div>
+					</div>	  
+				  
+				    
+				  </div>
 				</div>
+				</div>			
 			</div>
 		</div>
 
