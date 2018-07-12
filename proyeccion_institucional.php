@@ -200,8 +200,8 @@ a Proyección Social </a>
 		</div>
 
 		<div class="container-fluid">
-			<div class="row fuente-institucional">
-				<div class="col-12 pt-5 m-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">PROGRAMAS Y PROYECTOS  AUNAR</h3></div>
+			<div class="row">
+				<div class="col-12 pt-lg-5 m-lg-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">PROGRAMAS Y PROYECTOS  AUNAR</h3></div>
 			</div>			
 		</div>
 		<div class="container-fluid">
