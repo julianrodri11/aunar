@@ -119,7 +119,7 @@ a Proyección Social </a>
 						</div>						
 				      </div>
 
-				      <div class="tab-pane fade p-3 fondo-gris-os show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+				      <div class="tab-pane fade p-3 fondo-gris-os show" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
 						<div class="col-12 p-2 px-md-5 text-justify pt-sans">
 							<div class="col-12"><h3 class="fuente-institucional f-negrita text-center">TRABAJOS DE AULA</h3></div>
 							<div class="col-12 pt-sans text-justify">
