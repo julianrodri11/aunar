@@ -63,7 +63,7 @@
       <div class="col-lg-6 col-sm-12 mt-3 text-light text-lg-left text-center small fuente-institucional">
         <div class="">
           <div><a href="#" class="hvr-icon-pulse">
-            <i class="fa fa-map-marker texto-amarillo f-size-14" ></i>
+            <img src="img/ubicacion-aunar.png" width="8px">
           </a> Corporación Universitaria Autónoma de Nariño </div>
           <div>&nbsp;&nbsp;&nbsp;NIT: 891224762-9</div>
           <div>&nbsp;&nbsp;&nbsp;Código SNIES: 3817</div>

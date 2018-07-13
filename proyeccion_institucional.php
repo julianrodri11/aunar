@@ -128,8 +128,7 @@ a Proyección Social </a>
 								<p>La Corporación Universitaria Autónoma de Nariño, el Servicio Jesuita a Refugiados y la Universidad Politécnica estatal del Carchi desarrollaron el diplomado promotores de derechos y gestores de paz, dirigido a población víctima del conflicto armado y refugiados en el Ecuador, con el fin de que las personas participantes adquieran herramientas para el fortalecimiento de sus comunidades y de sus organizaciones, participando en un espacio de formación con enfoque de derechos.</p>
 							</div>
 							<div class="col-12 text-center">
-								<?php include_once('modal/modal-promotores-y-derechos.php');?>
-								<a class="btn text-light fondo-azul-oscuro pt-sans hvr-forward" data-toggle="modal"   data-target="#modalVideoDerechos" >Ver Vídeo</a>
+								<br><iframe width="100%" height="450" src="https://www.youtube.com/embed/2jBwFrTNmUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 							</div> 
 						</div>						
 				      </div>
@@ -235,9 +234,8 @@ a Proyección Social </a>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
 				  	<div class="col-12"> Tumaquito es un asentamiento de población afro desplazada por la violencia, el cual se encuentra ubicado en Anganoy... <strong>#AunarPasto</strong> a través de <strong>#AunarProyecciónSocial</strong> se preocupó por sus necesidades y decidió empezar un proceso de fortalecimiento comunitario con la ayuda de la Fundación Comuniquemos su Misericordia y el Servicio Jesuita a Refugiados: 3 Visualiza este corto video para que tú también conozcas esta experiencia :) ¡Aquí estamos comprometidos con nuestra comunidad!</div>
 					<div class="col-12 text-center">
-						<?php include_once('modal/modal-video-tumaco.php');?>
-						<a class="btn text-light fondo-azul-oscuro pt-sans hvr-forward" data-toggle="modal"   data-target="#modalVideoTumaco" >Ver Vídeo</a>
-					</div>
+						<br><iframe width="100%" height="450" src="https://www.youtube.com/embed/YQBAEXnuVpI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>					
 				  </div>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
 				  	<div class="col-12">La investigación que está siendo desarrollada en alianza a la Universidad Tecnológica Indoamérica de Quito, se realiza con el propósito de generar una metodología de intervención que permita articular la psicología y las ciencias administrativas y económicas, con el fin de generar integración local para la Población víctima del conflicto armado</div>
