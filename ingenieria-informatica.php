@@ -74,7 +74,7 @@
 					      </tr>
 					      <tr>
 					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Créditos: </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" ></td>					        
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >162</td>					        
 					      </tr>
 					      <tr>
 					        <td class="borde-1 borde-amarillo border-top-0" >Lugar de desarrollo del programa:</td>
@@ -95,10 +95,7 @@
 					<div class="col-12 pt-sans text-justify">
 						<p>El programa de Ingeniería Informática de la Corporación Universitaria Autónoma de Nariño, es un programa en modalidad a distancia, que se orienta específicamente al desarrollo de software para atender las necesidades actuales, en el tratamiento de grandes volúmenes de datos.			
 						</p>
-						<p>
-							Específicamente el <strong> PROFESIONAL DE INGENIERÍA INFORMÁTICA</strong>, <label class="text-danger"> complementar Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim repellat ducimus, fugit sit explicabo autem voluptas, pariatur, veniam fugiat provident maxime? Itaque unde sequi eius, corporis dolore excepturi iste id maxime, cupiditate, reprehenderit harum autem distinctio inventore voluptatibus. Quas eos, cumque veniam ab unde sint, voluptates, maxime eius tempore molestias repellendus quasi. Voluptas numquam, libero alias quidem cum eligendi unde error, saepe hic, odio repellendus laboriosam molestiae illum, reiciendis id voluptatibus voluptatum facere. A, perspiciatis. Ullam modi, dolorum sunt at eligendi incidunt, dolores nisi. Cumque adipisci ratione aut blanditiis nisi commodi atque culpa qui? Consequatur distinctio, dicta et dolorem quos.
-								</label>
-						</p>
+						
 					</div>
 				</div>
 			</div>

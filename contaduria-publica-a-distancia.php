@@ -27,19 +27,67 @@
 			<div class="row ">
 				<div class="col-12 col-lg-5 col-md-6 fondo-gris-c p-5">
 					<div class="col-12 "> <h3 class="fuente-institucional f-color-cpublica-dis f-negrita">Identificación del programa</h3></div>
-					<div class="col-12 ">
-						<label for="">Facultad a la que está adscrito: <strong>Ingeniería</strong></label>
-						<label for="">Nombre del Programa:<strong> Ingeniería Electrónica</strong></label>
-						<label for="">Nivel de formación:<strong> Profesional Universitario</strong></label>
-						<label for="">Título que otorga:<strong> Ingeniero Electrónico</strong></label>
-						<label for="">Modalidad: <strong> Presencial</strong></label>
-						<label for="">Número de Semestres: <strong> 10 semestres</strong></label>
-						<label for="">Periodicidad de la admisión: <strong> Semestral</strong></label>
-						<label for="">Acuerdo de creación: <strong> Acuerdo Consejo Directivo No. 15 del 15 de septiembre 2005.</strong></label>
-						<label for="">Resolución de Registro Calificado: <strong> 10546 de agosto 2013</strong></label>
-						<label for="">Código SNIES: <strong> 52536</strong></label>
-						<label for="">Créditos: <strong> 174 </strong></label>
-						<label for="">Lugar de desarrollo del programa: <strong> Pasto – Nariño</strong></label>
+					<div class="col-12">
+						<table class="table table-bordered  table-striped pt-sans f-size-14 texto-azul-os">
+					    
+					    <tbody>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad a la que está adscrito:</td>
+					        <td class="borde-1 borde-amarillo border-bottom-0" >Ciencias Adm. Y contables</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nombre del Programa:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Contaduría Pública</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nivel de formación:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Profesional Universitario</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Título que otorga:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Contador(a) Público</td>					        
+					      </tr>
+
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Modalidad:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Presencial</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Número de Semestres:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >10 semestres</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >semestral</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Acuerdo de creación:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Acuerdo de Consejo Directivo No. 69-10 de diciembre 9 de 2010.</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Norma Renovación Registro Calificado: </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Acuerdo Consejo Directivo No. 23-13 de abril 22 del 2013.</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Registro calificado : </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >06626 de 12 de mayo de 2015</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Código SNIES:  </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >13879</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Créditos: </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >162</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-top-0" >Lugar de desarrollo del programa:</td>
+					        <td class="borde-1 borde-amarillo border-top-0" >Pasto – Nariño</td>					        
+					      </tr>
+
+
+					    </tbody>
+					  </table>
 					</div>
 					<div class="col-12 mt-5"> 
 						<label class="fuente-institucional f-color-cpublica-dis f-negrita">CONTACTOS</label><br>

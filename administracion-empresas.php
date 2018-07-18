@@ -74,7 +74,7 @@
 					      </tr>
 					      <tr>
 					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Créditos: </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >162</td>					        
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >128</td>					        
 					      </tr>
 					      <tr>
 					        <td class="borde-1 borde-amarillo border-top-0" >Lugar de desarrollo del programa:</td>

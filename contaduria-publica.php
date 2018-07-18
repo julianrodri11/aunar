@@ -27,33 +27,78 @@
 			<div class="row ">
 				<div class="col-12 col-lg-5 col-md-6 fondo-gris-c p-5">
 					<div class="col-12 "> <h3 class="fuente-institucional f-color-cpublica-dis f-negrita">Identificación del programa</h3></div>
-					<div class="col-12 ">
-						<label for="">Facultad a la que está adscrito: <strong>Ingeniería</strong></label>
-						<label for="">Nombre del Programa:<strong> Ingeniería Electrónica</strong></label>
-						<label for="">Nivel de formación:<strong> Profesional Universitario</strong></label>
-						<label for="">Título que otorga:<strong> Ingeniero Electrónico</strong></label>
-						<label for="">Modalidad: <strong> Presencial</strong></label>
-						<label for="">Número de Semestres: <strong> 10 semestres</strong></label>
-						<label for="">Periodicidad de la admisión: <strong> Semestral</strong></label>
-						<label for="">Acuerdo de creación: <strong> Acuerdo Consejo Directivo No. 15 del 15 de septiembre 2005.</strong></label>
-						<label for="">Resolución de Registro Calificado: <strong> 10546 de agosto 2013</strong></label>
-						<label for="">Código SNIES: <strong> 52536</strong></label>
-						<label for="">Créditos: <strong> 174 </strong></label>
-						<label for="">Lugar de desarrollo del programa: <strong> Pasto – Nariño</strong></label>
+					<div class="col-12">
+						<table class="table table-bordered  table-striped pt-sans f-size-14 texto-azul-os">
+					    
+					    <tbody>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad a la que está adscrito:</td>
+					        <td class="borde-1 borde-amarillo border-bottom-0" >Ciencias Adm. Y contables</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nombre del Programa:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Contaduría Pública</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nivel de formación:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Profesional Universitario</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Título que otorga:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Contador(a) Público</td>					        
+					      </tr>
+
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Modalidad:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Presencial</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Número de Semestres:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >10 semestres</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >semestral</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Acuerdo de creación:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Acuerdo de Consejo Directivo No. 69-10 de diciembre 9 de 2010.</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Norma Renovación Registro Calificado: </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Acuerdo Consejo Directivo No. 23-13 de abril 22 del 2013.</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Registro calificado : </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >06626 de 12 de mayo de 2015</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Código SNIES:  </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >13879</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Créditos: </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >162</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-top-0" >Lugar de desarrollo del programa:</td>
+					        <td class="borde-1 borde-amarillo border-top-0" >Pasto – Nariño</td>					        
+					      </tr>
+
+
+					    </tbody>
+					  </table>
 					</div>
 					<div class="col-12 mt-5"> 
 						<label class="fuente-institucional f-color-cpublica-dis f-negrita">CONTACTOS</label><br>
-						<label class="fuente-institucional ">x x x @aunar.edu.co</label>
+						<label class="fuente-institucional ">owal.caicedo@aunar.edu.co</label>
 					</div>
 				</div>
 				<div class="col-12 col-lg-7 col-md-6 p-5">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-cpublica-dis f-negrita">Objetivo General</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						<p>El Programa de Ingeniería Electrónica que ofrece la Corporación Universitaria Autónoma de Nariño posee el contenido curricular de la formación profesional que responde a los lineamientos nacionales e internacionales, complementando los elementos teóricos con los aspectos prácticos en un ambiente integral y dinámico en la formación de las competencias y saberes que dan competitividad al egresado, en un contexto cada vez más globalizado.							
-						</p>
-						<p>
-							Específicamente el <strong> PROFESIONAL DE INGENIERÍA ELECTRÓNICA</strong>, será capaz de   desempeñarse en el sector industrial, en el diseño, investigación, desarrollo, innovación, consultoría, gestión, supervisión, implementación y mantenimiento de sistemas electrónicos. El campo del conocimiento del ingeniero en electrónica de la autónoma de Nariño está centrado en el diseño y desarrollo de todo tipo de circuitos electrónicos   con alto índice de complejidad, además dar soporte en los campos de las telecomunicaciones, electro medicina, automatización en las organizaciones en donde se desempeñe.
-						</p>
+						<p>El programa de Contaduría Pública que ofrece la Corporación Universitaria Autónoma de Nariño se caracteriza por Formar profesionales que tengan la posibilidad de ser Líderes Íntegros con la capacidad de acompañar los procesos de mejoramiento continuo, que no sólo domine los sistemas contables, financieros, legales y de costos, sino que se integre en un todo con los demás sistemas de información creando el mejor proceso de retroalimentación en la organización y muy comprometidos con la globalización y el desarrollo tecnológico incorporando en todos sus procesos los nuevos lineamientos que están relacionados con los estándares internacionales de información financiera. Lo anterior por la interdisciplinaridad que se maneja en sus contenidos curriculares.</p>
+						
 					</div>
 				</div>
 			</div>
@@ -79,11 +124,11 @@
 			<div class="row p-4 m-1 ">
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-cpublica-dis f-negrita text-center">Misión</h3></div>
-					<div class="col-12 pt-sans text-justify">La misión del programa de Ingeniería Electrónica de la Corporación Universitaria Autónoma de Nariño, es la formación de Ingenieros en electrónica, competitivos en el mercado de la automatización, el control, las telecomunicaciones y la electro medicina, fieles a los principios Institucionales de excelencia académica y proyección social a partir de la recopilación de una excelente planta docente, un currículo pertinente con las problemáticas del entorno y las herramientas necesarias para una formación integral de calidad.</div>
+					<div class="col-12 pt-sans text-justify">Formar profesionales íntegros, con espíritu investigativo; comprometidos con el desarrollo de la región y orientados hacia la asesoría contable, financiera, tributaria y a  la creación de empresas, con criterios de excelencia, liderazgo, valores éticos y actitud auto formativa, generadores de soluciones innovadoras a problemas tecnológicos, comprometidos con el uso racional de los recursos, la conservación del medio ambiente y con proyección nacional e internacional.</div>
 				</div>
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-cpublica-dis f-negrita text-center">Visión</h3></div>
-					<div class="col-12 pt-sans text-justify">El programa de ingeniería electrónica de la Corporación Universitaria Autónoma de Nariño, será pionero en el manejo de nuevas tecnologías en las ciencias de la electrónica, líder en el sur-occidente Colombiano, en la formación de ingenieros en electrónica, generadora de procesos investigativos como base de la proyección social de nuestra región y formadora de profesionales humanos con alta responsabilidad social y cultural, ofreciendo a los beneficiaros de este programa el mejoramiento constante de su calidad de vida.</div>
+					<div class="col-12 pt-sans text-justify">Ser un programa reconocido a nivel regional, nacional e internacional, producto de su contribución al desarrollo del sector industrial del departamento, sus aportes a la investigación y la excelencia de sus egresados. Para ello, la institución contará con un recurso humano altamente calificado, desde el punto de vista académico y moral, que vele por el crecimiento del Programa de Contaduría Pública  y un continuo perfeccionamiento profesional.</div>
 				</div>
 			</div>
 		</div>
@@ -94,38 +139,36 @@
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"><h5 class="fuente-institucional f-color-cpublica-dis f-negrita">AL GRADUARTE</h5><h3 class="fuente-institucional f-color-cpublica-dis f-negrita text-center">¿DÓNDE PUEDES TRABAJAR?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						El profesional en Ingeniería Electrónica de la Corporación Universitaria Autónoma de Nariño, estará capacitado para: Diseñar y desarrollar todo tipo de sistemas electrónicos, con alto índice de complejidad, además, dar soporte en el campo de las telecomunicaciones en las organizaciones en donde se desempeñe. De igual forma podrá desempeñarse como:<br>
-					<i class="fa fa-angle-right f-color-cpublica-dis f-size-14 f-negrita"></i> Director del departamento técnico en empresas del sector público y privado.<br>
-					<i class="fa fa-angle-right f-color-cpublica-dis f-size-14 f-negrita"></i> Empresario independiente en la producción de circuitos electrónicos.<br>
-					<i class="fa fa-angle-right f-color-cpublica-dis f-size-14 f-negrita"></i> Ingeniero de montaje y mantenimiento de sistemas electrónicos y de redes de comunicación.<br>
-					<i class="fa fa-angle-right f-color-cpublica-dis f-size-14 f-negrita"></i> Diseñador o interventor de proyectos tecnológicos.<br>		
-					<i class="fa fa-angle-right f-color-cpublica-dis f-size-14 f-negrita"></i> Consultor de empresas relacionadas con la electrónica.<br>		
-					<i class="fa fa-angle-right f-color-cpublica-dis f-size-14 f-negrita"></i> Director de mantenimiento preventivo y correctivo de equipos electrónicos.<br>
-					<i class="fa fa-angle-right f-color-cpublica-dis f-size-14 f-negrita"></i> Diseñador de soluciones en automatización de procesos industriales.<br>
-					<i class="fa fa-angle-right f-color-cpublica-dis f-size-14 f-negrita"></i> Director y/o participante en proyectos de investigación tecnológica.<br>
+						<br>> Jefe financiero, Contador público encargado de la asesoría financiera y económica de la entidad.
+						<br>> Ocupar el cargo de Revisor Fiscal y desarrollar auditoria interna o externa en los entes económicos
+						<br>> Gerenciar, asesorar y prestar consultoría a organizaciones; Además proponer estrategias de crecimiento y desarrollo organizacional en el marco del proceso de la globalización de la economía y de apertura de los mercados.
+						<br>> Actuar como auxiliar de la justicia en calidad de perito contable.
+							
 					</div>
 				</div>
 				<div class="col-12 col-sm-6 border-left borde-amarillo">
-					<div class="col-12"><h5 class="fuente-institucional f-color-cpublica-dis f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-cpublica-dis f-negrita text-center">INGENIERO ELECTRÓNICO?</h3></div>
+					<div class="col-12"><h5 class="fuente-institucional f-color-cpublica-dis f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-cpublica-dis f-negrita text-center">CONBTADOR PÚBLICO ?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						El Ingeniero en electrónica de la CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO, será capaz de: analizar, diseñar, investigar, operar, planear, adaptar e instalar sistemas electrónicos. Debe poseer además los suficientes conocimientos en los campos administrativo, legislativo y cultural para desempeñarse adecuadamente en el medio socio-económico del país, enmarcando todos sus actos dentro de los principios éticos y de justicia social cristiana
+						<br>- Recopilar y evaluar información del registro de las actividades de los entes económicos públicos y privados en todos sus aspectos financieros y sociales mediante la rendición de informes financieros fidedignos.
+						<br>- Aplicar el pensamiento estratégico que permita solucionar los problemas específicos del área contable de los entes económicos, armonizándolos con los aspectos jurídicos, administrativos e informáticos y su vinculación con el entorno socio – económico regional, nacional e internacional.
+						<br>- Asesorar en la aplicación e interpretación de los aspectos fiscales y normatividad tributaria vigente del orden nacional e internacional.
 					</div>
-					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-cpublica-dis f-negrita">Líneas de profundización<br>(Electivas):</h6></div>
+					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-cpublica-dis f-negrita">Líneas de profundización INCOMPLETO<br>(Electivas):</h6></div>
 					<div class="col-12 ">
 						<div class="row p-2">
-							<div class="col-12">1.P.O.O. PARA DISPOSITIVOS MÓVILES</div>
+							<div class="col-12">1.P.O.O. xxxxxPARA DISPOSITIzx zxzxVOS MÓVILES</div>
 							<div class="col-12">&nbsp;&nbsp;OPTIMIZACIÓN	</div>
 							<div class="col-12">&nbsp;&nbsp;BIOFISICA</div>
 							<div class="col-12">&nbsp;&nbsp;SISTEMAS DE CONMUTACIÓN</div>
 						</div>
 						<div class="row p-2">
-							<div class="col-12">2.ADMINISTRACIÓN DE REDES</div>
+							<div class="col-12">2.ADMINISTRAx zxzxIÓN DE RzxEDES</div>
 							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES INDUSTRIALES</div>
 							<div class="col-12">&nbsp;&nbsp;EQUIPOS MÉDICOS</div>
 							<div class="col-12">&nbsp;&nbsp;RADIOCOMUNICACIONES</div>
 						</div>
 						<div class="row p-2">
-							<div class="col-12">2.SEGURIDAD EN REDES</div>
+							<div class="col-12">2.SEGURIDAD zxzxzxEN REDES</div>
 							<div class="col-12">&nbsp;&nbsp;ROBÓTICA INDUSTRIAL</div>
 							<div class="col-12">&nbsp;&nbsp;GESTIÓN DEL MANTENIMIENTO CLÍNICO</div>
 							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES ÓPTICAS</div>
