@@ -103,8 +103,8 @@
 
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-12 pt-lg-5 mt-lg-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">SECCIÓN NIVELES DE FORMACIÓN</h3></div>
-				<div class="col-12  "><p class="pt-sans f-negrita texto-azul-os text-center mx-auto">En esta área el Departamento de Inglés maneja 6 niveles de formación organizados en tres niveles:</p></div>
+				<div class="col-12 pt-lg-5 mt-lg-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">NIVELES DE FORMACIÓN</h3></div>
+				<!-- <div class="col-12  "><p class="pt-sans f-negrita texto-azul-os text-center mx-auto">NIVELES DE FORMACIÓN</p></div> -->
 			</div>			
 		</div>
 		<div class="container-fluid ">
@@ -138,7 +138,7 @@
 									<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 									  <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita active" id="v-pills-formas-tab" data-toggle="pill" href="#v-pills-formas" role="tab" aria-controls="v-pills-formas" aria-selected="true">Nivel 1 </a>
 								      <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os " id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="false">Nivel 2 </a>
-								      <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Nivel 3</a>
+								      
 								    </div>
 								</div>
 								<div class="col-12 col-md-9">
@@ -146,36 +146,71 @@
 								      
 								      <div class="tab-pane fade p-3 fondo-gris-os show active" id="v-pills-formas" role="tabpanel" aria-labelledby="v-pills-formas-tab">
 										<div class="col-12 p-2 px-md-5 text-justify pt-sans">
-													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> 1. Lorem ipsum dolor.</h3></div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate error ipsam iste inventore exercitationem suscipit harum quam corporis natus dolore. Magni quia eum repudiandae asperiores quos porro commodi aliquid, itaque molestias tenetur culpa mollitia, est esse cupiditate expedita? Quas iure neque quibusdam dolorum quisquam. Praesentium culpa, temporibus perspiciatis pariatur repudiandae.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, praesentium, officiis iste assumenda aut vel quibusdam dolores est porro ab quam aperiam iusto, maiores pariatur? Rem, molestiae deleniti magnam aliquid fugiat expedita excepturi explicabo, iure, saepe, recusandae aspernatur dolorem inventore in. Sint iure illum maxime eligendi est similique accusantium repellat.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsam magni unde. Neque illum, nobis numquam beatae culpa, ducimus voluptas maxime animi dolores quam veritatis impedit quis quo quibusdam esse iusto, debitis tempore? Fugiat maiores minus tempore veritatis, excepturi ipsum, corporis voluptate aperiam tempora sunt incidunt placeat iusto tenetur soluta.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque recusandae, ipsum. Ratione esse dicta quibusdam quam ducimus veniam voluptatem necessitatibus assumenda, possimus, porro velit dolor, dolores modi adipisci consequuntur officia. Maiores explicabo delectus earum minus, consectetur maxime pariatur sapiente mollitia laboriosam ipsa quibusdam ad commodi consequuntur, ex dicta perferendis architecto!</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, corrupti, neque. Distinctio aut asperiores aliquid quisquam odio optio consectetur laudantium iusto magni cupiditate eum fugiat, veniam quo veritatis numquam nam at sint. Pariatur, natus porro doloribus, voluptatem officiis accusantium hic nulla. Nihil recusandae eius sed repellat molestiae, dicta nulla. Amet!</div>							
+													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> Nivel 1 - Básico </h3></div>
+													<div class="col-12 text-justify">
+														<div class="row">
+															<div class="col-12">
+																<br><strong> Nombre:</strong> Inglés I
+																<br><strong> Tipo:</strong> Teórico - práctica
+																<br><strong> Modalidad:</strong> Presencial
+																<br><strong> Semestre:</strong> I
+																<br><strong> Número de créditos:</strong> 4
+																<br><strong> Intensidad horaria semanal:</strong>  3 horas
+																<br><strong> Prerrequisitos:</strong> Ninguno 
+															</div>
+															<div class="col-12"><br><p><strong> Justificación: </strong> El aprendizaje de Inglés se enfoca en adecuar y optimizar el perfil profesional de los estudiantes tanto a nivel personal como laboral, para esto las actividades y procedimientos a tenerse en cuenta están directamente relacionados con la creación de textos, role plays, comunicación directa, presentaciones y trabajo grupal e individual.</p></div>
+															<div class="col-12"><br><p><strong> Objetivo general:</strong> Conocer, reflexionar y aplicar modelos, estrategias y técnicas de enseñanza de inglés como lengua extranjera en concordancia con el nuevo marco curricular nacional para el subsector inglés; elaborar e implementar una planificación  de clase acorde con el desarrollo de habilidades comunicativas y cognitivas de orden superior.</p></div>
+															<div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
+																<br>• The alphabet 
+																<br>• Numbers
+																<br>• Pronouns
+																<br>• Demonstrative pronouns
+																<br>• There is – there are
+																<br>• Present simple
+																<br>• Present continuous
+																<br>• Superlatives and comparatives
+																<br>• Action verbs												
+															</div>
+														</div>
+													</div>
+													
 										</div>						
 								      </div>
 
 								      <div class="tab-pane fade p-3 fondo-gris-os show" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
 										<div class="col-12 p-2 px-md-5 text-justify pt-sans">
-													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> 2. Lorem ipsum dolor.</h3></div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate error ipsam iste inventore exercitationem suscipit harum quam corporis natus dolore. Magni quia eum repudiandae asperiores quos porro commodi aliquid, itaque molestias tenetur culpa mollitia, est esse cupiditate expedita? Quas iure neque quibusdam dolorum quisquam. Praesentium culpa, temporibus perspiciatis pariatur repudiandae.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, praesentium, officiis iste assumenda aut vel quibusdam dolores est porro ab quam aperiam iusto, maiores pariatur? Rem, molestiae deleniti magnam aliquid fugiat expedita excepturi explicabo, iure, saepe, recusandae aspernatur dolorem inventore in. Sint iure illum maxime eligendi est similique accusantium repellat.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsam magni unde. Neque illum, nobis numquam beatae culpa, ducimus voluptas maxime animi dolores quam veritatis impedit quis quo quibusdam esse iusto, debitis tempore? Fugiat maiores minus tempore veritatis, excepturi ipsum, corporis voluptate aperiam tempora sunt incidunt placeat iusto tenetur soluta.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque recusandae, ipsum. Ratione esse dicta quibusdam quam ducimus veniam voluptatem necessitatibus assumenda, possimus, porro velit dolor, dolores modi adipisci consequuntur officia. Maiores explicabo delectus earum minus, consectetur maxime pariatur sapiente mollitia laboriosam ipsa quibusdam ad commodi consequuntur, ex dicta perferendis architecto!</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, corrupti, neque. Distinctio aut asperiores aliquid quisquam odio optio consectetur laudantium iusto magni cupiditate eum fugiat, veniam quo veritatis numquam nam at sint. Pariatur, natus porro doloribus, voluptatem officiis accusantium hic nulla. Nihil recusandae eius sed repellat molestiae, dicta nulla. Amet!</div>							
+													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> Nivel 2 - Básico</h3></div>
+													<div class="col-12 text-justify">
+														<div class="row">
+															<div class="col-12">
+																<br><strong> Nombre:</strong> Inglés II
+																<br><strong> Tipo:</strong> Teórico - práctica
+																<br><strong> Modalidad:</strong> Presencial
+																<br><strong> Semestre:</strong> II
+																<br><strong> Número de créditos:</strong> 4
+																<br><strong> Intensidad horaria semanal:</strong>  3 horas
+																<br><strong> Prerrequisitos:</strong> Inglés I
+															</div>
+															<div class="col-12"><br><p><strong> Justificación: </strong> El aprendizaje de Inglés se enfoca en adecuar y optimizar el perfil profesional de los estudiantes tanto a nivel personal como laboral, para esto las actividades y procedimientos a tenerse en cuenta están directamente relacionados con la creación de textos, role plays, comunicación directa, presentaciones y trabajo grupal e individual.</p></div>
+															<div class="col-12"><br><p><strong> Objetivo general:</strong> Conocer, reflexionar y aplicar modelos, estrategias y técnicas de enseñanza de inglés como lengua extranjera en concordancia con el nuevo marco curricular nacional para el subsector inglés; elaborar e implementar una planificación  de clase acorde con el desarrollo de habilidades comunicativas y cognitivas de orden superior.</p></div>
+															<div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
+																<br>•	Past of verb To Be 
+																<br>•	Ordinal numbers
+																<br>•	Yes / No Questions and WH Questions with was / were
+																<br>•	Regular verbs (-ED spelling)
+																<br>•	Irregular verbs 
+																<br>•	Have to/don’t have to, must/mustn’t, should/shouldn’t, can/can’t
+																<br>•	Demonstrative pronouns
+																<br>•	Present perfect 
+																<br>•	Past simple vs present perfect
+																<br>•	Present continuous
+																<br>•	Questions with and without auxiliaries
+											
+															</div>
+														</div>
+													</div>
 										</div>						
-								      </div>
-
-								      <div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-								      	<div class="col-12 p-2 px-md-5 text-justify pt-sans">
-													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> 3. Lorem ipsum dolor.</h3></div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate error ipsam iste inventore exercitationem suscipit harum quam corporis natus dolore. Magni quia eum repudiandae asperiores quos porro commodi aliquid, itaque molestias tenetur culpa mollitia, est esse cupiditate expedita? Quas iure neque quibusdam dolorum quisquam. Praesentium culpa, temporibus perspiciatis pariatur repudiandae.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, praesentium, officiis iste assumenda aut vel quibusdam dolores est porro ab quam aperiam iusto, maiores pariatur? Rem, molestiae deleniti magnam aliquid fugiat expedita excepturi explicabo, iure, saepe, recusandae aspernatur dolorem inventore in. Sint iure illum maxime eligendi est similique accusantium repellat.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsam magni unde. Neque illum, nobis numquam beatae culpa, ducimus voluptas maxime animi dolores quam veritatis impedit quis quo quibusdam esse iusto, debitis tempore? Fugiat maiores minus tempore veritatis, excepturi ipsum, corporis voluptate aperiam tempora sunt incidunt placeat iusto tenetur soluta.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque recusandae, ipsum. Ratione esse dicta quibusdam quam ducimus veniam voluptatem necessitatibus assumenda, possimus, porro velit dolor, dolores modi adipisci consequuntur officia. Maiores explicabo delectus earum minus, consectetur maxime pariatur sapiente mollitia laboriosam ipsa quibusdam ad commodi consequuntur, ex dicta perferendis architecto!</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, corrupti, neque. Distinctio aut asperiores aliquid quisquam odio optio consectetur laudantium iusto magni cupiditate eum fugiat, veniam quo veritatis numquam nam at sint. Pariatur, natus porro doloribus, voluptatem officiis accusantium hic nulla. Nihil recusandae eius sed repellat molestiae, dicta nulla. Amet!</div>							
-										</div>
-								      </div>
+								      </div>								     
 
 								    </div>
 								</div>
@@ -196,9 +231,9 @@
 							<div class="row ">
 								<div class="col-12 col-md-3">
 									<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-									  <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita active" id="v-pills-formas2-tab" data-toggle="pill" href="#v-pills-formas2" role="tab" aria-controls="v-pills-formas" aria-selected="true">Nivel x </a>
-								      <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os " id="v-pills-home2-tab" data-toggle="pill" href="#v-pills-home2" role="tab" aria-controls="v-pills-home" aria-selected="false">Nivel x </a>
-								      <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita" id="v-pills-profile2-tab" data-toggle="pill" href="#v-pills-profile2" role="tab" aria-controls="v-pills-profile" aria-selected="false">Nivel x</a>
+									  <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita active" id="v-pills-formas2-tab" data-toggle="pill" href="#v-pills-formas2" role="tab" aria-controls="v-pills-formas" aria-selected="true">Nivel 1 </a>
+								      <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os " id="v-pills-home2-tab" data-toggle="pill" href="#v-pills-home2" role="tab" aria-controls="v-pills-home" aria-selected="false">Nivel 2 </a>
+								      
 								    </div>
 								</div>
 								<div class="col-12 col-md-9">
@@ -206,36 +241,68 @@
 								      
 								      <div class="tab-pane fade p-3 fondo-gris-os show active" id="v-pills-formas2" role="tabpanel" aria-labelledby="v-pills-formas2-tab">
 										<div class="col-12 p-2 px-md-5 text-justify pt-sans">
-													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> 1. Lorem ipsum dolor.</h3></div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate error ipsam iste inventore exercitationem suscipit harum quam corporis natus dolore. Magni quia eum repudiandae asperiores quos porro commodi aliquid, itaque molestias tenetur culpa mollitia, est esse cupiditate expedita? Quas iure neque quibusdam dolorum quisquam. Praesentium culpa, temporibus perspiciatis pariatur repudiandae.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, praesentium, officiis iste assumenda aut vel quibusdam dolores est porro ab quam aperiam iusto, maiores pariatur? Rem, molestiae deleniti magnam aliquid fugiat expedita excepturi explicabo, iure, saepe, recusandae aspernatur dolorem inventore in. Sint iure illum maxime eligendi est similique accusantium repellat.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsam magni unde. Neque illum, nobis numquam beatae culpa, ducimus voluptas maxime animi dolores quam veritatis impedit quis quo quibusdam esse iusto, debitis tempore? Fugiat maiores minus tempore veritatis, excepturi ipsum, corporis voluptate aperiam tempora sunt incidunt placeat iusto tenetur soluta.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque recusandae, ipsum. Ratione esse dicta quibusdam quam ducimus veniam voluptatem necessitatibus assumenda, possimus, porro velit dolor, dolores modi adipisci consequuntur officia. Maiores explicabo delectus earum minus, consectetur maxime pariatur sapiente mollitia laboriosam ipsa quibusdam ad commodi consequuntur, ex dicta perferendis architecto!</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, corrupti, neque. Distinctio aut asperiores aliquid quisquam odio optio consectetur laudantium iusto magni cupiditate eum fugiat, veniam quo veritatis numquam nam at sint. Pariatur, natus porro doloribus, voluptatem officiis accusantium hic nulla. Nihil recusandae eius sed repellat molestiae, dicta nulla. Amet!</div>							
+												<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> Nivel 2 - Elemental</h3></div>
+													<div class="col-12 text-justify">
+														<div class="row">
+															<div class="col-12">
+																<br><strong> Nombre:</strong> Inglés III
+																<br><strong> Tipo:</strong> Teórico - práctica
+																<br><strong> Modalidad:</strong> Presencial
+																<br><strong> Semestre:</strong> III
+																<br><strong> Número de créditos:</strong> 4
+																<br><strong> Intensidad horaria semanal:</strong>  3 horas
+																<br><strong> Prerrequisitos:</strong> Inglés I - II
+															</div>
+															<div class="col-12"><br><p><strong> Justificación: </strong> El aprendizaje de Inglés se enfoca en adecuar y optimizar el perfil profesional de los estudiantes tanto a nivel personal como laboral, para esto las actividades y procedimientos a tenerse en cuenta están directamente relacionados con la creación de textos, role plays, comunicación directa, presentaciones y trabajo grupal e individual.</p></div>
+															<div class="col-12"><br><p><strong> Objetivo general:</strong> Conocer, reflexionar y aplicar modelos, estrategias y técnicas de enseñanza de inglés como lengua extranjera en concordancia con el nuevo marco curricular nacional para el subsector inglés; elaborar e implementar una planificación  de clase acorde con el desarrollo de habilidades comunicativas y cognitivas de orden superior.</p></div>
+															<div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
+																<br>•	Past of verb To Be 
+																<br>•	Present perfect
+																<br>•	Past perfect
+																<br>•	Can, have to, should , must
+																<br>•	Will, won't for predictions
+																<br>•	Will vs going to
+																<br>•	Used to
+
+											
+															</div>
+														</div>
+													</div>													
 										</div>						
 								      </div>
 
 								      <div class="tab-pane fade p-3 fondo-gris-os show" id="v-pills-home2" role="tabpanel" aria-labelledby="v-pills-home2-tab">
 										<div class="col-12 p-2 px-md-5 text-justify pt-sans">
-													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> 2. Lorem ipsum dolor.</h3></div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate error ipsam iste inventore exercitationem suscipit harum quam corporis natus dolore. Magni quia eum repudiandae asperiores quos porro commodi aliquid, itaque molestias tenetur culpa mollitia, est esse cupiditate expedita? Quas iure neque quibusdam dolorum quisquam. Praesentium culpa, temporibus perspiciatis pariatur repudiandae.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, praesentium, officiis iste assumenda aut vel quibusdam dolores est porro ab quam aperiam iusto, maiores pariatur? Rem, molestiae deleniti magnam aliquid fugiat expedita excepturi explicabo, iure, saepe, recusandae aspernatur dolorem inventore in. Sint iure illum maxime eligendi est similique accusantium repellat.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsam magni unde. Neque illum, nobis numquam beatae culpa, ducimus voluptas maxime animi dolores quam veritatis impedit quis quo quibusdam esse iusto, debitis tempore? Fugiat maiores minus tempore veritatis, excepturi ipsum, corporis voluptate aperiam tempora sunt incidunt placeat iusto tenetur soluta.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque recusandae, ipsum. Ratione esse dicta quibusdam quam ducimus veniam voluptatem necessitatibus assumenda, possimus, porro velit dolor, dolores modi adipisci consequuntur officia. Maiores explicabo delectus earum minus, consectetur maxime pariatur sapiente mollitia laboriosam ipsa quibusdam ad commodi consequuntur, ex dicta perferendis architecto!</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, corrupti, neque. Distinctio aut asperiores aliquid quisquam odio optio consectetur laudantium iusto magni cupiditate eum fugiat, veniam quo veritatis numquam nam at sint. Pariatur, natus porro doloribus, voluptatem officiis accusantium hic nulla. Nihil recusandae eius sed repellat molestiae, dicta nulla. Amet!</div>							
+													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> Nivel 2 - Elemental</h3></div>
+													<div class="col-12 text-justify">
+														<div class="row">
+															<div class="col-12">
+																<br><strong> Nombre:</strong> Inglés IV
+																<br><strong> Tipo:</strong> Teórico - práctica
+																<br><strong> Modalidad:</strong> Presencial
+																<br><strong> Semestre:</strong> IV
+																<br><strong> Número de créditos:</strong> 4
+																<br><strong> Intensidad horaria semanal:</strong>  3 horas
+																<br><strong> Prerrequisitos:</strong> Inglés I - II - III
+															</div>
+															<div class="col-12"><br><p><strong> Justificación: </strong> El aprendizaje de Inglés se enfoca en adecuar y optimizar el perfil profesional de los estudiantes tanto a nivel personal como laboral, para esto las actividades y procedimientos a tenerse en cuenta están directamente relacionados con la creación de textos, role plays, comunicación directa, presentaciones y trabajo grupal e individual.</p></div>
+															<div class="col-12"><br><p><strong> Objetivo general:</strong>Conocer, reflexionar y aplicar modelos, estrategias y técnicas de enseñanza de inglés como lengua extranjera en concordancia con el nuevo marco curricular nacional para el subsector inglés; elaborar e implementar una planificación  de clase acorde con el desarrollo de habilidades comunicativas y cognitivas de orden superior.</p></div>
+															<div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
+																	<br>•	Perfect tenses
+																	<br>•	Confusing verbs
+																	<br>•	Demonstrative pronouns
+																	<br>•	Present perfect 
+																	<br>•	Past simple vs present perfect
+																	<br>•	Present continuous
+
+											
+															</div>
+														</div>
+													</div>
 										</div>						
 								      </div>
 
-								      <div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile2" role="tabpanel" aria-labelledby="v-pills-profile2-tab">
-								      	<div class="col-12 p-2 px-md-5 text-justify pt-sans">
-													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> 3. Lorem ipsum dolor.</h3></div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate error ipsam iste inventore exercitationem suscipit harum quam corporis natus dolore. Magni quia eum repudiandae asperiores quos porro commodi aliquid, itaque molestias tenetur culpa mollitia, est esse cupiditate expedita? Quas iure neque quibusdam dolorum quisquam. Praesentium culpa, temporibus perspiciatis pariatur repudiandae.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, praesentium, officiis iste assumenda aut vel quibusdam dolores est porro ab quam aperiam iusto, maiores pariatur? Rem, molestiae deleniti magnam aliquid fugiat expedita excepturi explicabo, iure, saepe, recusandae aspernatur dolorem inventore in. Sint iure illum maxime eligendi est similique accusantium repellat.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsam magni unde. Neque illum, nobis numquam beatae culpa, ducimus voluptas maxime animi dolores quam veritatis impedit quis quo quibusdam esse iusto, debitis tempore? Fugiat maiores minus tempore veritatis, excepturi ipsum, corporis voluptate aperiam tempora sunt incidunt placeat iusto tenetur soluta.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque recusandae, ipsum. Ratione esse dicta quibusdam quam ducimus veniam voluptatem necessitatibus assumenda, possimus, porro velit dolor, dolores modi adipisci consequuntur officia. Maiores explicabo delectus earum minus, consectetur maxime pariatur sapiente mollitia laboriosam ipsa quibusdam ad commodi consequuntur, ex dicta perferendis architecto!</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, corrupti, neque. Distinctio aut asperiores aliquid quisquam odio optio consectetur laudantium iusto magni cupiditate eum fugiat, veniam quo veritatis numquam nam at sint. Pariatur, natus porro doloribus, voluptatem officiis accusantium hic nulla. Nihil recusandae eius sed repellat molestiae, dicta nulla. Amet!</div>							
-										</div>
-								      </div>
+								      
 
 								    </div>
 								</div>
@@ -255,9 +322,9 @@
 							<div class="row ">
 								<div class="col-12 col-md-3">
 									<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-									  <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita active" id="v-pills-formas3-tab" data-toggle="pill" href="#v-pills-formas3" role="tab" aria-controls="v-pills-formas" aria-selected="true">Nivel y </a>
-								      <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os " id="v-pills-home3-tab" data-toggle="pill" href="#v-pills-home3" role="tab" aria-controls="v-pills-home" aria-selected="false">Nivel y </a>
-								      <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita" id="v-pills-profile3-tab" data-toggle="pill" href="#v-pills-profile3" role="tab" aria-controls="v-pills-profile" aria-selected="false">Nivel y</a>
+									  <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita active" id="v-pills-formas3-tab" data-toggle="pill" href="#v-pills-formas3" role="tab" aria-controls="v-pills-formas" aria-selected="true">Nivel 1 </a>
+								      <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os " id="v-pills-home3-tab" data-toggle="pill" href="#v-pills-home3" role="tab" aria-controls="v-pills-home" aria-selected="false">Nivel 2 </a>
+								      
 								    </div>
 								</div>
 								<div class="col-12 col-md-9">
@@ -265,36 +332,69 @@
 								      
 								      <div class="tab-pane fade p-3 fondo-gris-os show active" id="v-pills-formas3" role="tabpanel" aria-labelledby="v-pills-formas3-tab">
 										<div class="col-12 p-2 px-md-5 text-justify pt-sans">
-													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> 1. Lorem ipsum dolor.</h3></div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate error ipsam iste inventore exercitationem suscipit harum quam corporis natus dolore. Magni quia eum repudiandae asperiores quos porro commodi aliquid, itaque molestias tenetur culpa mollitia, est esse cupiditate expedita? Quas iure neque quibusdam dolorum quisquam. Praesentium culpa, temporibus perspiciatis pariatur repudiandae.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, praesentium, officiis iste assumenda aut vel quibusdam dolores est porro ab quam aperiam iusto, maiores pariatur? Rem, molestiae deleniti magnam aliquid fugiat expedita excepturi explicabo, iure, saepe, recusandae aspernatur dolorem inventore in. Sint iure illum maxime eligendi est similique accusantium repellat.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsam magni unde. Neque illum, nobis numquam beatae culpa, ducimus voluptas maxime animi dolores quam veritatis impedit quis quo quibusdam esse iusto, debitis tempore? Fugiat maiores minus tempore veritatis, excepturi ipsum, corporis voluptate aperiam tempora sunt incidunt placeat iusto tenetur soluta.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque recusandae, ipsum. Ratione esse dicta quibusdam quam ducimus veniam voluptatem necessitatibus assumenda, possimus, porro velit dolor, dolores modi adipisci consequuntur officia. Maiores explicabo delectus earum minus, consectetur maxime pariatur sapiente mollitia laboriosam ipsa quibusdam ad commodi consequuntur, ex dicta perferendis architecto!</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, corrupti, neque. Distinctio aut asperiores aliquid quisquam odio optio consectetur laudantium iusto magni cupiditate eum fugiat, veniam quo veritatis numquam nam at sint. Pariatur, natus porro doloribus, voluptatem officiis accusantium hic nulla. Nihil recusandae eius sed repellat molestiae, dicta nulla. Amet!</div>							
-										</div>						
+													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> Nivel 1 - Independiente</h3></div>
+													<div class="col-12 text-justify">
+														<div class="row">
+															<div class="col-12">
+																<br><strong> Nombre:</strong> Inglés V
+																<br><strong> Tipo:</strong> Teórico - práctica
+																<br><strong> Modalidad:</strong> Presencial
+																<br><strong> Semestre:</strong> V
+																<br><strong> Número de créditos:</strong> 4
+																<br><strong> Intensidad horaria semanal:</strong>  3 horas
+																<br><strong> Prerrequisitos:</strong> Inglés I - II - III - IV
+															</div>
+															<div class="col-12"><br><p><strong> Justificación: </strong> El aprendizaje de Inglés se enfoca en adecuar y optimizar el perfil profesional de los estudiantes tanto a nivel personal como laboral, para esto las actividades y procedimientos a tenerse en cuenta están directamente relacionados con la creación de textos, role plays, comunicación directa, presentaciones y trabajo grupal e individual.</p></div>
+															<div class="col-12"><br><p><strong> Objetivo general:</strong>Conocer, reflexionar y aplicar modelos, estrategias y técnicas de enseñanza de inglés como lengua extranjera en concordancia con el nuevo marco curricular nacional para el subsector inglés; elaborar e implementar una planificación  de clase acorde con el desarrollo de habilidades comunicativas y cognitivas de orden superior.</p></div>
+															<div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
+																	<br>•	Perfect Tenses
+																	<br>•	Perfect Continuous Tenses
+																	<br>•	Vocabulary (Feelings - Opinión)
+																	<br>•	Have/Get Something Done
+																	<br>•	Multi-word Verbs
+																	<br>•	Cleft Sentences
+																	<br>•	Active Vs Passive Voice
+
+
+											
+															</div>
+														</div>
+													</div>										</div>						
 								      </div>
 
 								      <div class="tab-pane fade p-3 fondo-gris-os show" id="v-pills-home3" role="tabpanel" aria-labelledby="v-pills-home3-tab">
 										<div class="col-12 p-2 px-md-5 text-justify pt-sans">
-													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> 2. Lorem ipsum dolor.</h3></div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate error ipsam iste inventore exercitationem suscipit harum quam corporis natus dolore. Magni quia eum repudiandae asperiores quos porro commodi aliquid, itaque molestias tenetur culpa mollitia, est esse cupiditate expedita? Quas iure neque quibusdam dolorum quisquam. Praesentium culpa, temporibus perspiciatis pariatur repudiandae.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, praesentium, officiis iste assumenda aut vel quibusdam dolores est porro ab quam aperiam iusto, maiores pariatur? Rem, molestiae deleniti magnam aliquid fugiat expedita excepturi explicabo, iure, saepe, recusandae aspernatur dolorem inventore in. Sint iure illum maxime eligendi est similique accusantium repellat.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsam magni unde. Neque illum, nobis numquam beatae culpa, ducimus voluptas maxime animi dolores quam veritatis impedit quis quo quibusdam esse iusto, debitis tempore? Fugiat maiores minus tempore veritatis, excepturi ipsum, corporis voluptate aperiam tempora sunt incidunt placeat iusto tenetur soluta.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque recusandae, ipsum. Ratione esse dicta quibusdam quam ducimus veniam voluptatem necessitatibus assumenda, possimus, porro velit dolor, dolores modi adipisci consequuntur officia. Maiores explicabo delectus earum minus, consectetur maxime pariatur sapiente mollitia laboriosam ipsa quibusdam ad commodi consequuntur, ex dicta perferendis architecto!</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, corrupti, neque. Distinctio aut asperiores aliquid quisquam odio optio consectetur laudantium iusto magni cupiditate eum fugiat, veniam quo veritatis numquam nam at sint. Pariatur, natus porro doloribus, voluptatem officiis accusantium hic nulla. Nihil recusandae eius sed repellat molestiae, dicta nulla. Amet!</div>							
+													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> Nivel 2 - Independiente</h3></div>
+													<div class="col-12 text-justify">
+														<div class="row">
+															<div class="col-12">
+																<br><strong> Nombre:</strong> Inglés IV
+																<br><strong> Tipo:</strong> Teórico - práctica
+																<br><strong> Modalidad:</strong> Presencial
+																<br><strong> Semestre:</strong> VI - VII
+																<br><strong> Número de créditos:</strong> 2
+																<br><strong> Intensidad horaria semanal:</strong>  2 horas
+																<br><strong> Prerrequisitos:</strong> Inglés I - II - III - IV - V
+															</div>
+															<div class="col-12"><br><p><strong> Justificación: </strong> Desde muchos lugares se hace una visión crítica del fenómeno del inglés por entenderlo como una invasión más de parte de los países más poderosos a los que menos poder tienen. Se señala incluso que muchas veces los idiomas locales y nativos de otras partes del mundo son más complejos que el inglés mismo y que esto habla de culturas mucho más elaboradas que la anglosajona. Por otro lado, se pide reconocimiento a otras lenguas que lentamente van en crecimiento, como el chino o el español. Finalmente, muchos teóricos exigen que se respeten, revivan y recuperen lenguas que se han perdido por la impresionante invasión del inglés, por ejemplo las lenguas americanas y africanas.  Tal vez la razón fundamental por qué estudiar inglés es tan importante es porque el inglés es fundamental a la hora de encontrar trabajo. El inglés nos dará acceso a una mejor educación y por lo tanta a la posibilidad de un mejor puesto de trabajo. Las oportunidades laborales se multiplicarán en cuanto dominemos el idioma. Tanto en áreas gubernamentales como en empresas multinacionales, sin importar tu campo de trabajo, el inglés te aportará siempre ventajas a la hora de ascender o acceder a otro puesto de trabajo, ayudándote a mejorar tu situación laboral actual.  Otra importante razón para aprender inglés es que podremos acceder a una educación mejor, sin limitarnos a las universidades o centros de formación de nuestro propio país. Además nos dará acceso a información más actual y completa, conoceremos los últimos avances y podremos acceder a la mayoría de textos científicos, académicos y tecnológicos, escritos en inglés. Según un estudio más del 56% de los sitios de Internet están editados en inglés.</p></div>
+															<div class="col-12"><br><p><strong> Objetivo general:</strong>Lograr en el estudiante una actitud positiva hace el aprendizaje del Inglés, con el fin de propiciar la formación de un ser autónomo, crítico, participativo, creativo, independiente y seguro de sí mismo.</p></div>
+															<div class="col-12"><br><p><strong> Objetivo especificos:</strong>
+																	<br>-Aplicar una metodología que motive a los estudiantes, con ayuda de las TIC que sea adecuada para su nivel de inglés.  
+																	<br>-Fijar las bases para aprendizajes futuros en lo referente a destrezas y estrategias, vocabulario, funciones del lenguaje y estructuras gramaticales.  
+																	<br>-Hacer que el aprendizaje del inglés sea una experiencia lúdica y divertida.  
+																	<br>-Apreciar el valor de la lengua extranjera como medio de comunicación, mostrando curiosidad y respeto hacia sus hablantes y su cultura.
+																					</p>
+															</div>
+															<div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
+																	
+
+											
+															</div>
+														</div>
+													</div>	
 										</div>						
 								      </div>
 
-								      <div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile3" role="tabpanel" aria-labelledby="v-pills-profile3-tab">
-								      	<div class="col-12 p-2 px-md-5 text-justify pt-sans">
-													<div class="col-12"><h3 class="fuente-institucional f-negrita text-center"> 3. Lorem ipsum dolor.</h3></div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate error ipsam iste inventore exercitationem suscipit harum quam corporis natus dolore. Magni quia eum repudiandae asperiores quos porro commodi aliquid, itaque molestias tenetur culpa mollitia, est esse cupiditate expedita? Quas iure neque quibusdam dolorum quisquam. Praesentium culpa, temporibus perspiciatis pariatur repudiandae.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, praesentium, officiis iste assumenda aut vel quibusdam dolores est porro ab quam aperiam iusto, maiores pariatur? Rem, molestiae deleniti magnam aliquid fugiat expedita excepturi explicabo, iure, saepe, recusandae aspernatur dolorem inventore in. Sint iure illum maxime eligendi est similique accusantium repellat.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ipsam magni unde. Neque illum, nobis numquam beatae culpa, ducimus voluptas maxime animi dolores quam veritatis impedit quis quo quibusdam esse iusto, debitis tempore? Fugiat maiores minus tempore veritatis, excepturi ipsum, corporis voluptate aperiam tempora sunt incidunt placeat iusto tenetur soluta.</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque recusandae, ipsum. Ratione esse dicta quibusdam quam ducimus veniam voluptatem necessitatibus assumenda, possimus, porro velit dolor, dolores modi adipisci consequuntur officia. Maiores explicabo delectus earum minus, consectetur maxime pariatur sapiente mollitia laboriosam ipsa quibusdam ad commodi consequuntur, ex dicta perferendis architecto!</div>
-													<div class="col-12 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, corrupti, neque. Distinctio aut asperiores aliquid quisquam odio optio consectetur laudantium iusto magni cupiditate eum fugiat, veniam quo veritatis numquam nam at sint. Pariatur, natus porro doloribus, voluptatem officiis accusantium hic nulla. Nihil recusandae eius sed repellat molestiae, dicta nulla. Amet!</div>							
-										</div>
-								      </div>
 
 								    </div>
 								</div>
@@ -317,15 +417,15 @@
 			<div class="row">
 				<div class="col-12 col-sm-6 p-2">
 					<div class="row text-center fuente-institucional">
-						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" href="#"><img src="img/cian/Club_Conversacional.png" alt="club conversacional aunar"><br>Club Conversacional</a></div>
-						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" href="#"><img src="img/cian/cursos_de_idiomas.png" alt="cursos de idiomas aunar"> <br>Cursos de Idiomas:</a></div>												
+						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" target="_blanck1" href="https://goo.gl/forms/on4uljowlKOOF5Ua2"><img src="img/cian/Club_Conversacional.png" alt="club conversacional aunar"><br>Club Conversacional</a></div>
+						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" target="_blanck2" href="https://docs.google.com/forms/d/e/1FAIpQLSet-HfLJwxcBGJWPYB31ZJrbge8heywPB99fEjbNijji_NZKQ/viewform"><img src="img/cian/cursos_de_idiomas.png" alt="cursos de idiomas aunar"> <br>Cursos de Idiomas:</a></div>												
 					</div>
 				</div>
 				<div class="col-12 col-sm-6 p-2">
 					<div class="row text-center fuente-institucional">
-						<div class="col-4 border-left borde-azul"><a class="sin-texto-subrayado texto-azul-os" href="#"><img src="img/cian/British_Counsil.png" alt="British Counsil aunar"><br>British Counsil</a></div>
-						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" href="#"><img src="img/cian/The_Write_Practice.png" alt="The Write Practice aunar"> <br>The Write Practice</a></div>
-						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" href="#"><img src="img/cian/Exam_English.png" alt="Exam English aunar"> <br>Exam English</a></div>
+						<div class="col-4 border-left borde-azul"><a class="sin-texto-subrayado texto-azul-os" target="_blanck3" href="http://learnenglishteens.britishcouncil.org/skills"><img src="img/cian/British_Counsil.png" alt="British Counsil aunar"><br>British Counsil</a></div>
+						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" target="_blanck4" href="https://thewritepractice.com/writing-practice/"><img src="img/cian/The_Write_Practice.png" alt="The Write Practice aunar"> <br>The Write Practice</a></div>
+						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" target="_blanck5" href="https://www.examenglish.com/CEFR/cefr.php"><img src="img/cian/Exam_English.png" alt="Exam English aunar"> <br>Exam English</a></div>
 					</div>
 				</div>
 			</div>
