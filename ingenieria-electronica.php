@@ -29,12 +29,7 @@
 					<div class="col-12 "> <h3 class="fuente-institucional texto-amarillo f-negrita">Identificación del programa</h3></div>					
 					<div class="col-12">
 						<table class="table table-bordered  table-striped pt-sans f-size-14 texto-azul-os">
-					    <!-- <thead>
-					      <tr>
-					        <th class="borde-1 borde-amarillo">Firstname</th>
-					        <th class="borde-1 borde-amarillo">Lastname</th>					        
-					      </tr>
-					    </thead> -->
+					    
 					    <tbody>
 					      <tr>
 					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad a la que está adscrito:</td>

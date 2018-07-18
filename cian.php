@@ -412,7 +412,13 @@
 				</div>
 			</div>
 		</div>
-		
+		<!-- enlaces externos -->
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-12 pt-lg-5 mt-lg-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">ENLACES EXTERNOS</h3></div>
+				<!-- <div class="col-12  "><p class="pt-sans f-negrita texto-azul-os text-center mx-auto">NIVELES DE FORMACIÓN</p></div> -->
+			</div>			
+		</div>
 		<div class="container mt-5">
 			<div class="row">
 				<div class="col-12 col-sm-6 p-2">
@@ -430,6 +436,7 @@
 				</div>
 			</div>
 		</div>
+		<!-- fin enlaces externos -->
 
 		<!-- personal encargado -->		
 
@@ -437,7 +444,7 @@
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
 				<div class="col-12 col-lg-12 ">
 				<!-- Personal -->
-				<div class="media border-bottom borde-amarillo pb-3">
+				<div class="media pt-3 border-top border-bottom  pb-3 borde-amarillo borde-2 ">
 				<div class="media-body ">
 					
 					<div class="row">
@@ -446,10 +453,10 @@
 						</div>
 						<div class="col-12 col-md-10 text-center text-md-left">
 							<h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
-						    <div class="pt-sans">
-						    <label class="f-negrita">Paola Andrea Vallejo Chamorro </label><br>
-						    <p>Magíster en gestión de la tecnología educativa, Especialista en administración de la tecnología educativa, licenciada en educación básica, humanidades con énfasis en lengua castellana e inglés Vinculación como docente del centro de idiomas de la universidad de Nariño, docente tiempo completo de la institución agropecuaria San Martín de Porres en Samaniego (N), coordinadora Regional Pasto- Tumaco del programa Bachillerato Pacicultor convenio entre la universidad de Nariño y el consejo noruego para refugiados, Parte del grupo de logística del programa computadores para educar. Investigador líder gupo de investigación CIAN - AUNAR</p>
-						    Correo electrónico: ingles@aunar.edu.co <br> Celular 3175741861
+						    <div class="pt-sans text-justify">
+						    <label class="f-negrita">PAOLA ANDREA VALLEJO CHAMORRO </label><br>
+						    <p>Magíster en gestión de la tecnología educativa, Especialista en administración de la tecnología educativa, licenciada en educación básica, humanidades con énfasis en lengua castellana e inglés Vinculación como docente del centro de idiomas de la universidad de Nariño, docente tiempo completo de la institución agropecuaria San Martín de Porres en Samaniego (N), coordinadora Regional Pasto- Tumaco del programa Bachillerato Pacicultor convenio entre la universidad de Nariño y el consejo noruego para refugiados, Parte del grupo de logística del programa computadores para educar. Investigador líder gupo de investigación CIAN - AUNAR <br>Correo electrónico: ingles@aunar.edu.co <br> Celular 3175741861 </p>
+						    
 						    </div>
 						</div>
 					</div>	  
@@ -462,14 +469,14 @@
 				<div class="col-12 text-center py-4 my-4"><h4 class="fuente-institucional texto-amarillo f-negrita">EQUIPO DOCENTE</h4></div>
 				<div class="col-12 col-lg-6 ">
 				<!-- Personal -->
-				<div class="media border-bottom borde-amarillo pb-3">
+				<div class="media ">
 				<div class="media-body ">
 					
 					<div class="row">
 						<div class="col-12 col-md-4 text-center">
 							<img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle img-fluid" >
 						</div>
-						<div class="col-12 col-md-8 text-center text-md-left">
+						<div class="col-12 col-md-6 text-center text-md-left">
 							<div class="pt-sans">
 						    <label class="f-negrita">LEIDY ORTEGA CALPA – JEFE DE ÁREA</label><br>
 						    Formación Académica Administradora de empresas
@@ -488,14 +495,14 @@
 
 				<div class="col-12 col-lg-6 ">
 				<!-- Personal -->
-				<div class="media border-bottom borde-amarillo pb-3">
+				<div class="media ">
 				<div class="media-body ">
 					
 					<div class="row">
 						<div class="col-12 col-md-4 text-center">
 							<img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle img-fluid" >
 						</div>
-						<div class="col-12 col-md-8 text-center text-md-left">							
+						<div class="col-12 col-md-6 text-center text-md-left">							
 						    <div class="pt-sans">
 						    <label class="f-negrita">LADY RIASCOS </label><br>
 						    (Formación Académica
@@ -517,14 +524,14 @@
 
 				<div class="col-12 col-lg-6 ">
 				<!-- Personal -->
-				<div class="media border-bottom borde-amarillo pb-3">
+				<div class="media ">
 				<div class="media-body ">
 					
 					<div class="row">
 						<div class="col-12 col-md-4 text-center">
 							<img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle img-fluid" >
 						</div>
-						<div class="col-12 col-md-8 text-center text-md-left">							
+						<div class="col-12 col-md-6 text-center text-md-left">							
 						    <div class="pt-sans">
 						    <label class="f-negrita">MAGDA MIREYA SALAZAR </label><br>
 						    Ingeniera de sistemas <br>
