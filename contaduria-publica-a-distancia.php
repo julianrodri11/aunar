@@ -32,57 +32,57 @@
 					    
 					    <tbody>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad a la que está adscrito:</td>
-					        <td class="borde-1 borde-amarillo border-bottom-0" >Ciencias Adm. Y contables</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0" >Facultad a la que está adscrito:</td>
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0" >Ciencias Adm. Y contables</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nombre del Programa:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Contaduría Pública</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Nombre del Programa:</td>
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >Contaduría Pública</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nivel de formación:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Profesional Universitario</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Nivel de formación:</td>
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >Profesional Universitario</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Título que otorga:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Contador(a) Público</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Título que otorga:</td>
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >Contador(a) Público</td>					        
 					      </tr>
 
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Modalidad:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Presencial</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Modalidad:</td>
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >Presencial</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Número de Semestres:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >10 semestres</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Número de Semestres:</td>
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >10 semestres</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >semestral</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >semestral</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Acuerdo de creación:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Acuerdo de Consejo Directivo No. 69-10 de diciembre 9 de 2010.</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Acuerdo de creación:</td>
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >Acuerdo de Consejo Directivo No. 69-10 de diciembre 9 de 2010.</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Norma Renovación Registro Calificado: </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Acuerdo Consejo Directivo No. 23-13 de abril 22 del 2013.</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Norma Renovación Registro Calificado: </td>
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >Acuerdo Consejo Directivo No. 23-13 de abril 22 del 2013.</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Registro calificado : </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >06626 de 12 de mayo de 2015</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Registro calificado : </td>
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >06626 de 12 de mayo de 2015</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Código SNIES:  </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >13879</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Código SNIES:  </td>
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >13879</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Créditos: </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >162</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Créditos: </td>
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >162</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-top-0" >Lugar de desarrollo del programa:</td>
-					        <td class="borde-1 borde-amarillo border-top-0" >Pasto – Nariño</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-top-0" >Lugar de desarrollo del programa:</td>
+					        <td class="borde-1 b-color-cpublica-dis border-top-0" >Pasto – Nariño</td>					        
 					      </tr>
 
 
@@ -153,7 +153,7 @@
 					<i class="fa fa-angle-right f-color-cpublica-dis f-size-14 f-negrita"></i> Director y/o participante en proyectos de investigación tecnológica.<br>
 					</div>
 				</div>
-				<div class="col-12 col-sm-6 border-left borde-amarillo">
+				<div class="col-12 col-sm-6 border-left b-color-cpublica-dis">
 					<div class="col-12"><h5 class="fuente-institucional f-color-cpublica-dis f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-cpublica-dis f-negrita text-center">INGENIERO ELECTRÓNICO?</h3></div>
 					<div class="col-12 pt-sans text-justify">
 						El Ingeniero en electrónica de la CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO, será capaz de: analizar, diseñar, investigar, operar, planear, adaptar e instalar sistemas electrónicos. Debe poseer además los suficientes conocimientos en los campos administrativo, legislativo y cultural para desempeñarse adecuadamente en el medio socio-económico del país, enmarcando todos sus actos dentro de los principios éticos y de justicia social cristiana

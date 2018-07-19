@@ -32,53 +32,53 @@
 					    
 					    <tbody>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad a la que está adscrito:</td>
-					        <td class="borde-1 borde-amarillo border-bottom-0" >Ciencias Adm. Y contables</td>					        
+					        <td class="borde-1 b-color-aempresas border-bottom-0" >Facultad a la que está adscrito:</td>
+					        <td class="borde-1 b-color-aempresas border-bottom-0" >Ciencias Adm. Y contables</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nombre del Programa:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Administración de Empresas</td>					        
+					        <td class="borde-1 b-color-aempresas border-bottom-0 border-top-0" >Nombre del Programa:</td>
+					        <td class="borde-1 b-color-aempresas border-top-0 border-bottom-0" >Administración de Empresas</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nivel de formación:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Profesional Universitario</td>					        
+					        <td class="borde-1 b-color-aempresas border-bottom-0 border-top-0" >Nivel de formación:</td>
+					        <td class="borde-1 b-color-aempresas border-top-0 border-bottom-0" >Profesional Universitario</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Título que otorga:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Administrador(a) de Empresas</td>					        
+					        <td class="borde-1 b-color-aempresas border-bottom-0 border-top-0" >Título que otorga:</td>
+					        <td class="borde-1 b-color-aempresas border-top-0 border-bottom-0" >Administrador(a) de Empresas</td>					        
 					      </tr>
 
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Modalidad:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Presencial</td>					        
+					        <td class="borde-1 b-color-aempresas border-bottom-0 border-top-0" >Modalidad:</td>
+					        <td class="borde-1 b-color-aempresas border-top-0 border-bottom-0" >Presencial</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Número de Semestres:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >10 semestres</td>					        
+					        <td class="borde-1 b-color-aempresas border-bottom-0 border-top-0" >Número de Semestres:</td>
+					        <td class="borde-1 b-color-aempresas border-top-0 border-bottom-0" >10 semestres</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >semestral</td>					        
+					        <td class="borde-1 b-color-aempresas border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
+					        <td class="borde-1 b-color-aempresas border-top-0 border-bottom-0" >semestral</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Acuerdo de creación:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >  Acuerdo Consejo Directivo N0. 12 del 17 de septiembre del 2005.</td>					        
+					        <td class="borde-1 b-color-aempresas border-bottom-0 border-top-0" >Acuerdo de creación:</td>
+					        <td class="borde-1 b-color-aempresas border-top-0 border-bottom-0" >  Acuerdo Consejo Directivo N0. 12 del 17 de septiembre del 2005.</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Resolución de Registro Calificado: </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >06545 mayo 12 del 2015.</td>					        
+					        <td class="borde-1 b-color-aempresas border-bottom-0 border-top-0" >Resolución de Registro Calificado: </td>
+					        <td class="borde-1 b-color-aempresas border-top-0 border-bottom-0" >06545 mayo 12 del 2015.</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Código SNIES:  </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >52928</td>					        
+					        <td class="borde-1 b-color-aempresas border-bottom-0 border-top-0" >Código SNIES:  </td>
+					        <td class="borde-1 b-color-aempresas border-top-0 border-bottom-0" >52928</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Créditos: </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >128</td>					        
+					        <td class="borde-1 b-color-aempresas border-bottom-0 border-top-0" >Créditos: </td>
+					        <td class="borde-1 b-color-aempresas border-top-0 border-bottom-0" >128</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-top-0" >Lugar de desarrollo del programa:</td>
-					        <td class="borde-1 borde-amarillo border-top-0" >Pasto – Nariño</td>					        
+					        <td class="borde-1 b-color-aempresas border-top-0" >Lugar de desarrollo del programa:</td>
+					        <td class="borde-1 b-color-aempresas border-top-0" >Pasto – Nariño</td>					        
 					      </tr>
 
 

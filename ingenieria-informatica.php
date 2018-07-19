@@ -32,53 +32,53 @@
 						<table class="table table-bordered  table-striped pt-sans f-size-14 texto-azul-os">					    
 					    <tbody>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad a la que está adscrito:</td>
-					        <td class="borde-1 borde-amarillo border-bottom-0" >Ingeniería</td>					        
+					        <td class="borde-1 b-color-iinformatica border-bottom-0" >Facultad a la que está adscrito:</td>
+					        <td class="borde-1 b-color-iinformatica border-bottom-0" >Ingeniería</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nombre del Programa:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Ingeniería informática</td>					        
+					        <td class="borde-1 b-color-iinformatica border-bottom-0 border-top-0" >Nombre del Programa:</td>
+					        <td class="borde-1 b-color-iinformatica border-top-0 border-bottom-0" >Ingeniería informática</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nivel de formación:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Profesional Universitario</td>					        
+					        <td class="borde-1 b-color-iinformatica border-bottom-0 border-top-0" >Nivel de formación:</td>
+					        <td class="borde-1 b-color-iinformatica border-top-0 border-bottom-0" >Profesional Universitario</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Título que otorga:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Ingeniero(a) informático(a)</td>					        
+					        <td class="borde-1 b-color-iinformatica border-bottom-0 border-top-0" >Título que otorga:</td>
+					        <td class="borde-1 b-color-iinformatica border-top-0 border-bottom-0" >Ingeniero(a) informático(a)</td>					        
 					      </tr>
 
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Modalidad:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Distancia</td>					        
+					        <td class="borde-1 b-color-iinformatica border-bottom-0 border-top-0" >Modalidad:</td>
+					        <td class="borde-1 b-color-iinformatica border-top-0 border-bottom-0" >Distancia</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Número de Semestres:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >9 semestres</td>					        
+					        <td class="borde-1 b-color-iinformatica border-bottom-0 border-top-0" >Número de Semestres:</td>
+					        <td class="borde-1 b-color-iinformatica border-top-0 border-bottom-0" >9 semestres</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >semestral</td>					        
+					        <td class="borde-1 b-color-iinformatica border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
+					        <td class="borde-1 b-color-iinformatica border-top-0 border-bottom-0" >semestral</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Acuerdo de creación:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" > Acuerdo Consejo Directivo No. 56-10 de noviembre 5 de 2010.</td>					        
+					        <td class="borde-1 b-color-iinformatica border-bottom-0 border-top-0" >Acuerdo de creación:</td>
+					        <td class="borde-1 b-color-iinformatica border-top-0 border-bottom-0" > Acuerdo Consejo Directivo No. 56-10 de noviembre 5 de 2010.</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Resolución de Registro Calificado: </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" > 16566  del 19 de  Noviembre de 2013</td>					        
+					        <td class="borde-1 b-color-iinformatica border-bottom-0 border-top-0" >Resolución de Registro Calificado: </td>
+					        <td class="borde-1 b-color-iinformatica border-top-0 border-bottom-0" > 16566  del 19 de  Noviembre de 2013</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Código SNIES:  </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >52536</td>					        
+					        <td class="borde-1 b-color-iinformatica border-bottom-0 border-top-0" >Código SNIES:  </td>
+					        <td class="borde-1 b-color-iinformatica border-top-0 border-bottom-0" >52536</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Créditos: </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >162</td>					        
+					        <td class="borde-1 b-color-iinformatica border-bottom-0 border-top-0" >Créditos: </td>
+					        <td class="borde-1 b-color-iinformatica border-top-0 border-bottom-0" >162</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-top-0" >Lugar de desarrollo del programa:</td>
-					        <td class="borde-1 borde-amarillo border-top-0" >Pasto – Nariño</td>					        
+					        <td class="borde-1 b-color-iinformatica border-top-0" >Lugar de desarrollo del programa:</td>
+					        <td class="borde-1 b-color-iinformatica border-top-0" >Pasto – Nariño</td>					        
 					      </tr>
 
 

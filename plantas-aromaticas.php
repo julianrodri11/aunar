@@ -27,32 +27,75 @@
 			<div class="row ">
 				<div class="col-12 col-lg-5 col-md-6 fondo-gris-c p-5">
 					<div class="col-12 "> <h3 class="fuente-institucional f-color-paromaticas f-negrita">Identificación del programa</h3></div>
-					<div class="col-12 ">
-						<label for="">Facultad a la que está adscrito: <strong>Ingeniería</strong></label>
-						<label for="">Nombre del Programa:<strong> Ingeniería Electrónica</strong></label>
-						<label for="">Nivel de formación:<strong> Profesional Universitario</strong></label>
-						<label for="">Título que otorga:<strong> Ingeniero Electrónico</strong></label>
-						<label for="">Modalidad: <strong> Presencial</strong></label>
-						<label for="">Número de Semestres: <strong> 10 semestres</strong></label>
-						<label for="">Periodicidad de la admisión: <strong> Semestral</strong></label>
-						<label for="">Acuerdo de creación: <strong> Acuerdo Consejo Directivo No. 15 del 15 de septiembre 2005.</strong></label>
-						<label for="">Resolución de Registro Calificado: <strong> 10546 de agosto 2013</strong></label>
-						<label for="">Código SNIES: <strong> 52536</strong></label>
-						<label for="">Créditos: <strong> 174 </strong></label>
-						<label for="">Lugar de desarrollo del programa: <strong> Pasto – Nariño</strong></label>
+					
+					<div class="col-12">
+						<table class="table table-bordered  table-striped pt-sans f-size-14 texto-azul-os">
+					    
+					    <tbody>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad a la que está adscrito:</td>
+					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad de Ciencias Agropecuarias</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nombre del Programa:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Técnico Profesional en la Transformación de Plantas Aromáticas</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nivel de formación:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0">Técnico Profesional</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Título que otorga:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Técnico Profesional en la Transformación de Plantas Aromáticas.</td>					        
+					      </tr>
+
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Modalidad:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Educación Modalidad Virtual</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Número de Semestres:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >4 semestres</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >semestral</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Acuerdo de creación:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Acuerdo Consejo Directivo No. 41-10 de agosto 30 de 2010, emanado por el Consejo Directivo de la Institución.</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Resolución de Registro Calificado: </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Resolución número 10922 de 28 de noviembre de 2011. </td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Código SNIES:  </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >101340</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Créditos: </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >88</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-top-0" >Lugar de desarrollo del programa:</td>
+					        <td class="borde-1 borde-amarillo border-top-0" >Pasto – Nariño</td>					        
+					      </tr>
+
+
+					    </tbody>
+					  </table>
 					</div>
+
 					<div class="col-12 mt-5"> 
 						<label class="fuente-institucional f-color-paromaticas f-negrita">CONTACTOS</label><br>
-						<label class="fuente-institucional ">ingenieria.electronica@aunar.edu.co</label>
+						<label class="fuente-institucional ">alejandra.rosero@aunar.edu.co</label>
 					</div>
 				</div>
 				<div class="col-12 col-lg-7 col-md-6 p-5">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-paromaticas f-negrita">Objetivo General</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						<p>El Programa de Ingeniería Electrónica que ofrece la Corporación Universitaria Autónoma de Nariño posee el contenido curricular de la formación profesional que responde a los lineamientos nacionales e internacionales, complementando los elementos teóricos con los aspectos prácticos en un ambiente integral y dinámico en la formación de las competencias y saberes que dan competitividad al egresado, en un contexto cada vez más globalizado.							
-						</p>
-						<p>
-							Específicamente el <strong> PROFESIONAL DE INGENIERÍA ELECTRÓNICA</strong>, será capaz de   desempeñarse en el sector industrial, en el diseño, investigación, desarrollo, innovación, consultoría, gestión, supervisión, implementación y mantenimiento de sistemas electrónicos. El campo del conocimiento del ingeniero en electrónica de la autónoma de Nariño está centrado en el diseño y desarrollo de todo tipo de circuitos electrónicos   con alto índice de complejidad, además dar soporte en los campos de las telecomunicaciones, electro medicina, automatización en las organizaciones en donde se desempeñe.
+						<p>Formar Técnicos Profesionales en el manejo de los procesos de Transformación, utilizando técnicas artesanales y semi-industriales, de plantas aromáticas que influyan en el desarrollo socio económico del sector productivo en los procesos de deshidratación, extracción de aceites, esencias y otros subproductos; atendiendo los mercados nacionales e internacionales y su sostenibilidad.
 						</p>
 					</div>
 				</div>
@@ -79,11 +122,12 @@
 			<div class="row p-4 m-1 ">
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-paromaticas f-negrita text-center">Misión</h3></div>
-					<div class="col-12 pt-sans text-justify">La misión del programa de Ingeniería Electrónica de la Corporación Universitaria Autónoma de Nariño, es la formación de Ingenieros en electrónica, competitivos en el mercado de la automatización, el control, las telecomunicaciones y la electro medicina, fieles a los principios Institucionales de excelencia académica y proyección social a partir de la recopilación de una excelente planta docente, un currículo pertinente con las problemáticas del entorno y las herramientas necesarias para una formación integral de calidad.</div>
+					<div class="col-12 pt-sans text-justify">El programa Técnico Profesional en la Transformación de Plantas Aromáticas busca formar técnicos y ciudadanos íntegros, con capacidad de contribuir al sector agroindustrial, el uso adecuado de la ciencia y la tecnología, para impulsar el desarrollo regional, nacional e internacional, en el marco de los principios y valores institucionales.</div>
 				</div>
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-paromaticas f-negrita text-center">Visión</h3></div>
-					<div class="col-12 pt-sans text-justify">El programa de ingeniería electrónica de la Corporación Universitaria Autónoma de Nariño, será pionero en el manejo de nuevas tecnologías en las ciencias de la electrónica, líder en el sur-occidente Colombiano, en la formación de ingenieros en electrónica, generadora de procesos investigativos como base de la proyección social de nuestra región y formadora de profesionales humanos con alta responsabilidad social y cultural, ofreciendo a los beneficiaros de este programa el mejoramiento constante de su calidad de vida.</div>
+					<div class="col-12 pt-sans text-justify">Ser un programa técnico profesional pionero en la transformación de plantas aromáticas, que forme técnicos profesionales reconocidos por su excelencia profesional y ética, comprometidos con el desarrollo social, científico y tecnológico de la región y del país en el marco de la sostenibilidad. 
+					</div>
 				</div>
 			</div>
 		</div>
@@ -94,41 +138,33 @@
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"><h5 class="fuente-institucional f-color-paromaticas f-negrita">AL GRADUARTE</h5><h3 class="fuente-institucional f-color-paromaticas f-negrita text-center">¿DÓNDE PUEDES TRABAJAR?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						El profesional en Ingeniería Electrónica de la Corporación Universitaria Autónoma de Nariño, estará capacitado para: Diseñar y desarrollar todo tipo de sistemas electrónicos, con alto índice de complejidad, además, dar soporte en el campo de las telecomunicaciones en las organizaciones en donde se desempeñe. De igual forma podrá desempeñarse como:<br>
-					<i class="fa fa-angle-right f-color-paromaticas f-size-14 f-negrita"></i> Director del departamento técnico en empresas del sector público y privado.<br>
-					<i class="fa fa-angle-right f-color-paromaticas f-size-14 f-negrita"></i> Empresario independiente en la producción de circuitos electrónicos.<br>
-					<i class="fa fa-angle-right f-color-paromaticas f-size-14 f-negrita"></i> Ingeniero de montaje y mantenimiento de sistemas electrónicos y de redes de comunicación.<br>
-					<i class="fa fa-angle-right f-color-paromaticas f-size-14 f-negrita"></i> Diseñador o interventor de proyectos tecnológicos.<br>		
-					<i class="fa fa-angle-right f-color-paromaticas f-size-14 f-negrita"></i> Consultor de empresas relacionadas con la electrónica.<br>		
-					<i class="fa fa-angle-right f-color-paromaticas f-size-14 f-negrita"></i> Director de mantenimiento preventivo y correctivo de equipos electrónicos.<br>
-					<i class="fa fa-angle-right f-color-paromaticas f-size-14 f-negrita"></i> Diseñador de soluciones en automatización de procesos industriales.<br>
-					<i class="fa fa-angle-right f-color-paromaticas f-size-14 f-negrita"></i> Director y/o participante en proyectos de investigación tecnológica.<br>
+						<strong>El Técnico Profesional en la Transformación de Plantas Aromáticas</strong> de la Corporación Universitaria Autónoma de Nariño, se desempeñará como: técnico en el manejo y mantenimiento de herramientas empleadas en el proceso de transformación de plantas aromáticas, dirigir labores de postcosecha de plantas aromáticas y su comercialización, asistir al proceso de control de calidad de materia prima y productos terminados, realizar de manera técnica los procesos de transformación de plantas aromáticas.
 					</div>
 				</div>
 				<div class="col-12 col-sm-6 border-left borde-amarillo">
-					<div class="col-12"><h5 class="fuente-institucional f-color-paromaticas f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-paromaticas f-negrita text-center">INGENIERO ELECTRÓNICO?</h3></div>
+					<div class="col-12"><h5 class="fuente-institucional f-color-paromaticas f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-paromaticas f-negrita text-center">TÉCNICO PROFESIONAL EN LA TRANSFORMACIÓN DE PLANTAS AROMÁTICAS?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						El Ingeniero en electrónica de la CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO, será capaz de: analizar, diseñar, investigar, operar, planear, adaptar e instalar sistemas electrónicos. Debe poseer además los suficientes conocimientos en los campos administrativo, legislativo y cultural para desempeñarse adecuadamente en el medio socio-económico del país, enmarcando todos sus actos dentro de los principios éticos y de justicia social cristiana
+						<strong>El Técnico Profesional en la Transformación de Plantas Aromáticas</strong> está capacitado para realizar los procesos de limpieza, selección, clasificación, secado, extracción y empaque de plantas aromáticas y subproductos con mentalidad emprendedora, contribuyendo al desarrollo socioeconómico del sector productivo de la región, bajo las buenas prácticas de manufactura (BPM) y las normas internacionales de calidad.
 					</div>
-					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-paromaticas f-negrita">Líneas de profundización<br>(Electivas):</h6></div>
+					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-paromaticas f-negrita">Lorem ipsum dolor sit amet.<br>(Electivas):</h6></div>
 					<div class="col-12 ">
 						<div class="row p-2">
-							<div class="col-12">1.P.O.O. PARA DISPOSITIVOS MÓVILES</div>
-							<div class="col-12">&nbsp;&nbsp;OPTIMIZACIÓN	</div>
-							<div class="col-12">&nbsp;&nbsp;BIOFISICA</div>
-							<div class="col-12">&nbsp;&nbsp;SISTEMAS DE CONMUTACIÓN</div>
+							<div class="col-12">1.P.O.O. </div>
+							<div class="col-12">&nbsp;&nbsp;Lorem ipsum.	</div>
+							<div class="col-12">&nbsp;&nbsp;Lorem ipsum.</div>
+							<div class="col-12">&nbsp;&nbsp;Lorem ipsum. DE CONMUTACIÓN</div>
 						</div>
 						<div class="row p-2">
 							<div class="col-12">2.ADMINISTRACIÓN DE REDES</div>
-							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES INDUSTRIALES</div>
-							<div class="col-12">&nbsp;&nbsp;EQUIPOS MÉDICOS</div>
-							<div class="col-12">&nbsp;&nbsp;RADIOCOMUNICACIONES</div>
+							<div class="col-12">&nbsp;&nbsp;Lorem ipsum. INDUSTRIALES</div>
+							<div class="col-12">&nbsp;&nbsp;Lorem ipsum. MÉDICOS</div>
+							<div class="col-12">&nbsp;&nbsp;Lorem ipsum.</div>
 						</div>
 						<div class="row p-2">
 							<div class="col-12">2.SEGURIDAD EN REDES</div>
-							<div class="col-12">&nbsp;&nbsp;ROBÓTICA INDUSTRIAL</div>
-							<div class="col-12">&nbsp;&nbsp;GESTIÓN DEL MANTENIMIENTO CLÍNICO</div>
-							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES ÓPTICAS</div>
+							<div class="col-12">&nbsp;&nbsp;Lorem ipsum. INDUSTRIAL</div>
+							<div class="col-12">&nbsp;&nbsp;Lorem ipsum. DEL MANTENIMIENTO CLÍNICO</div>
+							<div class="col-12">&nbsp;&nbsp;Lorem ipsum. ÓPTICAS</div>
 						</div>
 					</div>
 				</div>

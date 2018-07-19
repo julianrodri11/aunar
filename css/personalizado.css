@@ -572,41 +572,83 @@ font-weight: bold;
 {
 	color: #001A5A;
 }
+/*color de borde para */
+.b-color-imecanica
+{
+	border-color: #001A5A !important;	
+}
 /*verde limon*/
 .f-color-paromaticas
 {
 	color: #A3BD31;
+}
+/*color de borde para */
+.b-color-paromaticas
+{
+	border-color: #A3BD31 !important;	
+	border-color:  !important;	
 }
 /*admon empresas*/
 .f-color-aempresas
 {
 	color: #A01127;
 }
+/*color de borde para */
+.b-color-aempresas
+{
+	border-color: #A01127  !important;	
+}
 /*contaduria publica a distancia*/
 .f-color-cpublica-dis
 {
 	color: #204B22;
+}
+/*color de borde para */
+.b-color-cpublica-dis
+{
+	border-color: #204B22 !important;	
 }
 /*mecanica dental*/
 .f-color-mdental
 {
 	color: #001A5A;
 }
+/*color de borde para */
+.b-color-mdental
+{
+	border-color:#001A5A  !important;	
+}
 /*diseño de modas*/
 .f-color-dmodas
 {
 	color: #58167D;
+}
+/*color de borde para */
+.b-color-dmodas
+{
+	border-color:#58167D !important;	
 }
 /*mercadeo agropecuario*/
 .f-color-magropecuario
 {
 	color:#3C2C17;
 }
+/*color de borde para */
+.b-color-magropecuario
+{
+	border-color: #3C2C17 !important;	
+}
 /*ingenieria informática*/
 .f-color-iinformatica
 {
 	color:#4A72B2;
 }
+/*color de borde para */
+.b-color-iinformatica
+{
+	border-color:#4A72B2  !important;	
+}
+
 
 /*cursor pointer en el hover de un elemento*/
 .pointer:hover

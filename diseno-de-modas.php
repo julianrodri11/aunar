@@ -34,50 +34,50 @@
 					    
 					    <tbody>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad a la que está adscrito:</td>
-					        <td class="borde-1 borde-amarillo border-bottom-0" >Bellas Artes</td>					        
+					        <td class="borde-1 b-color-dmodas border-bottom-0" >Facultad a la que está adscrito:</td>
+					        <td class="borde-1 b-color-dmodas border-bottom-0" >Bellas Artes</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nombre del Programa:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Técnico laboral por competencias en Diseño y Confección de Modas</td>					        
+					        <td class="borde-1 b-color-dmodas border-bottom-0 border-top-0" >Nombre del Programa:</td>
+					        <td class="borde-1 b-color-dmodas border-top-0 border-bottom-0" >Técnico laboral por competencias en Diseño y Confección de Modas</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nivel de formación:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Técnico Profesional</td>					        
+					        <td class="borde-1 b-color-dmodas border-bottom-0 border-top-0" >Nivel de formación:</td>
+					        <td class="borde-1 b-color-dmodas border-top-0 border-bottom-0" >Técnico Profesional</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Título que otorga:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Técnico laboral por competencias en Diseño y Confección de Modas</td>					        
+					        <td class="borde-1 b-color-dmodas border-bottom-0 border-top-0" >Título que otorga:</td>
+					        <td class="borde-1 b-color-dmodas border-top-0 border-bottom-0" >Técnico laboral por competencias en Diseño y Confección de Modas</td>					        
 					      </tr>
 
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Modalidad:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Presencial</td>					        
+					        <td class="borde-1 b-color-dmodas border-bottom-0 border-top-0" >Modalidad:</td>
+					        <td class="borde-1 b-color-dmodas border-top-0 border-bottom-0" >Presencial</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Número de Semestres:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >4 semestres</td>					        
+					        <td class="borde-1 b-color-dmodas border-bottom-0 border-top-0" >Número de Semestres:</td>
+					        <td class="borde-1 b-color-dmodas border-top-0 border-bottom-0" >4 semestres</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >semestral</td>					        
+					        <td class="borde-1 b-color-dmodas border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
+					        <td class="borde-1 b-color-dmodas border-top-0 border-bottom-0" >semestral</td>					        
 					      </tr>					      
 					      
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Registro calificado : </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Resolución Número 0656 del 10 de marzo de 2017</td>					        
+					        <td class="borde-1 b-color-dmodas border-bottom-0 border-top-0" >Registro calificado : </td>
+					        <td class="borde-1 b-color-dmodas border-top-0 border-bottom-0" >Resolución Número 0656 del 10 de marzo de 2017</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Código SNIES:  </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" ></td>					        
+					        <td class="borde-1 b-color-dmodas border-bottom-0 border-top-0" >Código SNIES:  </td>
+					        <td class="borde-1 b-color-dmodas border-top-0 border-bottom-0" ></td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Créditos: </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" ></td>					        
+					        <td class="borde-1 b-color-dmodas border-bottom-0 border-top-0" >Créditos: </td>
+					        <td class="borde-1 b-color-dmodas border-top-0 border-bottom-0" ></td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-top-0" >Lugar de desarrollo del programa:</td>
-					        <td class="borde-1 borde-amarillo border-top-0" >Pasto – Nariño</td>					        
+					        <td class="borde-1 b-color-dmodas border-top-0" >Lugar de desarrollo del programa:</td>
+					        <td class="borde-1 b-color-dmodas border-top-0" >Pasto – Nariño</td>					        
 					      </tr>
 
 
@@ -151,7 +151,7 @@
 												
 					</div>
 				</div>
-				<div class="col-12 col-sm-6 border-left borde-amarillo">
+				<div class="col-12 col-sm-6 border-left b-color-dmodas">
 					<div class="col-12"><h5 class="fuente-institucional f-color-dmodas f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-dmodas f-negrita text-center">LOREM IPSUM.?</h3></div>
 					<div class="col-12 pt-sans text-justify">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo commodi ad quia, magnam, architecto itaque quae tenetur adipisci omnis consequatur hic. Saepe soluta, incidunt laborum autem, beatae tenetur vel dolor reiciendis deserunt quidem placeat quasi est expedita sit a eos iure, magnam nulla temporibus quo. Quasi, quibusdam totam magni adipisci facilis dolorum optio minima veritatis voluptate a obcaecati neque architecto provident possimus, quisquam quam, deleniti eius. Id cum veniam saepe sint mollitia doloribus molestiae ullam quibusdam, ab laboriosam ipsa iusto corporis unde totam tenetur nulla fugiat, cupiditate, cumque, est voluptatibus labore. Atque similique, rerum sequi. Odit nam officiis fugit voluptas, ratione dolorum, minus, architecto dignissimos rerum repudiandae veniam blanditiis et velit animi enim impedit magni esse quae? Quis illum impedit fugiat quod. Pariatur numquam tempora odio, voluptate, architecto explicabo quo fugiat voluptatum quibusdam. Fugit atque esse laudantium cupiditate velit? Inventore eius, enim earum tempore placeat. Odit voluptas, error id, nemo facilis optio expedita quidem tempore quaerat obcaecati itaque reiciendis mollitia? Vero quos harum enim, temporibus itaque porro! Nobis, recusandae! Repudiandae sit facere ea, accusamus earum corporis, neque molestias nemo quidem quaerat modi magnam, eius quae quisquam similique dolores explicabo voluptates pariatur exercitationem? Incidunt non facilis a voluptates quia, ut aperiam.
