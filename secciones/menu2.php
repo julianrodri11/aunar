@@ -54,7 +54,7 @@
   </li>
 
 <li class="nav-item dropdown  border-right borde-azul borde-1">
-  <a class=" nav-link texto-azul pl-2 hvr-underline-from-center" href="bienestar.php">Bienestar Universitario</a>
+  <a class=" nav-link texto-azul pl-2 hvr-underline-from-center" href="bienestar.php">Bienestar Institucional</a>
 </li>
 
   <!-- <li class="nav-item dropdown  border-right borde-azul borde-1">

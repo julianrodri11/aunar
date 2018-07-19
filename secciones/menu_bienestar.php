@@ -8,7 +8,7 @@
 <ul class="nav d-flex justify-content-center  ">
   
   <li class="nav-item">
-    <a href="bienestar.php" class="nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false"><img width="80" src="img/bienestar/ico_bienestar_institucional_aunar.png" ><br>Bienestar Universitario <span class="sr-only">(current)</span></a>    
+    <a href="bienestar.php" class="nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false"><img width="80" src="img/bienestar/ico_bienestar_institucional_aunar.png" ><br>Bienestar Institucional <span class="sr-only">(current)</span></a>    
   </li>
 
   <li class="nav-item" id="">
