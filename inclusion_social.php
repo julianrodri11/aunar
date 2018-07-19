@@ -22,7 +22,11 @@
 				</div>
 			</div>
 		</div>
+
+
+		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_bienestar.php');?>
+
 
 		<div class="container-fluid fondo-gris-c p-lg-5">
 			<div class="row px-lg-5 m-lg-2 pt-sans texto-azul-os text-justify">

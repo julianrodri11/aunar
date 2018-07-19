@@ -23,6 +23,7 @@
 			</div>
 		</div>
 		
+		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_bienestar.php');?>
 
 		<!-- informacion de psicologia -->

@@ -22,7 +22,10 @@
 				</div>
 			</div>
 		</div>
+		
+		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_bienestar.php');?>
+		
 		<!-- informacion de primeros auxilios -->
 		<div class="container-fluid">
 			<div class="row m-2 m-md-5">

@@ -32,53 +32,53 @@
 					    
 					    <tbody>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad a la que está adscrito:</td>
-					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad de Ciencias Agropecuarias</td>					        
+					        <td class="borde-1 b-color-magropecuario border-bottom-0" >Facultad a la que está adscrito:</td>
+					        <td class="borde-1 b-color-magropecuario border-bottom-0" >Facultad de Ciencias Agropecuarias</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nombre del Programa:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Tecnología en Mercadeo Agropecuario</td>					        
+					        <td class="borde-1 b-color-magropecuario border-bottom-0 border-top-0" >Nombre del Programa:</td>
+					        <td class="borde-1 b-color-magropecuario border-top-0 border-bottom-0" >Tecnología en Mercadeo Agropecuario</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nivel de formación:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0">Tecnológico</td>					        
+					        <td class="borde-1 b-color-magropecuario border-bottom-0 border-top-0" >Nivel de formación:</td>
+					        <td class="borde-1 b-color-magropecuario border-top-0 border-bottom-0">Tecnológico</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Título que otorga:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Tecnólogo en Mercadeo Agropecuario</td>					        
+					        <td class="borde-1 b-color-magropecuario border-bottom-0 border-top-0" >Título que otorga:</td>
+					        <td class="borde-1 b-color-magropecuario border-top-0 border-bottom-0" >Tecnólogo en Mercadeo Agropecuario</td>					        
 					      </tr>
 
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Modalidad:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Educación Modalidad Virtual</td>					        
+					        <td class="borde-1 b-color-magropecuario border-bottom-0 border-top-0" >Modalidad:</td>
+					        <td class="borde-1 b-color-magropecuario border-top-0 border-bottom-0" >Educación Modalidad Virtual</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Número de Semestres:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >6 semestres</td>					        
+					        <td class="borde-1 b-color-magropecuario border-bottom-0 border-top-0" >Número de Semestres:</td>
+					        <td class="borde-1 b-color-magropecuario border-top-0 border-bottom-0" >6 semestres</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >semestral</td>					        
+					        <td class="borde-1 b-color-magropecuario border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
+					        <td class="borde-1 b-color-magropecuario border-top-0 border-bottom-0" >semestral</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Acuerdo de creación:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Acuerdo Consejo Directivo No. 43-10 del 25 de agosto de 2010</td>					        
+					        <td class="borde-1 b-color-magropecuario border-bottom-0 border-top-0" >Acuerdo de creación:</td>
+					        <td class="borde-1 b-color-magropecuario border-top-0 border-bottom-0" >Acuerdo Consejo Directivo No. 43-10 del 25 de agosto de 2010</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Resolución de Registro Calificado: </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Resolución número 10921 del 28 de noviembre de 2011</td>					        
+					        <td class="borde-1 b-color-magropecuario border-bottom-0 border-top-0" >Resolución de Registro Calificado: </td>
+					        <td class="borde-1 b-color-magropecuario border-top-0 border-bottom-0" >Resolución número 10921 del 28 de noviembre de 2011</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Código SNIES:  </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >101341</td>					        
+					        <td class="borde-1 b-color-magropecuario border-bottom-0 border-top-0" >Código SNIES:  </td>
+					        <td class="borde-1 b-color-magropecuario border-top-0 border-bottom-0" >101341</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Créditos: </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >88</td>					        
+					        <td class="borde-1 b-color-magropecuario border-bottom-0 border-top-0" >Créditos: </td>
+					        <td class="borde-1 b-color-magropecuario border-top-0 border-bottom-0" >88</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-top-0" >Lugar de desarrollo del programa:</td>
-					        <td class="borde-1 borde-amarillo border-top-0" >Pasto – Nariño</td>					        
+					        <td class="borde-1 b-color-magropecuario border-top-0" >Lugar de desarrollo del programa:</td>
+					        <td class="borde-1 b-color-magropecuario border-top-0" >Pasto – Nariño</td>					        
 					      </tr>
 
 
@@ -139,7 +139,7 @@
 						<strong>El Tecnólogo en Mercadeo Agropecuario </strong> de la Corporación Universitaria Autónoma de Nariño, se desempeñará como: técnico o administrativo en el campo de la comercialización de productos agropecuarios del sector público o privado; en la formulación de proyectos para el sector agropecuario, en la administración de plazas de mercado mayoristas, cadenas de supermercados, asociaciones o cooperativas de productores agropecuarios, fondos de comercialización o crear empresa.
 					</div>
 				</div>
-				<div class="col-12 col-sm-6 border-left borde-amarillo">
+				<div class="col-12 col-sm-6 border-left b-color-magropecuario">
 					<div class="col-12"><h5 class="fuente-institucional f-color-magropecuario f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-magropecuario f-negrita text-center">TECNÓLOGO EN MERCADEO AGROPECUARIO?</h3></div>
 					<div class="col-12 pt-sans text-justify">
 						<strong>El Tecnólogo en Mercadeo Agropecuario</strong> estará capacitado para administrar centros de acopio, cadenas de supermercados, asociaciones o cooperativas de productos agropecuarios y fondos de comercialización, formular y aplicar proyectos de investigación en producción agropecuaria, desempeñarse como técnico o administrativo en el campo de la comercialización de productos agropecuarios a nivel nacional e internacional.

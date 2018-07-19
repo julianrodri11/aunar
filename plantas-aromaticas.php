@@ -33,53 +33,53 @@
 					    
 					    <tbody>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad a la que está adscrito:</td>
-					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad de Ciencias Agropecuarias</td>					        
+					        <td class="borde-1 b-color-paromaticas border-bottom-0" >Facultad a la que está adscrito:</td>
+					        <td class="borde-1 b-color-paromaticas border-bottom-0" >Facultad de Ciencias Agropecuarias</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nombre del Programa:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Técnico Profesional en la Transformación de Plantas Aromáticas</td>					        
+					        <td class="borde-1 b-color-paromaticas border-bottom-0 border-top-0" >Nombre del Programa:</td>
+					        <td class="borde-1 b-color-paromaticas border-top-0 border-bottom-0" >Técnico Profesional en la Transformación de Plantas Aromáticas</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nivel de formación:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0">Técnico Profesional</td>					        
+					        <td class="borde-1 b-color-paromaticas border-bottom-0 border-top-0" >Nivel de formación:</td>
+					        <td class="borde-1 b-color-paromaticas border-top-0 border-bottom-0">Técnico Profesional</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Título que otorga:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Técnico Profesional en la Transformación de Plantas Aromáticas.</td>					        
+					        <td class="borde-1 b-color-paromaticas border-bottom-0 border-top-0" >Título que otorga:</td>
+					        <td class="borde-1 b-color-paromaticas border-top-0 border-bottom-0" >Técnico Profesional en la Transformación de Plantas Aromáticas.</td>					        
 					      </tr>
 
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Modalidad:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Educación Modalidad Virtual</td>					        
+					        <td class="borde-1 b-color-paromaticas border-bottom-0 border-top-0" >Modalidad:</td>
+					        <td class="borde-1 b-color-paromaticas border-top-0 border-bottom-0" >Educación Modalidad Virtual</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Número de Semestres:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >4 semestres</td>					        
+					        <td class="borde-1 b-color-paromaticas border-bottom-0 border-top-0" >Número de Semestres:</td>
+					        <td class="borde-1 b-color-paromaticas border-top-0 border-bottom-0" >4 semestres</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >semestral</td>					        
+					        <td class="borde-1 b-color-paromaticas border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
+					        <td class="borde-1 b-color-paromaticas border-top-0 border-bottom-0" >semestral</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Acuerdo de creación:</td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Acuerdo Consejo Directivo No. 41-10 de agosto 30 de 2010, emanado por el Consejo Directivo de la Institución.</td>					        
+					        <td class="borde-1 b-color-paromaticas border-bottom-0 border-top-0" >Acuerdo de creación:</td>
+					        <td class="borde-1 b-color-paromaticas border-top-0 border-bottom-0" >Acuerdo Consejo Directivo No. 41-10 de agosto 30 de 2010, emanado por el Consejo Directivo de la Institución.</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Resolución de Registro Calificado: </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Resolución número 10922 de 28 de noviembre de 2011. </td>					        
+					        <td class="borde-1 b-color-paromaticas border-bottom-0 border-top-0" >Resolución de Registro Calificado: </td>
+					        <td class="borde-1 b-color-paromaticas border-top-0 border-bottom-0" >Resolución número 10922 de 28 de noviembre de 2011. </td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Código SNIES:  </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >101340</td>					        
+					        <td class="borde-1 b-color-paromaticas border-bottom-0 border-top-0" >Código SNIES:  </td>
+					        <td class="borde-1 b-color-paromaticas border-top-0 border-bottom-0" >101340</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Créditos: </td>
-					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >88</td>					        
+					        <td class="borde-1 b-color-paromaticas border-bottom-0 border-top-0" >Créditos: </td>
+					        <td class="borde-1 b-color-paromaticas border-top-0 border-bottom-0" >88</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 borde-amarillo border-top-0" >Lugar de desarrollo del programa:</td>
-					        <td class="borde-1 borde-amarillo border-top-0" >Pasto – Nariño</td>					        
+					        <td class="borde-1 b-color-paromaticas border-top-0" >Lugar de desarrollo del programa:</td>
+					        <td class="borde-1 b-color-paromaticas border-top-0" >Pasto – Nariño</td>					        
 					      </tr>
 
 
@@ -141,7 +141,7 @@
 						<strong>El Técnico Profesional en la Transformación de Plantas Aromáticas</strong> de la Corporación Universitaria Autónoma de Nariño, se desempeñará como: técnico en el manejo y mantenimiento de herramientas empleadas en el proceso de transformación de plantas aromáticas, dirigir labores de postcosecha de plantas aromáticas y su comercialización, asistir al proceso de control de calidad de materia prima y productos terminados, realizar de manera técnica los procesos de transformación de plantas aromáticas.
 					</div>
 				</div>
-				<div class="col-12 col-sm-6 border-left borde-amarillo">
+				<div class="col-12 col-sm-6 border-left b-color-paromaticas">
 					<div class="col-12"><h5 class="fuente-institucional f-color-paromaticas f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-paromaticas f-negrita text-center">TÉCNICO PROFESIONAL EN LA TRANSFORMACIÓN DE PLANTAS AROMÁTICAS?</h3></div>
 					<div class="col-12 pt-sans text-justify">
 						<strong>El Técnico Profesional en la Transformación de Plantas Aromáticas</strong> está capacitado para realizar los procesos de limpieza, selección, clasificación, secado, extracción y empaque de plantas aromáticas y subproductos con mentalidad emprendedora, contribuyendo al desarrollo socioeconómico del sector productivo de la región, bajo las buenas prácticas de manufactura (BPM) y las normas internacionales de calidad.

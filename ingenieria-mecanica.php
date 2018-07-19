@@ -149,7 +149,7 @@
 					<i class="fa fa-angle-right f-color-imecanica f-size-14 f-negrita"></i> Director y/o participante en proyectos de investigación tecnológica.<br>
 					</div>
 				</div>
-				<div class="col-12 col-sm-6 border-left borde-amarillo">
+				<div class="col-12 col-sm-6 border-left b-color-imecanica">
 					<div class="col-12"><h5 class="fuente-institucional f-color-imecanica f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-imecanica f-negrita text-center">INGENIERO ELECTRÓNICO?</h3></div>
 					<div class="col-12 pt-sans text-justify">
 						El Ingeniero en electrónica de la CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO, será capaz de: analizar, diseñar, investigar, operar, planear, adaptar e instalar sistemas electrónicos. Debe poseer además los suficientes conocimientos en los campos administrativo, legislativo y cultural para desempeñarse adecuadamente en el medio socio-económico del país, enmarcando todos sus actos dentro de los principios éticos y de justicia social cristiana
