@@ -11,16 +11,16 @@
   <li class="nav-item  dropdown border-right borde-azul borde-1 ">
     <a class="nav-link dropdown-toggle fuente-institucional hvr-curl-top-right  pointer"  id="institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Institucional <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul " aria-labelledby="institucional">
-      <a class=" dropdown-item hvr-underline-from-left">Misión</a>
-      <a class=" dropdown-item hvr-underline-from-left">Visión</a>
-      <a class=" dropdown-item hvr-underline-from-left">Reglamentos</a>  
-      <a class=" dropdown-item hvr-underline-from-left">Resoluciones</a>  
-      <a class=" dropdown-item hvr-underline-from-left">Organigrama</a>  
-      <a class=" dropdown-item hvr-underline-from-left">Simbolos de la institución</a>  
-      <a class=" dropdown-item hvr-underline-from-left">Directorio</a>  
-      <a class=" dropdown-item hvr-underline-from-left">Rectoria</a>  
-      <a class=" dropdown-item hvr-underline-from-left">Vicerrectoras</a>  
-      <a class=" dropdown-item hvr-underline-from-left">Planeación</a>  
+      <a class=" dropdown-item hvr-underline-from-left" href="rectoria.php">Misión</a>
+      <a class=" dropdown-item hvr-underline-from-left" href="rectoria.php">Visión</a>
+      <a class=" dropdown-item hvr-underline-from-left" href="rectoria.php">Reglamentos</a>  
+      <a class=" dropdown-item hvr-underline-from-left" href="rectoria.php">Resoluciones</a>  
+      <a class=" dropdown-item hvr-underline-from-left" href="rectoria.php">Organigrama</a>  
+      <a class=" dropdown-item hvr-underline-from-left" href="rectoria.php">Simbolos de la institución</a>  
+      <a class=" dropdown-item hvr-underline-from-left" href="rectoria.php">Directorio</a>  
+      <a class=" dropdown-item hvr-underline-from-left" href="rectoria.php">Rectoria</a>  
+      <a class=" dropdown-item hvr-underline-from-left" href="institucional.php">Vicerrectoras</a>  
+      <a class=" dropdown-item hvr-underline-from-left" href="rectoria.php">Planeación</a>  
 
     </div>
     
