@@ -27,33 +27,74 @@
 			<div class="row ">
 				<div class="col-12 col-lg-5 col-md-6 fondo-gris-c p-5">
 					<div class="col-12 "> <h3 class="fuente-institucional f-color-dmodas f-negrita">Identificación del programa</h3></div>
-					<div class="col-12 ">
-						<label for="">Facultad a la que está adscrito: <strong>Ingeniería</strong></label>
-						<label for="">Nombre del Programa:<strong> Ingeniería Electrónica</strong></label>
-						<label for="">Nivel de formación:<strong> Profesional Universitario</strong></label>
-						<label for="">Título que otorga:<strong> Ingeniero Electrónico</strong></label>
-						<label for="">Modalidad: <strong> Presencial</strong></label>
-						<label for="">Número de Semestres: <strong> 10 semestres</strong></label>
-						<label for="">Periodicidad de la admisión: <strong> Semestral</strong></label>
-						<label for="">Acuerdo de creación: <strong> Acuerdo Consejo Directivo No. 15 del 15 de septiembre 2005.</strong></label>
-						<label for="">Resolución de Registro Calificado: <strong> 10546 de agosto 2013</strong></label>
-						<label for="">Código SNIES: <strong> 52536</strong></label>
-						<label for="">Créditos: <strong> 174 </strong></label>
-						<label for="">Lugar de desarrollo del programa: <strong> Pasto – Nariño</strong></label>
+					
+
+					<div class="col-12">
+						<table class="table table-bordered  table-striped pt-sans f-size-14 texto-azul-os">
+					    
+					    <tbody>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0" >Facultad a la que está adscrito:</td>
+					        <td class="borde-1 borde-amarillo border-bottom-0" >Bellas Artes</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nombre del Programa:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Técnico laboral por competencias en Diseño y Confección de Modas</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Nivel de formación:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Técnico Profesional</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Título que otorga:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Técnico laboral por competencias en Diseño y Confección de Modas</td>					        
+					      </tr>
+
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Modalidad:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Presencial</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Número de Semestres:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >4 semestres</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Periodicidad de la admisión:</td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >semestral</td>					        
+					      </tr>					      
+					      
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Registro calificado : </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" >Resolución Número 0656 del 10 de marzo de 2017</td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Código SNIES:  </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" ></td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-bottom-0 border-top-0" >Créditos: </td>
+					        <td class="borde-1 borde-amarillo border-top-0 border-bottom-0" ></td>					        
+					      </tr>
+					      <tr>
+					        <td class="borde-1 borde-amarillo border-top-0" >Lugar de desarrollo del programa:</td>
+					        <td class="borde-1 borde-amarillo border-top-0" >Pasto – Nariño</td>					        
+					      </tr>
+
+
+					    </tbody>
+					  </table>
 					</div>
 					<div class="col-12 mt-5"> 
 						<label class="fuente-institucional f-color-dmodas f-negrita">CONTACTOS</label><br>
-						<label class="fuente-institucional ">ingenieria.electronica@aunar.edu.co</label>
+						<label class="fuente-institucional "> x x x @aunar.edu.co</label>
 					</div>
 				</div>
 				<div class="col-12 col-lg-7 col-md-6 p-5">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-dmodas f-negrita">Objetivo General</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						<p>El Programa de Ingeniería Electrónica que ofrece la Corporación Universitaria Autónoma de Nariño posee el contenido curricular de la formación profesional que responde a los lineamientos nacionales e internacionales, complementando los elementos teóricos con los aspectos prácticos en un ambiente integral y dinámico en la formación de las competencias y saberes que dan competitividad al egresado, en un contexto cada vez más globalizado.							
+						<p>El Programa Técnico Laboral por Competencias en Diseño y Confección de Modas se fundamenta en áreas del conocimiento propias de este campo, a partir de ambientes de aprendizaje y espacios académicos que favorecen el desarrollo intelectual, artístico y técnico, que le permitan al estudiante comprender las necesidades del sector moda – textil y confecciones, garantizando así su inserción al campo laboral y contribuyendo en la competitividad del sector empresarial de la región.			
 						</p>
-						<p>
-							Específicamente el <strong> PROFESIONAL DE INGENIERÍA ELECTRÓNICA</strong>, será capaz de   desempeñarse en el sector industrial, en el diseño, investigación, desarrollo, innovación, consultoría, gestión, supervisión, implementación y mantenimiento de sistemas electrónicos. El campo del conocimiento del ingeniero en electrónica de la autónoma de Nariño está centrado en el diseño y desarrollo de todo tipo de circuitos electrónicos   con alto índice de complejidad, además dar soporte en los campos de las telecomunicaciones, electro medicina, automatización en las organizaciones en donde se desempeñe.
-						</p>
+						
 					</div>
 				</div>
 			</div>
@@ -79,11 +120,12 @@
 			<div class="row p-4 m-1 ">
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-dmodas f-negrita text-center">Misión</h3></div>
-					<div class="col-12 pt-sans text-justify">La misión del programa de Ingeniería Electrónica de la Corporación Universitaria Autónoma de Nariño, es la formación de Ingenieros en electrónica, competitivos en el mercado de la automatización, el control, las telecomunicaciones y la electro medicina, fieles a los principios Institucionales de excelencia académica y proyección social a partir de la recopilación de una excelente planta docente, un currículo pertinente con las problemáticas del entorno y las herramientas necesarias para una formación integral de calidad.</div>
+					<div class="col-12 pt-sans text-justify">El Programa Técnico Laboral por Competencias en Diseño y Confección de Modas posee un plan de estudios que apunta a la formación de técnicos capaces de desempeñarse en diferentes actividades que tengan que ver con diseño, corte y confección de prendas de vestir, en procesos creativos de la moda en un marco de competitividad y calidad</div>
 				</div>
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"> <h3 class="fuente-institucional f-color-dmodas f-negrita text-center">Visión</h3></div>
-					<div class="col-12 pt-sans text-justify">El programa de ingeniería electrónica de la Corporación Universitaria Autónoma de Nariño, será pionero en el manejo de nuevas tecnologías en las ciencias de la electrónica, líder en el sur-occidente Colombiano, en la formación de ingenieros en electrónica, generadora de procesos investigativos como base de la proyección social de nuestra región y formadora de profesionales humanos con alta responsabilidad social y cultural, ofreciendo a los beneficiaros de este programa el mejoramiento constante de su calidad de vida.</div>
+					<div class="col-12 pt-sans text-justify">Propicia e incentiva el aprendizaje continuo, en la formación en valores, la capacidad de tomar decisiones, la productividad, la eficiencia, la creatividad, la justicia social; ofreciendo a la comunidad académica diferentes alternativas en actividades y roles frente a la creación de colecciones de moda coherentes con las tendencias y el contexto en el que se crean. 
+					</div>
 				</div>
 			</div>
 		</div>
@@ -94,42 +136,25 @@
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"><h5 class="fuente-institucional f-color-dmodas f-negrita">AL GRADUARTE</h5><h3 class="fuente-institucional f-color-dmodas f-negrita text-center">¿DÓNDE PUEDES TRABAJAR?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						El profesional en Ingeniería Electrónica de la Corporación Universitaria Autónoma de Nariño, estará capacitado para: Diseñar y desarrollar todo tipo de sistemas electrónicos, con alto índice de complejidad, además, dar soporte en el campo de las telecomunicaciones en las organizaciones en donde se desempeñe. De igual forma podrá desempeñarse como:<br>
-					<i class="fa fa-angle-right f-color-dmodas f-size-14 f-negrita"></i> Director del departamento técnico en empresas del sector público y privado.<br>
-					<i class="fa fa-angle-right f-color-dmodas f-size-14 f-negrita"></i> Empresario independiente en la producción de circuitos electrónicos.<br>
-					<i class="fa fa-angle-right f-color-dmodas f-size-14 f-negrita"></i> Ingeniero de montaje y mantenimiento de sistemas electrónicos y de redes de comunicación.<br>
-					<i class="fa fa-angle-right f-color-dmodas f-size-14 f-negrita"></i> Diseñador o interventor de proyectos tecnológicos.<br>		
-					<i class="fa fa-angle-right f-color-dmodas f-size-14 f-negrita"></i> Consultor de empresas relacionadas con la electrónica.<br>		
-					<i class="fa fa-angle-right f-color-dmodas f-size-14 f-negrita"></i> Director de mantenimiento preventivo y correctivo de equipos electrónicos.<br>
-					<i class="fa fa-angle-right f-color-dmodas f-size-14 f-negrita"></i> Diseñador de soluciones en automatización de procesos industriales.<br>
-					<i class="fa fa-angle-right f-color-dmodas f-size-14 f-negrita"></i> Director y/o participante en proyectos de investigación tecnológica.<br>
+						<div class="row">
+							<div class="col-12">El egresado del Técnico Laboral en Diseño y Confección de Modas podrá desempeñarse como:
+							</div>
+							<div class="col-12">
+								<br>Auxiliar de procesos en la industria de la confección de prendas de vestir.
+								<br>Auxiliar en los procesos de intervención textil como tinción y estampación coherentes con las tendencias de la moda.
+								<br>Auxiliar de procesos de control de calidad en diseño y confección de prendas de vestir.
+								<br>Operador de máquinas Industriales propias del sector de la confección.
+								<br>Patronista en una fábrica de prendas de vestir.
+								<br>Supervisor de ensamble de piezas en un taller de confección de prendas de vestir.
+							</div>
+						</div>
+												
 					</div>
 				</div>
 				<div class="col-12 col-sm-6 border-left borde-amarillo">
-					<div class="col-12"><h5 class="fuente-institucional f-color-dmodas f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-dmodas f-negrita text-center">INGENIERO ELECTRÓNICO?</h3></div>
+					<div class="col-12"><h5 class="fuente-institucional f-color-dmodas f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-dmodas f-negrita text-center">LOREM IPSUM.?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						El Ingeniero en electrónica de la CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO, será capaz de: analizar, diseñar, investigar, operar, planear, adaptar e instalar sistemas electrónicos. Debe poseer además los suficientes conocimientos en los campos administrativo, legislativo y cultural para desempeñarse adecuadamente en el medio socio-económico del país, enmarcando todos sus actos dentro de los principios éticos y de justicia social cristiana
-					</div>
-					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-dmodas f-negrita">Líneas de profundización<br>(Electivas):</h6></div>
-					<div class="col-12 ">
-						<div class="row p-2">
-							<div class="col-12">1.P.O.O. PARA DISPOSITIVOS MÓVILES</div>
-							<div class="col-12">&nbsp;&nbsp;OPTIMIZACIÓN	</div>
-							<div class="col-12">&nbsp;&nbsp;BIOFISICA</div>
-							<div class="col-12">&nbsp;&nbsp;SISTEMAS DE CONMUTACIÓN</div>
-						</div>
-						<div class="row p-2">
-							<div class="col-12">2.ADMINISTRACIÓN DE REDES</div>
-							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES INDUSTRIALES</div>
-							<div class="col-12">&nbsp;&nbsp;EQUIPOS MÉDICOS</div>
-							<div class="col-12">&nbsp;&nbsp;RADIOCOMUNICACIONES</div>
-						</div>
-						<div class="row p-2">
-							<div class="col-12">2.SEGURIDAD EN REDES</div>
-							<div class="col-12">&nbsp;&nbsp;ROBÓTICA INDUSTRIAL</div>
-							<div class="col-12">&nbsp;&nbsp;GESTIÓN DEL MANTENIMIENTO CLÍNICO</div>
-							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES ÓPTICAS</div>
-						</div>
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo commodi ad quia, magnam, architecto itaque quae tenetur adipisci omnis consequatur hic. Saepe soluta, incidunt laborum autem, beatae tenetur vel dolor reiciendis deserunt quidem placeat quasi est expedita sit a eos iure, magnam nulla temporibus quo. Quasi, quibusdam totam magni adipisci facilis dolorum optio minima veritatis voluptate a obcaecati neque architecto provident possimus, quisquam quam, deleniti eius. Id cum veniam saepe sint mollitia doloribus molestiae ullam quibusdam, ab laboriosam ipsa iusto corporis unde totam tenetur nulla fugiat, cupiditate, cumque, est voluptatibus labore. Atque similique, rerum sequi. Odit nam officiis fugit voluptas, ratione dolorum, minus, architecto dignissimos rerum repudiandae veniam blanditiis et velit animi enim impedit magni esse quae? Quis illum impedit fugiat quod. Pariatur numquam tempora odio, voluptate, architecto explicabo quo fugiat voluptatum quibusdam. Fugit atque esse laudantium cupiditate velit? Inventore eius, enim earum tempore placeat. Odit voluptas, error id, nemo facilis optio expedita quidem tempore quaerat obcaecati itaque reiciendis mollitia? Vero quos harum enim, temporibus itaque porro! Nobis, recusandae! Repudiandae sit facere ea, accusamus earum corporis, neque molestias nemo quidem quaerat modi magnam, eius quae quisquam similique dolores explicabo voluptates pariatur exercitationem? Incidunt non facilis a voluptates quia, ut aperiam.
 					</div>
 				</div>
 			</div>
