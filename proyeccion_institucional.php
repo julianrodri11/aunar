@@ -23,7 +23,7 @@
 			</div>
 		</div>
 		
-		
+		<?php include_once('secciones/menu2.php');?>		
 		<?php include_once('secciones/menu_proyeccioni.php');?>
 
 		<div class="container-fluid texto-azul-os py-4">
