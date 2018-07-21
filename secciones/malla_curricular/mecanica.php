@@ -33,7 +33,7 @@
 					      		</div>
 					      		<div class="col-11 p-2">
 					      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseOne">
-							          Fredy Armando Romero
+							          Claudia del Pilar Mora
 							        </a>
 					      		</div>
 							</div>
@@ -43,9 +43,19 @@
 					        <div class="card-body p-4 d-flex justify-content-center">
 							<div class="col-10">
 	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
+					          	Magister (c): Universidad Tecnológica de Pereira <br>
+								Titulo Obtenido: investigación de operación y estadística. <br> <br>
+
+								Especialización: Fundación Universitaria los Libertadores. <br>
+								Titulo Obtenido: Estadística Aplicada.  <br>
+								Bogotá, Diciembre del 2012 <br>
+								PREGRADO: Universidad de Cundinamarca <br> <br>
+
+								Facultad de educación <br>
+								Título Obtenido: <br>
+								Licenciatura en matemáticas  <br>
+								Fusagasugá, enero del 2009 <br>
+
 							</div>
 					        </div>
 					      </div>
@@ -65,7 +75,7 @@
 						      		</div>
 						      		<div class="col-11 p-2">
 						      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseTwo">
-						        		Andres Santacruz</a>
+						        		Gabriel Andrés Obando</a>
 						      		</div>
 								</div>
 					      
@@ -73,10 +83,9 @@
 					      <div id="collapseTwo" class="collapse" data-parent="#accordion">
 					        <div class="card-body p-4 d-flex justify-content-center">
 							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
+								Magister en Desarrollo Sostenible y Medio Ambiente de la Universidad de Manizales <br> <br>
+						        Ingeniero Químico de la Universidad Nacional de Colombia con estudios de master en Nutrición y Dietética Internacional <br> <br>
+						        Coach y motivador en inteligencia emocional y comunicación asertiva
 							</div>
 					        </div>
 					      </div>
@@ -94,7 +103,7 @@
 						      			</div>
 						      		</div>
 						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseThree">Fredy Armando Romero</a>			    
+								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseThree">Jaime Ernesto Narvaez Viteri</a>			    
 						      		</div>
 							</div>
 					      </div>
@@ -102,9 +111,13 @@
 					        <div class="card-body p-4 d-flex justify-content-center">
 							<div class="col-10">
 	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
+					         	Pregrado: Ingeniero Químico - Universidad de Antioquía <br>
+								Maestria: Maestría en Mercadeo Agroindustrial - Universidad Jorge Tadeo y Lozano – Universidad de Nariño. <br><br>
+								Especializaciones: <br>
+								Especialista en Ecología y Gestión Ambiental - Universidad de Nariño <br>
+								Especialista en Docencia Universitaria - Universidad Cooperativa de Colombia <br>
+								Especialista en Gerencia en Seguridad y Salud en el Trabajo - Fundación del Área Andina
+
 							</div>
 					        </div>
 					      </div>
@@ -120,7 +133,7 @@
 						      			</div>
 						      		</div>
 						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseFour">Fredy Armando Romero</a>			    
+								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseFour">Ricardo Mauricio Ortega Mipaz</a>			    
 						      		</div>
 							</div>
 					      </div>
@@ -128,9 +141,11 @@
 					        <div class="card-body p-4 d-flex justify-content-center">
 							<div class="col-10">
 	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
+						        Pregrado: Licenciatura En Matemáticas Universidad De Nariño <br>
+								Maestria: Candidato a Magister. <br>
+				                Maestría en investigación de operaciones y Estadística.
+				                Universidad Tecnológica de Pereira – Universidad de Nariño.
+
 							</div>
 					        </div>
 					      </div>

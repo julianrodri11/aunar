@@ -36,7 +36,7 @@
 					      		</div>
 					      		<div class="col-11 p-2">
 					      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseOne">
-							          Fredy Armando Romero
+							          Cristian Castro
 							        </a>
 					      		</div>
 							</div>
@@ -44,11 +44,8 @@
 					      </div>
 					      <div id="collapseOne" class="collapse " data-parent="#accordion">
 					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
+							<div class="col-10">	
+						        Físico - Universidad De Nariño
 							</div>
 					        </div>
 					      </div>
@@ -68,7 +65,7 @@
 						      		</div>
 						      		<div class="col-11 p-2">
 						      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseTwo">
-						        		Andres Santacruz</a>
+						        		Fredy Alexis Dulce Mera</a>
 						      		</div>
 								</div>
 					      
@@ -77,9 +74,9 @@
 					        <div class="card-body p-4 d-flex justify-content-center">
 							<div class="col-10">
 	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
+						        Ingeniero Electrónico – Universidad De Nariño <br>
+								Magíster En Ingeniería Electrónica Y De Computadores – Universidad De Los Andes
+
 							</div>
 					        </div>
 					      </div>
@@ -97,17 +94,16 @@
 						      			</div>
 						      		</div>
 						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseThree">Fredy Armando Romero</a>			    
+								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseThree">Nohora Lucía España Mejía</a>			    
 						      		</div>
 							</div>
 					      </div>
 					      <div id="collapseThree" class="collapse" data-parent="#accordion">
 					        <div class="card-body p-4 d-flex justify-content-center">
 							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
+								Magíster En Ingeniería Electrónica Y De Computadores - Universidad De Los Andes <br>
+								Ingeniera Electrónica - Universidad De Nariño
+
 							</div>
 					        </div>
 					      </div>
@@ -123,7 +119,7 @@
 						      			</div>
 						      		</div>
 						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseFour">Fredy Armando Romero</a>			    
+								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseFour">Lorem ipsum dolor.</a>			    
 						      		</div>
 							</div>
 					      </div>
@@ -160,7 +156,7 @@
 					      		</div>
 					      		<div class="col-11 p-2">
 					      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d1">
-							          Fredy Armando Romero
+							          Lorem ipsum dolor.
 							        </a>
 					      		</div>
 							</div>
@@ -192,7 +188,7 @@
 						      		</div>
 						      		<div class="col-11 p-2">
 						      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d2">
-						        		Andres Santacruz</a>
+						        		Lorem ipsum dolor.</a>
 						      		</div>
 								</div>
 					      
@@ -221,7 +217,7 @@
 						      			</div>
 						      		</div>
 						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d3">Fredy Armando Romero</a>			    
+								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d3">Lorem ipsum dolor.</a>			    
 						      		</div>
 							</div>
 					      </div>
@@ -247,7 +243,7 @@
 						      			</div>
 						      		</div>
 						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d4">Fredy Armando Romero</a>			    
+								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d4">Lorem ipsum dolor.</a>			    
 						      		</div>
 							</div>
 					      </div>

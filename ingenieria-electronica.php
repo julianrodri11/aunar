@@ -139,14 +139,14 @@
 					<div class="col-12"><h5 class="fuente-institucional texto-amarillo f-negrita">AL GRADUARTE</h5><h3 class="fuente-institucional texto-amarillo f-negrita text-center">¿DÓNDE PUEDES TRABAJAR?</h3></div>
 					<div class="col-12 pt-sans text-justify">
 						El profesional en Ingeniería Electrónica de la Corporación Universitaria Autónoma de Nariño, estará capacitado para: Diseñar y desarrollar todo tipo de sistemas electrónicos, con alto índice de complejidad, además, dar soporte en el campo de las telecomunicaciones en las organizaciones en donde se desempeñe. De igual forma podrá desempeñarse como:<br>
-					<i class="fa fa-angle-right texto-amarillo f-size-14 f-negrita"></i> Director del departamento técnico en empresas del sector público y privado.<br>
-					<i class="fa fa-angle-right texto-amarillo f-size-14 f-negrita"></i> Empresario independiente en la producción de circuitos electrónicos.<br>
-					<i class="fa fa-angle-right texto-amarillo f-size-14 f-negrita"></i> Ingeniero de montaje y mantenimiento de sistemas electrónicos y de redes de comunicación.<br>
-					<i class="fa fa-angle-right texto-amarillo f-size-14 f-negrita"></i> Diseñador o interventor de proyectos tecnológicos.<br>		
-					<i class="fa fa-angle-right texto-amarillo f-size-14 f-negrita"></i> Consultor de empresas relacionadas con la electrónica.<br>		
-					<i class="fa fa-angle-right texto-amarillo f-size-14 f-negrita"></i> Director de mantenimiento preventivo y correctivo de equipos electrónicos.<br>
-					<i class="fa fa-angle-right texto-amarillo f-size-14 f-negrita"></i> Diseñador de soluciones en automatización de procesos industriales.<br>
-					<i class="fa fa-angle-right texto-amarillo f-size-14 f-negrita"></i> Director y/o participante en proyectos de investigación tecnológica.<br>
+					- Director del departamento técnico en empresas del sector público y privado.<br>
+					- Empresario independiente en la producción de circuitos electrónicos.<br>
+					- Ingeniero de montaje y mantenimiento de sistemas electrónicos y de redes de comunicación.<br>
+					- Diseñador o interventor de proyectos tecnológicos.<br>		
+					- Consultor de empresas relacionadas con la electrónica.<br>		
+					- Director de mantenimiento preventivo y correctivo de equipos electrónicos.<br>
+					- Diseñador de soluciones en automatización de procesos industriales.<br>
+					- Director y/o participante en proyectos de investigación tecnológica.<br>
 					</div>
 				</div>
 				<div class="col-12 col-sm-6 border-left borde-amarillo">
@@ -169,7 +169,7 @@
 							<div class="col-12">&nbsp;&nbsp;RADIOCOMUNICACIONES</div>
 						</div>
 						<div class="row p-2">
-							<div class="col-12">2.SEGURIDAD EN REDES</div>
+							<div class="col-12">3.SEGURIDAD EN REDES</div>
 							<div class="col-12">&nbsp;&nbsp;ROBÓTICA INDUSTRIAL</div>
 							<div class="col-12">&nbsp;&nbsp;GESTIÓN DEL MANTENIMIENTO CLÍNICO</div>
 							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES ÓPTICAS</div>

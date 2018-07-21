@@ -164,6 +164,18 @@
 						<br>- Profesional con alto sentido ético y práctico de los principios morales y cívicos que le permite brindar un servicio ágil, oportuno y veraz en el campo metalmecánico
 
 					</div>
+					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-imecanica f-negrita">Líneas de profundización<br>(Electivas):</h6></div>
+					<div class="col-12 ">
+						<div class="row p-2">
+							<div class="col-12">1. Mantenimiento - Electrotecnia avanzada</div>							
+						</div>
+						<div class="row p-2">
+							<div class="col-12">2.Mecánica Automotriz - Fundamentos de robótica</div>							
+						</div>
+						<div class="row p-2">
+							<div class="col-12">3.Mecánica Diesel - Diseño de maquinaria agrícola</div>							
+						</div>
+					</div>
 					
 				</div>
 			</div>
