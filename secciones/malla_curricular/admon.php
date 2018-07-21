@@ -14,6 +14,7 @@
 			
 			</div>			
 			<!-- fin slider de cada carrera -->
+			
 			<!-- acordeon -->
 			<div class="row d-flex justify-content-center mt-5">
 				<div class="col-10 col-lg-5">
