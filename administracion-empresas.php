@@ -142,192 +142,207 @@
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"><h5 class="fuente-institucional f-color-aempresas f-negrita">AL GRADUARTE</h5><h3 class="fuente-institucional f-color-aempresas f-negrita text-center">¿DÓNDE PUEDES TRABAJAR?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						El profesional en Ingeniería Electrónica de la Corporación Universitaria Autónoma de Nariño, estará capacitado para: Diseñar y desarrollar todo tipo de sistemas electrónicos, con alto índice de complejidad, además, dar soporte en el campo de las telecomunicaciones en las organizaciones en donde se desempeñe. De igual forma podrá desempeñarse como:<br>
-					<i class="fa fa-angle-right f-color-aempresas f-size-14 f-negrita"></i> Director del departamento técnico en empresas del sector público y privado.<br>
-					<i class="fa fa-angle-right f-color-aempresas f-size-14 f-negrita"></i> Empresario independiente en la producción de circuitos electrónicos.<br>
-					<i class="fa fa-angle-right f-color-aempresas f-size-14 f-negrita"></i> Ingeniero de montaje y mantenimiento de sistemas electrónicos y de redes de comunicación.<br>
-					<i class="fa fa-angle-right f-color-aempresas f-size-14 f-negrita"></i> Diseñador o interventor de proyectos tecnológicos.<br>		
-					<i class="fa fa-angle-right f-color-aempresas f-size-14 f-negrita"></i> Consultor de empresas relacionadas con la electrónica.<br>		
-					<i class="fa fa-angle-right f-color-aempresas f-size-14 f-negrita"></i> Director de mantenimiento preventivo y correctivo de equipos electrónicos.<br>
-					<i class="fa fa-angle-right f-color-aempresas f-size-14 f-negrita"></i> Diseñador de soluciones en automatización de procesos industriales.<br>
-					<i class="fa fa-angle-right f-color-aempresas f-size-14 f-negrita"></i> Director y/o participante en proyectos de investigación tecnológica.<br>
+						<p><strong>EL PROFESIONAL EN ADMINISTRACIÓN DE EMPRESAS</strong>, será capaz de realizar procesos de gestión empresarial, asesoría, consultoría y dirección de empresas con mentalidad emprendedora e innovación, contribuyendo al desarrollo socioeconómico del sector productivo, bajo normas internacionales de calidad.</p>
+						
+						El profesional de administración de empresas será competente para:
+						<br>- Crear y dirigir su propia empresa, dirigir, de carácter económico, industrial, comercial, financiero y de servicios en los sectores públicos y privados.
+						<br>- Formular, aplicar y evaluar proyectos de investigación para las organizaciones.
+						<br>- Desempeñarse como ejecutivo, asesor, consultor o conferencista en los diferentes campos de las ciencias administrativas.
+
 					</div>
 				</div>
 				<div class="col-12 col-sm-6 border-left b-color-aempresas">
-					<div class="col-12"><h5 class="fuente-institucional f-color-aempresas f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-aempresas f-negrita text-center">INGENIERO ELECTRÓNICO?</h3></div>
+					<div class="col-12"><h5 class="fuente-institucional f-color-aempresas f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-aempresas f-negrita text-center">ADMINISTRADOR(A) DE EMPRESAS?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						El Ingeniero en electrónica de la CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO, será capaz de: analizar, diseñar, investigar, operar, planear, adaptar e instalar sistemas electrónicos. Debe poseer además los suficientes conocimientos en los campos administrativo, legislativo y cultural para desempeñarse adecuadamente en el medio socio-económico del país, enmarcando todos sus actos dentro de los principios éticos y de justicia social cristiana
+						<p><strong>El Profesional de Administración de Empresas</strong> de AUNAR, desarrolla competencias  para el  ejercicio  de la Administración de Empresas tanto del sector público como privado, cuyos conocimientos y prácticas están relacionados con los conocimientos fundamentales en el desarrollo de las capacidades que requiere el profesional para desempeñarse con eficiencia y eficacia; de igual forma  dentro de una formación integral apoya la formación del Administrador de Empresas el  Área  Básica, cuyos conocimientos y prácticas se relacionan con los conocimientos matemáticos indispensables en el desarrollo de las capacidades necesarias para acceder a los conocimientos específicos del programa y el Área Humanística, propende por la formación personal dentro del compromiso social, ético y el contexto interdisciplinario, jurídico e investigativo posibilitando la formación integral del estudiante.
+						</p>
 					</div>
 					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-aempresas f-negrita">Líneas de profundización<br>(Electivas):</h6></div>
-					<div class="col-12 ">
-						<div class="row p-2">
-							<div class="col-12">1.P.O.O. PARA DISPOSITIVOS MÓVILES</div>
-							<div class="col-12">&nbsp;&nbsp;OPTIMIZACIÓN	</div>
-							<div class="col-12">&nbsp;&nbsp;BIOFISICA</div>
-							<div class="col-12">&nbsp;&nbsp;SISTEMAS DE CONMUTACIÓN</div>
-						</div>
-						<div class="row p-2">
-							<div class="col-12">2.ADMINISTRACIÓN DE REDES</div>
-							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES INDUSTRIALES</div>
-							<div class="col-12">&nbsp;&nbsp;EQUIPOS MÉDICOS</div>
-							<div class="col-12">&nbsp;&nbsp;RADIOCOMUNICACIONES</div>
-						</div>
-						<div class="row p-2">
-							<div class="col-12">2.SEGURIDAD EN REDES</div>
-							<div class="col-12">&nbsp;&nbsp;ROBÓTICA INDUSTRIAL</div>
-							<div class="col-12">&nbsp;&nbsp;GESTIÓN DEL MANTENIMIENTO CLÍNICO</div>
-							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES ÓPTICAS</div>
-						</div>
-					</div>
+					
 				</div>
 			</div>
 		</div>
 
 
 
-		<!-- plan de estudios -->
-			<div class="container-fluid">
-			<div class="row">
-	        	<div class="col-12 pt-1 pl-1 mt-sm-5 py-3 text-center  "><h1 class=" mt-0 fuente-institucional texto-azul f-negrita">Plan de estudios</h1></div>
-	    	</div>
-	    	<div class="row d-flex justify-content-around ">
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">I Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">II Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">III Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">IV Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">V Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    	</div>
-	    			
+<!-- plan de estudios -->
 
-	    	<div class="row d-flex justify-content-around">
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">VI Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">VII Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">VIII Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">IV Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">X Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    	</div>
+<div class="container-fluid">
+
+	<div class="row">
+		<div class="col-12 text-center"><h1 class="pt-sans texto-azul-os f-negrita py-5">Plan de Estudios</h1></div>
+	</div>
+	
+	<div class="row d-flex bd-highlight justify-content-center">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
+				</div>
+								
+				<div class="col-12">- Economía I		</div>
+				<div class="col-12">- Fundamentos De Contabilidad		</div>
+				<div class="col-12">- Derecho Constitucional		</div>
+				<div class="col-12">- Técnicas De Estudio		</div>
+				<div class="col-12">- Cultura Institucional		</div>
+				<div class="col-12">- Deporte Formativo		</div>
+				<div class="col-12">- Fundamentos De Administración		</div>
+				<div class="col-12">- Matemáticas I		</div>
+
+
+
+			</div>
 		</div>
-		<!-- fin plan de estudios -->
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
+				</div>
+				  <div class="col-12">- Derecho Comercial		</div>
+				  <div class="col-12">- Matemáticas Ii		</div>
+				  <div class="col-12">- Planeación Empresarial		</div>
+				  <div class="col-12">- Economía Ii		</div>
+				  <div class="col-12">- Contabilidad Ii		</div>
+				  <div class="col-12">- Epistemología De La Investigación		</div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
+				</div>
+			  <div class="col-12">- Estadística I		</div>
+			  <div class="col-12">- Organización Empresarial		</div>
+			  <div class="col-12">- Fundamentos De Mercados		</div>
+			  <div class="col-12">- Economía Iii		</div>
+			  <div class="col-12">- Contabilidad Iii		</div>
+			  <div class="col-12">- Metodología De La Investigación I		</div>
+			  <div class="col-12">- Informática I		</div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- Estadística Ii		</div>
+				<div class="col-12">- Álgebra Y Programación Lineal		</div>
+				<div class="col-12">- Dirección Y Control		</div>
+				<div class="col-12">- Investigación De Mercados		</div>
+				<div class="col-12">- Contabilidad Iv		</div>
+				<div class="col-12">- Metodología De La Investigación Ii		</div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
+				</div>
+				 <div class="col-12">- Planeación De Mercados		</div>
+				 <div class="col-12">- Contabilidad De Costos		</div>
+				 <div class="col-12">- Contabilidad Sistematizada		</div>
+				 <div class="col-12">- Investigación De Operaciones		</div>
+				 <div class="col-12">- Derecho Laboral		</div>
+				 <div class="col-12">- Creatividad Empresarial		</div>
+
+
+			</div>
+		</div>	
+	</div>		
+	
+</div>
+
+
+<div class="container-fluid">
+	<div class="row d-flex bd-highlight justify-content-center">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>VI Semestre</strong></div> </div>
+				</div>
+				 <div class="col-12">- Publicidad		</div>
+				 <div class="col-12">- Administración De La Producción		</div>
+				 <div class="col-12">- Matemáticas Financieras		</div>
+				 <div class="col-12">- Elaboración Y Evaluación De Proyectos		</div>
+				 <div class="col-12">- Presupuestos		</div>
+				 <div class="col-12">- Legislación Tributaria		</div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>VII Semestre</strong></div> </div>
+				</div>
+				 <div class="col-12">- Psicología Empresarial		</div>
+				 <div class="col-12">- Gerencia De Mercadeo		</div>
+				 <div class="col-12">- Gerencia De Personal		</div>
+				 <div class="col-12">- Herramientas Gerenciales Sistematizadas		</div>
+				 <div class="col-12">- Auditoría Y Control Interno		</div>
+				 <div class="col-12">- Análisis Financiero		</div>
+				 <div class="col-12">- Electiva I		</div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>VIII Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- Mercados Financieros		</div>
+				 <div class="col-12">- Seminario De Grado I		</div>
+				 <div class="col-12">- Salud Ocupacional		</div>
+				 <div class="col-12">- Plan De Negocios		</div>
+				 <div class="col-12">- Comercio Exterior		</div>
+				 <div class="col-12">- Electiva Ii		</div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>IX Semestre</strong></div> </div>
+				</div>
+				 <div class="col-12">- Administración Pública		</div>
+				 <div class="col-12">- Electiva Iii		</div>
+				 <div class="col-12">- Administración De Servicios		</div>
+				 <div class="col-12">- Seminario De Grado Ii		</div>
+				 <div class="col-12">- Desarrollo Sostenible		</div>
+				 <div class="col-12">- Practica Empresarial		</div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>X Semestre</strong></div> </div>
+				</div>
+				
+				 <div class="col-12">- Gerencia Financiera		</div>
+				 <div class="col-12">- Gerencia Administrativa		</div>
+				 <div class="col-12">- Marketing Estratégico		</div>
+				 <div class="col-12">- Juego Gerencial		</div>
+				 <div class="col-12">- Ética Profesional		</div>
+				 <div class="col-12">- Proyecto De Grado		</div>
+
+
+			</div>
+		</div>	
+	</div>		
+	
+</div>
+			
+<!-- fin plan de estudios -->
 
 		<!-- malla curricular -->
 		<?php 

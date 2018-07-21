@@ -139,41 +139,43 @@
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"><h5 class="fuente-institucional f-color-iinformatica f-negrita">AL GRADUARTE</h5><h3 class="fuente-institucional f-color-iinformatica f-negrita text-center">¿DÓNDE PUEDES TRABAJAR?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						El profesional en Ingeniería Electrónica de la Corporación Universitaria Autónoma de Nariño, estará capacitado para: Diseñar y desarrollar todo tipo de sistemas electrónicos, con alto índice de complejidad, además, dar soporte en el campo de las telecomunicaciones en las organizaciones en donde se desempeñe. De igual forma podrá desempeñarse como:<br>
-					<i class="fa fa-angle-right f-color-iinformatica f-size-14 f-negrita"></i> Director del departamento técnico en empresas del sector público y privado.<br>
-					<i class="fa fa-angle-right f-color-iinformatica f-size-14 f-negrita"></i> Empresario independiente en la producción de circuitos electrónicos.<br>
-					<i class="fa fa-angle-right f-color-iinformatica f-size-14 f-negrita"></i> Ingeniero de montaje y mantenimiento de sistemas electrónicos y de redes de comunicación.<br>
-					<i class="fa fa-angle-right f-color-iinformatica f-size-14 f-negrita"></i> Diseñador o interventor de proyectos tecnológicos.<br>		
-					<i class="fa fa-angle-right f-color-iinformatica f-size-14 f-negrita"></i> Consultor de empresas relacionadas con la electrónica.<br>		
-					<i class="fa fa-angle-right f-color-iinformatica f-size-14 f-negrita"></i> Director de mantenimiento preventivo y correctivo de equipos electrónicos.<br>
-					<i class="fa fa-angle-right f-color-iinformatica f-size-14 f-negrita"></i> Diseñador de soluciones en automatización de procesos industriales.<br>
-					<i class="fa fa-angle-right f-color-iinformatica f-size-14 f-negrita"></i> Director y/o participante en proyectos de investigación tecnológica.<br>
+						<p>El Ingeniero Informático de la AUNAR  actúa  como un profesional independiente, gestor de su propia empresa o vinculado en calidad al:
+						</p>
+
+						<br>- Analizar, diseñar, implementar y evaluar software por medio de lenguajes de programación y técnicas avanzadas de ingeniería, aplicando normas de calidad vigentes.
+						<br>- Desarrollar e implementar políticas y procedimientos para el procesamiento electrónico de datos y desarrollo de sistemas informáticos.
+						<br>- Resolver problemas relacionados con la adquisición, transmisión, control y gestión de información presentes en la investigación, la industria, el comercio, la educación, entretenimiento y demás procesos inherentes.
+						<br>- Crear empresas vinculada al desarrollo de productos y servicios en Tecnologías de la Información y la Comunicación.
+						<br>- Formular, gestionar y evaluar proyectos tecnológicos viables y sostenibles, basados en el uso de las tecnologías de la información y la comunicación.
+
 					</div>
 				</div>
 				<div class="col-12 col-sm-6 border-left b-color-iinformatica">
-					<div class="col-12"><h5 class="fuente-institucional f-color-iinformatica f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-iinformatica f-negrita text-center">INGENIERO ELECTRÓNICO?</h3></div>
+					<div class="col-12"><h5 class="fuente-institucional f-color-iinformatica f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-iinformatica f-negrita text-center">INGENIERO(A) INFORMÁTICO(A)?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						El Ingeniero en electrónica de la CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO, será capaz de: analizar, diseñar, investigar, operar, planear, adaptar e instalar sistemas electrónicos. Debe poseer además los suficientes conocimientos en los campos administrativo, legislativo y cultural para desempeñarse adecuadamente en el medio socio-económico del país, enmarcando todos sus actos dentro de los principios éticos y de justicia social cristiana
+						<p>
+						El ingeniero informático egresado de la Corporación Universitaria Autónoma de Nariño es capaz de desarrollar sistemas informáticos innovadores que apliquen conceptos científicos y tecnológicos; formados en principios éticos, sociales y humanísticos, con mentalidad investigativa, innovadora y empresarial, en consecuencia, desarrolla competencias que le permiten:
+						</p>
+						<p>
+						Administrar recursos tecnológicos y humanos con criterios de calidad.
+						Utilizar esquemas, planos y códigos para modelar sistemas informáticos.
+						Establecer los componentes necesarios de hardware, software como soporte para la comunicación humana y entre máquinas.
+						</p>
+
 					</div>
 					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-iinformatica f-negrita">Líneas de profundización<br>(Electivas):</h6></div>
 					<div class="col-12 ">
 						<div class="row p-2">
-							<div class="col-12">1.P.O.O. PARA DISPOSITIVOS MÓVILES</div>
-							<div class="col-12">&nbsp;&nbsp;OPTIMIZACIÓN	</div>
-							<div class="col-12">&nbsp;&nbsp;BIOFISICA</div>
-							<div class="col-12">&nbsp;&nbsp;SISTEMAS DE CONMUTACIÓN</div>
+							<div class="col-12">1. ADMINISTRACIÓN EN REDES DE DATOS	</div>
+							
 						</div>
 						<div class="row p-2">
-							<div class="col-12">2.ADMINISTRACIÓN DE REDES</div>
-							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES INDUSTRIALES</div>
-							<div class="col-12">&nbsp;&nbsp;EQUIPOS MÉDICOS</div>
-							<div class="col-12">&nbsp;&nbsp;RADIOCOMUNICACIONES</div>
+							<div class="col-12">2. CIRCUITOS INTEGRADOS PROGRAMABLES</div>
+							
 						</div>
 						<div class="row p-2">
-							<div class="col-12">2.SEGURIDAD EN REDES</div>
-							<div class="col-12">&nbsp;&nbsp;ROBÓTICA INDUSTRIAL</div>
-							<div class="col-12">&nbsp;&nbsp;GESTIÓN DEL MANTENIMIENTO CLÍNICO</div>
-							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES ÓPTICAS</div>
+							<div class="col-12">3. ADMINISTRACIÓN Y SEGURIDAD EN BASE DE DATOS</div>
+							
 						</div>
 					</div>
 				</div>
@@ -181,149 +183,187 @@
 		</div>
 
 
-<!-- plan de estudios -->
-			<div class="container-fluid">
-			<div class="row">
-	        	<div class="col-12 pt-1 pl-1 mt-sm-5 py-3 text-center  "><h1 class=" mt-0 fuente-institucional texto-azul f-negrita">Plan de estudios</h1></div>
-	    	</div>
-	    	<div class="row d-flex justify-content-around ">
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">I Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">II Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">III Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">IV Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">V Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    	</div>
-	    			
 
-	    	<div class="row d-flex justify-content-around">
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">VI Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">VII Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">VIII Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">IV Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">X Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    	</div>
+
+<!-- plan de estudios -->
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-12 text-center"><h1 class="pt-sans texto-azul-os f-negrita py-5">Plan de Estudios</h1></div>
+	</div>
+	<div class="row d-flex bd-highlight justify-content-center">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
+				</div>
+				
+				<div class="col-12">- Conceptos Y Métodos Matemáticos		</div>
+				<div class="col-12">- Elementos Básicos De Programación		</div>
+				<div class="col-12">- Teorías De La Ingeniería Informática		</div>
+				<div class="col-12">- Normas De Participación Ciudadana E Institucional		</div>
+				<div class="col-12">- Herramientas Pedagógicas Y Didácticas De La Educación A Distancia		</div>
+
+			</div>
 		</div>
-		<!-- fin plan de estudios -->
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
+				</div>
+				
+				<div class="col-12">- Funciones Y Métodos Del Cálculo Diferencial E Integral	</div>
+				<div class="col-12">- Postulados Y Principios De La Física Mecánica	</div>
+				<div class="col-12">- Lenguaje De Programación Funcional	</div>
+				<div class="col-12">- Interacción De Objetos Por Medio De Programación	</div>
+				<div class="col-12">- Desarrollo De Competencia Comunicativa  En Segunda Lengua A 1 1  Basico Principiante	</div>
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
+				</div>
+				
+				<div class="col-12">- Teoremas Y Postulados Matemáticos	</div>
+				<div class="col-12">- Diseño De Un Circuito Electrónico Digital	</div>
+				<div class="col-12">- Estructuras De Datos En La Administración De La Información	</div>
+				<div class="col-12">- Aplicaciones En Entorno Gráfico Con Programación Orientada A Objetos	</div>
+				<div class="col-12">- Conceptos Y Principios De La Contabilidad General	</div>
+				<div class="col-12">- Competencia Comunicativa En Segunda Lengua A 1 2 Básico Principiante	</div>
+				<div class="col-12">- Teoría Del Conocimiento	</div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
+				</div>
+				<div class="col-12"> Razonamiento Matemático En Vectores Y Matrices		</div>
+				<div class="col-12"> Métodos Del Cálculo Vectorial En La Computación Gráfica		</div>
+				<div class="col-12"> Estructuras De Datos No Lineales		</div>
+				<div class="col-12"> Herramientas Informáticas Orientadas A Eventos		</div>
+				<div class="col-12"> Criterios Para La Selección De Hardware		</div>
+				<div class="col-12"> Herramientas De Ingeniería Económica		</div>
+				<div class="col-12"> Competencia Comunicativa En Segunda Lengua  A 2 1 Básico Intermedio		</div>
+
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
+				</div>
+				
+				<div class="col-12">- Procesos Estadísticos Y Probabilísticos		</div>
+				<div class="col-12">- Representación De Información En Bases De Datos		</div>
+				<div class="col-12">- Técnicas Del Diseño Hipermedia En La Informática		</div>
+				<div class="col-12">- Conceptos Básicos De La Comunicación Electrónica		</div>
+				<div class="col-12">- Creatividad Empresarial Y Plan De Negocios		</div>
+				<div class="col-12">- Competencia Comunicativa En Segunda Lengua  A 2 2  Básico Intermedio		</div>
+				<div class="col-12">- Métodos Y Técnicas De Investigación I		</div>
+
+
+			</div>
+		</div>	
+	</div>		
+	
+</div>
+
+
+<div class="container-fluid">
+	<div class="row d-flex bd-highlight justify-content-center">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>VI Semestre</strong></div> </div>
+				</div>
+									
+					<div class="col-12">- Modelos Matemáticos Y Algoritmos		</div>
+					<div class="col-12">- Aplicaciones  Orientadas A La Web		</div>
+					<div class="col-12">- Procesos Involucrados En El Modelado De Software		</div>
+					<div class="col-12">- Diseño E Implementación De Redes De Datos		</div>
+					<div class="col-12">- Formulación Y Evaluación De Proyectos		</div>
+					<div class="col-12">- Competencia Comunicativa En Segunda Lengua B 1 1 Intermedio Principiante		</div>
+					<div class="col-12">- Seminario De Grado I		</div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>VII Semestre</strong></div> </div>
+				</div>
+				
+					<div class="col-12">- Métodos Matemáticos Aplicados En Simulación		</div>
+					<div class="col-12">- Algoritmos Lógicos En El Desarrollo De Software		</div>
+					<div class="col-12">- Técnicas Para El Desarrollo De Software		</div>
+					<div class="col-12">- Arquitectura De Sistemas Operativos		</div>
+					<div class="col-12">- Gerencia De Proyectos Informáticos		</div>
+					<div class="col-12">- Competencia Comunicativa En Segunda Lengua  B 1 2  Intermedio		</div>
+					<div class="col-12">- Seminario De Grado Ii		</div>
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>VIII Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- Elementos Gráficos  De La Comunicación Visual		</div>
+				<div class="col-12">- Modelos Arquitectónicos En Software Distribuido		</div>
+				<div class="col-12">- Herramientas Informáticas Para El Comercio Electrónico		</div>
+				<div class="col-12">- Técnicas Para El Diseño De Aplicaciones Telemáticas		</div>
+				<div class="col-12">- Principios Y Normas Del Derecho Informático		</div>
+				<div class="col-12">- Proyecto De Investigación		</div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>IX Semestre</strong></div> </div>
+				</div>
+								
+				<div class="col-12">- Elementos Gráficos  De La Comunicación Visual		</div>
+				<div class="col-12">- Modelos Arquitectónicos En Software Distribuido		</div>
+				<div class="col-12">- Herramientas Informáticas Para El Comercio Electrónico		</div>
+				<div class="col-12">- Técnicas Para El Diseño De Aplicaciones Telemáticas		</div>
+				<div class="col-12">- Principios Y Normas Del Derecho Informático		</div>
+				<div class="col-12">- Proyecto De Investigación		</div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>X Semestre</strong></div> </div>
+				</div>
+				
+				<div class="col-12">- Electiva		</div>
+				<div class="col-12">- Diseño E Implementación De Sistemas De Telemetría	</div>
+				
+				<div class="col-12">- Técnicas Y Herramientas De Seguridad Informática		</div>
+				<div class="col-12">- Auditoria De Sistemas		</div>
+				<div class="col-12">- Práctica Profesional		</div>
+				<div class="col-12">- Leyes Éticas Y Morales		</div>
+				<div class="col-12">- Desarrollo Del Proyecto De Investigación		</div>
+
+			</div>
+		</div>	
+	</div>		
+	
+</div>
+			
+<!-- fin plan de estudios -->
 		
 		<!-- malla curricular -->
 		<?php 

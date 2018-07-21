@@ -138,191 +138,206 @@
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"><h5 class="fuente-institucional f-color-imecanica f-negrita">AL GRADUARTE</h5><h3 class="fuente-institucional f-color-imecanica f-negrita text-center">¿DÓNDE PUEDES TRABAJAR?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						El profesional en Ingeniería Electrónica de la Corporación Universitaria Autónoma de Nariño, estará capacitado para: Diseñar y desarrollar todo tipo de sistemas electrónicos, con alto índice de complejidad, además, dar soporte en el campo de las telecomunicaciones en las organizaciones en donde se desempeñe. De igual forma podrá desempeñarse como:<br>
-					<i class="fa fa-angle-right f-color-imecanica f-size-14 f-negrita"></i> Director del departamento técnico en empresas del sector público y privado.<br>
-					<i class="fa fa-angle-right f-color-imecanica f-size-14 f-negrita"></i> Empresario independiente en la producción de circuitos electrónicos.<br>
-					<i class="fa fa-angle-right f-color-imecanica f-size-14 f-negrita"></i> Ingeniero de montaje y mantenimiento de sistemas electrónicos y de redes de comunicación.<br>
-					<i class="fa fa-angle-right f-color-imecanica f-size-14 f-negrita"></i> Diseñador o interventor de proyectos tecnológicos.<br>		
-					<i class="fa fa-angle-right f-color-imecanica f-size-14 f-negrita"></i> Consultor de empresas relacionadas con la electrónica.<br>		
-					<i class="fa fa-angle-right f-color-imecanica f-size-14 f-negrita"></i> Director de mantenimiento preventivo y correctivo de equipos electrónicos.<br>
-					<i class="fa fa-angle-right f-color-imecanica f-size-14 f-negrita"></i> Diseñador de soluciones en automatización de procesos industriales.<br>
-					<i class="fa fa-angle-right f-color-imecanica f-size-14 f-negrita"></i> Director y/o participante en proyectos de investigación tecnológica.<br>
+						El Ingeniero Mecánico de la AUNAR  actúa  como un profesional independiente, gestor de su propia empresa o vinculado en calidad de:
+						<br><br>- Líder de procesos industriales y de producción en el mantenimiento de maquinaria y equipos.
+						<br>- Montaje de sistemas mecánicos en plantas industriales y de servicios.
+						<br>- Impulsará el desarrollo del sector metalmecánico de la región.
+						<br>- Veedor de los recursos medioambientales.
+						<br>- Investigador de nuevas fuentes alternativas de energía.
+						<br>- Diseñador de maquinaria, equipos industriales y herramientas mecánicas.
+						<br>- Asesor y apoyo para los niveles superiores en el soporte técnico.
+						<br>- Jefe de departamento de mantenimiento.
+						<br>- Gestor de  proyectos de investigación en el campo metalmecánico.
+						<br>- Consultor en seguridad industrial.
+						<br>- Innovador empresarial del sector metalmecánico.
+
 					</div>
 				</div>
 				<div class="col-12 col-sm-6 border-left b-color-imecanica">
-					<div class="col-12"><h5 class="fuente-institucional f-color-imecanica f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-imecanica f-negrita text-center">INGENIERO ELECTRÓNICO?</h3></div>
+					<div class="col-12"><h5 class="fuente-institucional f-color-imecanica f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-imecanica f-negrita text-center">INGENIERO MECÁNICO(A)?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						El Ingeniero en electrónica de la CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO, será capaz de: analizar, diseñar, investigar, operar, planear, adaptar e instalar sistemas electrónicos. Debe poseer además los suficientes conocimientos en los campos administrativo, legislativo y cultural para desempeñarse adecuadamente en el medio socio-económico del país, enmarcando todos sus actos dentro de los principios éticos y de justicia social cristiana
+					El Ingeniero Mecánico de AUNAR  posee  las siguientes características:
+						<br><br>- Capacidad de liderazgo en el sector metalmecánico.
+						<br>- Creativo en la  adaptación, diseño e innovador en el montaje de procesos productivos y  de  ensamblaje de maquinaria industrial. 
+						<br>- Ensamblador de equipos y maquinaria industrial.
+						<br>- Liderazgo en el desarrollo de  proyectos de ingeniería mecánica en el sector industrial, agroindustrial y manufacturero.
+						<br>- Profesional con alto sentido ético y práctico de los principios morales y cívicos que le permite brindar un servicio ágil, oportuno y veraz en el campo metalmecánico
+
 					</div>
-					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-imecanica f-negrita">Líneas de profundización<br>(Electivas):</h6></div>
-					<div class="col-12 ">
-						<div class="row p-2">
-							<div class="col-12">1.P.O.O. PARA DISPOSITIVOS MÓVILES</div>
-							<div class="col-12">&nbsp;&nbsp;OPTIMIZACIÓN	</div>
-							<div class="col-12">&nbsp;&nbsp;BIOFISICA</div>
-							<div class="col-12">&nbsp;&nbsp;SISTEMAS DE CONMUTACIÓN</div>
-						</div>
-						<div class="row p-2">
-							<div class="col-12">2.ADMINISTRACIÓN DE REDES</div>
-							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES INDUSTRIALES</div>
-							<div class="col-12">&nbsp;&nbsp;EQUIPOS MÉDICOS</div>
-							<div class="col-12">&nbsp;&nbsp;RADIOCOMUNICACIONES</div>
-						</div>
-						<div class="row p-2">
-							<div class="col-12">2.SEGURIDAD EN REDES</div>
-							<div class="col-12">&nbsp;&nbsp;ROBÓTICA INDUSTRIAL</div>
-							<div class="col-12">&nbsp;&nbsp;GESTIÓN DEL MANTENIMIENTO CLÍNICO</div>
-							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES ÓPTICAS</div>
-						</div>
-					</div>
+					
 				</div>
 			</div>
 		</div>
 
 
-<!-- plan de estudios -->
-			<div class="container-fluid">
-			<div class="row">
-	        	<div class="col-12 pt-1 pl-1 mt-sm-5 py-3 text-center  "><h1 class=" mt-0 fuente-institucional texto-azul f-negrita">Plan de estudios</h1></div>
-	    	</div>
-	    	<div class="row d-flex justify-content-around ">
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">I Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">II Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">III Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">IV Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">V Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    	</div>
-	    			
 
-	    	<div class="row d-flex justify-content-around">
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">VI Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">VII Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">VIII Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">IV Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">X Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    	</div>
+
+
+<!-- plan de estudios -->
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-12 text-center"><h1 class="pt-sans texto-azul-os f-negrita py-5">Plan de Estudios</h1></div>
+	</div>
+	<div class="row d-flex bd-highlight justify-content-center">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
+				</div>
+				
+				<div class="col-12">- Fundamentos Matemáticos	</div>
+				<div class="col-12">- Química General	</div>
+				<div class="col-12">- Sistemas	</div>
+				<div class="col-12">- Dibujo Técnico	</div>
+				<div class="col-12">- Introducción A La Mecánica	</div>
+				<div class="col-12">- Cultura Institucional Y Ciudadana	</div>
+				<div class="col-12">- Técnicas De Estudio	</div>
+				<div class="col-12">- Deporte Formativo	</div>
+
+			</div>
 		</div>
-		<!-- fin plan de estudios -->
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- Calculo Diferencial</div>
+				<div class="col-12">- Algebra Lineal</div>
+				<div class="col-12">- Fisica 1</div>
+				<div class="col-12">- Sistemas Cad</div>
+				<div class="col-12">- Ciencia De Los Materiales</div>
+				<div class="col-12">- Epistemología De La Investigación</div>
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
+				</div>
+																								
+				<div class="col-12">- Cálculo Integral 3 </div>
+				<div class="col-12">- Física II </div>
+				<div class="col-12">- Estática </div>
+				<div class="col-12">- Seguridad Industrial </div>
+				<div class="col-12">- Tecnologia Mecanica Basica </div>
+				<div class="col-12">- Metodologia De Investigacion </div>
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
+				</div>
+				
+				<div class="col-12">- Ecuaciones Diferenciales </div>
+				<div class="col-12">- Calculo Vectorial </div>
+				<div class="col-12">- Física III </div>
+				<div class="col-12">- Mecánica De Fluidos </div>
+				<div class="col-12">- Resistencia De Materiales </div>
+				<div class="col-12">- Metodologia De Investigacion II </div>
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
+				</div>
+				
+				<div class="col-12">- Probabilidad Y Estadística		</div>
+				<div class="col-12">- Electrotecnia		</div>
+				<div class="col-12">- Termodinámica		</div>
+				<div class="col-12">- Dinámica		</div>
+				<div class="col-12">- Procesos De Fabricación		</div>
+				<div class="col-12">- Mentalidad Emprendedora		</div>
+
+
+			</div>
+		</div>	
+	</div>		
+	
+</div>
+
+
+<div class="container-fluid">
+	<div class="row d-flex bd-highlight justify-content-center">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>VI Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- Electiva I </div>
+				<div class="col-12">- Maquinas Hidraulicas </div>
+				<div class="col-12">- Termodinámica II </div>
+				<div class="col-12">- Mecanismos </div>
+				<div class="col-12">- Fundamentos Financieros </div>
+				<div class="col-12">- Etica Profesional </div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>VII Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- Métodos Numéricos	</div>
+				<div class="col-12">- Electiva Ii	</div>
+				<div class="col-12">- Instrumentación Y Control	</div>
+				<div class="col-12">- Transferencia De Calor	</div>
+				<div class="col-12">- Elementos De Máquinas	</div>
+				<div class="col-12">- Plan De Negocios	</div>
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>VIII Semestre</strong></div> </div>
+				</div>
+				
+					<div class="col-12">- Electiva III </div>
+					<div class="col-12">- Neumática </div>
+					<div class="col-12">- Refrigeración Y Aire Acondicionado </div>
+					<div class="col-12">- Diseño De Máquinas </div>
+					<div class="col-12">- Ingeniería De Planta </div>
+					<div class="col-12">- Seminario De Grado I </div>
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>IX Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- Automatización Industrial	</div>
+				<div class="col-12">- Sistemas Cad/Cam	</div>
+				<div class="col-12">- Ingenieria Legal	</div>
+				<div class="col-12">- Gerencia De Proyectos	</div>
+				<div class="col-12">- Seminario De Grado II	</div>
+				<div class="col-12">- Sistemas Integrados, Gestion De Calidad	</div>				
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>X Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- Practica Empresarial</div>
+				<div class="col-12">- Proyecto De Grado</div>
+
+			</div>
+		</div>	
+	</div>		
+	
+</div>
+			
+<!-- fin plan de estudios -->
 		
 		<!-- malla curricular -->
 		<?php 

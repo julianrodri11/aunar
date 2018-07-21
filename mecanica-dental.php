@@ -177,149 +177,178 @@
 		</div>
 
 
-<!-- plan de estudios -->
-			<div class="container-fluid">
-			<div class="row">
-	        	<div class="col-12 pt-1 pl-1 mt-sm-5 py-3 text-center  "><h1 class=" mt-0 fuente-institucional texto-azul f-negrita">Plan de estudios</h1></div>
-	    	</div>
-	    	<div class="row d-flex justify-content-around ">
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">I Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">II Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">III Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">IV Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">V Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    	</div>
-	    			
 
-	    	<div class="row d-flex justify-content-around">
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">VI Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">VII Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">VIII Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul ">
-	    			<div class="col-12 py-3 pt-sans f-negrita">IV Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    		<div class="col-5 col-lg-2 texto-azul">
-	    			<div class="col-12 py-3 pt-sans f-negrita">X Semestre</div>
-	    			
-	    			<div class="col-12  pt-sans f-size-14">
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    				<div class=""></div>
-	    			</div>
-	    		</div>
-	    	</div>
+<!-- plan de estudios -->
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-12 text-center"><h1 class="pt-sans texto-azul-os f-negrita py-5">Plan de Estudios</h1></div>
+	</div>
+	<div class="row d-flex bd-highlight justify-content-center">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+
+
+
+			</div>
 		</div>
-		<!-- fin plan de estudios -->
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+
+
+			</div>
+		</div>	
+	</div>		
+	
+</div>
+
+
+<div class="container-fluid">
+	<div class="row d-flex bd-highlight justify-content-center">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>VI Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>VII Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>VIII Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>IX Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+
+
+			</div>
+		</div>
+		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
+				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
+					<div class="row p-2 ">	<div class="col-12  "><strong>X Semestre</strong></div> </div>
+				</div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+				<div class="col-12">- </div>
+
+
+			</div>
+		</div>	
+	</div>		
+	
+</div>
+			
+<!-- fin plan de estudios -->
+
 		<!-- malla curricular -->
 		<?php 
 			include_once('secciones/malla_curricular/mecanica_dental.php'); 

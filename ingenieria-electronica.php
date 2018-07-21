@@ -180,7 +180,7 @@
 		</div>
 
 
-
+<!-- plan de estudios -->
 		<div class="container-fluid">
 			<div class="row">
 	        	<div class="col-12 pt-1 pl-1 mt-sm-5 py-3 text-center  "><h1 class=" mt-0 fuente-institucional texto-azul f-negrita">Plan de estudios</h1></div>
