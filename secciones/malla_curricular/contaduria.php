@@ -9,13 +9,13 @@
 				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">Grupos de Investigacón</div>
 				
 			</div>
+			<!-- slider de cada carrera -->
 			<div class="row">
-				<div class="col-12">
-					<div class="row">
-						<img class="img-fluid" width="100%" src="img/carreras/ingenieria-electronica-docentes-aunar.jpg" alt="docentes ingenieria-electronica autónoma de nariño" />
-					</div>
-				</div>
-			</div>
+			
+					<?php  include_once('slider/slider_contaduria_docentes.php')?>
+			
+			</div>			
+			<!-- fin slider de cada carrera -->
 			<!-- acordeon -->
 			<div class="row d-flex justify-content-center mt-5">
 				<div class="col-10 col-lg-5">

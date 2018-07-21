@@ -112,7 +112,7 @@
         <div class="col-12 col-lg-7 mt-2 hvr-wobble-horizontal text-right ">
         	<div class="col-12 fuente-institucional text-white f-negrita f-size-18 text-right">¿Deseas Preinscribirse en este programa?</div>
         	<div class="col-12 fuente-institucional text-white f-size-16 text-right">Encuentra toda la información</div>
-        	<div class="col-12 fuente-institucional f-size-16 text-right"><a href="" class="texto-amarillo f-negrita">Aquí</a></div>
+        	<div class="col-12 fuente-institucional f-size-16 text-right"><a href="inscripciones.php" class="texto-amarillo f-negrita">Aquí</a></div>
         </div>        
       </div>     
     </div>
@@ -156,22 +156,19 @@
 					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-cpublica-dis f-negrita">Líneas de profundización INCOMPLETO<br>(Electivas):</h6></div>
 					<div class="col-12 ">
 						<div class="row p-2">
-							<div class="col-12">1.P.O.O. xxxxxPARA DISPOSITIzx zxzxVOS MÓVILES</div>
-							<div class="col-12">&nbsp;&nbsp;OPTIMIZACIÓN	</div>
-							<div class="col-12">&nbsp;&nbsp;BIOFISICA</div>
-							<div class="col-12">&nbsp;&nbsp;SISTEMAS DE CONMUTACIÓN</div>
+							<div class="col-12">1. ELECTIVA COMPLEMENTARIA EMPRESARIAL</div>
+							<div class="col-12">&nbsp;&nbsp;DESARROLLO EMPRESARIAL	</div>
+							
 						</div>
 						<div class="row p-2">
-							<div class="col-12">2.ADMINISTRAx zxzxIÓN DE RzxEDES</div>
-							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES INDUSTRIALES</div>
-							<div class="col-12">&nbsp;&nbsp;EQUIPOS MÉDICOS</div>
-							<div class="col-12">&nbsp;&nbsp;RADIOCOMUNICACIONES</div>
+							<div class="col-12">2. ELECTIVA PROFUNDIZACIÓN TRIBUTARIA</div>
+							<div class="col-12">&nbsp;&nbsp;CONTABILIDAD BANCARIA Y DEL SECTOR SOLIDARIO </div>
+							
 						</div>
 						<div class="row p-2">
-							<div class="col-12">2.SEGURIDAD zxzxzxEN REDES</div>
-							<div class="col-12">&nbsp;&nbsp;ROBÓTICA INDUSTRIAL</div>
-							<div class="col-12">&nbsp;&nbsp;GESTIÓN DEL MANTENIMIENTO CLÍNICO</div>
-							<div class="col-12">&nbsp;&nbsp;COMUNICACIONES ÓPTICAS</div>
+							<div class="col-12">2. ELECTIVA PROFUNDIZACIÓN CONTABLE	</div>
+							<div class="col-12">&nbsp;&nbsp;SEMINARIO DE CASOS CONTABLES,  NORMAS INTERNACIONALES</div>
+							
 						</div>
 					</div>
 				</div>
@@ -191,12 +188,17 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+				<div class="col-12">-Introducción A La Economía 	</div>
+				<div class="col-12">-Fundamentos De Matemáticas 	</div>
+				<div class="col-12">-Derecho Constitucional 	</div>
+				<div class="col-12">-Fundamentos De Administracion 	</div>
+				<div class="col-12">-Fundamentos De Contabilidad 	</div>
+				<div class="col-12">-Sistemas I 	</div>
+				<div class="col-12">-Cultura Institucional 	</div>
+				<div class="col-12">-Técnicas De Estudio				 	</div>
+
+
 
 
 
@@ -207,12 +209,15 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+				<div class="col-12">-Microeconomia 	</div>
+				<div class="col-12">-Calculo Integral 	</div>
+				<div class="col-12">-Derecho Comercial 	</div>
+				<div class="col-12">-Planeación Empresarial 	</div>
+				<div class="col-12">-Matemáticas Financieras 	</div>
+				<div class="col-12">-Contabilidad Ii 	</div>
+				<div class="col-12">-Epistemologia 	</div>
+
 
 
 			</div>
@@ -222,12 +227,15 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+
+				<div class="col-12">-Macroeconomia 	</div>
+				<div class="col-12">-Estadística I 	</div>
+				<div class="col-12">-Derecho Laboral 	</div>
+				<div class="col-12">-Organización Empresarial 	</div>
+				<div class="col-12">-Contabilidad Iii 	</div>
+				<div class="col-12">-Metodologia De Investigacion 	</div>
+
 
 
 			</div>
@@ -237,12 +245,15 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+				<div class="col-12">-Estadística Ii 	</div>
+				<div class="col-12">-Derecho De Contratación 	</div>
+				<div class="col-12">-Dirección Y Control 	</div>
+				<div class="col-12">-Teoria Y Politica Monetaria 	</div>
+				<div class="col-12">-Contabilidad Iv 	</div>
+				<div class="col-12">-Metodologia De Investigacion Ii 	</div>
+
+
 
 
 			</div>
@@ -252,12 +263,14 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+
+				<div class="col-12">-Derecho Internacional Y Aduanero 	</div>
+				<div class="col-12">-Mercados 	</div>
+				<div class="col-12">-Taller Contable 	</div>
+				<div class="col-12">-Contabilidad De Estados Financieros Matrices Y Subsidiarias 	</div>
+				<div class="col-12">-Contabilidad Sistematizada I 	</div>
+				<div class="col-12">-Psicología Empresarial 	</div>
 
 
 			</div>
@@ -274,12 +287,14 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>VI Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+				<div class="col-12">-Economía Colombiana 	</div>
+				<div class="col-12">-Creatividad Empresarial 	</div>
+				<div class="col-12">-Finanzas I 	</div>
+				<div class="col-12">-Análisis Financiero 	</div>
+				<div class="col-12">-Legislacion Tributaria I 	</div>
+				<div class="col-12">-Auditoría Y Control Interno 	</div>
+
 
 
 			</div>
@@ -289,12 +304,15 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>VII Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+				<div class="col-12">-Elaboracion Y Evaluacion De Proyectos 	</div>
+				<div class="col-12">-Finanzas Ii 	</div>
+				<div class="col-12">-Presupuesto Privado 	</div>
+				<div class="col-12">-Legislacion Tributaria Ii 	</div>
+				<div class="col-12">-Costos I 	</div>
+				<div class="col-12">-Auditoría Financiera 	</div>
+				<div class="col-12">-Contabilidad Sistematizada Ii 	</div>
+
 
 
 			</div>
@@ -304,12 +322,15 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>VIII Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+				<div class="col-12">-Electiva Complementaria Empresarial 	</div>
+				<div class="col-12">-Contabilidad Pública 	</div>
+				<div class="col-12">-Costos Ii 	</div>
+				<div class="col-12">-Revisoria Fiscal 	</div>
+				<div class="col-12">-Comercio Internacional 	</div>
+				<div class="col-12">-Plan De Negocios 	</div>
+				<div class="col-12">-Seminario De Grado 	</div>
+
 
 
 			</div>
@@ -319,12 +340,15 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>IX Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+				<div class="col-12">-Planeación Y Alianza Estratégica 	</div>
+				<div class="col-12">-Practica Empresarial 	</div>
+				<div class="col-12">-Electiva Profundización Tr Y Especial 	</div>
+				<div class="col-12">-Costos Iii 	</div>
+				<div class="col-12">-Estándares Internacionales De Información Financiera 	</div>
+				<div class="col-12">-Desarrollo Sostenible 	</div>
+				<div class="col-12">-Seminario De Grado Ii 	</div>
+
 
 
 			</div>
@@ -334,12 +358,14 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>X Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+				<div class="col-12">-Semin.Contab. Especiales 	</div>
+				<div class="col-12">-Contabilidad Empresarial 	</div>
+				<div class="col-12">-Electiva Profundización Contable 	</div>
+				<div class="col-12">-Contab Sistematizada Iii 	</div>
+				<div class="col-12">-Etica Profesional 	</div>
+				<div class="col-12">-Proyecto De Grado 	</div>
+
 
 
 			</div>

@@ -113,7 +113,7 @@
         <div class="col-12 col-lg-7 mt-2 hvr-wobble-horizontal text-right ">
         	<div class="col-12 fuente-institucional text-white f-negrita f-size-18 text-right">¿Deseas Preinscribirse en este programa?</div>
         	<div class="col-12 fuente-institucional text-white f-size-16 text-right">Encuentra toda la información</div>
-        	<div class="col-12 fuente-institucional f-size-16 text-right"><a href="" class="texto-amarillo f-negrita">Aquí</a></div>
+        	<div class="col-12 fuente-institucional f-size-16 text-right"><a href="inscripciones.php" class="texto-amarillo f-negrita">Aquí</a></div>
         </div>        
       </div>     
     </div>
@@ -157,7 +157,7 @@
 						<p><strong>El Profesional de Administración de Empresas</strong> de AUNAR, desarrolla competencias  para el  ejercicio  de la Administración de Empresas tanto del sector público como privado, cuyos conocimientos y prácticas están relacionados con los conocimientos fundamentales en el desarrollo de las capacidades que requiere el profesional para desempeñarse con eficiencia y eficacia; de igual forma  dentro de una formación integral apoya la formación del Administrador de Empresas el  Área  Básica, cuyos conocimientos y prácticas se relacionan con los conocimientos matemáticos indispensables en el desarrollo de las capacidades necesarias para acceder a los conocimientos específicos del programa y el Área Humanística, propende por la formación personal dentro del compromiso social, ético y el contexto interdisciplinario, jurídico e investigativo posibilitando la formación integral del estudiante.
 						</p>
 					</div>
-					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-aempresas f-negrita">Líneas de profundización<br>(Electivas):</h6></div>
+					
 					
 				</div>
 			</div>

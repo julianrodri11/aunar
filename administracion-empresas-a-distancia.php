@@ -110,7 +110,7 @@
         <div class="col-12 col-lg-7 mt-2 hvr-wobble-horizontal text-right ">
         	<div class="col-12 fuente-institucional text-white f-negrita f-size-18 text-right">¿Deseas Preinscribirse en este programa?</div>
         	<div class="col-12 fuente-institucional text-white f-size-16 text-right">Encuentra toda la información</div>
-        	<div class="col-12 fuente-institucional f-size-16 text-right"><a href="" class="texto-amarillo f-negrita">Aquí</a></div>
+        	<div class="col-12 fuente-institucional f-size-16 text-right"><a href="inscripciones.php" class="texto-amarillo f-negrita">Aquí</a></div>
         </div>        
       </div>     
     </div>
@@ -169,12 +169,13 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+					<div class="col-12">- Procedimientos Matemáticos		</div>
+				 	<div class="col-12">- Principios De Administración		</div>
+				 	<div class="col-12">- Principios Básicos De Contabilidad		</div>
+				 	<div class="col-12">- Ordenamiento Jurídico Constitucional E Institucional		</div>
+					<div class="col-12">- Herramientas Pedagógicas Y Didácticas De La Educación A Distancia		</div>
+				 	<div class="col-12">- Habilidades  Comunicativas Básicas En Segunda Lengua		</div>
+
 
 
 
@@ -185,12 +186,11 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+					<div class="col-12">- Procesos Estadísticos Y Probabilísticos		</div>
+					<div class="col-12">- Planeación Empresarial		</div>
+					<div class="col-12">- Procedimientos Contables En El Manejo De Activos		</div>
+					<div class="col-12">- Agentes Microeconómicos		</div>
+					<div class="col-12">- Procesos Comunicativos En Segunda Lengua		</div>
 
 
 			</div>
@@ -200,12 +200,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+					<div class="col-12">- Álgebra Y Programación Lineal		</div>
+					<div class="col-12">- Organización Empresarial		</div>
+					<div class="col-12">- Procedimientos Contables En El Manejo De Pasivos		</div>
+					<div class="col-12">- Agentes Macroeconómicos		</div>
+					<div class="col-12">- Bases Jurídicas De La Actividad Empresarial		</div>
+					<div class="col-12">- La Segunda Lengua Como Herramienta De Comunicación		</div>
 
 
 			</div>
@@ -215,12 +215,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+					<div class="col-12">- Investigación De Operaciones		</div>
+					<div class="col-12">- Dirección Y Control		</div>
+					<div class="col-12">- Procedimientos Contables De Patrimonio Y Sociedades		</div>
+					<div class="col-12">- Mercados Capitales		</div>
+					<div class="col-12">- Elementos Básicos Del Mercadeo		</div>
+					<div class="col-12">- Métodos Y Técnicas De Investigación		</div>
 
 
 			</div>
@@ -230,12 +230,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+					<div class="col-12">- Administración De La Producción		</div>
+					<div class="col-12">- Herramientas Tecnológicas Aplicadas A Los Procesos Administrativos		</div>
+					<div class="col-12">- Sistema De Costos		</div>
+					<div class="col-12">- Conocimientos Básicos Tributarios En La Gerencia Empresarial		</div>
+					<div class="col-12">- Investigación De Mercados		</div>
 
 
 			</div>
@@ -252,12 +252,11 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>VI Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				<div class="col-12">- Administración Del Talento Humano		</div>
+				<div class="col-12">- Salud Ocupacional		</div>
+				<div class="col-12">- El Presupuesto Como Herramienta Gerencial		</div>
+				<div class="col-12">- Matematicas Financiera		</div>
+				<div class="col-12">- Gerencia De Mercadeo		</div>
 
 
 			</div>
@@ -267,12 +266,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>VII Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				<div class="col-12">- Administración Pública. 	</div>
+				<div class="col-12">- Gerencia De La Calidad 	</div>
+				<div class="col-12">- Electiva I 	</div>
+				<div class="col-12">- Análisis Financiero  En El Área Administrativa 	</div>
+				<div class="col-12">- Formulación Y Evaluación De Proyectos 	</div>
+				<div class="col-12">- Psicologia Organizacional 	</div>
 
 
 			</div>
@@ -282,12 +281,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>VIII Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+			<div class="col-12">- Administracion Finca Raíz 	</div>
+			<div class="col-12">- Electiva Ii 	</div>
+			<div class="col-12">- Normas De Auditoría Y Conceptos De Control Interno 	</div>
+			<div class="col-12">- Comercio Internacional 	</div>
+			<div class="col-12">- Proyecto De Investigación 	</div>
+			<div class="col-12">- Leyes Éticas Y Morales 	</div>
 
 
 			</div>
@@ -297,31 +296,15 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>IX Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				<div class="col-12">- Procesos Gerenciales En La Administración 	</div>
+				<div class="col-12">- Practica Empresarial 	</div>
+				<div class="col-12">- Gerencia Financiera 	</div>
+				<div class="col-12">- Desarrollo Del Proyecto De Investigación 	</div>
 
 
 			</div>
 		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>X Semestre</strong></div> </div>
-				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-
-
-			</div>
-		</div>	
+			
 	</div>		
 	
 </div>

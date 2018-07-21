@@ -23,6 +23,7 @@
 				</div>
 			</div>
 		</div>
+		<?php  include_once('secciones/menu2.php') ?>
 		<div class="container-fluid pb-4">
 			<div class="container fuente-institucional ">
 				<div class="row ">

@@ -110,7 +110,7 @@
         <div class="col-12 col-lg-7 mt-2 hvr-wobble-horizontal text-right ">
         	<div class="col-12 fuente-institucional text-white f-negrita f-size-18 text-right">¿Deseas Preinscribirse en este programa?</div>
         	<div class="col-12 fuente-institucional text-white f-size-16 text-right">Encuentra toda la información</div>
-        	<div class="col-12 fuente-institucional f-size-16 text-right"><a href="" class="texto-amarillo f-negrita">Aquí</a></div>
+        	<div class="col-12 fuente-institucional f-size-16 text-right"><a href="inscripciones.php" class="texto-amarillo f-negrita">Aquí</a></div>
         </div>        
       </div>     
     </div>
@@ -146,27 +146,7 @@
 					<div class="col-12 pt-sans text-justify">
 						<strong>El Técnico Profesional en la Transformación de Plantas Aromáticas</strong> está capacitado para realizar los procesos de limpieza, selección, clasificación, secado, extracción y empaque de plantas aromáticas y subproductos con mentalidad emprendedora, contribuyendo al desarrollo socioeconómico del sector productivo de la región, bajo las buenas prácticas de manufactura (BPM) y las normas internacionales de calidad.
 					</div>
-					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-paromaticas f-negrita">Lorem ipsum dolor sit amet.<br>(Electivas):</h6></div>
-					<div class="col-12 ">
-						<div class="row p-2">
-							<div class="col-12">1.P.O.O. </div>
-							<div class="col-12">&nbsp;&nbsp;Lorem ipsum.	</div>
-							<div class="col-12">&nbsp;&nbsp;Lorem ipsum.</div>
-							<div class="col-12">&nbsp;&nbsp;Lorem ipsum. DE CONMUTACIÓN</div>
-						</div>
-						<div class="row p-2">
-							<div class="col-12">2.ADMINISTRACIÓN DE REDES</div>
-							<div class="col-12">&nbsp;&nbsp;Lorem ipsum. INDUSTRIALES</div>
-							<div class="col-12">&nbsp;&nbsp;Lorem ipsum. MÉDICOS</div>
-							<div class="col-12">&nbsp;&nbsp;Lorem ipsum.</div>
-						</div>
-						<div class="row p-2">
-							<div class="col-12">2.SEGURIDAD EN REDES</div>
-							<div class="col-12">&nbsp;&nbsp;Lorem ipsum. INDUSTRIAL</div>
-							<div class="col-12">&nbsp;&nbsp;Lorem ipsum. DEL MANTENIMIENTO CLÍNICO</div>
-							<div class="col-12">&nbsp;&nbsp;Lorem ipsum. ÓPTICAS</div>
-						</div>
-					</div>
+					
 				</div>
 			</div>
 		</div>
@@ -179,168 +159,67 @@
 	<div class="row">
 		<div class="col-12 text-center"><h1 class="pt-sans texto-azul-os f-negrita py-5">Plan de Estudios</h1></div>
 	</div>
-	<div class="row d-flex bd-highlight justify-content-center">
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+	<div class="row d-flex bd-highlight justify-content-center p-3">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				<div class="col-12">- Conceptos Matemáticos Básicos en el Proceso de Transformación de Plantas Aromáticas.  	</div>
+				<div class="col-12">- Tipificación de Materias Primas de Plantas Aromáticas.  	</div>
+				<div class="col-12">- Procesos Postcosecha para la Transformación de Plantas Aromáticas.  	</div>
+				<div class="col-12">- Conceptualización Ambiental.  	</div>
+				<div class="col-12">- Normas de Participación Ciudadana e Institucionales.  	</div>
 
 
 
 			</div>
 		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				<div class="col-12">- Deshidratación de Plantas Aromáticas.  	</div>
+				<div class="col-12">- Coordinación y Control de Procesos de Transformación de Plantas Aromáticas.  	</div>
+				<div class="col-12">- Seguridad y Sanidad en la Transformación de Plantas Aromáticas.  	</div>
+				<div class="col-12">- Equipos e Insumos para la Transformación de Aromáticas.  	</div>
+				<div class="col-12">- Habilidades Básicas en el Idioma Inglés.  	</div>
 
 
 			</div>
 		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				<div class="col-12">- Procesos Contables Aplicados.  	</div>
+				<div class="col-12">- Procesos de Extracción de Aceites Esenciales.  	</div>
+				<div class="col-12">- Producciones de Tizanas, Liofilizados, Pulverizados y Mezclas.  	</div>
+				<div class="col-12">- Extracción de Esencias y otros Subproductos de Plantas Aromáticas.  	</div>
 
 
 			</div>
 		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				<div class="col-12">- Manejo de Bodegas e Inventarios a través de la Ofimática.  	</div>
+				<div class="col-12">- Mantenimiento de Equipos para la Transformación de Aromáticas.  	</div>
+				<div class="col-12">- Empaques, Etiquetas, Embalajes, Almacenamiento y Transporte de Productos Terminados.  	</div>
+				<div class="col-12">- Práctica Empresarial en la Transformación de Aromáticas.  	</div>
 
 
 			</div>
 		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
-				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-
-
-			</div>
-		</div>	
+		
 	</div>		
 	
 </div>
 
-
-<div class="container-fluid">
-	<div class="row d-flex bd-highlight justify-content-center">
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>VI Semestre</strong></div> </div>
-				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-
-
-			</div>
-		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>VII Semestre</strong></div> </div>
-				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-
-
-			</div>
-		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>VIII Semestre</strong></div> </div>
-				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-
-
-			</div>
-		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>IX Semestre</strong></div> </div>
-				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-
-
-			</div>
-		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>X Semestre</strong></div> </div>
-				</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-
-
-			</div>
-		</div>	
-	</div>		
-	
-</div>
 			
 <!-- fin plan de estudios -->
 		

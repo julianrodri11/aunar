@@ -22,6 +22,7 @@
 				</div>
 			</div>
 		</div>
+		<?php  include_once('secciones/menu2.php') ?>
 		
 		<div class="container-fluid texto-azul-os py-5">
 			<div class="row">
