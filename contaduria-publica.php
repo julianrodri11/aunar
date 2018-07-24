@@ -139,19 +139,19 @@
 				<div class="col-12 col-sm-6 ">
 					<div class="col-12"><h5 class="fuente-institucional f-color-cpublica-dis f-negrita">AL GRADUARTE</h5><h3 class="fuente-institucional f-color-cpublica-dis f-negrita text-center">¿DÓNDE PUEDES TRABAJAR?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						<br>> Jefe financiero, Contador público encargado de la asesoría financiera y económica de la entidad.
-						<br>> Ocupar el cargo de Revisor Fiscal y desarrollar auditoria interna o externa en los entes económicos
-						<br>> Gerenciar, asesorar y prestar consultoría a organizaciones; Además proponer estrategias de crecimiento y desarrollo organizacional en el marco del proceso de la globalización de la economía y de apertura de los mercados.
-						<br>> Actuar como auxiliar de la justicia en calidad de perito contable.
+						<br>-Jefe financiero, Contador público encargado de la asesoría financiera y económica de la entidad.
+						<br>-Ocupar el cargo de Revisor Fiscal y desarrollar auditoria interna o externa en los entes económicos
+						<br>-Gerenciar, asesorar y prestar consultoría a organizaciones; Además proponer estrategias de crecimiento y desarrollo organizacional en el marco del proceso de la globalización de la economía y de apertura de los mercados.
+						<br>-Actuar como auxiliar de la justicia en calidad de perito contable.
 							
 					</div>
 				</div>
 				<div class="col-12 col-sm-6 border-left b-color-cpublica-dis">
 					<div class="col-12"><h5 class="fuente-institucional f-color-cpublica-dis f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-cpublica-dis f-negrita text-center">CONBTADOR PÚBLICO ?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						<br>- Recopilar y evaluar información del registro de las actividades de los entes económicos públicos y privados en todos sus aspectos financieros y sociales mediante la rendición de informes financieros fidedignos.
-						<br>- Aplicar el pensamiento estratégico que permita solucionar los problemas específicos del área contable de los entes económicos, armonizándolos con los aspectos jurídicos, administrativos e informáticos y su vinculación con el entorno socio – económico regional, nacional e internacional.
-						<br>- Asesorar en la aplicación e interpretación de los aspectos fiscales y normatividad tributaria vigente del orden nacional e internacional.
+						<br>-Recopilar y evaluar información del registro de las actividades de los entes económicos públicos y privados en todos sus aspectos financieros y sociales mediante la rendición de informes financieros fidedignos.
+						<br>-Aplicar el pensamiento estratégico que permita solucionar los problemas específicos del área contable de los entes económicos, armonizándolos con los aspectos jurídicos, administrativos e informáticos y su vinculación con el entorno socio – económico regional, nacional e internacional.
+						<br>-Asesorar en la aplicación e interpretación de los aspectos fiscales y normatividad tributaria vigente del orden nacional e internacional.
 					</div>
 					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-cpublica-dis f-negrita">Líneas de profundización INCOMPLETO<br>(Electivas):</h6></div>
 					<div class="col-12 ">

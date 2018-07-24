@@ -144,8 +144,6 @@
 					<div class="col-12 pt-sans text-justify">
 						<strong>El Tecnólogo en Mercadeo Agropecuario</strong> estará capacitado para administrar centros de acopio, cadenas de supermercados, asociaciones o cooperativas de productos agropecuarios y fondos de comercialización, formular y aplicar proyectos de investigación en producción agropecuaria, desempeñarse como técnico o administrativo en el campo de la comercialización de productos agropecuarios a nivel nacional e internacional.
 					</div>
-					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-magropecuario f-negrita">Lorem ipsum dolor sit.<br>(Electivas):</h6></div>
-					
 				</div>
 			</div>
 		</div>
@@ -160,91 +158,91 @@
 		<div class="col-12 text-center"><h1 class="pt-sans texto-azul-os f-negrita py-5">Plan de Estudios</h1></div>
 	</div>
 	<div class="row d-flex bd-highlight justify-content-center p-3">
-		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
+		<div class="col-12 col-sm-6 col-md-5 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
 				</div>
 				
-				<div class="col-12">-Conceptos Matemáticos Fundamentales en la Comercialización de Productos Agropecuarios.   	</div>
-				<div class="col-12">-Conceptualización del Mercadeo Agropecuario.   	</div>
-				<div class="col-12">-Identificación de Productos Agropecuarios a nivel Nacional.   	</div>
-				<div class="col-12">-Principios Administrativos de las Empresas Agropecuarias.   	</div>
-				<div class="col-12">-Normas de Participación Ciudadana e Institucionales.   	</div>
-				<div class="col-12">-Desarrollo de Habilidades Comunicativas a través de la Virtualidad.   	</div>
+				<div class="col-12">-Conceptos Matemáticos Fundamentales en la Comercialización de Productos Agropecuarios.</div>
+				<div class="col-12">-Conceptualización del Mercadeo Agropecuario.</div>
+				<div class="col-12">-Identificación de Productos Agropecuarios a nivel Nacional.</div>
+				<div class="col-12">-Principios Administrativos de las Empresas Agropecuarias.</div>
+				<div class="col-12">-Normas de Participación Ciudadana e Institucionales.</div>
+				<div class="col-12">-Desarrollo de Habilidades Comunicativas a través de la Virtualidad.</div>
 
 
 			</div>
 		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
+		<div class="col-12 col-sm-6 col-md-5 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
 				</div>
 				<div class="col-12">-Procedimientos Estadísticos para organizar la Información en la Comercialización de Productos Agropecuarios</div>
 				<div class="col-12">-Políticas de Manejo Agrario y Ambiental para la Comercialización de Productos Agropecuarios. </div>
-				<div class="col-12">-Características y Ventajas del Acopio de Productos Agropecuarios.   	</div>
-				<div class="col-12">-Conceptos y Principios de la Contabilidad General.   	</div>
-				<div class="col-12">-Aspectos Básicos de la Economía Agropecuaria.   	</div>
-				<div class="col-12">-Habilidades Básicas en el Idioma Inglés.   	</div>
+				<div class="col-12">-Características y Ventajas del Acopio de Productos Agropecuarios.</div>
+				<div class="col-12">-Conceptos y Principios de la Contabilidad General.</div>
+				<div class="col-12">-Aspectos Básicos de la Economía Agropecuaria.</div>
+				<div class="col-12">-Habilidades Básicas en el Idioma Inglés.</div>
 
 
 			</div>
 		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
+		<div class="col-12 col-sm-6 col-md-5 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">-Procedimientos de Inferencia Estadística en el Mercadeo Agropecuario.   	</div>
-				<div class="col-12">-Herramientas Informáticas en los Procesos de Comercialización de Productos Agropecuarios.   	</div>
-				<div class="col-12">-Investigación de Mercados Agropecuarios.   	</div>
-				<div class="col-12">-Técnicas de Envase, Empaque, Etiqueta y Embalaje de Productos Agropecuarios.   	</div>
-				<div class="col-12">-Costos y Presupuestos para la Comercialización de Productos Agropecuarios.   	</div>
-				<div class="col-12">-Métodos y Técnicas de Investigación.   	</div>
+				<div class="col-12">-Procedimientos de Inferencia Estadística en el Mercadeo Agropecuario.</div>
+				<div class="col-12">-Herramientas Informáticas en los Procesos de Comercialización de Productos Agropecuarios.</div>
+				<div class="col-12">-Investigación de Mercados Agropecuarios.</div>
+				<div class="col-12">-Técnicas de Envase, Empaque, Etiqueta y Embalaje de Productos Agropecuarios.</div>
+				<div class="col-12">-Costos y Presupuestos para la Comercialización de Productos Agropecuarios.</div>
+				<div class="col-12">-Métodos y Técnicas de Investigación.</div>
 
 
 			</div>
 		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
+		<div class="col-12 col-sm-6 col-md-5 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">-Herramientas Financieras en el Mercadeo Agropecuario.   	</div>
-				<div class="col-12">-Normas Comerciales y Laborales Aplicadas a las Empresas de Mercadeo Agropecuario.   	</div>
-				<div class="col-12">-Planes de Comercialización y Distribución de Productos Agropecuarios.   	</div>
-				<div class="col-12">-Técnicas de Almacenamiento, Transporte y Seguros de Productos Agropecuarios.   	</div>
-				<div class="col-12">-Procesos de Promoción y Publicidad de Productos Agropecuarios.   	</div>
+				<div class="col-12">-Herramientas Financieras en el Mercadeo Agropecuario.</div>
+				<div class="col-12">-Normas Comerciales y Laborales Aplicadas a las Empresas de Mercadeo Agropecuario.</div>
+				<div class="col-12">-Planes de Comercialización y Distribución de Productos Agropecuarios.</div>
+				<div class="col-12">-Técnicas de Almacenamiento, Transporte y Seguros de Productos Agropecuarios.</div>
+				<div class="col-12">-Procesos de Promoción y Publicidad de Productos Agropecuarios.</div>
 
 
 
 			</div>
 		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
+		<div class="col-12 col-sm-6 col-md-5 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">-Normas de Seguridad e Higiene Aplicadas a las Empresas de Mercadeo Agropecuario.   	</div>
-				<div class="col-12">-Canales de Comercialización de Productos Agropecuarios.   	</div>
-				<div class="col-12">-Técnicas de Ventas para la Comercialización de Productos Agropecuarios.   	</div>
-				<div class="col-12">-Proyectos Empresariales para el Mercadeo de Productos Agropecuarios.   	</div>
-				<div class="col-12">-Proyecto de Investigación Aplicando los Conocimientos del Mercadeo Agropecuario.   	</div>
+				<div class="col-12">-Normas de Seguridad e Higiene Aplicadas a las Empresas de Mercadeo Agropecuario.</div>
+				<div class="col-12">-Canales de Comercialización de Productos Agropecuarios.</div>
+				<div class="col-12">-Técnicas de Ventas para la Comercialización de Productos Agropecuarios.</div>
+				<div class="col-12">-Proyectos Empresariales para el Mercadeo de Productos Agropecuarios.</div>
+				<div class="col-12">-Proyecto de Investigación Aplicando los Conocimientos del Mercadeo Agropecuario.</div>
 
 
 			</div>
 		</div>
 
-		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
+		<div class="col-12 col-sm-6 col-md-5 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
 				</div>				
-				<div class="col-12">- Procedimientos de Calidad en el Mercadeo Agropecuario. 	</div>
-				<div class="col-12">- Estrategias de Mercadeo para la Comercialización de Productos Agropecuarios. 	</div>
-				<div class="col-12">- Prácticas Empresariales en la Comercialización de Productos Agropecuarios. 	</div>
-				<div class="col-12">- Procesos de Comercialización Internacional de Productos Agropecuarios. 	</div>
+				<div class="col-12">-Procedimientos de Calidad en el Mercadeo Agropecuario.</div>
+				<div class="col-12">-Estrategias de Mercadeo para la Comercialización de Productos Agropecuarios.</div>
+				<div class="col-12">-Prácticas Empresariales en la Comercialización de Productos Agropecuarios.</div>
+				<div class="col-12">-Procesos de Comercialización Internacional de Productos Agropecuarios.</div>
 
 			</div>
 		</div>	

@@ -145,9 +145,9 @@
 						<p><strong>EL PROFESIONAL EN ADMINISTRACIÓN DE EMPRESAS</strong>, será capaz de realizar procesos de gestión empresarial, asesoría, consultoría y dirección de empresas con mentalidad emprendedora e innovación, contribuyendo al desarrollo socioeconómico del sector productivo, bajo normas internacionales de calidad.</p>
 						
 						El profesional de administración de empresas será competente para:
-						<br>- Crear y dirigir su propia empresa, dirigir, de carácter económico, industrial, comercial, financiero y de servicios en los sectores públicos y privados.
-						<br>- Formular, aplicar y evaluar proyectos de investigación para las organizaciones.
-						<br>- Desempeñarse como ejecutivo, asesor, consultor o conferencista en los diferentes campos de las ciencias administrativas.
+						<br>-Crear y dirigir su propia empresa, dirigir, de carácter económico, industrial, comercial, financiero y de servicios en los sectores públicos y privados.
+						<br>-Formular, aplicar y evaluar proyectos de investigación para las organizaciones.
+						<br>-Desempeñarse como ejecutivo, asesor, consultor o conferencista en los diferentes campos de las ciencias administrativas.
 
 					</div>
 				</div>
@@ -180,14 +180,14 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
 				</div>
 								
-				<div class="col-12">- Economía I		</div>
-				<div class="col-12">- Fundamentos De Contabilidad		</div>
-				<div class="col-12">- Derecho Constitucional		</div>
-				<div class="col-12">- Técnicas De Estudio		</div>
-				<div class="col-12">- Cultura Institucional		</div>
-				<div class="col-12">- Deporte Formativo		</div>
-				<div class="col-12">- Fundamentos De Administración		</div>
-				<div class="col-12">- Matemáticas I		</div>
+				<div class="col-12">-Economía I		</div>
+				<div class="col-12">-Fundamentos De Contabilidad		</div>
+				<div class="col-12">-Derecho Constitucional		</div>
+				<div class="col-12">-Técnicas De Estudio		</div>
+				<div class="col-12">-Cultura Institucional		</div>
+				<div class="col-12">-Deporte Formativo		</div>
+				<div class="col-12">-Fundamentos De Administración		</div>
+				<div class="col-12">-Matemáticas I		</div>
 
 
 
@@ -198,12 +198,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
 				</div>
-				  <div class="col-12">- Derecho Comercial		</div>
-				  <div class="col-12">- Matemáticas Ii		</div>
-				  <div class="col-12">- Planeación Empresarial		</div>
-				  <div class="col-12">- Economía Ii		</div>
-				  <div class="col-12">- Contabilidad Ii		</div>
-				  <div class="col-12">- Epistemología De La Investigación		</div>
+				  <div class="col-12">-Derecho Comercial		</div>
+				  <div class="col-12">-Matemáticas Ii		</div>
+				  <div class="col-12">-Planeación Empresarial		</div>
+				  <div class="col-12">-Economía Ii		</div>
+				  <div class="col-12">-Contabilidad Ii		</div>
+				  <div class="col-12">-Epistemología De La Investigación		</div>
 
 
 			</div>
@@ -213,13 +213,13 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
 				</div>
-			  <div class="col-12">- Estadística I		</div>
-			  <div class="col-12">- Organización Empresarial		</div>
-			  <div class="col-12">- Fundamentos De Mercados		</div>
-			  <div class="col-12">- Economía Iii		</div>
-			  <div class="col-12">- Contabilidad Iii		</div>
-			  <div class="col-12">- Metodología De La Investigación I		</div>
-			  <div class="col-12">- Informática I		</div>
+			  <div class="col-12">-Estadística I		</div>
+			  <div class="col-12">-Organización Empresarial		</div>
+			  <div class="col-12">-Fundamentos De Mercados		</div>
+			  <div class="col-12">-Economía Iii		</div>
+			  <div class="col-12">-Contabilidad Iii		</div>
+			  <div class="col-12">-Metodología De La Investigación I		</div>
+			  <div class="col-12">-Informática I		</div>
 
 
 			</div>
@@ -229,12 +229,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- Estadística Ii		</div>
-				<div class="col-12">- Álgebra Y Programación Lineal		</div>
-				<div class="col-12">- Dirección Y Control		</div>
-				<div class="col-12">- Investigación De Mercados		</div>
-				<div class="col-12">- Contabilidad Iv		</div>
-				<div class="col-12">- Metodología De La Investigación Ii		</div>
+				<div class="col-12">-Estadística Ii		</div>
+				<div class="col-12">-Álgebra Y Programación Lineal		</div>
+				<div class="col-12">-Dirección Y Control		</div>
+				<div class="col-12">-Investigación De Mercados		</div>
+				<div class="col-12">-Contabilidad Iv		</div>
+				<div class="col-12">-Metodología De La Investigación Ii		</div>
 
 
 			</div>
@@ -244,12 +244,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
 				</div>
-				 <div class="col-12">- Planeación De Mercados		</div>
-				 <div class="col-12">- Contabilidad De Costos		</div>
-				 <div class="col-12">- Contabilidad Sistematizada		</div>
-				 <div class="col-12">- Investigación De Operaciones		</div>
-				 <div class="col-12">- Derecho Laboral		</div>
-				 <div class="col-12">- Creatividad Empresarial		</div>
+				 <div class="col-12">-Planeación De Mercados		</div>
+				 <div class="col-12">-Contabilidad De Costos		</div>
+				 <div class="col-12">-Contabilidad Sistematizada		</div>
+				 <div class="col-12">-Investigación De Operaciones		</div>
+				 <div class="col-12">-Derecho Laboral		</div>
+				 <div class="col-12">-Creatividad Empresarial		</div>
 
 
 			</div>
@@ -266,12 +266,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>VI Semestre</strong></div> </div>
 				</div>
-				 <div class="col-12">- Publicidad		</div>
-				 <div class="col-12">- Administración De La Producción		</div>
-				 <div class="col-12">- Matemáticas Financieras		</div>
-				 <div class="col-12">- Elaboración Y Evaluación De Proyectos		</div>
-				 <div class="col-12">- Presupuestos		</div>
-				 <div class="col-12">- Legislación Tributaria		</div>
+				 <div class="col-12">-Publicidad		</div>
+				 <div class="col-12">-Administración De La Producción		</div>
+				 <div class="col-12">-Matemáticas Financieras		</div>
+				 <div class="col-12">-Elaboración Y Evaluación De Proyectos		</div>
+				 <div class="col-12">-Presupuestos		</div>
+				 <div class="col-12">-Legislación Tributaria		</div>
 
 
 			</div>
@@ -281,13 +281,13 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>VII Semestre</strong></div> </div>
 				</div>
-				 <div class="col-12">- Psicología Empresarial		</div>
-				 <div class="col-12">- Gerencia De Mercadeo		</div>
-				 <div class="col-12">- Gerencia De Personal		</div>
-				 <div class="col-12">- Herramientas Gerenciales Sistematizadas		</div>
-				 <div class="col-12">- Auditoría Y Control Interno		</div>
-				 <div class="col-12">- Análisis Financiero		</div>
-				 <div class="col-12">- Electiva I		</div>
+				 <div class="col-12">-Psicología Empresarial		</div>
+				 <div class="col-12">-Gerencia De Mercadeo		</div>
+				 <div class="col-12">-Gerencia De Personal		</div>
+				 <div class="col-12">-Herramientas Gerenciales Sistematizadas		</div>
+				 <div class="col-12">-Auditoría Y Control Interno		</div>
+				 <div class="col-12">-Análisis Financiero		</div>
+				 <div class="col-12">-Electiva I		</div>
 
 
 			</div>
@@ -297,12 +297,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>VIII Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- Mercados Financieros		</div>
-				 <div class="col-12">- Seminario De Grado I		</div>
-				 <div class="col-12">- Salud Ocupacional		</div>
-				 <div class="col-12">- Plan De Negocios		</div>
-				 <div class="col-12">- Comercio Exterior		</div>
-				 <div class="col-12">- Electiva Ii		</div>
+				<div class="col-12">-Mercados Financieros		</div>
+				 <div class="col-12">-Seminario De Grado I		</div>
+				 <div class="col-12">-Salud Ocupacional		</div>
+				 <div class="col-12">-Plan De Negocios		</div>
+				 <div class="col-12">-Comercio Exterior		</div>
+				 <div class="col-12">-Electiva Ii		</div>
 
 
 			</div>
@@ -312,12 +312,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>IX Semestre</strong></div> </div>
 				</div>
-				 <div class="col-12">- Administración Pública		</div>
-				 <div class="col-12">- Electiva Iii		</div>
-				 <div class="col-12">- Administración De Servicios		</div>
-				 <div class="col-12">- Seminario De Grado Ii		</div>
-				 <div class="col-12">- Desarrollo Sostenible		</div>
-				 <div class="col-12">- Practica Empresarial		</div>
+				 <div class="col-12">-Administración Pública		</div>
+				 <div class="col-12">-Electiva Iii		</div>
+				 <div class="col-12">-Administración De Servicios		</div>
+				 <div class="col-12">-Seminario De Grado Ii		</div>
+				 <div class="col-12">-Desarrollo Sostenible		</div>
+				 <div class="col-12">-Practica Empresarial		</div>
 
 
 			</div>
@@ -328,12 +328,12 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>X Semestre</strong></div> </div>
 				</div>
 				
-				 <div class="col-12">- Gerencia Financiera		</div>
-				 <div class="col-12">- Gerencia Administrativa		</div>
-				 <div class="col-12">- Marketing Estratégico		</div>
-				 <div class="col-12">- Juego Gerencial		</div>
-				 <div class="col-12">- Ética Profesional		</div>
-				 <div class="col-12">- Proyecto De Grado		</div>
+				 <div class="col-12">-Gerencia Financiera		</div>
+				 <div class="col-12">-Gerencia Administrativa		</div>
+				 <div class="col-12">-Marketing Estratégico		</div>
+				 <div class="col-12">-Juego Gerencial		</div>
+				 <div class="col-12">-Ética Profesional		</div>
+				 <div class="col-12">-Proyecto De Grado		</div>
 
 
 			</div>

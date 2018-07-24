@@ -142,11 +142,11 @@
 						<p>El Ingeniero Informático de la AUNAR  actúa  como un profesional independiente, gestor de su propia empresa o vinculado en calidad al:
 						</p>
 
-						<br>- Analizar, diseñar, implementar y evaluar software por medio de lenguajes de programación y técnicas avanzadas de ingeniería, aplicando normas de calidad vigentes.
-						<br>- Desarrollar e implementar políticas y procedimientos para el procesamiento electrónico de datos y desarrollo de sistemas informáticos.
-						<br>- Resolver problemas relacionados con la adquisición, transmisión, control y gestión de información presentes en la investigación, la industria, el comercio, la educación, entretenimiento y demás procesos inherentes.
-						<br>- Crear empresas vinculada al desarrollo de productos y servicios en Tecnologías de la Información y la Comunicación.
-						<br>- Formular, gestionar y evaluar proyectos tecnológicos viables y sostenibles, basados en el uso de las tecnologías de la información y la comunicación.
+						<br>-Analizar, diseñar, implementar y evaluar software por medio de lenguajes de programación y técnicas avanzadas de ingeniería, aplicando normas de calidad vigentes.
+						<br>-Desarrollar e implementar políticas y procedimientos para el procesamiento electrónico de datos y desarrollo de sistemas informáticos.
+						<br>-Resolver problemas relacionados con la adquisición, transmisión, control y gestión de información presentes en la investigación, la industria, el comercio, la educación, entretenimiento y demás procesos inherentes.
+						<br>-Crear empresas vinculada al desarrollo de productos y servicios en Tecnologías de la Información y la Comunicación.
+						<br>-Formular, gestionar y evaluar proyectos tecnológicos viables y sostenibles, basados en el uso de las tecnologías de la información y la comunicación.
 
 					</div>
 				</div>
@@ -198,11 +198,11 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
 				</div>
 				
-				<div class="col-12">- Conceptos Y Métodos Matemáticos		</div>
-				<div class="col-12">- Elementos Básicos De Programación		</div>
-				<div class="col-12">- Teorías De La Ingeniería Informática		</div>
-				<div class="col-12">- Normas De Participación Ciudadana E Institucional		</div>
-				<div class="col-12">- Herramientas Pedagógicas Y Didácticas De La Educación A Distancia		</div>
+				<div class="col-12">-Conceptos Y Métodos Matemáticos		</div>
+				<div class="col-12">-Elementos Básicos De Programación		</div>
+				<div class="col-12">-Teorías De La Ingeniería Informática		</div>
+				<div class="col-12">-Normas De Participación Ciudadana E Institucional		</div>
+				<div class="col-12">-Herramientas Pedagógicas Y Didácticas De La Educación A Distancia		</div>
 
 			</div>
 		</div>
@@ -212,11 +212,11 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
 				</div>
 				
-				<div class="col-12">- Funciones Y Métodos Del Cálculo Diferencial E Integral	</div>
-				<div class="col-12">- Postulados Y Principios De La Física Mecánica	</div>
-				<div class="col-12">- Lenguaje De Programación Funcional	</div>
-				<div class="col-12">- Interacción De Objetos Por Medio De Programación	</div>
-				<div class="col-12">- Desarrollo De Competencia Comunicativa  En Segunda Lengua A 1 1  Basico Principiante	</div>
+				<div class="col-12">-Funciones Y Métodos Del Cálculo Diferencial E Integral	</div>
+				<div class="col-12">-Postulados Y Principios De La Física Mecánica	</div>
+				<div class="col-12">-Lenguaje De Programación Funcional	</div>
+				<div class="col-12">-Interacción De Objetos Por Medio De Programación	</div>
+				<div class="col-12">-Desarrollo De Competencia Comunicativa  En Segunda Lengua A 1 1  Basico Principiante	</div>
 
 			</div>
 		</div>
@@ -226,13 +226,13 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
 				</div>
 				
-				<div class="col-12">- Teoremas Y Postulados Matemáticos	</div>
-				<div class="col-12">- Diseño De Un Circuito Electrónico Digital	</div>
-				<div class="col-12">- Estructuras De Datos En La Administración De La Información	</div>
-				<div class="col-12">- Aplicaciones En Entorno Gráfico Con Programación Orientada A Objetos	</div>
-				<div class="col-12">- Conceptos Y Principios De La Contabilidad General	</div>
-				<div class="col-12">- Competencia Comunicativa En Segunda Lengua A 1 2 Básico Principiante	</div>
-				<div class="col-12">- Teoría Del Conocimiento	</div>
+				<div class="col-12">-Teoremas Y Postulados Matemáticos	</div>
+				<div class="col-12">-Diseño De Un Circuito Electrónico Digital	</div>
+				<div class="col-12">-Estructuras De Datos En La Administración De La Información	</div>
+				<div class="col-12">-Aplicaciones En Entorno Gráfico Con Programación Orientada A Objetos	</div>
+				<div class="col-12">-Conceptos Y Principios De La Contabilidad General	</div>
+				<div class="col-12">-Competencia Comunicativa En Segunda Lengua A 1 2 Básico Principiante	</div>
+				<div class="col-12">-Teoría Del Conocimiento	</div>
 
 
 			</div>
@@ -242,13 +242,13 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
 				</div>
-				<div class="col-12"> Razonamiento Matemático En Vectores Y Matrices		</div>
-				<div class="col-12"> Métodos Del Cálculo Vectorial En La Computación Gráfica		</div>
-				<div class="col-12"> Estructuras De Datos No Lineales		</div>
-				<div class="col-12"> Herramientas Informáticas Orientadas A Eventos		</div>
-				<div class="col-12"> Criterios Para La Selección De Hardware		</div>
-				<div class="col-12"> Herramientas De Ingeniería Económica		</div>
-				<div class="col-12"> Competencia Comunicativa En Segunda Lengua  A 2 1 Básico Intermedio		</div>
+				<div class="col-12">-Razonamiento Matemático En Vectores Y Matrices		</div>
+				<div class="col-12">-Métodos Del Cálculo Vectorial En La Computación Gráfica		</div>
+				<div class="col-12">-Estructuras De Datos No Lineales		</div>
+				<div class="col-12">-Herramientas Informáticas Orientadas A Eventos		</div>
+				<div class="col-12">-Criterios Para La Selección De Hardware		</div>
+				<div class="col-12">-Herramientas De Ingeniería Económica		</div>
+				<div class="col-12">-Competencia Comunicativa En Segunda Lengua  A 2 1 Básico Intermedio		</div>
 
 
 
@@ -260,13 +260,13 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
 				</div>
 				
-				<div class="col-12">- Procesos Estadísticos Y Probabilísticos		</div>
-				<div class="col-12">- Representación De Información En Bases De Datos		</div>
-				<div class="col-12">- Técnicas Del Diseño Hipermedia En La Informática		</div>
-				<div class="col-12">- Conceptos Básicos De La Comunicación Electrónica		</div>
-				<div class="col-12">- Creatividad Empresarial Y Plan De Negocios		</div>
-				<div class="col-12">- Competencia Comunicativa En Segunda Lengua  A 2 2  Básico Intermedio		</div>
-				<div class="col-12">- Métodos Y Técnicas De Investigación I		</div>
+				<div class="col-12">-Procesos Estadísticos Y Probabilísticos		</div>
+				<div class="col-12">-Representación De Información En Bases De Datos		</div>
+				<div class="col-12">-Técnicas Del Diseño Hipermedia En La Informática		</div>
+				<div class="col-12">-Conceptos Básicos De La Comunicación Electrónica		</div>
+				<div class="col-12">-Creatividad Empresarial Y Plan De Negocios		</div>
+				<div class="col-12">-Competencia Comunicativa En Segunda Lengua  A 2 2  Básico Intermedio		</div>
+				<div class="col-12">-Métodos Y Técnicas De Investigación I		</div>
 
 
 			</div>
@@ -284,13 +284,13 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>VI Semestre</strong></div> </div>
 				</div>
 									
-					<div class="col-12">- Modelos Matemáticos Y Algoritmos		</div>
-					<div class="col-12">- Aplicaciones  Orientadas A La Web		</div>
-					<div class="col-12">- Procesos Involucrados En El Modelado De Software		</div>
-					<div class="col-12">- Diseño E Implementación De Redes De Datos		</div>
-					<div class="col-12">- Formulación Y Evaluación De Proyectos		</div>
-					<div class="col-12">- Competencia Comunicativa En Segunda Lengua B 1 1 Intermedio Principiante		</div>
-					<div class="col-12">- Seminario De Grado I		</div>
+					<div class="col-12">-Modelos Matemáticos Y Algoritmos		</div>
+					<div class="col-12">-Aplicaciones  Orientadas A La Web		</div>
+					<div class="col-12">-Procesos Involucrados En El Modelado De Software		</div>
+					<div class="col-12">-Diseño E Implementación De Redes De Datos		</div>
+					<div class="col-12">-Formulación Y Evaluación De Proyectos		</div>
+					<div class="col-12">-Competencia Comunicativa En Segunda Lengua B 1 1 Intermedio Principiante		</div>
+					<div class="col-12">-Seminario De Grado I		</div>
 
 
 			</div>
@@ -301,13 +301,13 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>VII Semestre</strong></div> </div>
 				</div>
 				
-					<div class="col-12">- Métodos Matemáticos Aplicados En Simulación		</div>
-					<div class="col-12">- Algoritmos Lógicos En El Desarrollo De Software		</div>
-					<div class="col-12">- Técnicas Para El Desarrollo De Software		</div>
-					<div class="col-12">- Arquitectura De Sistemas Operativos		</div>
-					<div class="col-12">- Gerencia De Proyectos Informáticos		</div>
-					<div class="col-12">- Competencia Comunicativa En Segunda Lengua  B 1 2  Intermedio		</div>
-					<div class="col-12">- Seminario De Grado Ii		</div>
+					<div class="col-12">-Métodos Matemáticos Aplicados En Simulación		</div>
+					<div class="col-12">-Algoritmos Lógicos En El Desarrollo De Software		</div>
+					<div class="col-12">-Técnicas Para El Desarrollo De Software		</div>
+					<div class="col-12">-Arquitectura De Sistemas Operativos		</div>
+					<div class="col-12">-Gerencia De Proyectos Informáticos		</div>
+					<div class="col-12">-Competencia Comunicativa En Segunda Lengua  B 1 2  Intermedio		</div>
+					<div class="col-12">-Seminario De Grado Ii		</div>
 
 			</div>
 		</div>
@@ -316,12 +316,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>VIII Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- Elementos Gráficos  De La Comunicación Visual		</div>
-				<div class="col-12">- Modelos Arquitectónicos En Software Distribuido		</div>
-				<div class="col-12">- Herramientas Informáticas Para El Comercio Electrónico		</div>
-				<div class="col-12">- Técnicas Para El Diseño De Aplicaciones Telemáticas		</div>
-				<div class="col-12">- Principios Y Normas Del Derecho Informático		</div>
-				<div class="col-12">- Proyecto De Investigación		</div>
+				<div class="col-12">-Elementos Gráficos  De La Comunicación Visual		</div>
+				<div class="col-12">-Modelos Arquitectónicos En Software Distribuido		</div>
+				<div class="col-12">-Herramientas Informáticas Para El Comercio Electrónico		</div>
+				<div class="col-12">-Técnicas Para El Diseño De Aplicaciones Telemáticas		</div>
+				<div class="col-12">-Principios Y Normas Del Derecho Informático		</div>
+				<div class="col-12">-Proyecto De Investigación		</div>
 
 
 			</div>
@@ -332,12 +332,12 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>IX Semestre</strong></div> </div>
 				</div>
 								
-				<div class="col-12">- Elementos Gráficos  De La Comunicación Visual		</div>
-				<div class="col-12">- Modelos Arquitectónicos En Software Distribuido		</div>
-				<div class="col-12">- Herramientas Informáticas Para El Comercio Electrónico		</div>
-				<div class="col-12">- Técnicas Para El Diseño De Aplicaciones Telemáticas		</div>
-				<div class="col-12">- Principios Y Normas Del Derecho Informático		</div>
-				<div class="col-12">- Proyecto De Investigación		</div>
+				<div class="col-12">-Elementos Gráficos  De La Comunicación Visual		</div>
+				<div class="col-12">-Modelos Arquitectónicos En Software Distribuido		</div>
+				<div class="col-12">-Herramientas Informáticas Para El Comercio Electrónico		</div>
+				<div class="col-12">-Técnicas Para El Diseño De Aplicaciones Telemáticas		</div>
+				<div class="col-12">-Principios Y Normas Del Derecho Informático		</div>
+				<div class="col-12">-Proyecto De Investigación		</div>
 
 
 			</div>
@@ -348,14 +348,14 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>X Semestre</strong></div> </div>
 				</div>
 				
-				<div class="col-12">- Electiva		</div>
-				<div class="col-12">- Diseño E Implementación De Sistemas De Telemetría	</div>
+				<div class="col-12">-Electiva		</div>
+				<div class="col-12">-Diseño E Implementación De Sistemas De Telemetría	</div>
 				
-				<div class="col-12">- Técnicas Y Herramientas De Seguridad Informática		</div>
-				<div class="col-12">- Auditoria De Sistemas		</div>
-				<div class="col-12">- Práctica Profesional		</div>
-				<div class="col-12">- Leyes Éticas Y Morales		</div>
-				<div class="col-12">- Desarrollo Del Proyecto De Investigación		</div>
+				<div class="col-12">-Técnicas Y Herramientas De Seguridad Informática		</div>
+				<div class="col-12">-Auditoria De Sistemas		</div>
+				<div class="col-12">-Práctica Profesional		</div>
+				<div class="col-12">-Leyes Éticas Y Morales		</div>
+				<div class="col-12">-Desarrollo Del Proyecto De Investigación		</div>
 
 			</div>
 		</div>	

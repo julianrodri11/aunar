@@ -165,11 +165,11 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- Conceptos Matemáticos Básicos en el Proceso de Transformación de Plantas Aromáticas.  	</div>
-				<div class="col-12">- Tipificación de Materias Primas de Plantas Aromáticas.  	</div>
-				<div class="col-12">- Procesos Postcosecha para la Transformación de Plantas Aromáticas.  	</div>
-				<div class="col-12">- Conceptualización Ambiental.  	</div>
-				<div class="col-12">- Normas de Participación Ciudadana e Institucionales.  	</div>
+				<div class="col-12">-Conceptos Matemáticos Básicos en el Proceso de Transformación de Plantas Aromáticas.  	</div>
+				<div class="col-12">-Tipificación de Materias Primas de Plantas Aromáticas.  	</div>
+				<div class="col-12">-Procesos Postcosecha para la Transformación de Plantas Aromáticas.  	</div>
+				<div class="col-12">-Conceptualización Ambiental.  	</div>
+				<div class="col-12">-Normas de Participación Ciudadana e Institucionales.  	</div>
 
 
 
@@ -180,11 +180,11 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- Deshidratación de Plantas Aromáticas.  	</div>
-				<div class="col-12">- Coordinación y Control de Procesos de Transformación de Plantas Aromáticas.  	</div>
-				<div class="col-12">- Seguridad y Sanidad en la Transformación de Plantas Aromáticas.  	</div>
-				<div class="col-12">- Equipos e Insumos para la Transformación de Aromáticas.  	</div>
-				<div class="col-12">- Habilidades Básicas en el Idioma Inglés.  	</div>
+				<div class="col-12">-Deshidratación de Plantas Aromáticas.  	</div>
+				<div class="col-12">-Coordinación y Control de Procesos de Transformación de Plantas Aromáticas.  	</div>
+				<div class="col-12">-Seguridad y Sanidad en la Transformación de Plantas Aromáticas.  	</div>
+				<div class="col-12">-Equipos e Insumos para la Transformación de Aromáticas.  	</div>
+				<div class="col-12">-Habilidades Básicas en el Idioma Inglés.  	</div>
 
 
 			</div>
@@ -194,10 +194,10 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- Procesos Contables Aplicados.  	</div>
-				<div class="col-12">- Procesos de Extracción de Aceites Esenciales.  	</div>
-				<div class="col-12">- Producciones de Tizanas, Liofilizados, Pulverizados y Mezclas.  	</div>
-				<div class="col-12">- Extracción de Esencias y otros Subproductos de Plantas Aromáticas.  	</div>
+				<div class="col-12">-Procesos Contables Aplicados.  	</div>
+				<div class="col-12">-Procesos de Extracción de Aceites Esenciales.  	</div>
+				<div class="col-12">-Producciones de Tizanas, Liofilizados, Pulverizados y Mezclas.  	</div>
+				<div class="col-12">-Extracción de Esencias y otros Subproductos de Plantas Aromáticas.  	</div>
 
 
 			</div>
@@ -207,10 +207,10 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- Manejo de Bodegas e Inventarios a través de la Ofimática.  	</div>
-				<div class="col-12">- Mantenimiento de Equipos para la Transformación de Aromáticas.  	</div>
-				<div class="col-12">- Empaques, Etiquetas, Embalajes, Almacenamiento y Transporte de Productos Terminados.  	</div>
-				<div class="col-12">- Práctica Empresarial en la Transformación de Aromáticas.  	</div>
+				<div class="col-12">-Manejo de Bodegas e Inventarios a través de la Ofimática.  	</div>
+				<div class="col-12">-Mantenimiento de Equipos para la Transformación de Aromáticas.  	</div>
+				<div class="col-12">-Empaques, Etiquetas, Embalajes, Almacenamiento y Transporte de Productos Terminados.  	</div>
+				<div class="col-12">-Práctica Empresarial en la Transformación de Aromáticas.  	</div>
 
 
 			</div>
@@ -227,7 +227,6 @@
 		<!-- malla curricular -->
 		<?php include_once('secciones/malla_curricular/plantas_aromaticas.php'); 
 			  include_once('secciones/footer-principal.php');
-
 		?>
 
 

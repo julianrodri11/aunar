@@ -140,16 +140,16 @@
 					<div class="col-12 pt-sans text-justify">
 						El Ingeniero Mecánico de la AUNAR  actúa  como un profesional independiente, gestor de su propia empresa o vinculado en calidad de:
 						<br><br>- Líder de procesos industriales y de producción en el mantenimiento de maquinaria y equipos.
-						<br>- Montaje de sistemas mecánicos en plantas industriales y de servicios.
-						<br>- Impulsará el desarrollo del sector metalmecánico de la región.
-						<br>- Veedor de los recursos medioambientales.
-						<br>- Investigador de nuevas fuentes alternativas de energía.
-						<br>- Diseñador de maquinaria, equipos industriales y herramientas mecánicas.
-						<br>- Asesor y apoyo para los niveles superiores en el soporte técnico.
-						<br>- Jefe de departamento de mantenimiento.
-						<br>- Gestor de  proyectos de investigación en el campo metalmecánico.
-						<br>- Consultor en seguridad industrial.
-						<br>- Innovador empresarial del sector metalmecánico.
+						<br>-Montaje de sistemas mecánicos en plantas industriales y de servicios.
+						<br>-Impulsará el desarrollo del sector metalmecánico de la región.
+						<br>-Veedor de los recursos medioambientales.
+						<br>-Investigador de nuevas fuentes alternativas de energía.
+						<br>-Diseñador de maquinaria, equipos industriales y herramientas mecánicas.
+						<br>-Asesor y apoyo para los niveles superiores en el soporte técnico.
+						<br>-Jefe de departamento de mantenimiento.
+						<br>-Gestor de  proyectos de investigación en el campo metalmecánico.
+						<br>-Consultor en seguridad industrial.
+						<br>-Innovador empresarial del sector metalmecánico.
 
 					</div>
 				</div>
@@ -157,11 +157,11 @@
 					<div class="col-12"><h5 class="fuente-institucional f-color-imecanica f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-imecanica f-negrita text-center">INGENIERO MECÁNICO(A)?</h3></div>
 					<div class="col-12 pt-sans text-justify">
 					El Ingeniero Mecánico de AUNAR  posee  las siguientes características:
-						<br><br>- Capacidad de liderazgo en el sector metalmecánico.
-						<br>- Creativo en la  adaptación, diseño e innovador en el montaje de procesos productivos y  de  ensamblaje de maquinaria industrial. 
-						<br>- Ensamblador de equipos y maquinaria industrial.
-						<br>- Liderazgo en el desarrollo de  proyectos de ingeniería mecánica en el sector industrial, agroindustrial y manufacturero.
-						<br>- Profesional con alto sentido ético y práctico de los principios morales y cívicos que le permite brindar un servicio ágil, oportuno y veraz en el campo metalmecánico
+						<br><br>-Capacidad de liderazgo en el sector metalmecánico.
+						<br>-Creativo en la  adaptación, diseño e innovador en el montaje de procesos productivos y  de  ensamblaje de maquinaria industrial. 
+						<br>-Ensamblador de equipos y maquinaria industrial.
+						<br>-Liderazgo en el desarrollo de  proyectos de ingeniería mecánica en el sector industrial, agroindustrial y manufacturero.
+						<br>-Profesional con alto sentido ético y práctico de los principios morales y cívicos que le permite brindar un servicio ágil, oportuno y veraz en el campo metalmecánico
 
 					</div>
 					<div class="col-12 mt-5"><h6 class="fuente-institucional f-color-imecanica f-negrita">Líneas de profundización<br>(Electivas):</h6></div>
@@ -198,14 +198,14 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
 				</div>
 				
-				<div class="col-12">- Fundamentos Matemáticos	</div>
-				<div class="col-12">- Química General	</div>
-				<div class="col-12">- Sistemas	</div>
-				<div class="col-12">- Dibujo Técnico	</div>
-				<div class="col-12">- Introducción A La Mecánica	</div>
-				<div class="col-12">- Cultura Institucional Y Ciudadana	</div>
-				<div class="col-12">- Técnicas De Estudio	</div>
-				<div class="col-12">- Deporte Formativo	</div>
+				<div class="col-12">-Fundamentos Matemáticos	</div>
+				<div class="col-12">-Química General	</div>
+				<div class="col-12">-Sistemas	</div>
+				<div class="col-12">-Dibujo Técnico	</div>
+				<div class="col-12">-Introducción A La Mecánica	</div>
+				<div class="col-12">-Cultura Institucional Y Ciudadana	</div>
+				<div class="col-12">-Técnicas De Estudio	</div>
+				<div class="col-12">-Deporte Formativo	</div>
 
 			</div>
 		</div>
@@ -214,12 +214,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- Calculo Diferencial</div>
-				<div class="col-12">- Algebra Lineal</div>
-				<div class="col-12">- Fisica 1</div>
-				<div class="col-12">- Sistemas Cad</div>
-				<div class="col-12">- Ciencia De Los Materiales</div>
-				<div class="col-12">- Epistemología De La Investigación</div>
+				<div class="col-12">-Calculo Diferencial</div>
+				<div class="col-12">-Algebra Lineal</div>
+				<div class="col-12">-Fisica 1</div>
+				<div class="col-12">-Sistemas Cad</div>
+				<div class="col-12">-Ciencia De Los Materiales</div>
+				<div class="col-12">-Epistemología De La Investigación</div>
 
 			</div>
 		</div>
@@ -229,12 +229,12 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
 				</div>
 																								
-				<div class="col-12">- Cálculo Integral 3 </div>
-				<div class="col-12">- Física II </div>
-				<div class="col-12">- Estática </div>
-				<div class="col-12">- Seguridad Industrial </div>
-				<div class="col-12">- Tecnologia Mecanica Basica </div>
-				<div class="col-12">- Metodologia De Investigacion </div>
+				<div class="col-12">-Cálculo Integral 3 </div>
+				<div class="col-12">-Física II </div>
+				<div class="col-12">-Estática </div>
+				<div class="col-12">-Seguridad Industrial </div>
+				<div class="col-12">-Tecnologia Mecanica Basica </div>
+				<div class="col-12">-Metodologia De Investigacion </div>
 
 			</div>
 		</div>
@@ -244,12 +244,12 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
 				</div>
 				
-				<div class="col-12">- Ecuaciones Diferenciales </div>
-				<div class="col-12">- Calculo Vectorial </div>
-				<div class="col-12">- Física III </div>
-				<div class="col-12">- Mecánica De Fluidos </div>
-				<div class="col-12">- Resistencia De Materiales </div>
-				<div class="col-12">- Metodologia De Investigacion II </div>
+				<div class="col-12">-Ecuaciones Diferenciales </div>
+				<div class="col-12">-Calculo Vectorial </div>
+				<div class="col-12">-Física III </div>
+				<div class="col-12">-Mecánica De Fluidos </div>
+				<div class="col-12">-Resistencia De Materiales </div>
+				<div class="col-12">-Metodologia De Investigacion II </div>
 
 			</div>
 		</div>
@@ -259,12 +259,12 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
 				</div>
 				
-				<div class="col-12">- Probabilidad Y Estadística		</div>
-				<div class="col-12">- Electrotecnia		</div>
-				<div class="col-12">- Termodinámica		</div>
-				<div class="col-12">- Dinámica		</div>
-				<div class="col-12">- Procesos De Fabricación		</div>
-				<div class="col-12">- Mentalidad Emprendedora		</div>
+				<div class="col-12">-Probabilidad Y Estadística		</div>
+				<div class="col-12">-Electrotecnia		</div>
+				<div class="col-12">-Termodinámica		</div>
+				<div class="col-12">-Dinámica		</div>
+				<div class="col-12">-Procesos De Fabricación		</div>
+				<div class="col-12">-Mentalidad Emprendedora		</div>
 
 
 			</div>
@@ -281,12 +281,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>VI Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- Electiva I </div>
-				<div class="col-12">- Maquinas Hidraulicas </div>
-				<div class="col-12">- Termodinámica II </div>
-				<div class="col-12">- Mecanismos </div>
-				<div class="col-12">- Fundamentos Financieros </div>
-				<div class="col-12">- Etica Profesional </div>
+				<div class="col-12">-Electiva I </div>
+				<div class="col-12">-Maquinas Hidraulicas </div>
+				<div class="col-12">-Termodinámica II </div>
+				<div class="col-12">-Mecanismos </div>
+				<div class="col-12">-Fundamentos Financieros </div>
+				<div class="col-12">-Etica Profesional </div>
 
 
 			</div>
@@ -296,12 +296,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>VII Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- Métodos Numéricos	</div>
-				<div class="col-12">- Electiva Ii	</div>
-				<div class="col-12">- Instrumentación Y Control	</div>
-				<div class="col-12">- Transferencia De Calor	</div>
-				<div class="col-12">- Elementos De Máquinas	</div>
-				<div class="col-12">- Plan De Negocios	</div>
+				<div class="col-12">-Métodos Numéricos	</div>
+				<div class="col-12">-Electiva Ii	</div>
+				<div class="col-12">-Instrumentación Y Control	</div>
+				<div class="col-12">-Transferencia De Calor	</div>
+				<div class="col-12">-Elementos De Máquinas	</div>
+				<div class="col-12">-Plan De Negocios	</div>
 
 			</div>
 		</div>
@@ -311,12 +311,12 @@
 					<div class="row p-2 ">	<div class="col-12  "><strong>VIII Semestre</strong></div> </div>
 				</div>
 				
-					<div class="col-12">- Electiva III </div>
-					<div class="col-12">- Neumática </div>
-					<div class="col-12">- Refrigeración Y Aire Acondicionado </div>
-					<div class="col-12">- Diseño De Máquinas </div>
-					<div class="col-12">- Ingeniería De Planta </div>
-					<div class="col-12">- Seminario De Grado I </div>
+					<div class="col-12">-Electiva III </div>
+					<div class="col-12">-Neumática </div>
+					<div class="col-12">-Refrigeración Y Aire Acondicionado </div>
+					<div class="col-12">-Diseño De Máquinas </div>
+					<div class="col-12">-Ingeniería De Planta </div>
+					<div class="col-12">-Seminario De Grado I </div>
 
 			</div>
 		</div>
@@ -325,12 +325,12 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>IX Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- Automatización Industrial	</div>
-				<div class="col-12">- Sistemas Cad/Cam	</div>
-				<div class="col-12">- Ingenieria Legal	</div>
-				<div class="col-12">- Gerencia De Proyectos	</div>
-				<div class="col-12">- Seminario De Grado II	</div>
-				<div class="col-12">- Sistemas Integrados, Gestion De Calidad	</div>				
+				<div class="col-12">-Automatización Industrial	</div>
+				<div class="col-12">-Sistemas Cad/Cam	</div>
+				<div class="col-12">-Ingenieria Legal	</div>
+				<div class="col-12">-Gerencia De Proyectos	</div>
+				<div class="col-12">-Seminario De Grado II	</div>
+				<div class="col-12">-Sistemas Integrados, Gestion De Calidad	</div>				
 
 
 			</div>
@@ -340,8 +340,8 @@
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>X Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">- Practica Empresarial</div>
-				<div class="col-12">- Proyecto De Grado</div>
+				<div class="col-12">-Practica Empresarial</div>
+				<div class="col-12">-Proyecto De Grado</div>
 
 			</div>
 		</div>	
