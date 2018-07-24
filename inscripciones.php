@@ -124,8 +124,7 @@
 				<div class="col-12"><h3 class="p-2 f-negrita fuente-institucional texto-azul text-center">Aspirantes a programas presenciales y a distancia</h3></div>
 				<div class="col-12 text-justify pt-sans texto-azul">Todo aspirante de programa presencial y a distancia debe realizar su preinscripción por medio de esta página. Posteriormente, cancelar el valor de inscripción en la cuenta especicada en su recibo de pago. Una vez consignado el pago, deben acercarse a la Ofc. de Mercadeo para legalizar su inscripción con los documentos requeridos y el soporte de pago de inscripción.
 				<div class="col-12  mt-3">
-					<div class="row d-flex justify-content-center">
-						<a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">LEER MÁS</a>
+					<div class="row d-flex justify-content-center">						
 						<a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado">PDF ADMITIDOS</a>
 					</div>
 				</div>

@@ -19,16 +19,16 @@
       <li class="nav-item pt-2 pb-2  dropdown">
         <a class=" nav-link dropdown-toggle texto-azul pl-2 hvr-underline-from-center" href="inscripciones.php" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
         <div class="dropdown-menu f-size-12" aria-labelledby="admisiones">
-          <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="inscripciones.php">Admisiones</a>
-          <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck">Ayudas y Becas</a>
+          <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="inscripciones.php" target="_blanck_admin">Admisiones</a>
+          <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck_1">Ayudas y Becas</a>
           <ul class="navbar-nav"> <!-- navbar-nav -->
           <li class="col-12 nav-item dropdown dropright ">
             <a class="nav-link dropdown-toggle texto-azul pl-2 hvr-underline-from-center f-negrita" href="google.com" id="calendarios" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Calendarios </a>
-            <div class="dropdown-menu dropdown-menu-right f-size-12" aria-labelledby="calendarios">
-              <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/cronograma_general2017_1.pdf" target="_blanck">Calendario Académico 2017-1</a>
-              <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/cronograma_general2017_2.pdf" target="_blanck">Calendario Académico 2017-2</a>
-              <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/cronograma_general2018_1.pdf" target="_blanck">Calendario Académico 2018-1</a>
-              <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/cronograma_general2018_1.pdf" target="_blanck">Calendario Académico 2018-2</a>
+            <div class="dropdown-menu dropdown-menu-right f-size-12" aria-labelledby="calendarios">              
+              <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2018_II.pdf" target="_blanck_1">Calendario Académico 2018-2</a>
+              <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2018_1.pdf" target="_blanck_2">Calendario Académico 2018-1</a>
+              <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2017_2.pdf" target="_blanck_3">Calendario Académico 2017-2</a>
+              <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2017_1.pdf" target="_blanck_4">Calendario Académico 2017-1</a>
             </div>
           </li>
           
@@ -40,9 +40,9 @@
     <li class="nav-item pt-2 pb-2 dropdown  ">
       <a class=" nav-link dropdown-toggle texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="#" id="estudiantes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Estudiantes</a>
       <div class="dropdown-menu f-size-12" aria-labelledby="estudiantes">
-        <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/reglamento_estudiantil.pdf" target="_blanck">Reglamento Estudiantil</a>
-        <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://estudiantes.aunar.edu.co/" target="_blanck">Bisel Estudiantes</a>
-        <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://biblioteca.aunar.edu.co/" target="_blanck">Biblioteca</a>
+        <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/reglamento_estudiantil.pdf" target="_blanck_6">Reglamento Estudiantil</a>
+        <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://estudiantes.aunar.edu.co/" target="_blanck_7">Bisel Estudiantes</a>
+        <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://biblioteca.aunar.edu.co/" target="_blanck_8">Biblioteca</a>
       <!--div class="dropdown-divider"></div>
     <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://190.121.158.228/public/" target="_blanck">Graduados</a-->
   </div>
@@ -50,26 +50,26 @@
 <li class="nav-item pt-2 pb-2 dropdown  ">
   <a class=" nav-link dropdown-toggle texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="#" id="docentes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Docentes</a>
   <div class="dropdown-menu f-size-12" aria-labelledby="docentes">
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/reglamento_docentes.pdf" target="_blanck">Reglamento Docentes</a>
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://docentes.aunar.edu.co/"  target="_blanck">Bisel Docentes</a>
+    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/reglamento_docentes.pdf" target="_blanck_9">Reglamento Docentes</a>
+    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://docentes.aunar.edu.co/"  target="_blanck_10">Bisel Docentes</a>
   </div>
 </li>
 <li class="nav-item pt-2 pb-2  ">
-  <a class=" nav-link texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="convocatorias.php">Convocatorias</a>
+  <a class=" nav-link texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="convocatorias.php" target="_blanck_convocatorias" >Convocatorias</a>
 </li>
 <li class="nav-item pt-2 pb-2 dropdown  ">
   <!--a class="nav-link active texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="#">Extensiones</a-->
   <a class=" nav-link dropdown-toggle texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="#" id="extensiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Extensiones</a>
   <div class="dropdown-menu f-size-12" aria-labelledby="extensiones">
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://aunarcali.edu.co/ext/" target="_blanck">Cali</a>
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://www.aunarvillavicencio.edu.co/"  target="_blanck">Villavicencio</a>
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="https://aunarcartagena.edu.co/"  target="_blanck">Cartagena</a>
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck">Ipiales</a>
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck">Putumayo</a>
+    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://aunarcali.edu.co/ext/" target="_blanck_11">Cali</a>
+    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://www.aunarvillavicencio.edu.co/"  target="_blanck_12">Villavicencio</a>
+    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="https://aunarcartagena.edu.co/"  target="_blanck_13">Cartagena</a>
+    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck_14">Ipiales</a>
+    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck_15">Putumayo</a>
   </div>
 </li>
 <li class="nav-item pt-2 pb-2  ">
-  <a class=" nav-link texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="http://190.121.158.228/public/" target="_blanck">Graduados</a>
+  <a class=" nav-link texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="http://190.121.158.228/public/" target="_blanck_16">Graduados</a>
 </li>
 </ul>
 <!-- <div class="rectangulo-sesgado pt-2 pb-2 animated bounceInRight"> -->
