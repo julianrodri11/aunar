@@ -73,7 +73,7 @@
 					      </tr>
 					      <tr>
 					        <td class="borde-1 b-color-dmodas border-bottom-0 border-top-0" >Créditos: </td>
-					        <td class="borde-1 b-color-dmodas border-top-0 border-bottom-0" ></td>					        
+					        <td class="borde-1 b-color-dmodas border-top-0 border-bottom-0" >54</td>					        
 					      </tr>
 					      <tr>
 					        <td class="borde-1 b-color-dmodas border-top-0" >Lugar de desarrollo del programa:</td>
@@ -86,7 +86,7 @@
 					</div>
 					<div class="col-12 mt-5"> 
 						<label class="fuente-institucional f-color-dmodas f-negrita">CONTACTOS</label><br>
-						<label class="fuente-institucional "> x x x @aunar.edu.co</label>
+						<label class="fuente-institucional ">paula.guevara@aunar.edu.co</label>
 					</div>
 				</div>
 				<div class="col-12 col-lg-7 col-md-6 p-5">

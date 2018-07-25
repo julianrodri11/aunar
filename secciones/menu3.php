@@ -10,7 +10,7 @@
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
         <div class="pt-3 pl-3 pr-3 pb-0  ">
             <!-- <a href="https://www.youtube.com/watch?v=sQVbUfhm2ZQ" target="_blanck"></a> -->
-                <img class="img-fluid hvr-grow " src="img/iconos/v-institucional.svg" alt="" data-toggle="modal"   data-target="#modalVideoInstitucional">
+            <img class="img-fluid hvr-grow " src="img/iconos/v-institucional.svg" alt="" data-toggle="modal"   data-target="#modalVideoInstitucional">
             
         </div>
             <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita pb-1">VIDEO INSTITUCIONAL</p> 
@@ -19,8 +19,8 @@
 
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
         <div class="pt-3 pl-3 pr-3 pb-0  ">
-            <a href="#"  target="_blanck">
-                <img class="img-fluid hvr-grow " src="img/iconos/astereo.svg" alt="">
+            <a href=""  target="_aunar_estero">
+                <img class="img-fluid hvr-grow " src="img/iconos/astereo.svg" alt="aunar estereo">
             </a>
         </div>
             <p class="pt-0 mb-0 f-size-12 texto-azul f-negrita pb-1">AUNAR STEREO</p> 
@@ -29,7 +29,7 @@
 
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
         <div class="pt-3 pl-3 pr-3 pb-0  ">
-            <a href="https://www.youtube.com/watch?v=rNiBnmYdKtQ" target="_blanck">
+            <a href="https://www.youtube.com/watch?v=rNiBnmYdKtQ" target="_aunar_tv">
                 <img class="img-fluid hvr-grow " src="img/iconos/aunartv.svg" alt="">
             </a>
         </div>
@@ -39,7 +39,7 @@
 
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
         <div class="pt-3 pl-3 pr-3 pb-0  ">
-            <a href="http://campus.aunar.edu.co/"  target="_blanck">
+            <a href="http://campus.aunar.edu.co/"  target="_campus_virtual">
                 <img class="img-fluid hvr-grow " src="img/iconos/campus-virtual.svg" alt="">
             </a>
         </div>
@@ -49,7 +49,7 @@
 
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
         <div class="pt-3 pl-3 pr-3 pb-0  ">
-            <a href="http://aunartech.aunar.edu.co/"  target="_blanck">
+            <a href="http://aunartech.aunar.edu.co/"  target="_aunar_tech">
                 <img class="img-fluid hvr-grow " src="img/iconos/atech.svg" alt="">
             </a>
         </div>
@@ -59,7 +59,7 @@
 
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
         <div class="pt-3 pl-3 pr-3 pb-0  ">
-            <a href="http://cursos.aunar.edu.co/"  target="_blanck">
+            <a href="http://cursos.aunar.edu.co/"  target="_campus_presencial">
                 <img class="img-fluid hvr-grow " src="img/iconos/campus-presencial.svg" alt="">
             </a>
         </div>
@@ -69,7 +69,7 @@
 
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
         <div class="pt-3 pl-3 pr-3 pb-0  ">
-            <a href="http://docentes.aunar.edu.co/"  target="_blanck">
+            <a href="http://docentes.aunar.edu.co/"  target="_bisel_docentes">
                 <img class="img-fluid hvr-grow " src="img/iconos/bdocentes.svg" alt="">
             </a>
         </div>
@@ -79,7 +79,7 @@
 
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
         <div class="pt-3 pl-3 pr-3 pb-0  ">
-            <a href="http://estudiantes.aunar.edu.co/"  target="_blanck">
+            <a href="http://estudiantes.aunar.edu.co/"  target="_bisel_estudiantes">
                 <img class="img-fluid hvr-grow " src="img/iconos/bestudiantes.svg" alt="">
             </a>
         </div>
@@ -89,7 +89,7 @@
 
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
         <div class="pt-3 pl-3 pr-3 pb-0  ">
-            <a href="http://biblioteca.aunar.edu.co/"  target="_blanck">
+            <a href="http://biblioteca.aunar.edu.co/"  target="_biblioteca">
                 <img class="img-fluid hvr-grow " src="img/iconos/biblioteca.svg" alt="">
             </a>
         </div>

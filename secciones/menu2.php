@@ -130,7 +130,7 @@
           </div></div>
           <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">
             <div class="col-12 f-negrita py-2 ">BELLAS ARTES</div>
-            <div class="col-12 hvr-underline-from-center pointer"><a href="diseno-de-modas.php" class="sin-texto-subrayado texto-azul-os">Técnico Laboral por Competencias en Diseño y Confección de Modas  <strong>(No ofertado)</strong></a></div>
+            <div class="col-12 hvr-underline-from-center pointer"><a href="diseno-de-modas.php" class="sin-texto-subrayado texto-azul-os">Técnico Laboral por Competencias en Diseño y Confección de Modas</a></div>
             
           </div></div>
           <div class="col-6 col-sm-3 col-md-2 fuente-institucional texto-azul "><div class="row">

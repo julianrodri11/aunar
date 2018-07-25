@@ -124,13 +124,13 @@
 			<div class="col-8">
 				<div class="tab-content m-5" id="pills-tabContent">
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-				  	<div class="col-12">Tumaquito es un asentamiento de población afro desplazada por la violencia, el cual se encuentra ubicado en Anganoy... <strong>#AunarPasto</strong> a través de <strong>#AunarProyecciónSocial</strong> se preocupó por sus necesidades y decidió empezar un proceso de fortalecimiento comunitario con la ayuda de la Fundación Comuniquemos su Misericordia y el Servicio Jesuita a Refugiados: 3 Visualiza este corto video para que tú también conozcas esta experiencia :) ¡Aquí estamos comprometidos con nuestra comunidad!</div>
-				  	<div class="col-12 text-center">
-				  		<br>
-						<?php include_once('modal/modal-video-tumaco.php');?>
-						<a class="btn text-light fondo-azul-oscuro pt-sans hvr-forward" data-toggle="modal"   data-target="#modalVideoTumaco" >Ver Vídeo</a>
-					</div>				  	
-					
+				  	<div class="col-12">
+				  		En términos del Ministerio de Educación Nacional de Colombia, “la
+						internacionalización es un proceso que fomenta los lazos de cooperación e
+						integración de las Instituciones de Educación Superior (IES) con sus pares en
+						otros lugares del mundo, con el fin de alcanzar mayor presencia y visibilidad
+						internacional en un mundo cada vez más globalizado.”
+				  	</div>				  	
 				  </div>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
 				  	<div class="col-12">

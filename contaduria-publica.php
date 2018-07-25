@@ -147,7 +147,7 @@
 					</div>
 				</div>
 				<div class="col-12 col-sm-6 border-left b-color-cpublica-dis">
-					<div class="col-12"><h5 class="fuente-institucional f-color-cpublica-dis f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-cpublica-dis f-negrita text-center">CONBTADOR PÚBLICO ?</h3></div>
+					<div class="col-12"><h5 class="fuente-institucional f-color-cpublica-dis f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-cpublica-dis f-negrita text-center">CONTADOR PÚBLICO ?</h3></div>
 					<div class="col-12 pt-sans text-justify">
 						<br>-Recopilar y evaluar información del registro de las actividades de los entes económicos públicos y privados en todos sus aspectos financieros y sociales mediante la rendición de informes financieros fidedignos.
 						<br>-Aplicar el pensamiento estratégico que permita solucionar los problemas específicos del área contable de los entes económicos, armonizándolos con los aspectos jurídicos, administrativos e informáticos y su vinculación con el entorno socio – económico regional, nacional e internacional.

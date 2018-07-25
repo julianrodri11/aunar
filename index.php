@@ -55,9 +55,10 @@
   <div class="row ">
     <div class="col-lg-3 pt-5 pb-4 col-md-3 col-sm-12 d-flex justify-content-center align-items-center">
         <div class="row p-3 fondo-azul text-whited-flex justify-content-center">
-          <div class="pl-1 pr-1 "><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_1.pdf" target="_blank">Calendario Académico 2017-1</a></div>
-          <div class="pl-1 pr-1 "><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2017_2.pdf" target="_blank">Calendario Académico 2017-2</a></div>
-          <div class="pl-1 pr-1 "><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/cronograma_general2018_1.pdf" target="_blank">Calendario Académico 2018-1</a></div>          
+          <div class="pl-1 pr-1 "><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/CALENDARIO_ACADEMICO_2018_II.pdf" target="_blank">Calendario Académico 2018-2</a></div>          
+          <div class="pl-1 pr-1 "><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/CALENDARIO_ACADEMICO_2018_1.pdf" target="_blank">Calendario Académico 2018-1</a></div>          
+          <div class="pl-1 pr-1 "><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/CALENDARIO_ACADEMICO_2017_2.pdf" target="_blank">Calendario Académico 2017-2</a></div>
+          <div class="pl-1 pr-1 "><a class="fuente-institucional text-white hover-texto-amarillo" href="docs/CALENDARIO_ACADEMICO_2017_1.pdf" target="_blank">Calendario Académico 2017-1</a></div>
         </div>
     </div>
     <div class="col-lg-7 pt-5 pb-4 col-md-6 col-sm-12 text-center ">
@@ -73,7 +74,8 @@
     </div>
     <div class="col-lg-2 col-md-3 col-sm-12 d-flex justify-content-center align-items-center">
         <div class="pl-1 pt-5 pb-4 text-center  border-left borde-azul">
-          <h3 class=" mt-0 pt-0 fuente-institucional-bold texto-azul f-negrita hvr-underline-from-center pointer">Plan de Inversión</h3>
+          <h3 class=" mt-0 pt-0 fuente-institucional-bold texto-azul f-negrita hvr-underline-from-center pointer">
+            <a class="texto-azul-os sin-texto-subrayado" href="docs/plan_inversion.pdf" data-toggle="tooltip" data-placement="auto" title="Abrir" target="_blanckhva">Plan de Inversión</a></h3>
         </div>
     </div>
   </div>

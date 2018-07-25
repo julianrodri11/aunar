@@ -36,10 +36,10 @@
         <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
           <label class=" texto-amarillo fuente-institucional small f-negrita" >FORMATOS INSTITUCIONALES</label>
           <div class="mb-1 text-light fuente-institucional small ">
-            <a class="text-white" href="docs/hoja_vida_docentes.doc" data-toggle="tooltip" data-placement="auto" title="Descargar formato hoja de vida docentes" target="_blanck">Hoja de vida docentes</a>
+            <a class="text-white" href="docs/hoja_vida_docentes.doc" data-toggle="tooltip" data-placement="auto" title="Descargar formato hoja de vida docentes" target="_blanckhvd">Hoja de vida docentes</a>
           </div>
           <div class="mb-1 text-light fuente-institucional small ">
-            <a class="text-white" href="docs/hoja_vida_docentes.doc" data-toggle="tooltip" data-placement="auto" title="Descargar formato hoja de vida administrativos" target="_blanck">Hoja de vida administrativos</a>
+            <a class="text-white" href="docs/hoja_vida_administrativos.doc" data-toggle="tooltip" data-placement="auto" title="Descargar formato hoja de vida administrativos" target="_blanckhva">Hoja de vida administrativos</a>
           </div>
           
         </div>
