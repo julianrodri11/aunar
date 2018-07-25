@@ -309,14 +309,6 @@
 							</div>
 						</div>
 
-
-</div>
-<!-- fin lado ziquierdo -->
-<!-- lado derecho -->
-					<div class="col-12 col-md-6 pt-sans texto-azul-os">
-						
-						
-
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse26">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
 								Jaime Alberto Argoti Chamorro	
@@ -327,6 +319,16 @@
 								Economista- Tecnólogo En Administración Municipal Esp En Finanzas 2001
 							</div>
 						</div>
+
+
+</div>
+<!-- fin lado ziquierdo -->
+<!-- lado derecho -->
+					<div class="col-12 col-md-6 pt-sans texto-azul-os">
+						
+						
+
+						
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse27">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
@@ -477,127 +479,155 @@
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse40">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								
+								Luis Eduardo Obando Riascos	
 							</a>
 						</div>
 						<div id="collapse40" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-
+								Contador Público <br> 
+								Especialista En Revisoría Fiscal 2000
 							</div>
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse41">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								
+								Mario Fernando Chicaiza Trejo	
 							</a>
 						</div>
 						<div id="collapse41" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								
-								
+								Contador Público <br> 
+								Esp. En Revisoría Fiscal 2001
 							</div>
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse42">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								
+								Mónica Del Rosario Narváez  Yépez	
 							</a>
 						</div>
 						<div id="collapse42" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								
+								Administradora De Empresas <br> 
+								Administradora Financiera <br>
+								Mg Procesos De Dirección Empresarial
 							</div>
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse43">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								
+								Oswaldo Caicedo Rosero
 							</a>
 						</div>
 						<div id="collapse43" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								
+								Mg En Gestión De La Tecnología Educativa 2016 <br>
+								Especialista En Administración De La Informática Educativa,2014. <br>
+								Especialista En Revisoría Fiscal Contador Público. Administrador Financiero
 							</div>
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse44">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								
+								Paola Andrea Vallejo
 							</a>
 						</div>
 						<div id="collapse44" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								
+								Licenciada En Educación Básica, Humanidades Con Énfasis En Lengua Castellano E Ingles <br> 
+								Esp. Administración De La Informática Educativa
 							</div>
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse45">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								
+								Pedro Pablo Misnaza Guerrero	
 							</a>
 						</div>
 						<div id="collapse45" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								
+								Economista <br>
+								Mg En Gestión Empresarial 2012
 							</div>
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse46">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								
+								Ricardo Andrés Serralde Arellano	
 							</a>
 						</div>
 						<div id="collapse46" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								
-								
+								Administrador De Empresas <br>
+								Mg En Administración								
 							</div>
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse47">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								
+								Roberto Iván Bravo Sañudo	
 							</a>
 						</div>
 						<div id="collapse47" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								
+								Administrador De Empresas <br>
+								Esp. Alta Gerencia 2007
 							</div>
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse48">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								
+								Secundino Reveló Ayala	
 							</a>
 						</div>
 						<div id="collapse48" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-
+								Especialista/Matemáticas
 							</div>
 						</div>
 
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse49">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								
+								Socorro Vallejo Guerrero	
 							</a>
 						</div>
 						<div id="collapse49" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								
-								
+								Contadora Pública Especialización- Tributaria 2012								
 							</div>
 						</div>
 
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse50">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-
+								Sonia Del Carmen Buchely Rodríguez
 							</a>
 						</div>
 						<div id="collapse50" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
+								Contadora Pública Esp. Revisoría Fiscal 2001
+							</div>
+						</div>
 
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse50">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Sonia Patricia Argoty Constain	
+							</a>
+						</div>
+						<div id="collapse50" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Mg En Gerencia De La Educación 2006
+							</div>
+						</div>
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse50">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								William Andrés Meneses Rivadeneira
+							</a>
+						</div>
+						<div id="collapse50" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+									Candidato A Magister En Administración De Organizaciones
 							</div>
 						</div>
 
