@@ -184,168 +184,78 @@
 	<div class="row">
 		<div class="col-12 text-center"><h1 class="pt-sans texto-azul-os f-negrita py-5">Plan de Estudios</h1></div>
 	</div>
-	<div class="row d-flex bd-highlight justify-content-center">
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+	<div class="row d-flex bd-highlight justify-content-center p-2 p-lg-5">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">-No se ha enviado información por semestres</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+				<div class="col-12">-Ética Y Valores</div>
+				<div class="col-12">-Tecnología De La Información De La Comunicación I</div>
+				<div class="col-12">-Técnicas De Estudio</div>
+				<div class="col-12">-Cultura Institucional </div>
+				<div class="col-12">-Seguridad Social En Salud</div>
+				<div class="col-12">-Biomateriales Dentales</div>
+				<div class="col-12">-Anatomía </div>
+				<div class="col-12">-Morfología Dental </div>
+				<div class="col-12">-Diseño De Prótesis Y Tipos De Equipos</div>
 
 
 
 			</div>
 		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">-No se ha enviado información por semestres</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+				<div class="col-12">-Productos, Servicio Y Técnica De Ventas</div>
+				<div class="col-12">-Administración De Un Laboratorio Dental I </div>
+				<div class="col-12">-Cerámica</div>
+				<div class="col-12">-Prótesis Parcial Removible</div>
+				<div class="col-12">-Ortodoncia</div>
 
 
 			</div>
 		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">-No se ha enviado información por semestres</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+				<div class="col-12">-Productos, Servicio Y Técnica De Ventas</div>
+				<div class="col-12">-Administración De Un Laboratorio Dental I </div>
+				<div class="col-12">-Cerámica</div>
+				<div class="col-12">-Prótesis Parcial Removible</div>
+				<div class="col-12">-Ortodoncia</div>
+
 
 
 			</div>
 		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+		<div class="col-12 col-sm-4 col-md-3 col-lg-3 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
 				</div>
-				<div class="col-12">-No se ha enviado información por semestres</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
+				
+				<div class="col-12">-Servicio Y Atención Al Cliente </div>
+				<div class="col-12">-Administración De Un Laboratorio Dental II </div>
+				<div class="col-12">-Prótesis Mixtas Y Sobre Implantes</div>
+				<div class="col-12">-Ortopedia </div>
 
 
 			</div>
 		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
-				</div>
-				<div class="col-12">-No se ha enviado información por semestres</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-
-
-			</div>
-		</div>	
+			
 	</div>		
 	
 </div>
 
 
-<div class="container-fluid">
-	<div class="row d-flex bd-highlight justify-content-center">
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>VI Semestre</strong></div> </div>
-				</div>
-				<div class="col-12">-No se ha enviado información por semestres</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-
-
-			</div>
-		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>VII Semestre</strong></div> </div>
-				</div>
-				<div class="col-12">-No se ha enviado información por semestres</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-
-
-			</div>
-		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>VIII Semestre</strong></div> </div>
-				</div>
-				<div class="col-12">-No se ha enviado información por semestres</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-
-
-			</div>
-		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>IX Semestre</strong></div> </div>
-				</div>
-				<div class="col-12">-No se ha enviado información por semestres</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-
-
-			</div>
-		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>X Semestre</strong></div> </div>
-				</div>
-				<div class="col-12">-No se ha enviado información por semestres</div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-				<div class="col-12">- </div>
-
-
-			</div>
-		</div>	
-	</div>		
-	
-</div>
 			
 <!-- fin plan de estudios -->
 
