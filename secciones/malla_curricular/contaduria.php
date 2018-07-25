@@ -422,11 +422,12 @@
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse35">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
 								Juan Pablo Arroyo Guerrero	
+							</a>	
 						</div>
 						<div id="collapse35" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
 								Abogado. Esp. Derecho Comercial
-							</a>
+							
 							</div>
 						</div>
 
