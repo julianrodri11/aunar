@@ -767,3 +767,20 @@ font-weight: bold;
 {
 	background-color: #FFF6DC;
 }
+
+.accordion .card-header:after {
+    
+    content: attr(collapsed) "-";
+    font-size: 18px;    
+    float: left; 
+
+    
+}
+.accordion .card-header.collapsed:after {
+    /* symbol for "collapsed" panels */
+    content: attr(collapsed) "+";
+    font-size: 18px;    
+    float: left; 
+
+    
+}

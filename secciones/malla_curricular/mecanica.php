@@ -1,283 +1,176 @@
 <!-- malla curricular -->
-		<div class="container-fluid mb-5">
-			<div class="row  fuente-institucional texto-azul">
-				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita pointer">
-					<a class="texto-azul-os sin-texto-subrayado" target="_blanck" href="docs/malla_curricular/ingenieria_mecanica.pdf">Malla Curricular</a>
-				</div>
-				<div class="col-4"></div>
-				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">Grupos de Investigacón</div>
-				
-			</div>
-			<!-- slider de cada carrera -->
-			<div class="row">
-			
-					<?php  include_once('slider/slider_mecanica_docentes.php')?>
-			
-			</div>			
-			<!-- fin slider de cada carrera -->
-			<!-- acordeon -->
-			<div class="row d-flex justify-content-center mt-5">
-				<div class="col-10 col-lg-5">
-					<div id="accordion">
-
-
-
-					    <div class="card sin-borde">					    	
-					      <div class="card-header bg-white p-0 pl-3">
-					      	
-					      	<div class="row ">
-					      		<div class="col-1  p-2">
-					      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseOne"> 
-					      				+
-					      			</div>
-					      		</div>
-					      		<div class="col-11 p-2">
-					      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseOne">
-							          Claudia del Pilar Mora
-							        </a>
-					      		</div>
-							</div>
-
-					      </div>
-					      <div id="collapseOne" class="collapse " data-parent="#accordion">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
+<div class="container-fluid mb-5">
+	<div class="row  fuente-institucional texto-azul">
+		<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita pointer">
+			<a class="texto-azul-os sin-texto-subrayado" target="_blanck" href="docs/malla_curricular/ingenieria_mecanica.pdf">Malla Curricular</a>
+		</div>
+		<div class="col-4"></div>
+		<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">Grupos de Investigacón</div>
+		
+	</div>
+	<!-- slider de cada carrera -->
+	<div class="row">
+		
+		<?php  include_once('slider/slider_mecanica_docentes.php')?>
+		
+	</div>
+	<!-- fin slider de cada carrera -->
 	
-					          	Magister (c): Universidad Tecnológica de Pereira <br>
-								Titulo Obtenido: investigación de operación y estadística. <br> <br>
 
+	<!-- acordion -->
+	<div class="container">
+		<div id="accordion" class="accordion">
+			<div class="card mb-0 sin-borde">
+				
+				<div class="row d-flex justify-content-center">
+					<!-- lado ziquierdo -->
+					<div class="col-12 col-md-6 pt-sans texto-azul-os">
+						
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseOne">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Claudia del Pilar Mora
+							</a>
+						</div>
+						<div id="collapseOne" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Magister (c): Universidad Tecnológica de Pereira <br>
+								Titulo Obtenido: investigación de operación y estadística. <br> <br>
 								Especialización: Fundación Universitaria los Libertadores. <br>
 								Titulo Obtenido: Estadística Aplicada.  <br>
 								Bogotá, Diciembre del 2012 <br>
 								PREGRADO: Universidad de Cundinamarca <br> <br>
-
 								Facultad de educación <br>
 								Título Obtenido: <br>
 								Licenciatura en matemáticas  <br>
 								Fusagasugá, enero del 2009 <br>
-
 							</div>
-					        </div>
-					      </div>
-					    </div>
-
-
-
-
-					    <div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">
-
-					      		<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseTwo"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-						      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseTwo">
-						        		Gabriel Andrés Obando</a>
-						      		</div>
-								</div>
-					      
-					      </div>
-					      <div id="collapseTwo" class="collapse" data-parent="#accordion">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
+						</div>
+						
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Gabriel Andrés Obando
+							</a>
+						</div>
+						<div id="collapseTwo" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
 								Magister en Desarrollo Sostenible y Medio Ambiente de la Universidad de Manizales <br> <br>
-						        Ingeniero Químico de la Universidad Nacional de Colombia con estudios de master en Nutrición y Dietética Internacional <br> <br>
-						        Coach y motivador en inteligencia emocional y comunicación asertiva
+								Ingeniero Químico de la Universidad Nacional de Colombia con estudios de master en Nutrición y Dietética Internacional <br> <br>
+								Coach y motivador en inteligencia emocional y comunicación asertiva
 							</div>
-					        </div>
-					      </div>
-					    </div>
-
-
-
-
-					    <div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">							
-							<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseThree"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseThree">Jaime Ernesto Narvaez Viteri</a>			    
-						      		</div>
-							</div>
-					      </div>
-					      <div id="collapseThree" class="collapse" data-parent="#accordion">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-					         	Pregrado: Ingeniero Químico - Universidad de Antioquía <br>
+						</div>
+						
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Jaime Ernesto Narvaez Viteri
+							</a>
+						</div>
+						<div id="collapseThree" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Pregrado: Ingeniero Químico - Universidad de Antioquía <br>
 								Maestria: Maestría en Mercadeo Agroindustrial - Universidad Jorge Tadeo y Lozano – Universidad de Nariño. <br><br>
 								Especializaciones: <br>
 								Especialista en Ecología y Gestión Ambiental - Universidad de Nariño <br>
 								Especialista en Docencia Universitaria - Universidad Cooperativa de Colombia <br>
 								Especialista en Gerencia en Seguridad y Salud en el Trabajo - Fundación del Área Andina
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseFour">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Ricardo Mauricio Ortega Mipaz
+							</a>
+						</div>
+						<div id="collapseFour" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Pregrado: Licenciatura En Matemáticas Universidad De Nariño <br>
+								Maestria: Candidato a Magister.  <br>
+			                   	Maestría en investigación de operaciones y Estadística. <br>
+			                   	Universidad Tecnológica de Pereira – Universidad de Nariño. 
 
 							</div>
-					        </div>
-					      </div>
-					    </div>
+						</div>
 						
-
-						<div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">							
-							<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseFour"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseFour">Ricardo Mauricio Ortega Mipaz</a>			    
-						      		</div>
-							</div>
-					      </div>
-					      <div id="collapseFour" class="collapse" data-parent="#accordion">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						        Pregrado: Licenciatura En Matemáticas Universidad De Nariño <br>
-								Maestria: Candidato a Magister. <br>
-				                Maestría en investigación de operaciones y Estadística.
-				                Universidad Tecnológica de Pereira – Universidad de Nariño.
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Jorge Andrés Ruiz
+							</a>
+						</div>
+						<div id="collapseFive" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Pregrado: Universidad De Nariño - Ingeniero Civil <br>
+								Posgrado: Universidad Pontificia Javeriana - Gestión de Servicios por Proyectos
 
 							</div>
-					        </div>
-					      </div>
-					    </div>
+						</div>
+					</div>
+					<!-- fin lado ziquierdo -->
+					<!-- lado derecho -->
+					<div class="col-12 col-md-6 pt-sans texto-azul-os">
+						
+						
+						
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Ana Milena Ortiz
+							</a>
+						</div>
+						<div id="collapseSix" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Profesional en el área de la Salud, con destrezas propias de la carrera de Fisioterapia. Magíster en Prevención de Riesgos Laborales con énfasis en Seguridad y Salud en el Trabajo, Higiene Industrial y Ergonomía. Conocimientos en Sistemas de Gestión de Seguridad y Salud en el trabajo,  OHSAS 18001, Sistemas integrados de Gestión, Sistema General de Seguridad Social en Salud, Auditoría de Procesos empresariales y habilidad para manejo de personal, experiencia para brindar capacitaciones en políticas organizacionales. Actitud de liderazgo, trabajo en equipo y compromiso con la institución y la comunidad.
+							</div>
+						</div>
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Richard Moran
+							</a>
+						</div>
+						<div id="collapseSeven" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Es un Ingeniero Mecánico, Magister en Ingeniería con Énfasis en Ingeniería Mecánica egresado de la Universidad del Valle. Actualmente es Candidato a Doctor en Ingeniería con Énfasis en Mecánica de Sólidos de la misma universidad y becario de Colciencias. Ha trabajado como investigador y asistente de investigación con el grupo de Biomecánica de la Universidad del Valle, donde se ha desempeñado en el diseño y caracterización de sistemas de fijación para huesos, modelamiento de tejidos biológicos como el tejido cerebral y actualmente está trabajando en el desarrollo de un sistema de construcción prefabricado basado en Guadua. Durante el segundo semestre del 2015 fue visitan schoolar de la Universidad de Pittsburgh (Estados Unidos) donde realizó una investigación para caracterizar el comportamiento transversal del bambú. Es autor de más de 10 artículos científicos publicados en revistas nacionales e internacionales. 
+							</div>
+						</div>
+
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseHeight">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Luis H Colunge
+							</a>
+						</div>
+						<div id="collapseHeight" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Diseñador Industrial - Universidad de Nariño <br>
+								Especialista en Docencia Universitaria - Universidad de Nariño <br> 
+								Especialista en Administración de la Informática Educativa - Universidad de Santander.
+
+							</div>
+						</div>
+
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseNine">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Tito Manuel Piamba
+							</a>
+						</div>
+						<div id="collapseNine" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Pregrado: Universidad del Cauca <br>
+								Facultad de Ingeniería Electrónica y Telecomunicaciones
+								Título Obtenido:
+								Ingeniero en Automática Industrial.
+
+							</div>
+						</div>
+
+
+
 
 					</div>
+					<!-- fin lado derecho -->
 				</div>
-
-<!-- lado derecho -->
-				<!-- <div class="col-2 col-lg-2"></div> -->
-				<div class="col-10 col-lg-5">
-					<div id="accordion2">
-
-
-
-					    <div class="card sin-borde">					    	
-					      <div class="card-header bg-white p-0 pl-3">
-					      	
-					      	<div class="row ">
-					      		<div class="col-1  p-2">
-					      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d1"> 
-					      				+
-					      			</div>
-					      		</div>
-					      		<div class="col-11 p-2">
-					      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d1">
-							          Fredy Armando Romero
-							        </a>
-					      		</div>
-							</div>
-
-					      </div>
-					      <div id="collapse-d1" class="collapse " data-parent="#accordion2">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
-
-
-
-
-					    <div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">
-
-					      		<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d2"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-						      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d2">
-						        		Andres Santacruz</a>
-						      		</div>
-								</div>
-					      
-					      </div>
-					      <div id="collapse-d2" class="collapse" data-parent="#accordion2">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
-
-
-
-
-					    <div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">							
-							<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d3"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d3">Fredy Armando Romero</a>			    
-						      		</div>
-							</div>
-					      </div>
-					      <div id="collapse-d3" class="collapse" data-parent="#accordion2">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
-						
-
-						<div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">							
-							<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d4"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d4">Fredy Armando Romero</a>			    
-						      		</div>
-							</div>
-					      </div>
-					      <div id="collapse-d4" class="collapse" data-parent="#accordion2">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
-
-					</div>
-				</div>
-				<!-- fin lado derecjo -->
-
 			</div>
 		</div>
+	</div>
+	<!-- fin acordeon -->
+
+
+</div>

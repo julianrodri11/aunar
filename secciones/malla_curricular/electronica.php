@@ -1,267 +1,71 @@
 <!-- malla curricular -->
-		<div class="container-fluid mb-5">
-			<div class="row  fuente-institucional texto-azul">
-				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita pointer">
-				<a class="texto-azul-os sin-texto-subrayado" target="_blanck" href="docs/malla_curricular/ingenieria_electronica.pdf">Malla Curricular</a>
-				</div>
-				<div class="col-4"></div>
-				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">Grupos de Investigacón</div>
-				
-			</div>
-			
-			
-			<!-- slider de cada carrera -->
-			<div class="row">
-			
-					<?php  include_once('slider/slider_electronica_docentes.php')?>
-			
-			</div>			
-			<!-- fin slider de cada carrera -->
-
-			<!-- acordeon -->
-			<div class="row d-flex justify-content-center mt-5">
-				<div class="col-10 col-lg-5">
-					<div id="accordion">
-
-
-
-					    <div class="card sin-borde">					    	
-					      <div class="card-header bg-white p-0 pl-3">
-					      	
-					      	<div class="row ">
-					      		<div class="col-1  p-2">
-					      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseOne"> 
-					      				+
-					      			</div>
-					      		</div>
-					      		<div class="col-11 p-2">
-					      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseOne">
-							          Cristian Castro
-							        </a>
-					      		</div>
-							</div>
-
-					      </div>
-					      <div id="collapseOne" class="collapse " data-parent="#accordion">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">	
-						        Físico - Universidad De Nariño
-							</div>
-					        </div>
-					      </div>
-					    </div>
-
-
-
-
-					    <div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">
-
-					      		<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseTwo"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-						      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseTwo">
-						        		Fredy Alexis Dulce Mera</a>
-						      		</div>
-								</div>
-					      
-					      </div>
-					      <div id="collapseTwo" class="collapse" data-parent="#accordion">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
+<div class="container-fluid mb-5">
+	<div class="row  fuente-institucional texto-azul">
+		<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita pointer">
+			<a class="texto-azul-os sin-texto-subrayado" target="_blanck" href="docs/malla_curricular/ingenieria_electronica.pdf">Malla Curricular</a>
+		</div>
+		<div class="col-4"></div>
+		<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">Grupos de Investigacón</div>
+		
+	</div>
 	
-						        Ingeniero Electrónico – Universidad De Nariño <br>
+	
+	<!-- slider de cada carrera -->
+	<div class="row">
+		
+		<?php  include_once('slider/slider_electronica_docentes.php')?>
+		
+	</div>
+	<!-- fin slider de cada carrera -->
+	
+	<!-- acordion -->
+	<div class="container">
+		<div id="accordion" class="accordion">
+			<div class="card mb-0 sin-borde">
+				
+				<div class="row d-flex justify-content-center">
+					<!-- lado ziquierdo -->
+					<div class="col-12 col-md-6 pt-sans texto-azul-os">
+						
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseOne">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Cristian Castro
+							</a>
+						</div>
+						<div id="collapseOne" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Físico - Universidad De Nariño
+							</div>
+						</div>
+						
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Fredy Alexis Dulce Mera
+							</a>
+						</div>
+						<div id="collapseTwo" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Ingeniero Electrónico – Universidad De Nariño <br>
 								Magíster En Ingeniería Electrónica Y De Computadores – Universidad De Los Andes
-
 							</div>
-					        </div>
-					      </div>
-					    </div>
-
-
-
-
-					    <div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">							
-							<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseThree"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseThree">Nohora Lucía España Mejía</a>			    
-						      		</div>
-							</div>
-					      </div>
-					      <div id="collapseThree" class="collapse" data-parent="#accordion">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
+						</div>
+						
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Nohora Lucía España Mejía
+							</a>
+						</div>
+						<div id="collapseThree" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
 								Magíster En Ingeniería Electrónica Y De Computadores - Universidad De Los Andes <br>
 								Ingeniera Electrónica - Universidad De Nariño
-
 							</div>
-					        </div>
-					      </div>
-					    </div>
-						
-
-						<div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">							
-							<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseFour"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseFour">Lorem ipsum dolor.</a>			    
-						      		</div>
-							</div>
-					      </div>
-					      <div id="collapseFour" class="collapse" data-parent="#accordion">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
-
+						</div>
 					</div>
+					<!-- fin lado ziquierdo -->
 				</div>
-
-<!-- lado derecho -->
-				<!-- <div class="col-2 col-lg-2"></div> -->
-				<div class="col-10 col-lg-5">
-					<div id="accordion2">
-
-
-
-					    <div class="card sin-borde">					    	
-					      <div class="card-header bg-white p-0 pl-3">
-					      	
-					      	<div class="row ">
-					      		<div class="col-1  p-2">
-					      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d1"> 
-					      				+
-					      			</div>
-					      		</div>
-					      		<div class="col-11 p-2">
-					      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d1">
-							          Lorem ipsum dolor.
-							        </a>
-					      		</div>
-							</div>
-
-					      </div>
-					      <div id="collapse-d1" class="collapse " data-parent="#accordion2">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
-
-
-
-
-					    <div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">
-
-					      		<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d2"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-						      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d2">
-						        		Lorem ipsum dolor.</a>
-						      		</div>
-								</div>
-					      
-					      </div>
-					      <div id="collapse-d2" class="collapse" data-parent="#accordion2">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
-
-
-
-
-					    <div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">							
-							<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d3"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d3">Lorem ipsum dolor.</a>			    
-						      		</div>
-							</div>
-					      </div>
-					      <div id="collapse-d3" class="collapse" data-parent="#accordion2">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
-						
-
-						<div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">							
-							<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d4"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d4">Lorem ipsum dolor.</a>			    
-						      		</div>
-							</div>
-					      </div>
-					      <div id="collapse-d4" class="collapse" data-parent="#accordion2">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
-
-					</div>
-				</div>
-				<!-- fin lado derecjo -->
-
 			</div>
 		</div>
+	</div>
+	<!-- fin acordeon -->
+</div>
