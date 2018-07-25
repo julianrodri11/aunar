@@ -8,261 +8,305 @@
 				
 			</div>
 			<!-- slider de cada carrera -->
-			<div class="row">
-			
-					<?php  include_once('slider/slider_admon_docentes.php')?>
-			
+			<div class="row">			
+					<?php  include_once('slider/slider_admon_docentes.php')?>			
 			</div>			
 			<!-- fin slider de cada carrera -->
-			
-			<!-- acordeon -->
-			<div class="row d-flex justify-content-center mt-5">
-				<div class="col-10 col-lg-5">
-					<div id="accordion">
 
 
 
-					    <div class="card sin-borde">					    	
-					      <div class="card-header bg-white p-0 pl-3">
-					      	
-					      	<div class="row ">
-					      		<div class="col-1  p-2">
-					      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseOne"> 
-					      				+
-					      			</div>
-					      		</div>
-					      		<div class="col-11 p-2">
-					      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseOne">
-							          Fredy Armando Romero
-							        </a>
-					      		</div>
-							</div>
-
-					      </div>
-					      <div id="collapseOne" class="collapse " data-parent="#accordion">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
-
-
-
-
-					    <div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">
-
-					      		<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseTwo"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-						      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseTwo">
-						        		Andres Santacruz</a>
-						      		</div>
-								</div>
-					      
-					      </div>
-					      <div id="collapseTwo" class="collapse" data-parent="#accordion">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
-
-
-
-
-					    <div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">							
-							<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseThree"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseThree">Fredy Armando Romero</a>			    
-						      		</div>
-							</div>
-					      </div>
-					      <div id="collapseThree" class="collapse" data-parent="#accordion">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
+<!-- acordion Docentes-->
+	<div class="container">
+		<div id="accordion" class="accordion">
+			<div class="card mb-0 sin-borde">
+				
+				<div class="row d-flex justify-content-center">
+					<!-- lado ziquierdo -->
+					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 						
-
-						<div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">							
-							<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapseFour"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapseFour">Fredy Armando Romero</a>			    
-						      		</div>
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseOne">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Anabelly  Fernanda González López
+							</a>
+						</div>
+						<div id="collapseOne" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Administradora Financiera, Magister En Administración Y Competitividad.
 							</div>
-					      </div>
-					      <div id="collapseFour" class="collapse" data-parent="#accordion">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
+						</div>
+						
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Andrés Alberto Rodríguez
+							</a>
+						</div>
+						<div id="collapseTwo" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público, Magister En Mercadeo
 							</div>
-					        </div>
-					      </div>
-					    </div>
+						</div>
+						
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Carlos Delgado Betancourt
+							</a>
+						</div>
+						<div id="collapseThree" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador
+							</div>
+						</div>
+					
+					
+						
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseFour">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Elizabeth Caicedo Madroñero
+							</a>
+						</div>
+						<div id="collapseFour" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Mercadologa.
 
-					</div>
-				</div>
+							</div>
+						</div>
+						
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Elizabeth Bastidas
+							</a>
+						</div>
+						<div id="collapseFive" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+							Psicóloga
+							</div>
+						</div>
 
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Fernanda Garcés Bolaños
+							</a>
+						</div>
+						<div id="collapseSix" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Economista
+							</div>
+						</div>
+
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Franco Guerrero
+							</a>
+						</div>
+						<div id="collapseSeven" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Comercio Internacional
+							</div>
+						</div>
+
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseHeight">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Juan Ignacio Guerrero Benavides
+							</a>
+						</div>
+						<div id="collapseHeight" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público / Mg-Educación Desde La Diversidad 2013.
+							</div>
+						</div>
+
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseNine">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Rocío Rosero De La Torre
+							</a>
+						</div>
+						<div id="collapseNine" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Ingeniera Industrial, Esp Finanzas Y Mag En Pedagogía 
+							</div>
+						</div>
+
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Javier Hernán Polo
+							</a>
+						</div>
+						<div id="collapseTen" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Licenciado En Filosofía
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse11">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Jesús Santacruz
+							</a>
+						</div>
+						<div id="collapse11" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador-Público - Especialista En Gerencia Tributaria 
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse12">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Jorge Andrés Ruiz Merchancano
+							</a>
+						</div>
+						<div id="collapse12" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Ingeniero Civil Esp Gestión De Servicios 2006
+							</div>
+						</div>
+</div>
+<!-- fin lado ziquierdo -->
 <!-- lado derecho -->
-				<!-- <div class="col-2 col-lg-2"></div> -->
-				<div class="col-10 col-lg-5">
-					<div id="accordion2">
-
-
-
-					    <div class="card sin-borde">					    	
-					      <div class="card-header bg-white p-0 pl-3">
-					      	
-					      	<div class="row ">
-					      		<div class="col-1  p-2">
-					      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d1"> 
-					      				+
-					      			</div>
-					      		</div>
-					      		<div class="col-11 p-2">
-					      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d1">
-							          Fredy Armando Romero
-							        </a>
-					      		</div>
-							</div>
-
-					      </div>
-					      <div id="collapse-d1" class="collapse " data-parent="#accordion2">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
-
-
-
-
-					    <div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">
-
-					      		<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d2"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-						      			<a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d2">
-						        		Andres Santacruz</a>
-						      		</div>
-								</div>
-					      
-					      </div>
-					      <div id="collapse-d2" class="collapse" data-parent="#accordion2">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
-
-
-
-
-					    <div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">							
-							<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d3"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d3">Fredy Armando Romero</a>			    
-						      		</div>
-							</div>
-					      </div>
-					      <div id="collapse-d3" class="collapse" data-parent="#accordion2">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
-							</div>
-					        </div>
-					      </div>
-					    </div>
+					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 						
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse13">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Juan Manuel Obando Florez
+							</a>
+						</div>
+						<div id="collapse13" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Abogado
+							</div>
+						</div>
 
-						<div class="card sin-borde">
-					      <div class="card-header bg-white p-0 pl-3">							
-							<div class="row ">
-						      		<div class="col-1  p-2">
-						      			<div class="text-center f-size-14 f-negrita"  data-toggle="collapse" href="#collapse-d4"> 
-						      				+
-						      			</div>
-						      		</div>
-						      		<div class="col-11 p-2">
-								        <a class="collapsed card-link pt-sans texto-azui-os f-negrita a-new" data-toggle="collapse" href="#collapse-d4">Fredy Armando Romero</a>			    
-						      		</div>
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse14">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Paola Andrea Vallejo
+							</a>
+						</div>
+						<div id="collapse14" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público
 							</div>
-					      </div>
-					      <div id="collapse-d4" class="collapse" data-parent="#accordion2">
-					        <div class="card-body p-4 d-flex justify-content-center">
-							<div class="col-10">
-	
-						          Docente T.C. programa de Programa
-						          <p>Docente Hora catedra departamento </p>
-						          <p>Aunar cuenta con un cuerpo de docentes comprometido con el desarrollo profesional y personal de cada estudiante, aportando conocimientos desde una visión global para el desarrollo regional; todo lo anterior, en el marco de la alta calidad educativa.</p>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse15">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Pedro Pablo Misnaza
+							</a>
+						</div>
+						<div id="collapse15" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Economista
 							</div>
-					        </div>
-					      </div>
-					    </div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse16">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Rider Giovanny Benavides
+							</a>
+						</div>
+						<div id="collapse16" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Ingeniero en sistemas
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse17">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Secundino Reveló
+							</a>
+						</div>
+						<div id="collapse17" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Matemático
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse18">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Carlos Iván Bucheli Chávez
+							</a>
+						</div>
+						<div id="collapse18" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Físico- Licenciado En Matemáticas- Esp. Docencia Universitaria- Mg- Modelos De La Enseñanza Problémica
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse19">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Mónica Del Rosario Narváez
+							</a>
+						</div>
+						<div id="collapse19" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Administradora De Empresas, Financiera, Máster Procesos De Dirección Empresarial
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse20">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Henry Estrella
+							</a>
+						</div>
+						<div id="collapse20" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Público, Administrador Financiero, Esp Gerencia De Proyectos.
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse21">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Julio Cesar Urbano
+							</a>
+						</div>
+						<div id="collapse21" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse22">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Carlos Fernando Vela
+							</a>
+						</div>
+						<div id="collapse22" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Administrador- Magister En Gerencia Y Asesoría Financiera
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse23">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Luis Alejandro Enríquez Rosales
+							</a>
+						</div>
+						<div id="collapse23" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Abogado
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse24">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								María Victoria Narváez Erazo
+							</a>
+						</div>
+						<div id="collapse24" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Trabajadora Social
+							</div>
+						</div>
+
 
 					</div>
+					<!-- fin lado derecho -->
 				</div>
-				<!-- fin lado derecjo -->
-
 			</div>
+		</div>
+	</div>
+	<!-- fin acordeon docentes -->
+			
+			
 		</div>

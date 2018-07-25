@@ -88,6 +88,12 @@
 							</div>
 						</div>
 						
+						
+</div>
+<!-- fin lado ziquierdo -->
+<!-- lado derecho -->
+					<div class="col-12 col-md-6 pt-sans texto-azul-os">
+
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
 								José Alejandro Salazar Castro
@@ -101,10 +107,6 @@
 							Áreas de trabajo: Inteligencia artificial, procesamiento de señales, procesamiento de imágenes, reducción de dimensión, visualización inteligente de la información, electromedicina, automatización y control.
 							</div>
 						</div>
-</div>
-<!-- fin lado ziquierdo -->
-<!-- lado derecho -->
-					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
@@ -136,7 +138,7 @@
 						</div>
 
 
-						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseHeight">
+						<!-- <div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseHeight">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
 								Lorem ipsum dolor.
 							</a>
@@ -169,7 +171,7 @@
 							<div class="card-body p-4 text-justify">
 								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed blanditiis repellendus laborum repudiandae labore quisquam debitis tempore quae quod quia esse, voluptates rem excepturi at est suscipit rerum quidem consequatur itaque dolorum atque, molestias quasi. Quas eius maxime, perspiciatis velit laudantium cumque eum quia illo nemo accusantium fugiat id officiis est ea, consequuntur aliquam ipsa facere libero exercitationem quis hic impedit harum minus asperiores dicta? Molestias corporis quos provident, dolorum quibusdam, sed animi, illum nesciunt velit ratione qui dolor inventore eum quae ea sapiente? Fuga earum consequuntur, dolor facere eius ex. Odit adipisci enim nostrum, quos nisi aut dicta soluta eveniet pariatur nesciunt incidunt architecto cumque temporibus veniam dolore est natus ullam odio magni. Ea eveniet, laboriosam maxime quibusdam voluptatibus nesciunt quia consequatur in placeat animi, illum architecto ad doloremque explicabo sapiente ipsam reprehenderit laudantium, et unde consectetur modi. Iusto omnis voluptate libero itaque molestias ex, ipsa corporis cum accusantium?
 							</div>
-						</div>
+						</div> -->
 
 
 					</div>
