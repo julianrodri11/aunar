@@ -641,5 +641,5 @@
 	</div>
 	<!-- fin acordeon docentes -->
 
-			</div>
+			
 		</div>

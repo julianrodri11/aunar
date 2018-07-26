@@ -26,35 +26,35 @@
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseOne">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								Información no enviada
+								Docentes Alejandra Narváez Herrera
 							</a>
 						</div>
 						<div id="collapseOne" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur fuga praesentium dignissimos, quam provident saepe numquam modi hic, sint cupiditate ipsum id nobis dolorum obcaecati molestiae consectetur sed libero. Possimus molestias, aspernatur quia deserunt totam nesciunt provident eaque amet veritatis optio ab ex quaerat, dolorem alias? Molestiae rerum, quia ex eveniet ipsam, error labore ducimus maiores, reiciendis explicabo atque sint nesciunt consequuntur, dolorum. Iusto odit, ducimus recusandae consequatur aspernatur obcaecati consequuntur veniam eaque quae molestias, aperiam ipsa libero rem. Voluptatibus perspiciatis nesciunt ratione aliquid dolorum magni repudiandae laboriosam sed odit voluptas, doloribus ducimus, magnam error illum quas tempora exercitationem, quasi aliquam, fugit repellat. Impedit ducimus eaque rerum corporis porro dolore voluptas dolorem, praesentium earum magni laborum libero molestias, nisi soluta dignissimos perspiciatis numquam natus saepe veniam accusantium, incidunt asperiores. Laudantium adipisci ex voluptates, amet! Rem corporis architecto a vitae eligendi sequi inventore tempora exercitationem! Distinctio ad, quia quam dicta voluptate.
-
+									Bióloga 
 							</div>
 						</div>
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								Información no enviada
+								Alfredo Latorre
 							</a>
 						</div>
 						<div id="collapseTwo" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet temporibus aperiam, vitae cum animi hic doloribus, odit labore. Eum numquam sit quidem minima delectus, ut expedita ipsum nihil ea cum iusto porro, voluptates obcaecati harum ex excepturi fugit consectetur, esse, odio temporibus. Aspernatur reiciendis quia assumenda, architecto ad cumque porro consectetur doloribus, sed velit reprehenderit rem illo natus laboriosam enim eveniet repellat! Eum placeat officia voluptates dignissimos eius, odit sit inventore enim repellendus! Commodi blanditiis necessitatibus laudantium accusamus sit tenetur, at eos vitae tempore. Sequi nobis cupiditate, consequuntur cumque sint impedit, illum nemo, ea, tenetur iure facilis ipsum quidem! Eaque quis expedita soluta corrupti voluptatum fugiat nemo, neque, officia fuga error deleniti vitae ipsum obcaecati? Reiciendis tempora doloremque quidem tenetur, maiores quisquam distinctio similique repellat consequuntur nostrum ex asperiores possimus nemo officia ut sint laboriosam ullam. Sequi dolorum perspiciatis, architecto corporis error dicta blanditiis eaque facilis, eum ab quibusdam sint!
+								Magister En Dirección De Empresas /2015
 							</div>
 						</div>
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								Información no enviada
+								Ana Cristina Martínez R	
 							</a>
 						</div>
 						<div id="collapseThree" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, quod tenetur totam, praesentium eaque provident magnam nobis magni ex similique dolorum animi porro quaerat, quisquam eos voluptate, laborum voluptas incidunt vitae distinctio! Soluta accusantium doloremque distinctio molestias quisquam illum error modi voluptatem, qui placeat ad blanditiis iusto maiores at harum debitis dolor minima dolorum alias sed veniam perspiciatis rem fugit aut optio. Culpa laborum explicabo, nisi. Labore rerum iste beatae, nam, incidunt molestias ad eligendi pariatur vitae quaerat error consequatur debitis asperiores autem, repellendus sunt ipsam minima. Quas cupiditate sit incidunt ratione ea omnis inventore blanditiis pariatur rerum. Aspernatur autem, officiis modi rerum voluptatibus sit minus, repudiandae! Earum, ullam, aut. Neque quod provident ea quas repellendus eius minima. Voluptatem magnam temporibus alias nostrum quibusdam neque, repudiandae unde doloremque id cum beatae sint fugiat dolores, sunt. Ipsam at neque quia, dolores ut nisi laboriosam cum, delectus incidunt expedita repellat eligendi corporis.
+								Contador Pública Especialista, Maestrante En Gestión De Tecnología  Educativa								
+								
 							</div>
 						</div>
 					
@@ -62,87 +62,572 @@
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseFour">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								Información no enviada
+								Anabelly Fernanda González López	
 							</a>
 						</div>
 						<div id="collapseFour" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores dicta nobis, culpa tempore id magni architecto aspernatur molestiae earum, doloremque ipsam unde possimus eum minima, nisi blanditiis reiciendis consequuntur molestias libero maxime? Iusto tenetur, dignissimos dolorem id magnam numquam voluptatem atque voluptatum illo quas. Dicta deserunt mollitia, placeat! Assumenda repellat asperiores magni reiciendis nobis, autem quos, reprehenderit dolor laborum sapiente sunt ex quia facere soluta minima magnam labore doloribus officia voluptatem explicabo eos laudantium sed. Fuga omnis excepturi laborum vel natus, molestiae officiis, soluta expedita praesentium eos recusandae quo cumque ex, id deleniti, doloremque iusto. Mollitia quibusdam, consectetur distinctio ipsam placeat sed repellat incidunt officia debitis odit culpa sunt deleniti nulla perspiciatis laboriosam sequi cum ad nisi voluptas iste nobis ipsum suscipit, iure. Impedit placeat suscipit asperiores provident inventore quibusdam necessitatibus incidunt harum sint nulla molestias perspiciatis obcaecati tempora a quae et ex sit, mollitia modi repellendus. Vitae quisquam, eveniet?
+								Administrador Financiero Magister En Administración Y Competitividad								
 
 							</div>
 						</div>
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								Información no enviada
+								Andrés Rodríguez Chávez	
 							</a>
 						</div>
 						<div id="collapseFive" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem numquam, itaque dolorum fugiat aut omnis odio ipsa ex illo saepe, distinctio molestiae dolorem impedit explicabo ut iusto fugit aliquid quibusdam adipisci facilis dolore. Dolores perspiciatis, harum sed maxime facilis iusto et, provident animi dolorem impedit aperiam a porro. Iste tempore cum ab natus consectetur quos, sunt expedita ipsam soluta voluptate quis sapiente unde placeat quibusdam illo deserunt, recusandae fuga hic, vitae, incidunt? Consequatur quaerat officiis dignissimos dicta quia sint perferendis odit pariatur, aspernatur nulla distinctio non incidunt vero voluptas tempora recusandae ratione delectus. Deserunt rerum quaerat repellendus a impedit qui expedita, sunt distinctio quam nihil consequatur nesciunt dignissimos in, mollitia sit labore amet porro dolor id. Mollitia provident repudiandae fugit, est quae aliquam deserunt amet asperiores nesciunt minima vel, rem fugiat voluptatibus illo neque reiciendis aspernatur ratione, accusamus dolorum exercitationem aut. Dignissimos voluptas aliquam, aut numquam libero obcaecati quae quasi!
+							Contador Público <br> Es. En Ciencias Fiscales Y Tributarias 2004 <br> Maestrante En Mercadeo
 							</div>
 						</div>
-</div>
-<!-- fin lado ziquierdo -->
-<!-- lado derecho -->
-					<div class="col-12 col-md-6 pt-sans texto-azul-os">
-						
+
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								Información no enviada
+								Carlos Delgado Betancourth	
 							</a>
 						</div>
 						<div id="collapseSix" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, dignissimos earum itaque omnis incidunt, ducimus. Hic sapiente voluptas veritatis. Iste suscipit, incidunt blanditiis, aliquid quis architecto a. Culpa iusto saepe, cum fuga vel repellat. Vero porro possimus voluptatibus exercitationem repellat eos reiciendis harum ipsa provident repellendus odio impedit, dolore ipsam natus, perferendis nihil et nesciunt fuga, cum quis commodi consectetur facilis architecto. Maiores repellat error quo atque architecto tenetur quasi aperiam ab mollitia deleniti voluptate magni quos, omnis asperiores, voluptates voluptatibus sunt iusto animi, nostrum inventore quidem quam blanditiis, ullam cumque. Praesentium, hic cumque amet, expedita veniam iure. Dolor nam veniam sequi esse quos maxime labore, autem fuga molestiae nostrum dicta ex. Saepe expedita at odit error temporibus in! Facere repellendus perspiciatis fugiat fugit illum aliquam officia. Corporis aliquam explicabo pariatur cupiditate dolore quaerat, adipisci recusandae quasi dolorem voluptate magni nisi veritatis dolorum ipsum, tempora, quidem quam unde, saepe reiciendis!
+								Contador Público Especialista, 2015 Maestrante En Gestión De Tecnología  Educativa
 							</div>
 						</div>
 
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								Información no enviada
+								Cesar Javier Sinisterra Cortez	
 							</a>
 						</div>
 						<div id="collapseSeven" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem voluptates atque itaque voluptatibus placeat officia et corporis in laboriosam quidem hic, vel blanditiis rem deleniti ex consequuntur possimus? Placeat ullam, itaque nemo voluptas odit inventore, nulla autem voluptatibus! Sunt accusantium a vel deserunt corporis, consequatur, repudiandae, quibusdam dolorem, esse illo quod consequuntur! Libero, alias assumenda illum quam perspiciatis autem quis tempore harum, nesciunt nemo beatae incidunt et ullam, atque provident recusandae consectetur sequi temporibus eveniet iusto tempora? Possimus dignissimos, reprehenderit harum. Suscipit quis, quisquam totam sequi, obcaecati a et earum esse perspiciatis saepe ullam ratione dignissimos excepturi porro laudantium unde atque quod autem quae fugit. Enim obcaecati ipsa minus provident qui rerum maxime dolores maiores illum odio labore, rem quia dicta autem doloribus mollitia cupiditate temporibus pariatur fugit beatae, libero minima repellat accusantium. Quos, animi temporibus ducimus voluptatem accusamus eaque porro alias quidem eos sed cum modi iusto quisquam similique!
+								Psicólogo, Esp Ética Y Pedagogía
 							</div>
 						</div>
 
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseHeight">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								Información no enviada
+								Daniel Esteban Chávez	
 							</a>
 						</div>
 						<div id="collapseHeight" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora commodi vel totam odit. Nostrum enim id itaque beatae voluptatum obcaecati ipsam, delectus sunt qui voluptate, quos necessitatibus et possimus blanditiis iure dolorem reprehenderit animi, dolore velit perferendis. Cum aut aliquam alias veritatis hic delectus facere sit, inventore assumenda cumque! Est aspernatur dicta quaerat modi laudantium adipisci magnam tempore non reiciendis, neque earum, et hic voluptate harum expedita quam ducimus mollitia deleniti! Voluptates nihil deserunt facere in ipsum magnam illum ratione suscipit, veritatis incidunt repellat assumenda provident magni eos eveniet rem iste officia nulla distinctio praesentium laudantium libero nobis tempora nesciunt. Non dignissimos consequatur sequi pariatur minima, animi corrupti deleniti dolorum impedit odit commodi rem hic expedita sapiente, fugiat quam ipsa laudantium doloremque reiciendis beatae similique illum asperiores. Ducimus, ab asperiores natus, minus sed, aliquam in excepturi ea ipsa praesentium delectus iure molestiae alias modi, officiis unde? Dolorem tempora natus, saepe.
+								Abogado Es. En Derecho Laboral Y Seguridad Social
+								
 							</div>
 						</div>
 
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseNine">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								Información no enviada
+								Edgar Humberto Villarreal	
 							</a>
 						</div>
 						<div id="collapseNine" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint accusamus itaque quia, id facilis optio. Suscipit soluta nostrum sapiente perspiciatis, earum quae, obcaecati nobis iusto id error temporibus eligendi accusamus odio, perferendis unde quibusdam debitis ipsa ab voluptatibus. Ipsam ab voluptatem, sequi eligendi odit cupiditate, saepe necessitatibus, corporis earum facilis perspiciatis omnis! Obcaecati debitis quae voluptatibus eius iure sequi quasi doloribus. Esse ad maiores consequatur sit dicta aspernatur qui odio quia nihil provident voluptatem libero veniam incidunt magni, nostrum in earum architecto. Omnis tempora assumenda ipsam maiores fugit esse provident ipsa expedita facilis eius magni, perspiciatis recusandae, corporis natus! Unde culpa eligendi magni quaerat voluptatum? Quidem, amet accusantium alias odio ipsum. Quis repellendus soluta ex magni deserunt necessitatibus facere vero commodi, odit odio quae recusandae velit, eaque itaque reprehenderit, architecto! Minus sapiente cupiditate nobis, omnis tempore laudantium porro, facere odio molestiae iusto laboriosam delectus unde quibusdam nisi! Sunt, at, odit.
+								Contador Público Especialista En Computación Para La Docencia 1996								
 							</div>
 						</div>
 
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
-								Información no enviada
+								Elizabeth Bastidas	
 							</a>
 						</div>
 						<div id="collapseTen" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed blanditiis repellendus laborum repudiandae labore quisquam debitis tempore quae quod quia esse, voluptates rem excepturi at est suscipit rerum quidem consequatur itaque dolorum atque, molestias quasi. Quas eius maxime, perspiciatis velit laudantium cumque eum quia illo nemo accusantium fugiat id officiis est ea, consequuntur aliquam ipsa facere libero exercitationem quis hic impedit harum minus asperiores dicta? Molestias corporis quos provident, dolorum quibusdam, sed animi, illum nesciunt velit ratione qui dolor inventore eum quae ea sapiente? Fuga earum consequuntur, dolor facere eius ex. Odit adipisci enim nostrum, quos nisi aut dicta soluta eveniet pariatur nesciunt incidunt architecto cumque temporibus veniam dolore est natus ullam odio magni. Ea eveniet, laboriosam maxime quibusdam voluptatibus nesciunt quia consequatur in placeat animi, illum architecto ad doloremque explicabo sapiente ipsam reprehenderit laudantium, et unde consectetur modi. Iusto omnis voluptate libero itaque molestias ex, ipsa corporis cum accusantium?
+								Psicóloga, Esp. Gerencia Educativa
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse11">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Elizabeth Caicedo Madroñero	
+							</a>
+						</div>
+						<div id="collapse11" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Administradora De Empresas Esp Gerencia De Mercadeo
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse12">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Fanny Del Rocío Ibarra Cerón	
+							</a>
+						</div>
+						<div id="collapse12" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Abogada, Esp Docencia Universitaria 2001
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse13">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Fernanda Garcés Bolaños	
+							</a>
+						</div>
+						<div id="collapse13" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Especialista-Alta Gerencia 2007/ Economista 2002
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse14">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Franco Hernán Guerrero	
+							</a>
+						</div>
+						<div id="collapse14" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+							Maestría-Gestión Empresarial- 2012;   Esp- Gerencia Financiera - 2012;   Esp - Gerencia De Negocios Internacionales - 2003;  Esp - Docencia Universitaria - 1999;  Prof. Comercio Internacional  - 2001;  Tecnólogo Comercio Exterior - 1997;  Lic. Lenguas Modernas - 1990.  	
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse15">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Geovani Revelo Ramírez	
+							</a>
+						</div>
+						<div id="collapse15" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público Esp. Revisoría Fiscal Y Contraloría 2013
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse16">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								German Rodríguez Rodríguez	
+							</a>
+						</div>
+						<div id="collapse16" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público. Mg En Gerencia Y Auditoria Tributario
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse17">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								German Alfredo Gómez Achicanoy	
+							</a>
+						</div>
+						<div id="collapse17" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+							Ingeniero Industrial. Esp. Gerencia Financiera 2010 Mg En Gestión Empresarial 2011	
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse18">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Gisela Cabrera	
+							</a>
+						</div>
+						<div id="collapse18" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Politóloga Esp. Gerencia De Proyectos
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse19">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Gloria Alicia Rivera Vallejo
+							</a>
+						</div>
+						<div id="collapse19" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+									Administradora De Empresas, Esp. Administración Y Gerencia, Maestría En Educación 2014								
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse20">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Guillermo Hidalgo	
+							</a>
+						</div>
+						<div id="collapse20" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Administrador De Empresas Contador Público, Esp. En Proyectos  1998, Docencia Universitaria 2002, Finanzas 1994 Y Mercadeo 1995 Mg Mercadeo 2017
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse21">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							Henry Estrella	
+							</a>
+						</div>
+						<div id="collapse21" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Administrador Financiero - 1998 / Contador Público - 2004  / Especialista -  Formulación Y Evaluación De Proyectos - 2002 / Terminación Estudios De Maestría - Dirección De Empresas – 2003	
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse22">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Irina Margarita Jurado Paz	
+							</a>
+						</div>
+						<div id="collapse22" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Magister En Administración De Empresas
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse23">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Isidro Eudoro Ibarra Solarte
+							</a>
+						</div>
+						<div id="collapse23" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público Mg En Pedagogía 2013
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse24">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Iván Esnei Benavides Torres
+							</a>
+						</div>
+						<div id="collapse24" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Administrador De Empresas. 
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse25">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Iván Fernando Ibarra Burbano	
+							</a>
+						</div>
+						<div id="collapse25" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Administrador De Empresas Esp. Gerencia Financiera
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse26">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Jaime Alberto Argoti Chamorro	
+							</a>
+						</div>
+						<div id="collapse26" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Economista- Tecnólogo En Administración Municipal Esp En Finanzas 2001
+							</div>
+						</div>
+
+
+</div>
+<!-- fin lado ziquierdo -->
+<!-- lado derecho -->
+					<div class="col-12 col-md-6 pt-sans texto-azul-os">
+						
+						
+
+						
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse27">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Jaime Javier Gutiérrez Barreneche	
+							</a>
+						</div>
+						<div id="collapse27" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público <br> Candidato. Esp. Gerencia De Proyectos 
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse28">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Jairo Antonio Revelo Ramírez	
+							</a>
+						</div>
+						<div id="collapse28" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público <br> Especialista En Administración De La Tecnología Educativa
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse29">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Javier Hernán Polo	
+							</a>
+						</div>
+						<div id="collapse29" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Licenciado En Filosofía Y Letras. 
+								<br>Esp. En Docencia Universitaria 1998
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse30">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Jesús Andrés Santacruz	
+							</a>
+						</div>
+						<div id="collapse30" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público Esp En Gerencia Tributaria 1998
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse31">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							Jesús Andrés Villota	
+							</a>
+						</div>
+						<div id="collapse31" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Economista <br> Esp. Alta Gerencia, 2000 Docencia Universitaria 2003, Gerencia De Mercadeo 2007
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse32">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Jesús Humberto Portilla
+							</a>
+						</div>
+						<div id="collapse32" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+									Licenciado En Matemáticas 1996. <br> Especialista En Gerencia Informática 2010 Esp. Administración De La Informática Educativa 2014. Mg Gestión De La Tecnología Educativa 2016
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse33">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Jesús Misael Navarro
+							</a>
+						</div>
+						<div id="collapse33" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público. Esp. En Ciencias Fiscales Y Tributarias 1999
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse34">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Jorge Andrés Ruiz
+							</a>
+						</div>
+						<div id="collapse34" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Ingeniero Civil Esp. Gestión De Servicios 2006
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse35">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Juan Pablo Arroyo Guerrero	
+							</a>	
+						</div>
+						<div id="collapse35" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Abogado. Esp. Derecho Comercial
+							
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse36">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Julio Cesar Urbano Bolívar
+							</a>
+						</div>
+						<div id="collapse36" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público<br>
+								Esp. En Revisoría Fiscal<br>
+								Mg En Pedagogía 2012
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse37">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Leidy Johanna Bastidas Sarchi
+							</a>
+						</div>
+						<div id="collapse37" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Especialista En Finanzas 2007 <br> Esp. Revisoría Fiscal 2010 
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse38">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Liliana Andrea Agreda Escobar
+							</a>
+						</div>
+						<div id="collapse38" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público <br> Esp. En Revisoría Fiscal 2011
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse39">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Luis Eduardo Enríquez
+							</a>
+						</div>
+						<div id="collapse39" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								información pendiente 
+								
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse40">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Luis Eduardo Obando Riascos	
+							</a>
+						</div>
+						<div id="collapse40" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público <br> 
+								Especialista En Revisoría Fiscal 2000
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse41">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Mario Fernando Chicaiza Trejo	
+							</a>
+						</div>
+						<div id="collapse41" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contador Público <br> 
+								Esp. En Revisoría Fiscal 2001
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse42">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Mónica Del Rosario Narváez  Yépez	
+							</a>
+						</div>
+						<div id="collapse42" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Administradora De Empresas <br> 
+								Administradora Financiera <br>
+								Mg Procesos De Dirección Empresarial
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse43">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Oswaldo Caicedo Rosero
+							</a>
+						</div>
+						<div id="collapse43" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Mg En Gestión De La Tecnología Educativa 2016 <br>
+								Especialista En Administración De La Informática Educativa,2014. <br>
+								Especialista En Revisoría Fiscal Contador Público. Administrador Financiero
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse44">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Paola Andrea Vallejo
+							</a>
+						</div>
+						<div id="collapse44" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Licenciada En Educación Básica, Humanidades Con Énfasis En Lengua Castellano E Ingles <br> 
+								Esp. Administración De La Informática Educativa
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse45">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Pedro Pablo Misnaza Guerrero	
+							</a>
+						</div>
+						<div id="collapse45" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Economista <br>
+								Mg En Gestión Empresarial 2012
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse46">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Ricardo Andrés Serralde Arellano	
+							</a>
+						</div>
+						<div id="collapse46" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Administrador De Empresas <br>
+								Mg En Administración								
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse47">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Roberto Iván Bravo Sañudo	
+							</a>
+						</div>
+						<div id="collapse47" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Administrador De Empresas <br>
+								Esp. Alta Gerencia 2007
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse48">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Secundino Reveló Ayala	
+							</a>
+						</div>
+						<div id="collapse48" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Especialista/Matemáticas
+							</div>
+						</div>
+
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse49">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Socorro Vallejo Guerrero	
+							</a>
+						</div>
+						<div id="collapse49" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contadora Pública Especialización- Tributaria 2012								
+							</div>
+						</div>
+
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse50">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Sonia Del Carmen Buchely Rodríguez
+							</a>
+						</div>
+						<div id="collapse50" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Contadora Pública Esp. Revisoría Fiscal 2001
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse50">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								Sonia Patricia Argoty Constain	
+							</a>
+						</div>
+						<div id="collapse50" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Mg En Gerencia De La Educación 2006
+							</div>
+						</div>
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse50">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+								William Andrés Meneses Rivadeneira
+							</a>
+						</div>
+						<div id="collapse50" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+									Candidato A Magister En Administración De Organizaciones
 							</div>
 						</div>
 
