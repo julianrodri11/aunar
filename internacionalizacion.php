@@ -100,7 +100,7 @@
 
 		<div class="container-fluid">
 			<div class="row fuente-institucional">
-				<div class="col-12 pt-5 m-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">PROGRAMAS Y PROYECTOS  AUNAR</h3></div>
+				<div class="col-12 pt-5 m-lg-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">PROGRAMAS Y PROYECTOS  AUNAR</h3></div>
 			</div>			
 		</div>
 		<div class="container-fluid">
@@ -121,8 +121,8 @@
 			</div>
 		</div>
 		<div class="row d-flex justify-content-center">
-			<div class="col-8">
-				<div class="tab-content m-5" id="pills-tabContent">
+			<div class="col-12">
+				<div class="tab-content m-lg-5" id="pills-tabContent">
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
 				  	<div class="col-12">
 				  		En términos del Ministerio de Educación Nacional de Colombia, “la
@@ -185,13 +185,15 @@
 		</div>
 		
 		<div class="container-fluid p-5 ">
+			
+
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
 				<div class="col-lg-6 ">
 				<!-- Personal -->
 				<div class="media pb-3 d-flex align-items-center">
 				  <img src="img/proyeccion_institucional/sofia_vallejos.png" class="align-self-center mr-3 rounded-circle" width="180px" >
 				  <div class="media-body">				    
-				    <div class="pt-sans">
+				    <div class="col-12 pt-sans">
 				    <p><strong class="texto-azul-os f-negrita"> Coordinadora </strong><br>
 				    Sofía Vallejos Santacruz <BR>
 					Internacionalización@aunar.edu.co   <br>
@@ -204,9 +206,9 @@
 				<div class="col-lg-6 ">
 				<!-- Personal -->
 				<div class="media pb-3 d-flex align-items-center">
-				  <img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle" width="180px" >
+				  <img src="img/proyeccion_institucional/1.png" class="align-self-center mr-3 rounded-circle" width="180px" >
 				  <div class="media-body">				    
-				    <div class="pt-sans">
+				    <div class="col-12 pt-sans">
 				    <p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				    
 					extensión Villavicencio <br>
 					Cristhian García Silva <br>
@@ -221,9 +223,9 @@
 				<div class="col-lg-6 ">
 				<!-- Personal -->
 				<div class="media pb-3 d-flex align-items-center">
-				  <img src="img/proyeccion_institucional/sofia_vallejos.png" class="align-self-center mr-3 rounded-circle" width="180px" >
+				  <img src="img/proyeccion_institucional/4.png" class="align-self-center mr-3 rounded-circle" width="180px" >
 				  <div class="media-body">				    
-				    <div class="pt-sans">
+				    <div class="col-12 pt-sans">
 				    <p><strong class="texto-azul-os f-negrita">Internacionalización  </strong><br>
 				    extensión Ipiales: <BR>
 				    Nathalie Velásquez <br>					
@@ -237,9 +239,9 @@
 				<div class="col-lg-6 ">
 				<!-- Personal -->
 				<div class="media pb-3 d-flex align-items-center">
-				  <img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle" width="180px" >
+				  <img src="img/proyeccion_institucional/2.png" class="align-self-center mr-3 rounded-circle" width="180px" >
 				  <div class="media-body">				    
-				    <div class="pt-sans">
+				    <div class="col-12 pt-sans">
 				    <p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>
 					extensión Cali: <br>
 					Karen Chamat <br>
@@ -254,9 +256,9 @@
 				<div class="col-lg-6 ">
 				<!-- Personal -->
 				<div class="media pb-3 d-flex align-items-center">
-				  <img src="img/proyeccion_institucional/sofia_vallejos.png" class="align-self-center mr-3 rounded-circle" width="180px" >
+				  <img src="img/proyeccion_institucional/5.png" class="align-self-center mr-3 rounded-circle" width="180px" >
 				  <div class="media-body">				    
-				    <div class="pt-sans">
+				    <div class="col-12 pt-sans">
 				    <p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				    
 					extensión Putumayo: <br>
 					Julia Inés Cuatindioy <br>
@@ -270,9 +272,9 @@
 				<div class="col-lg-6 ">
 				<!-- Personal -->
 				<div class="media pb-3 d-flex align-items-center">
-				  <img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle" width="180px" >
+				  <img src="img/proyeccion_institucional/3.png" class="align-self-center mr-3 rounded-circle" width="180px" >
 				  <div class="media-body">				    
-				    <div class="pt-sans">
+				    <div class="col-12 pt-sans">
 				    <p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				   	
 					extensión Cartagena: <br>
 					Ricardo Fuetmayor <br>

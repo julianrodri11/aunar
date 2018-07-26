@@ -2,6 +2,8 @@
 $(document).ready(function(){
   $('[data-toggle="tooltip"]').tooltip();
 });
+
+
 // Sript para el efecto del logo con el scroll cuando baje se haga mas pequeño y cuando este en la posición inicial el logo este normal
 $(window).scroll(function() {
   if ($("#cont-logo").offset().top > 56) {
@@ -20,6 +22,8 @@ document.getElementById("myBtn").style.display = "none";
 }
 });
 
+
+
 //función que sirve para ir al inicio de la página cuando se haga click
 //boton ubicado en el menú 1
 function iralinicio()
@@ -31,15 +35,6 @@ body.stop().animate({scrollTop:0}, 500, 'swing', function() {
 //alert("Finished animating");
 });
 }
-//funcion cuando el mouse pase sobre el menu, se despliegue
-//  $(document).ready(function ()
-// {
-//    $('.dropdown-toggle').mouseenter(function ()
-//    {
-//       $(this).dropdown("toggle");
-//    });
-// });
-// para el modal de inicio
 
 
 $(document).ready(function(){
@@ -60,6 +55,10 @@ $('#reset-session').on('click',function()
   sessionStorage.setItem('story','');
 });
 });
+
+
+
+
 // cuando se haga click en el cuadro de traducción
 // baje un poco la margen para que se visualice bien el menú
 $(document).ready(function ()
@@ -70,6 +69,9 @@ $(document).ready(function ()
 // regresa al estado normal en la función del scroll $("#navbar1").removeClass("mt-5"); $("#navbar1").addClass("mt-0"); en
 });
 });
+
+
+
 $(document).ready(function ()
 {
   $('#oferta-academica').mouseenter(function ()
@@ -85,6 +87,9 @@ $(document).ready(function ()
     document.getElementById("cont-oferta-institucional").style.display = "block";
   });
 });
+
+
+
 // funcioones que sirven para corregir el error de los menus cuando se despligan
 function bootstrapHoverMenu (bp = 768) {
 // close all dropdowns that are open
