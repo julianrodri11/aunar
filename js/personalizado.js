@@ -118,3 +118,25 @@ $(document).ready( function() {
 bootstrapHoverMenu();
 });
 // fin funcioones que sirven para corregir el error de los menus cuando se despligan
+
+
+// funcion que sirve para hacer zom en el navegador 
+// var acum=0;
+// var total=0;
+// function zoom(parametro)
+// { //alert('funciona'+parametro)
+    
+//   if(parametro=="mas")
+//     { 
+//       acum+=10;
+//       total=100+acum;
+//       alert('total:'+total+"acumulador:"+acum)
+//       document.body.style.zoom=total+"%";
+//     }
+//   else if (parametro=='menos') 
+//   {   acum-=10;
+//       total=100-acum;
+//       alert('total:'+total+"acumulador:"+acum)
+//       document.body.style.zoom=total+"%";
+//   }
+// }

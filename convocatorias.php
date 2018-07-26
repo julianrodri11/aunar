@@ -51,36 +51,133 @@
 					<div class="col-12 col-lg-6 ">
 						<div class="row">
 							<div class="col-12 p-2 f-size-18 f-negrita fondo-gris-c hover-texto-amarillo hover-transparente ">Docentes</div>
-							<div class="col-12 fondo-gris-os py-2">
-								
-								<div class="col-12 f-size-14 p-3">DOCENTE FACULTADES DE INGENIERÍA MECÁNICA Y ELECTRÓNICA</div>
-								<div class="col-12"><a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Resultados</a></div>
-								<div class="col-12 f-size-14 p-3">DOCENTE FACULTADES DE INGENIERÍA MECÁNICA Y ELECTRÓNICA</div>
-								<div class="col-12"><a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Resultados</a></div>
-								<div class="col-12 f-size-14 p-3">DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES</div>
-								<div class="col-12"><a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Resultados</a></div>
+							<div class="col-12 fondo-gris-c py-2">
+									
+
+
+
+				<!-- acordion Docentes-->
+							
+								<div id="accordion" class="accordion">
+									<div class="card mb-0 sin-borde">
+										
+										<div class="row d-flex justify-content-center">
+											<!-- lado ziquierdo -->
+											<div class="col-12 pt-sans texto-azul-c">
+												<!-- convocatoria 1 -->
+												<div class="card-header collapsed fondo-gris-c f-negrita" data-toggle="collapse" href="#collapseOne">
+													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad ">
+														DOCENTE FACULTADES DE INGENIERÍA MECÁNICA Y ELECTRÓNICA
+													</a>
+												</div>
+												<div id="collapseOne" class="collapse" data-parent="#accordion" >
+													<div class="card-body p-4 text-justify fondo-gris-c">
+														<div class="row text-center">
+															<div class="col-12"><a href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_1"> <img src="img/resultados.png"></a></div>
+															<div class="col-12"><h3 class="pt-sans">Resultados</h3> </div>
+															<div class="col-12"><a class="texto-azul-os" href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_1"> Descargar términos de la Convocatoria </a></div>
+														</div>
+
+													</div>
+												</div>
+												<!-- fin convocatoria 1 -->
+												
+												<!-- convocatoria 2 -->
+												<div class="card-header collapsed fondo-gris-c f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad">
+													DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES
+													</a>
+												</div>
+												<div id="collapseTwo" class="collapse" data-parent="#accordion" >
+													<div class="card-body p-4 text-justify fondo-gris-c">
+														<div class="row text-center">
+															<div class="col-12"><a href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_2"> <img src="img/resultados.png"></a></div>
+															<div class="col-12"><h3 class="pt-sans">Resultados</h3> </div>
+															<div class="col-12"><a class="texto-azul-os" href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_2"> Descargar términos de la Convocatoria </a></div>
+														</div>
+													</div>
+												</div>
+												<!-- fin convocatoria 2 -->												
+												
+											</div>
+										</div>
+									</div>
+								</div>
+							
+							<!-- fin acordeón docentes -->
+
 							</div>
 						</div>
 					</div>
 					<div class="col-12 col-lg-6 ">
 						<div class="row">
 							<div class="col-12 p-2 f-size-18 f-negrita fondo-gris-c hover-texto-amarillo  hover-transparente">Administrativos</div>
-							<div class="col-12 fondo-gris-os py-2">
+							<div class="col-12 fondo-gris-c py-2">
 								
-								<div class="col-12 f-size-14 p-3">DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES</div>
-								<div class="col-12"><a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Resultados</a></div>
-								<div class="col-12 f-size-14 p-3">DOCENTE FACULTADES DE INGENIERÍA MECÁNICA Y ELECTRÓNICA</div>
-								<div class="col-12"><a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Resultados</a></div>
-								<div class="col-12 f-size-14 p-3">DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES</div>
-								<div class="col-12"><a href="#" class="p-2 mr-3 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul">Resultados</a></div>
+								
+				<!-- acordion Docentes-->
+							
+								<div id="accordion2" class="accordion">
+									<div class="card mb-0 sin-borde">
+										
+										<div class="row d-flex justify-content-center">
+											<!-- lado ziquierdo -->
+											<div class="col-12 pt-sans texto-azul-c">
+												<!-- convocatoria 1 -->
+												<div class="card-header collapsed fondo-gris-c f-negrita" data-toggle="collapse" href="#collapse3">
+													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad ">
+														PERSONAL ADMINISTRATIVO PARA REALIZAR ...
+													</a>
+												</div>
+												<div id="collapse3" class="collapse" data-parent="#accordion2" >
+													<div class="card-body p-4 text-justify fondo-gris-c">
+														<div class="row text-center">
+															<div class="col-12"><a href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_1"> <img src="img/resultados.png"></a></div>
+															<div class="col-12"><h3 class="pt-sans">Resultados</h3> </div>
+															<div class="col-12"><a class="texto-azul-os" href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_1"> Descargar términos de la Convocatoria </a></div>
+														</div>
+
+													</div>
+												</div>
+												<!-- fin convocatoria 1 -->
+												
+												<!-- convocatoria 2 -->
+												<div class="card-header collapsed fondo-gris-c f-negrita" data-toggle="collapse" data-parent="#accordion2" href="#collapse4">
+													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad">
+													PERSONAL ADMINISTRATIVO PARA REALIZAR ...
+													</a>
+												</div>
+												<div id="collapse4" class="collapse" data-parent="#accordion2" >
+													<div class="card-body p-4 text-justify fondo-gris-c">
+														<div class="row text-center">
+															<div class="col-12"><a href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_2"> <img src="img/resultados.png"></a></div>
+															<div class="col-12"><h3 class="pt-sans">Resultados</h3> </div>
+															<div class="col-12"><a class="texto-azul-os" href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_2"> Descargar términos de la Convocatoria </a></div>
+														</div>
+													</div>
+												</div>
+												<!-- fin convocatoria 2 -->												
+												
+											</div>
+										</div>
+									</div>
+								</div>
+							
+							<!-- fin acordeón docentes -->
+								
 							</div>
 						</div>
 					</div>
 					
 					</div> 		<!-- fin docentes y administrativos -->
+
+
 					
 				</div>
 			</div>
+
+
+
 			
 			<br>
 			<?php include_once('secciones/footer-principal.php'); ?>
