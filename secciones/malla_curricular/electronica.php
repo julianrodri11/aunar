@@ -28,7 +28,7 @@
 					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseOne">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
 								Cristian Castro
 							</a>
 						</div>
@@ -39,7 +39,7 @@
 						</div>
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
 								Fredy Alexis Dulce Mera
 							</a>
 						</div>
@@ -51,7 +51,7 @@
 						</div>
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
 								Nohora Lucía España Mejía
 							</a>
 						</div>
@@ -61,6 +61,133 @@
 								Ingeniera Electrónica - Universidad De Nariño
 							</div>
 						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+									Jaime Hernan Montenegro Vásquez
+							</a>
+						</div>
+						<div id="collapse1" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Ingeniero Electrónico <br>
+								Maestría En Electrónica
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+								Jorge Andres Montenegro
+							</a>
+						</div>
+						<div id="collapse2" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Ingeniero De Sistemas <br>	
+								Maestría De La Gestión En La Informática
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+								Jonathan Alexander Díaz Argote
+							</a>
+						</div>
+						<div id="collapse3" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Matemático <br>
+								Especialista En Finanzas
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+								Andres Felipe Chicaiza Gómez
+							</a>
+						</div>
+						<div id="collapse4" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Ingeniero En Electrónica <br>
+								Maestría En Telecomunicaciones
+								
+							</div>
+						</div>
+</div>
+<!-- lado ziquierdo -->
+<div class="col-12 col-md-6 pt-sans texto-azul-os">
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+								Martha Yaneth Romero Rodriguez 
+							</a>
+						</div>
+						<div id="collapse5" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Licenciada En Preescolar <br>
+								Especialista En Gerencia Educativa
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse6">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+								Oscar Rodríguez Bastidas
+							</a>
+						</div>
+						<div id="collapse6" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Ingeniero Electrónico <br>
+								Maestría En Ciencias De La Electrónica
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse7">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+								Ivan Dario Fajardo
+							</a>
+						</div>
+						<div id="collapse7" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">								
+								Profesional En Negocios Internacionales <br>
+								Maestría En Mercadeo
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse8">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+								Jaime Betancourth Mingan 
+
+							</a>
+						</div>
+						<div id="collapse8" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Físico 	<br>
+								Maestría En Altas Energías
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse9">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+								Francisco Javier Eraso Checa
+
+							</a>
+						</div>
+						<div id="collapse9" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Ingeniero Electrónica <br>
+								Maestría En Automatización Industrial
+							</div>
+						</div>
+
+						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse10">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+								Oscar Hernán Samudio Legarda
+							</a>
+						</div>
+						<div id="collapse10" class="collapse" data-parent="#accordion" >
+							<div class="card-body p-4 text-justify">
+								Ingeniero Electrónico <br>
+								Maestría En Ingeniería Eléctrica
+							</div>
+						</div>
+
+
 					</div>
 					<!-- fin lado ziquierdo -->
 				</div>

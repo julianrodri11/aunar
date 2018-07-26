@@ -778,6 +778,7 @@ font-weight: bold;
     content: attr(collapsed) "-";
     font-size: 18px;    
     float: left; 
+    cursor: pointer;
 
     
 }
@@ -786,6 +787,7 @@ font-weight: bold;
     content: attr(collapsed) "+";
     font-size: 18px;    
     float: left; 
+    cursor: copy;
 
     
 }
