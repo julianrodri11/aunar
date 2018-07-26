@@ -517,7 +517,12 @@ font-weight: bold;
 
 .dropdown:hover>.dropdown-menu
 {
-	display: block;
+	display: block !important;
+}
+
+.dropdown > .dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
 }
 
 .hvr-underline-from-left:hover
