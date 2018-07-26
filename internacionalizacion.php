@@ -121,7 +121,7 @@
 			</div>
 		</div>
 		<div class="row d-flex justify-content-center">
-			<div class="col-12">
+			<div class="col-12 col-md-8 d-flex justify-content-center">
 				<div class="tab-content m-lg-5" id="pills-tabContent">
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
 				  	<div class="col-12">
