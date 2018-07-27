@@ -5,10 +5,10 @@
 
   <!--TÍTULO DE LA PÁGINA-->
   <title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>
-  <meta name="description" content="La Autónoma de Nariño, AUNAR, es una institución de Educación Superior comprometida con la Cultura, la Ciencia, la Investigación; la excelencia en la formación de profesionales íntegros y el liderazgo en el desarrollo social.">
+  <meta name="description" content="Es una institución de Educación Superior comprometida con la Cultura, la Ciencia, la Investigación; la excelencia en la formación de profesionales íntegros y el liderazgo en el desarrollo social.">
   <meta name="keywords" content="Corporación Universitaria Autónoma de Nariño, AUNAR">
   <meta name="author" content="Julian Rodriguez">   
-  <meta property="og:image" content="http://190.14.239.67/img/logo-autonoma-de-narino.svg" />
+  <meta property="og:image" content="http://190.14.239.67/img/logo-autonoma-de-narino.png" />
   
 </head>
 <body>
