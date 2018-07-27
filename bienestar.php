@@ -4,6 +4,9 @@
 		<?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
 		<!--TÍTULO DE LA PÁGINA-->
 		<title>BIENESTAR INSTITUCIONAL - AUTÓNOMA DE NARIÑO</title>
+		<meta name="description" content="Objetivo general - Velar por el cumplimiento de las distintas actividades que se desarrollan dentro y fuera de cada uno de los componentes, programas e instancias que integran la institución.">
+		<meta name="keywords" content="Bienestar Institucional - AUNAR">   
+		<meta property="og:image" <?php echo 'content=http://'.$servidor.'/img/bienestar/bienestar_universitario_aunar.jpg'?>>
 		
 	</head>
 	<body>
