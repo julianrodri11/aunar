@@ -1,4 +1,4 @@
-<meta charset="UTF-8">
+  <meta charset="UTF-8">
   <!-- ICONO DE LA PAGINA -->
   <link rel="shortcut icon" href="img/aunar.ico">
 	<!--VIEWPORT SIRVE PARA IDENTIFICAR EL ANCHO DE LAS PANTALLAS-->
@@ -26,4 +26,4 @@
   <script type="text/javascript" src="js/jquery.smoove.min.js"></script>
   <!-- efectos personalizados -->
   <script type="text/javascript" src="js/efectos_smoove.js"></script>
-  
+  <?php $servidor = $_SERVER['SERVER_NAME']; ?>
