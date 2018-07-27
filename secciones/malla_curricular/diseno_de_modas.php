@@ -26,7 +26,7 @@
 					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseOne">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Información no enviada
 							</a>
 						</div>
@@ -38,7 +38,7 @@
 						</div>
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Información no enviada
 							</a>
 						</div>
@@ -49,7 +49,7 @@
 						</div>
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Información no enviada
 							</a>
 						</div>
@@ -62,7 +62,7 @@
 					
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseFour">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Información no enviada
 							</a>
 						</div>
@@ -74,7 +74,7 @@
 						</div>
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Información no enviada
 							</a>
 						</div>
@@ -89,7 +89,7 @@
 					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Información no enviada
 							</a>
 						</div>
@@ -101,7 +101,7 @@
 
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Información no enviada
 							</a>
 						</div>
@@ -113,7 +113,7 @@
 
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseHeight">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Información no enviada
 							</a>
 						</div>
@@ -125,7 +125,7 @@
 
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseNine">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Información no enviada
 							</a>
 						</div>
@@ -137,7 +137,7 @@
 
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Información no enviada
 							</a>
 						</div>

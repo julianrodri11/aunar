@@ -28,7 +28,7 @@
 					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseOne">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Diego Hernán Peluffo
 							</a>
 						</div>
@@ -43,7 +43,7 @@
 						</div>
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Juan Carlos Alvarado
 							</a>
 						</div>
@@ -59,7 +59,7 @@
 						</div>
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Germán Augusto Mora Ruiz
 							</a>
 						</div>
@@ -74,7 +74,7 @@
 					
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseFour">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Betty Magaly Mora Revelo
 							</a>
 						</div>
@@ -95,7 +95,7 @@
 					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								José Alejandro Salazar Castro
 							</a>
 						</div>
@@ -109,7 +109,7 @@
 						</div>
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Edgar Mauricio Cháves Colunge
 							</a>
 						</div>
@@ -124,7 +124,7 @@
 
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Héctor Andrés Mora Paz
 							</a>
 						</div>
@@ -139,7 +139,7 @@
 
 
 						<!-- <div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseHeight">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Lorem ipsum dolor.
 							</a>
 						</div>
@@ -151,7 +151,7 @@
 
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseNine">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Lorem ipsum dolor.
 							</a>
 						</div>
@@ -163,7 +163,7 @@
 
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Lorem ipsum dolor.
 							</a>
 						</div>

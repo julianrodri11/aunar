@@ -773,14 +773,14 @@ font-weight: bold;
 	background-color: #FFF6DC;
 }
 
+/*colocar el sigono mas y menos en el acordeon de docentes de cada programa*/
 .accordion .card-header:after {
     
     content: attr(collapsed) "-";
     font-size: 18px;    
     float: left; 
     cursor: pointer;
-
-    
+	
 }
 .accordion .card-header.collapsed:after {
     /* symbol for "collapsed" panels */
@@ -789,5 +789,11 @@ font-weight: bold;
     float: left; 
     cursor: copy;
 
-    
+}
+/*coloca en amarillo cuando se pase el mouse sobre el + o menos del acordeon*/
+.accordion .card-header:hover {
+	color: #FFD608 !important;
+}
+.accordion .card-header.collapsed:hover {
+	color: #FFD608 !important;   
 }

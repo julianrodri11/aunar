@@ -28,7 +28,7 @@
 					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseOne">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Cristian Castro
 							</a>
 						</div>
@@ -39,7 +39,7 @@
 						</div>
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Fredy Alexis Dulce Mera
 							</a>
 						</div>
@@ -51,7 +51,7 @@
 						</div>
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Nohora Lucía España Mejía
 							</a>
 						</div>
@@ -63,7 +63,7 @@
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 									Jaime Hernan Montenegro Vásquez
 							</a>
 						</div>
@@ -75,7 +75,7 @@
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Jorge Andres Montenegro
 							</a>
 						</div>
@@ -87,7 +87,7 @@
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Jonathan Alexander Díaz Argote
 							</a>
 						</div>
@@ -99,7 +99,7 @@
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Andres Felipe Chicaiza Gómez
 							</a>
 						</div>
@@ -114,7 +114,7 @@
 <!-- lado ziquierdo -->
 <div class="col-12 col-md-6 pt-sans texto-azul-os">
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse5">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Martha Yaneth Romero Rodriguez 
 							</a>
 						</div>
@@ -126,7 +126,7 @@
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse6">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Oscar Rodríguez Bastidas
 							</a>
 						</div>
@@ -138,7 +138,7 @@
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse7">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Ivan Dario Fajardo
 							</a>
 						</div>
@@ -150,7 +150,7 @@
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse8">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Jaime Betancourth Mingan 
 
 							</a>
@@ -163,7 +163,7 @@
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse9">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Francisco Javier Eraso Checa
 
 							</a>
@@ -176,7 +176,7 @@
 						</div>
 
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse10">
-							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer">
+							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Oscar Hernán Samudio Legarda
 							</a>
 						</div>

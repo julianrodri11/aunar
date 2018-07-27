@@ -92,17 +92,17 @@
 			<div class=" col-12 col-lg-12 pl-5 pt-3 pb-3   ">
 				<div class="row d-flex justify-content-center">	
 					<div class="col-12 col-lg-6 texto-azul ">
-						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i> Copia de documento de identidad ampliado 150% (Tarjeta de identidad, cédula de ciudadanía o contraseña)</div>
-						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Copia a color de resultados PRUEBAS SABER 11 (ICFES)</div>
-						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Copia del diploma de bachillerato</div>
-						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Copia del acta de grado</div>
-						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Certificado médico</div>
-						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Examen de serología</div>
-						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Registro civil</div>
-						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Copia carné de salud</div>
-						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  Libreta militar</div>
-						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  1 Foto fondo azul 3x4</div>
-						<div class="col-12"><i class="fa fa-angle-double-right f-size-16"></i>  1 Carpeta ocio color café</div>
+						<div class="col-12">*Copia de documento de identidad ampliado 150% (Tarjeta de identidad, cédula de ciudadanía o contraseña)</div>
+						<div class="col-12">*Copia a color de resultados PRUEBAS SABER 11 (ICFES)</div>
+						<div class="col-12">*Copia del diploma de bachillerato</div>
+						<div class="col-12">*Copia del acta de grado</div>
+						<div class="col-12">*Certificado médico</div>
+						<div class="col-12">*Examen de serología</div>
+						<div class="col-12">*Registro civil</div>
+						<div class="col-12">*Copia carné de salud</div>
+						<div class="col-12">*Libreta militar</div>
+						<div class="col-12">*1 Foto fondo azul 3x4</div>
+						<div class="col-12">*1 Carpeta ocio color café</div>
 					</div>
 				</div>
 
