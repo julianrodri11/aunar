@@ -66,7 +66,7 @@
 											<div class="col-12 pt-sans texto-azul-c">
 												<!-- convocatoria 1 -->
 												<div class="card-header collapsed fondo-gris-c f-negrita" data-toggle="collapse" href="#collapseOne">
-													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad ">
+													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad hover-texto-amarillo ">
 														DOCENTE FACULTADES DE INGENIERÍA MECÁNICA Y ELECTRÓNICA
 													</a>
 												</div>
@@ -84,7 +84,7 @@
 												
 												<!-- convocatoria 2 -->
 												<div class="card-header collapsed fondo-gris-c f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad">
+													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad hover-texto-amarillo">
 													DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES
 													</a>
 												</div>
@@ -125,7 +125,7 @@
 											<div class="col-12 pt-sans texto-azul-c">
 												<!-- convocatoria 1 -->
 												<div class="card-header collapsed fondo-gris-c f-negrita" data-toggle="collapse" href="#collapse3">
-													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad ">
+													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad hover-texto-amarillo ">
 														PERSONAL ADMINISTRATIVO PARA REALIZAR ...
 													</a>
 												</div>
@@ -143,7 +143,7 @@
 												
 												<!-- convocatoria 2 -->
 												<div class="card-header collapsed fondo-gris-c f-negrita" data-toggle="collapse" data-parent="#accordion2" href="#collapse4">
-													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad">
+													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad hover-texto-amarillo">
 													PERSONAL ADMINISTRATIVO PARA REALIZAR ...
 													</a>
 												</div>

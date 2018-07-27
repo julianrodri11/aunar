@@ -4,7 +4,10 @@
   <?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?> 
 
   <!--TÍTULO DE LA PÁGINA-->
-  <title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>  
+  <title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>
+  <meta name="description" content="La Autónoma de Nariño, AUNAR, es una institución de Educación Superior comprometida con la Cultura, la Ciencia, la Investigación; la excelencia en la formación de profesionales íntegros y el liderazgo en el desarrollo social.">
+  <meta name="keywords" content="Corporación Universitaria Autónoma de Nariño, AUNAR">
+  <meta name="author" content="Julian Rodriguez"> 
   
 </head>
 <body>

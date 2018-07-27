@@ -18,7 +18,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-12">
-					<img class="mx-auto img-fluid" width="100%" src="img/bienestar/bienestar_universitario_aunar.jpg"/>
+					<img class="mx-auto img-fluid" width="100%" src="img/bienestar/bienestar_universitario_aunar.jpg" alt="Bienestar Institucional" />
 				</div>
 			</div>
 		</div>

@@ -2,7 +2,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-6 fondo-amarillo texto-azul-cl fuente-institucional f-negrita text-left text-sm-center p-2">Corporación Universitaria Autónoma de Nariño</div>
-    <div class="col-6 fondo-gris-c texto-azul-cl fuente-institucional f-negrita f-italica text-right text-sm-center p-2">La Tecnología es el Camino hacia un Mundo sin Fronteras</div>
+    <div class="col-6 fondo-gris-c texto-azul-cl fuente-institucional f-negrita f-italica text-right text-sm-center p-2"><p class="p-0 m-0">La Tecnología es el Camino hacia un Mundo sin Fronteras</p></div>
   </div>
 </div>
 

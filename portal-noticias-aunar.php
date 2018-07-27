@@ -73,6 +73,7 @@
 			<div class="row">
 				<!-- <div class="col-12 fuente-institucional texto-azul f-negrita pt-3">COMPARTE ESTE CONTENIDO</div>
 				<div class="col-12 fuente-institucional texto-azul f-negrita pt-3">INCONOS DE REDES SOCIALES</div> .-->
+				<a href="https://www.facebook.com/sharer/sharer.php?u=http://190.14.239.67/bienestar.php" target="_blank"><img src="https://lh3.googleusercontent.com/-H8xMuAxM-bE/UefWwJr2vwI/AAAAAAAAEdY/N5I41q19KMk/s32-no/facebook.png"></a>
 			</div>
 		</div>
 	<!-- selider de noticias -->
