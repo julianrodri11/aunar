@@ -18,19 +18,21 @@
 
           <!-- ---------- -->
           <!-- Media middle -->
-               <div class="card-group fuente-institucional texto-azul">
+               <!-- <div class="card-group fuente-institucional texto-azul">
                 <div class="card">
                   <a href="inscripciones.php"><img class="card-img-top" src="img/incripciones-abiertas-aunar-2018-2.png" alt="Inscripciones abiertas autónoma de nariño"></a>
-                  <!-- <div class="card-body">
+                  <div class="card-body">
                     <h5 class="card-title f-negrita">Lorem ipsum.</h5>
                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, eaque aliquam. Voluptate saepe, veniam unde!</p>
                     <p class="card-text"><small class="text-muted">Lorem ipsum. Last updated 3 mins ago</small></p>
-                  </div> -->
+                  </div>
                 </div>
                
-              </div>                
-
+              </div>   -->              
           <!-- ----------- -->
+          <!-- Inicio slider incluido -->
+          <?php include_once('slider/slider-inicial-modal.php'); ?>  
+          <!-- Fin Inicio slider incluido -->
 
         </div>
         
