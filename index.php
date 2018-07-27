@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?> 
 
-  <!--TÍTULO DE LA PÁGINA-->
-  <title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>
-  <meta name="description" content="Es una institución de Educación Superior comprometida con la Cultura, la Ciencia, la Investigación; la excelencia en la formación de profesionales íntegros y el liderazgo en el desarrollo social.">
-  <meta name="keywords" content="Corporación Universitaria Autónoma de Nariño, AUNAR">
-  <meta name="author" content="Julian Rodriguez">   
-  <meta property="og:image" content="http://190.14.239.67/img/logo-autonoma-de-narino.png" />
+<?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
+<!--TÍTULO DE LA PÁGINA Y SEO-->
+<title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>
+<meta name="description" content="Es una institución de Educación Superior comprometida con la Cultura, la Ciencia, la Investigación; la excelencia en la formación de profesionales íntegros y el liderazgo en el desarrollo social.">
+<meta name="keywords" content="Corporación Universitaria Autónoma de Nariño, AUNAR">   
+<meta property="og:image" <?php echo 'content=http://'.$servidor.'/img/logo-autonoma-de-narino.png'?>/>
+
+
   
 </head>
 <body>

@@ -3,6 +3,9 @@
 	<head>
 		<?php /*ENLACES DE LIBRERIAS*/ include_once('secciones/links-local.php');  ?>
 		<title>Ingeniería Electrónica - Autónoma de Nariño</title>
+		<meta name="description" content="será capaz de desempeñarse en el sector industrial, en el diseño, investigación, desarrollo, innovación, consultoría, gestión, supervisión, implementación y mantenimiento de sistemas electrónicos">
+		<meta name="keywords" content="Ingeniería electrónica - AUNAR">   
+		<meta property="og:image" <?php echo 'content=http://'.$servidor.'/img/carreras/ingenieria-electronica-aunar.jpg'?>/>
 	</head>
 	<body>
 		
