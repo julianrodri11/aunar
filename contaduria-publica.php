@@ -74,7 +74,7 @@
 					      </tr>
 					      <tr>
 					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Código SNIES:  </td>
-					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >13879</td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >53445</td>					        
 					      </tr>
 					      <tr>
 					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Créditos: </td>

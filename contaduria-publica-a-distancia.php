@@ -62,11 +62,11 @@
 					      </tr>
 					      <tr>
 					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Acuerdo de creación:</td>
-					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" ></td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >Acuerdo de Consejo Directivo No.6810  de Diciembre 9 del 2010</td>					        
 					      </tr>
 					      <tr>
-					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Registro calificado : </td>
-					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" ></td>					        
+					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Registro calificado: </td>
+					        <td class="borde-1 b-color-cpublica-dis border-top-0 border-bottom-0" >06626 de 12 de mayo de 2015</td>					        
 					      </tr>
 					      <tr>
 					        <td class="borde-1 b-color-cpublica-dis border-bottom-0 border-top-0" >Código SNIES:  </td>
@@ -150,7 +150,7 @@
 					</div>
 				</div>
 				<div class="col-12 col-sm-6 border-left b-color-cpublica-dis">
-					<div class="col-12"><h5 class="fuente-institucional f-color-cpublica-dis f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-cpublica-dis f-negrita text-center">CONBTADOR PÚBLICO?</h3></div>
+					<div class="col-12"><h5 class="fuente-institucional f-color-cpublica-dis f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-cpublica-dis f-negrita text-center">CONTADOR PÚBLICO?</h3></div>
 					<div class="col-12 pt-sans text-justify">
 						El Profesional en Contaduría Pública de la Corporación Universitaria Autónoma de Nariño, estará  capacitado para el manejo y dirección de la información financiera y contable, con  formación humana, ética, mentalidad investigativa, innovadora y empresarial orientada a la solución de problemas prácticos y al desarrollo de competencias que le permitan:
 						<br>-Recopilar y evaluar información del registro de las actividades de los entes económicos públicos  y privados en todos sus aspectos financieros y sociales mediante la rendición de informes fidedignos.

@@ -450,7 +450,7 @@
 					
 					<div class="row">
 						<div class="col-12 col-md-2 text-center">
-							<img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle img-fluid" >
+							<img src="img/cian/paola_vallejo.png" class="align-self-center mr-3 rounded-circle img-fluid" >
 						</div>
 						<div class="col-12 col-md-10 text-center text-md-left">
 							<h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
@@ -475,7 +475,7 @@
 					
 					<div class="row">
 						<div class="col-12 col-md-4 text-center">
-							<img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle img-fluid" >
+							<img src="img/cian/leidy_ortega_calpa.png" class="align-self-center mr-3 rounded-circle img-fluid" >
 						</div>
 						<div class="col-12 col-md-6 text-center text-md-left">
 							<div class="pt-sans">
@@ -501,7 +501,7 @@
 					
 					<div class="row">
 						<div class="col-12 col-md-4 text-center">
-							<img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle img-fluid" >
+							<img src="img/cian/leidy_riascos.png" class="align-self-center mr-3 rounded-circle img-fluid" >
 						</div>
 						<div class="col-12 col-md-6 text-center text-md-left">							
 						    <div class="pt-sans">
@@ -530,7 +530,7 @@
 					
 					<div class="row">
 						<div class="col-12 col-md-4 text-center">
-							<img src="img/proyeccion_institucional/gabriela_sthefanny_vargas.png" class="align-self-center mr-3 rounded-circle img-fluid" >
+							<img src="img/cian/magda_mireya_salazar.png" class="align-self-center mr-3 rounded-circle img-fluid" >
 						</div>
 						<div class="col-12 col-md-6 text-center text-md-left">							
 						    <div class="pt-sans">

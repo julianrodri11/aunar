@@ -65,7 +65,7 @@
 					
 					<div class="row">
 						<div class="col-12 col-md-6 text-center">
-							<img src="img/bienestar/Vanessa_Constanza.png" class="align-self-center mr-3 rounded-circle img-fluid" >
+							<img src="img/bienestar/deportes.png" class="align-self-center mr-3 rounded-circle img-fluid" >
 						</div>
 						<div class="col-12 col-md-6 text-center text-md-left">
 							<h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
