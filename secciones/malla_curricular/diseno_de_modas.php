@@ -8,13 +8,10 @@
 				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">Grupos de Investigacón</div>
 				
 			</div>
-			<div class="row">
-				<div class="col-12">
-					<div class="row">
-						<img class="img-fluid" width="100%" src="img/carreras/ingenieria-electronica-docentes-aunar.jpg" alt="docentes ingenieria-electronica autónoma de nariño" />
-					</div>
-				</div>
-			</div>
+			<!-- slider diseño de modas -->
+			<?php include_once('slider/slider_dmodas_docentes.php')?>
+			<!-- fin slider diseño de modas -->
+
 			
 <!-- acordion Docentes-->
 	<div class="container">

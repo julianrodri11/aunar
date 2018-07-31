@@ -10,16 +10,16 @@
 
 <!-- menu 1 -->
 <nav class="navbar navbar-expand-lg  navbar-light sticky-top bg-white texto-azul bg-success f-negrita fuente-institucional" id="navbar1" >
-  <!--div class=" "><a class=" mx-auto navbar-brand fuente-institucional texto-azul f-size-18 " data-toggle="tooltip" data-placement="auto" title="Ir al inicio" href="index.php"><i class="fa fa-home"></i></a></div-->
+  <!--div class=" "><a class=" mx-auto navbar-brand fuente-institucional texto-azul f-size-18 " data-toggle="tooltip" data-placement="auto" title="Ir al inicio" href="index"><i class="fa fa-home"></i></a></div-->
   <button class="navbar-toggler"  type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon "></span>MENÚ
   </button>
   <div class="collapse navbar-collapse f-size-12 " id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0  animated bounceInLeft">
       <li class="nav-item pt-2 pb-2  dropdown">
-        <a class=" nav-link dropdown-toggle texto-azul pl-2 hvr-underline-from-center" href="inscripciones.php" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
+        <a class=" nav-link dropdown-toggle texto-azul pl-2 hvr-underline-from-center" href="inscripciones" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
         <div class="dropdown-menu f-size-12" aria-labelledby="admisiones">
-          <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="inscripciones.php" target="_blanck_admin">Admisiones</a>
+          <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="inscripciones" target="_blanck_admin">Admisiones</a>
           <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck_1">Ayudas y Becas</a>
           <ul class="navbar-nav"> <!-- navbar-nav -->
           <li class="col-12 nav-item dropdown dropright ">
@@ -55,7 +55,7 @@
   </div>
 </li>
 <li class="nav-item pt-2 pb-2  ">
-  <a class=" nav-link texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="convocatorias.php" target="_blanck_convocatorias" >Convocatorias</a>
+  <a class=" nav-link texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="convocatorias" target="_blanck_convocatorias" >Convocatorias</a>
 </li>
 <li class="nav-item pt-2 pb-2 dropdown  ">
   <!--a class="nav-link active texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="#">Extensiones</a-->
