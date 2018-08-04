@@ -18,12 +18,12 @@
 			<!-- fin slider de cada carrera -->
 
 			<!-- acordion Docentes-->
-	<div class="container">
+	<!-- <div class="container">
 		<div id="accordion" class="accordion">
 			<div class="card mb-0 sin-borde">
 				
 				<div class="row d-flex justify-content-center">
-					<!-- lado ziquierdo -->
+					
 					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseOne">
@@ -85,8 +85,8 @@
 							</div>
 						</div>
 </div>
-<!-- fin lado ziquierdo -->
-<!-- lado derecho -->
+
+
 					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
@@ -150,11 +150,11 @@
 
 
 					</div>
-					<!-- fin lado derecho -->
+					
 				</div>
 			</div>
 		</div>
 	</div>
-	<!-- fin acordeon docentes -->
-
+	
+ -->
 		</div>
