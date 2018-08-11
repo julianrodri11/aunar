@@ -183,7 +183,7 @@
     </div>
     <div class="col-12 col-lg-12 d-flex align-items-center justify-content-center ">
       <div class="text-center ">
-        <a href="#" class="p-2 border borde-azul badge badge-pill bg-white hover-amarillo  texto-azul sin-texto-subrayado hover-sin-borde">Ver Oferta</a>
+        <a href="#" class="p-2 badge badge-pill bg-white hover-amarillo  texto-azul sin-texto-subrayado hover-sin-borde">Ver Oferta</a>
         </div>
     </div>
   </div>
