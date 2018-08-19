@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>Traducir pagina de aunar</title>
+	<title>Traducir página de AUNAR</title>
 
 </head>
 <body>
@@ -34,7 +34,7 @@
 				}
 			</script>
 
-			<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+			<!-- <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> -->
 				
 
 		<!-- ---------------------FIN TRADUCTOR-------------------------- -->

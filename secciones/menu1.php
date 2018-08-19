@@ -17,7 +17,7 @@
   <div class="collapse navbar-collapse f-size-12 " id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0  animated bounceInLeft">
       <li class="nav-item pt-2 pb-2  dropdown">
-        <a class=" nav-link dropdown-toggle texto-azul pl-2 hvr-underline-from-center" href="inscripciones" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
+        <a class=" nav-link dropdown-toggle texto-azul pl-2 hvr-underline-from-center" href="#" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
         <div class="dropdown-menu f-size-12" aria-labelledby="admisiones">
           <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="inscripciones" target="_blanck_admin">Admisiones</a>
           <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck_1">Ayudas y Becas</a>
