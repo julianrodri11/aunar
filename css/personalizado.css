@@ -797,3 +797,9 @@ font-weight: bold;
 .accordion .card-header.collapsed:hover {
 	color: #FFD608 !important;   
 }
+
+/*tamaño de fuente en aunar estero*/
+.fuente-big
+{
+	font-size: 60px;
+}
