@@ -104,7 +104,7 @@
     </div>
   </li>
   <li class="nav-item border-right borde-azul borde-1">
-    <a class=" nav-link hvr-curl-top-right pointer ">Aunar Virtual</a>
+    <a class=" nav-link texto-azul hvr-underline-from-center pointer " href="virtual">Aunar Virtual</a>
   </li>
 
       <!-- Tab panes -->
