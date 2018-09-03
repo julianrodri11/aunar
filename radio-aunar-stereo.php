@@ -3,7 +3,7 @@
 	<head>
 		<?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
 		<!--TÍTULO DE LA PÁGINA-->
-		<title>BIENESTAR INSTITUCIONAL - AUTÓNOMA DE NARIÑO</title>
+		<title>RADIO AUNAR STEREO - AUTÓNOMA DE NARIÑO</title>
 		
 	</head>
 	<body>

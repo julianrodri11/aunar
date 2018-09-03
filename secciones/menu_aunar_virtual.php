@@ -8,7 +8,7 @@
 <ul class="nav d-flex justify-content-center  ">
   
   <li class="nav-item">
-    <a href="bienestar" class="nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false"><img width="80" src="img/iconos/campus-virtual.svg" ><br>Campus AUNAR Virtual <span class="sr-only">(current)</span></a>    
+    <a href="http://campus.aunar.edu.co/" class="nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false" target="_aunar_virtual"><img width="80" src="img/virtual/ico_campus_virtual_aunar.png" ><br>Campus AUNAR Virtual <span class="sr-only">(current)</span></a>    
   </li>
 
   <li class="nav-item" id="">
@@ -16,14 +16,14 @@
   </li>
 
   <li class="nav-item" id="">
-    <a href="psicologia" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/bienestar/ico_psicologia_aunar.png" ><br>CIDAE en Línea</a>  
+    <a href="psicologia" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/virtual/ico_cidae_en_linea_aunar.png" ><br>CIDAE en Línea</a>  
   </li>
 
    <li class="nav-item" id="">
-    <a href="deportes" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/bienestar/ico_deportes_aunar.png" ><br>Biblioteca</a>  
+    <a href="http://biblioteca.aunar.edu.co/" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center" target="_biblioteca"><img width="80" src="img/virtual/ico_biblioteca_aunar.png" ><br>Biblioteca</a>  
   </li>
    <li class="nav-item" id="">
-    <a href="cultura" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/bienestar/ico_cultura_aunar.png" ><br>AUNAR Virtual</a>  
+    <a href="cultura" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/virtual/ico_virtual_aunar.png" ><br>AUNAR Virtual</a>  
   </li>
    
 </ul>
