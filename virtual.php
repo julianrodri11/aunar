@@ -123,7 +123,7 @@
 
 		<div class="container-fluid py-5">
 			<div class="row d-flex justify-content-around">
-				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
+				<div class="col-12 col-sm-6 col-md-4 col-lg-2 pb-5">
 					
 					<div class="col-12 p-0 content_img_virtual">
 						<a href="plantas-aromaticas.php" target="plantas-aromaticas">
@@ -163,7 +163,7 @@
 					
 				</div>
 
-				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
+				<div class="col-12 col-sm-6 col-md-4 col-lg-2 pb-5">
 					
 					<div class="col-12 p-0 content_img_virtual">
 						<a href="mercadeo-agropecuario.php" target="mercadeo-agropecuario">
@@ -202,7 +202,7 @@
 					</div>
 					
 				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
+				<div class="col-12 col-sm-6 col-md-4 col-lg-2 pb-5">
 					
 					<div class="col-12 p-0 content_img_virtual"> <a href="administracion-empresas-a-distancia.php" target="administracion-empresas">
 						<img class="mx-auto img-fluid img_virtual" width="100%" src="img/virtual/3.jpg" >
@@ -240,7 +240,7 @@
 				</div>
 				
 			</div>
-			<div class="col-12 col-sm-6 col-md-4 col-lg-2">
+			<div class="col-12 col-sm-6 col-md-4 col-lg-2 pb-5">
 				
 				<div class="col-12 p-0 content_img_virtual">
 					<a href="contaduria-publica-a-distancia.php" target="contaduria-publica">
@@ -279,7 +279,7 @@
 				</div>
 				
 			</div>
-			<div class="col-12 col-sm-6 col-md-4 col-lg-2">
+			<div class="col-12 col-sm-6 col-md-4 col-lg-2 pb-5">
 				
 				<div class="col-12 p-0 content_img_virtual">
 					<a href="ingenieria-informatica.php" target="ingenieria-informatica">
