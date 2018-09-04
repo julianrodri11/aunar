@@ -116,6 +116,11 @@
 			</div>
 		</div>
 		
+
+		<!-- galeria de programas virtuales -->
+		<div class="container-fluid"><div class="row"><h1 class="fuente-institucional mx-auto py-5 texto-azul-os text-center"> <strong> Programas Modalidad Virtual y a Distancia </strong></h1></div></div>
+
+
 		<div class="container-fluid py-5">
 			<div class="row d-flex justify-content-around">
 				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
@@ -157,6 +162,7 @@
 					</div>
 					
 				</div>
+
 				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
 					
 					<div class="col-12 p-0 content_img_virtual">
@@ -314,7 +320,7 @@
 			</div>
 		</div>
 	</div>
-	
+	<!-- galeria de programas virtuales -->
 	
 	<?php include_once('secciones/footer-principal.php');?>
 	
