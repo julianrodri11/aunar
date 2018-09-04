@@ -125,7 +125,7 @@
 			<div class="row d-flex justify-content-around">
 				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
 					
-						<div class="col-12 p-0 d-flex justify-content-center"><img src="img/virtual/1.jpg"  width="100%"></div>
+						<div class="col-12 p-0 "><img class="mx-auto img-fluid" width="100%" src="img/virtual/1.jpg" ></div>
 						<div class="col-12 p-0 ">
 							<div class="p-2 fondo-gris-os fuente-institucional texto-azul-os">
 							<br> <strong>Facultad: </strong><br>
@@ -157,7 +157,7 @@
 				</div>
 				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
 					
-						<div class="col-12 p-0 d-flex justify-content-center"><img src="img/virtual/2.jpg"  width="100%"></div>
+						<div class="col-12 p-0 "><img class="mx-auto img-fluid" width="100%" src="img/virtual/2.jpg" ></div>
 						<div class="col-12 p-0 ">
 							<div class="p-2 fondo-gris-os fuente-institucional texto-azul-os">
 							<br> <strong> Facultad: </strong> <br>
@@ -189,7 +189,7 @@
 				</div>
 				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
 					
-						<div class="col-12 p-0 d-flex justify-content-center"><img src="img/virtual/3.jpg"  width="100%"></div>
+						<div class="col-12 p-0 "><img class="mx-auto img-fluid" width="100%" src="img/virtual/3.jpg" ></div>
 						<div class="col-12 p-0 ">
 							<div class="p-2 fondo-gris-os fuente-institucional texto-azul-os">
 							<br> <strong>Facultad: </strong><br>
@@ -221,7 +221,7 @@
 				</div>
 				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
 					
-						<div class="col-12 p-0 d-flex justify-content-center"><img src="img/virtual/4.jpg"  width="100%"></div>
+						<div class="col-12 p-0 "><img class="mx-auto img-fluid" width="100%" src="img/virtual/4.jpg" ></div>
 						<div class="col-12 p-0 ">
 							<div class="p-2 fondo-gris-os fuente-institucional texto-azul-os">
 							<br> <strong> Facultad: </strong><br>
@@ -253,7 +253,7 @@
 				</div>
 				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
 					
-						<div class="col-12 p-0 d-flex justify-content-center"><img src="img/virtual/5.jpg"  width="100%"></div>
+						<div class="col-12 p-0 "><img class="mx-auto img-fluid" width="100%" src="img/virtual/5.jpg" ></div>
 						<div class="col-12 p-0 ">
 							<div class="p-2 fondo-gris-os fuente-institucional texto-azul-os">
 							<br> <strong>Facultad: </strong>
