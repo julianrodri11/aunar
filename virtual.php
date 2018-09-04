@@ -34,7 +34,7 @@
 		<!-- ----------------SECCIÓN NOTICIAS------------------------- -->
 		<?php include_once('slider/noticias-autonoma-de-narino.php');?>
 		
-		<!-- informacion de primeros auxilios -->
+		<!-- informacion de quienes somos  -->
 		<div class="container-fluid">
 			<div class="row m-2 m-md-5">
 				<div class="col-12 col-md-3">
@@ -118,6 +118,172 @@
 						</div>
 					</div>
 				</div>
+			</div>
+		</div>
+		
+		<div class="container-fluid">
+			<div class="row d-flex justify-content-around">
+				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
+					
+						<div class="col-12 p-0 d-flex justify-content-center"><img src="img/virtual/1.jpg"  width="100%"></div>
+						<div class="col-12 p-0 ">
+							<div class="p-2 fondo-gris-os fuente-institucional texto-azul-os">
+							<br> <strong>Facultad: </strong><br>
+							Agronomía, Veterinaria y Afines
+							<br>
+
+							<br> <strong>Programa: </strong><br>
+							Técnico en la Tranformación de Plantas Aromáticas
+							<br>
+
+							<br> <strong>Código SNIES: </strong><br>
+							101340
+							<br>
+
+							<br> <strong>Título a obtener: </strong><br>
+							Técnico Profesional en la Transformación de Plantas Aromáticas
+							<br>
+
+							<br> <strong>Duración: </strong><br>
+							4 Semestres
+							<br>
+
+							<br> <strong>Modalidad: </strong><br>
+							Virtual
+							<br>
+							</div>
+						</div>
+					
+				</div>
+				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
+					
+						<div class="col-12 p-0 d-flex justify-content-center"><img src="img/virtual/2.jpg"  width="100%"></div>
+						<div class="col-12 p-0 ">
+							<div class="p-2 fondo-gris-os fuente-institucional texto-azul-os">
+							<br> <strong> Facultad: </strong> <br>
+							Agronomía, Veterinaria y Afines
+							<br>
+
+							<br> <strong> Programa: </strong> <br>
+							Tecnología en Mercadeo Agropecuario
+							<br>
+
+							<br> <strong> Código SNIES: </strong> <br>
+							101341
+							<br>
+
+							<br> <strong> Título a obtener: </strong> <br>
+							Tecnólogo en Mercadeo Agropecuario
+							<br>
+
+							<br> <strong> Duración: </strong> <br>
+							6 Semestres
+							<br>
+
+							<br> <strong> Modalidad: </strong> <br>
+							Virtual
+							<br>
+							</div>
+						</div>
+					
+				</div>
+				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
+					
+						<div class="col-12 p-0 d-flex justify-content-center"><img src="img/virtual/3.jpg"  width="100%"></div>
+						<div class="col-12 p-0 ">
+							<div class="p-2 fondo-gris-os fuente-institucional texto-azul-os">
+							<br> <strong>Facultad: </strong><br>
+							Economía, Administración, Contaduría y Afines
+							 <br>
+
+							<br> <strong>Programa: </strong><br>
+							Administración de Empresas
+							<br>
+
+							<br> <strong>Código SNIES: </strong><br>
+							102322
+							<br>
+
+							<br> <strong>Título a obtener: </strong><br>
+							Administrador/a de Empresas
+							<br>
+
+							<br> <strong>Duración: </strong><br>
+							9 Semestres
+							<br>
+
+							<br> <strong>Modalidad: </strong><br>
+							Distancia
+							<br>
+							</div>
+						</div>
+					
+				</div>
+				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
+					
+						<div class="col-12 p-0 d-flex justify-content-center"><img src="img/virtual/4.jpg"  width="100%"></div>
+						<div class="col-12 p-0 ">
+							<div class="p-2 fondo-gris-os fuente-institucional texto-azul-os">
+							<br> <strong> Facultad: </strong><br>
+							Economía, Administración, Contaduría y Afines
+							<br>
+
+							<br> <strong> Programa: </strong><br>
+							Contaduría Pública
+							<br>
+
+							<br> <strong> Código SNIES: </strong><br>
+							102519
+							<br>
+
+							<br> <strong> Título a obtener: </strong><br>
+							Contador/a Público/a
+							<br>
+
+							<br> <strong> Duración: </strong><br>
+							9 Semestres
+							<br>
+
+							<br> <strong> Modalidad: </strong><br>
+							Distancia
+							<br>
+							</div>
+						</div>
+					
+				</div>
+				<div class="col-12 col-sm-6 col-md-4 col-lg-2">
+					
+						<div class="col-12 p-0 d-flex justify-content-center"><img src="img/virtual/5.jpg"  width="100%"></div>
+						<div class="col-12 p-0 ">
+							<div class="p-2 fondo-gris-os fuente-institucional texto-azul-os">
+							<br> <strong>Facultad: </strong>
+							Ingeniería, Arquitectura, Urbanismo y Afines
+							<br>
+
+							<br> <strong>Programa: </strong>
+							Ingeniería Informática
+							<br>
+
+							<br> <strong>Código SNIES: </strong>
+							102883
+							<br>
+
+							<br> <strong>Título a obtener: </strong>
+							Ingeniero/a Informático/a
+							<br>
+
+							<br> <strong>Duración: </strong>
+							9 Semestres
+							<br>
+
+							<br> <strong>Modalidad: </strong>
+							Distancia
+							<br>
+							</div>
+						</div>
+					
+				</div>				
+
 			</div>
 		</div>
 		

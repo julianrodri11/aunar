@@ -89,6 +89,6 @@
 <!-- fin menu -->
 
 <!-- boton ir al inicio -->
-<button class="efecto-borde1" onclick="iralinicio()" id="myBtn" data-toggle="tooltip" data-placement="right" title="Subir">
+<button class="efecto-borde1" onclick="iralinicio()" id="myBtn">
   
 </button>
