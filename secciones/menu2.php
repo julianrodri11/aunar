@@ -34,19 +34,19 @@
   <li class="nav-item  dropdown border-right borde-azul borde-1 ">
     <a class=" nav-link dropdown-toggle hvr-curl-top-right pointer "  id="investigacion" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Investigación <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="investigacion">
-      <a class=" dropdown-item hvr-underline-from-left  ">Vicerrectoria de Investigacion</a>
-      <a class=" dropdown-item hvr-underline-from-left  ">CIDAE</a>
-      <a class=" dropdown-item hvr-underline-from-left  ">Crean</a>
-      <a class=" dropdown-item hvr-underline-from-left  ">Otri</a>      
-      <a class=" dropdown-item hvr-underline-from-left  ">Oficina de Postgrados</a>
-      <a class=" dropdown-item hvr-underline-from-left  ">Investigadores</a>
-      <a class=" dropdown-item hvr-underline-from-left  ">Grupos de investigación</a>
-      <a class=" dropdown-item hvr-underline-from-left  ">Jóvenes Investigadores</a>
-      <a class=" dropdown-item hvr-underline-from-left  ">Red Internacional</a>
-      <a class=" dropdown-item hvr-underline-from-left  ">Semilleros</a>
-      <a class=" dropdown-item hvr-underline-from-left  ">Convocatorias</a>
-      <a class=" dropdown-item hvr-underline-from-left  ">Congreso</a>
-      <a class=" dropdown-item hvr-underline-from-left  ">Publicaciones</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="vicerrectoria-de-investigacion">Vicerrectoria de Investigacion</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="">CIDAE</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="">Crean</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="">Otri</a>      
+      <a class=" dropdown-item hvr-underline-from-left  " href="">Oficina de Postgrados</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="">Investigadores</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="">Grupos de investigación</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="">Jóvenes Investigadores</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="">Red Internacional</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="">Semilleros</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="">Convocatorias</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="">Congreso</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="">Publicaciones</a>
 
 
       

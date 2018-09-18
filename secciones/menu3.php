@@ -19,7 +19,7 @@
 
     <div class=" col-xl-1 col-lg-2 col-md-2  col-sm-2 col-4 ">
         <div class="pt-3 pl-3 pr-3 pb-0  ">
-            <a href=""  target="_aunar_estero">
+            <a href="radio-aunar-stereo"  target="_aunar_estero">
                 <img class="img-fluid hvr-grow " src="img/iconos/astereo.svg" alt="aunar estereo">
             </a>
         </div>
