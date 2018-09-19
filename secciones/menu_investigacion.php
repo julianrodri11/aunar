@@ -8,27 +8,32 @@
 <ul class="nav d-flex justify-content-center  ">
   
   <li class="nav-item">
-    <a href="institucional" class="nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false"><img width="80" src="img/institucional/informacion_institucional_aunar.png" ><br>Vicerrectoría <br>    
-de Investigación <span class="sr-only">(current)</span></a>    
+    <a href="institucional" class="nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false">
+    <img class="img-fluid" width="100%" src="img/InvestigaciOn/investigacion-aunar.png" >
+    <br>Vicerrectoría<br>de Investigación <span class="sr-only">(current)</span></a>    
   </li>
 
   <li class="nav-item" id="">
-    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center "><img width="80" src="img/institucional/rectoria_aunar.png" ><br> CIDAE</a>  	
+    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center ">
+    <img class="img-fluid" width="100%" src="img/investigacion/cidae.png" alt="CIDAE AUNAR"><br> CIDAE</a>  	
   </li>
 
   <li class="nav-item" id="">
-    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/institucional/vicerrectoria_aunar.png" ><br>CREAN</a>  
+    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center">
+    <img class="img-fluid" width="100%" src="img/investigacion/crean.png" alt="CREAN AUNAR" ><br>CREAN</a>  
   </li>
 
    <li class="nav-item" id="">
-    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/institucional/planecacion_aunar.png" ><br>OTRI</a>  
+    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center">
+    <img class="img-fluid" width="100%" src="img/investigacion/otri.png" alt="OTRI AUNAR" ><br>OTRI</a>  
   </li>
    <li class="nav-item" id="">
-    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/institucional/sistema_de_aseguramiento_de_calidad_aunar.png" ><br>Postgrados<br>
-de Calidad </a>  
+    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center">
+    <img class="img-fluid" width="100%" src="img/investigacion/postgrados-aunar.png" alt="POSTGRADOS AUNAR" ><br>Postgrados</a>  
   </li>
    <li class="nav-item" id="">
-    <a href="#" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/institucional/autoevaluacion_aunar.png" ><br>Publicaciones</a>  
+    <a href="#" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center">
+    <img class="img-fluid" width="100%" src="img/InvestigaciOn/publicaciones.png" alt="PUBLICACIONES AUNAR" ><br>Publicaciones</a>  
   </li>
     
 

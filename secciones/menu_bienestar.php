@@ -8,25 +8,31 @@
 <ul class="nav d-flex justify-content-center  ">
   
   <li class="nav-item">
-    <a href="bienestar" class="nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false"><img width="80" src="img/bienestar/ico_bienestar_institucional_aunar.png" ><br>Bienestar Institucional <span class="sr-only">(current)</span></a>    
+    <a href="bienestar" class="nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false">
+      <img class="img-fluid" width="100%" src="img/bienestar/ico_bienestar_institucional_aunar.png" ><br>Bienestar Institucional <span class="sr-only">(current)</span></a>    
   </li>
 
   <li class="nav-item" id="">
-    <a href="primeros_auxilios" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center "><img width="80" src="img/bienestar/ico_primeros_auxilios_aunar.png" ><br> Primeros auxilios</a>  	
+    <a href="primeros_auxilios" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center ">
+      <img class="img-fluid" width="100%" src="img/bienestar/ico_primeros_auxilios_aunar.png" ><br> Primeros auxilios</a>  	
   </li>
 
   <li class="nav-item" id="">
-    <a href="psicologia" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/bienestar/ico_psicologia_aunar.png" ><br>Psicología</a>  
+    <a href="psicologia" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center">
+      <img class="img-fluid" width="100%" src="img/bienestar/ico_psicologia_aunar.png" ><br>Psicología</a>  
   </li>
 
    <li class="nav-item" id="">
-    <a href="deportes" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/bienestar/ico_deportes_aunar.png" ><br>Deportes</a>  
+    <a href="deportes" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center">
+      <img class="img-fluid" width="100%" src="img/bienestar/ico_deportes_aunar.png" ><br>Deportes</a>  
   </li>
    <li class="nav-item" id="">
-    <a href="cultura" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/bienestar/ico_cultura_aunar.png" ><br>Cultura</a>  
+    <a href="cultura" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center">
+      <img class="img-fluid" width="100%" src="img/bienestar/ico_cultura_aunar.png" ><br>Cultura</a>  
   </li>
    <li class="nav-item" id="">
-    <a href="inclusion_social" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/bienestar/ico_inclusion_social_aunar.png" ><br>Inclusión Social</a>  
+    <a href="inclusion_social" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center">
+      <img class="img-fluid" width="100%" src="img/bienestar/ico_inclusion_social_aunar.png" ><br>Inclusión Social</a>  
   </li>
     
 
