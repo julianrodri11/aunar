@@ -9,7 +9,7 @@
   
   <li class="nav-item">
     <a href="bienestar" class="nav-link hvr-curl-top-right fuente-institucional texto-azul text-center f-negrita"  id="" role="button" aria-haspopup="true" aria-expanded="false">
-      <img class="img-fluid" width="100%" src="img/bienestar/ico_bienestar_institucional_aunar.png" ><br>Bienestar Institucional <span class="sr-only">(current)</span></a>    
+      <img class="img-fluid" width="100%" src="img/bienestar/ico_bienestar_institucional_aunar.png" ><br>Bienestar <br> Institucional<span class="sr-only">(current)</span></a>    
   </li>
 
   <li class="nav-item" id="">

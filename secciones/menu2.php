@@ -40,7 +40,7 @@
       <a class=" dropdown-item hvr-underline-from-left  " href="otri">OTRI</a>      
       <a class=" dropdown-item hvr-underline-from-left  " href="postgrados">Oficina de Postgrados</a>
       <a class=" dropdown-item hvr-underline-from-left  " href="investigadores">Investigadores</a>
-      <a class=" dropdown-item hvr-underline-from-left  " href="">Grupos de investigación</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="grupos-de-investigacion">Grupos de investigación</a>
       <a class=" dropdown-item hvr-underline-from-left  " href="">Jóvenes Investigadores</a>
       <a class=" dropdown-item hvr-underline-from-left  " href="">Red Internacional</a>
       <a class=" dropdown-item hvr-underline-from-left  " href="">Semilleros</a>
