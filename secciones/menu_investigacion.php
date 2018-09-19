@@ -9,7 +9,7 @@
   
   <li class="nav-item">
     <a href="institucional" class="nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false">
-    <img class="img-fluid" width="100%" src="img/InvestigaciOn/investigacion-aunar.png" >
+    <img class="img-fluid" width="100%" src="img/investigacion/investigacion-aunar.png" >
     <br>Vicerrectoría<br>de Investigación <span class="sr-only">(current)</span></a>    
   </li>
 
@@ -33,7 +33,7 @@
   </li>
    <li class="nav-item" id="">
     <a href="#" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center">
-    <img class="img-fluid" width="100%" src="img/InvestigaciOn/publicaciones.png" alt="PUBLICACIONES AUNAR" ><br>Publicaciones</a>  
+    <img class="img-fluid" width="100%" src="img/investigacion/publicaciones.png" alt="PUBLICACIONES AUNAR" ><br>Publicaciones</a>  
   </li>
     
 
