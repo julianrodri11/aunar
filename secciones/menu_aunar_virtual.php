@@ -8,22 +8,27 @@
 <ul class="nav d-flex justify-content-center  ">
   
   <li class="nav-item">
-    <a href="http://campus.aunar.edu.co/" class="nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false" target="_aunar_virtual"><img width="80" src="img/virtual/ico_campus_virtual_aunar.png" ><br>Campus AUNAR Virtual <span class="sr-only">(current)</span></a>    
+    <a href="http://campus.aunar.edu.co/" class="nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false" target="_aunar_virtual">
+      <img width="80" src="img/virtual/ico_campus_virtual_aunar.png" ><br>Campus AUNAR Virtual <span class="sr-only">(current)</span></a>    
   </li>
 
   <li class="nav-item" id="">
-    <a href="#" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center "><img width="80" src="img/virtual/ico_bienestar_virtual_aunar.png" ><br> Bienestar en Línea</a>  	
+    <a href="#" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center ">
+      <img width="80" src="img/virtual/ico_bienestar_virtual_aunar.png" ><br> Bienestar en Línea</a>  	
   </li>
 
   <li class="nav-item" id="">
-    <a href="#" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/virtual/ico_cidae_en_linea_aunar.png" ><br>CIDAE en Línea</a>  
+    <a href="#" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center">
+      <img width="80" src="img/virtual/ico_cidae_en_linea_aunar.png" ><br>CIDAE en Línea</a>  
   </li>
 
    <li class="nav-item" id="">
-    <a href="http://biblioteca.aunar.edu.co/" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center" target="_biblioteca"><img width="80" src="img/virtual/ico_biblioteca_aunar.png" ><br>Biblioteca</a>  
+    <a href="http://biblioteca.aunar.edu.co/" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center" target="_biblioteca">
+      <img width="80" src="img/virtual/ico_biblioteca_aunar.png" ><br>Biblioteca</a>  
   </li>
    <li class="nav-item" id="">
-    <a href="virtual" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/virtual/ico_virtual_aunar.png" ><br>AUNAR Virtual</a>  
+    <a href="virtual" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center">
+      <img width="80" src="img/virtual/ico_virtual_aunar.png" ><br>AUNAR Virtual</a>  
   </li>
    
 </ul>

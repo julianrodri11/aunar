@@ -3,7 +3,7 @@
 	<head>
 		<?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
 		<!--TÍTULO DE LA PÁGINA-->
-		<title>DEPORTES - BIENESTAR UNIVERSITARIO - AUTÓNOMA DE NARIÑO</title>
+		<title>VICERRECTORIA DE INVESTIGACIÓN - AUTÓNOMA DE NARIÑO</title>
 		
 	</head>
 	<body>
