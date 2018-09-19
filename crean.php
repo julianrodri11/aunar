@@ -3,7 +3,7 @@
 	<head>
 		<?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
 		<!--TÍTULO DE LA PÁGINA-->
-		<title>CIDAE - AUTÓNOMA DE NARIÑO</title>
+		<title>CREAN - AUTÓNOMA DE NARIÑO</title>
 		
 	</head>
 	<body>
@@ -18,7 +18,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-12">
-					<img class="mx-auto img-fluid" width="100%" src="img/cidae/cidae-aunar.jpg" alt="Centro de Investigaciones AUNAR"/>
+					<img class="mx-auto img-fluid" width="100%" src="img/investigacion/crean.jpg" alt="CREAN - Autónoma de Nariño"/>
 				</div>
 			</div>
 		</div>
