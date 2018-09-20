@@ -8,31 +8,31 @@
 <ul class="nav d-flex justify-content-center  ">
   
   <li class="nav-item">
-    <a href="institucional" class="nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false">
+    <a href="vicerrectoria-de-investigacion" class="nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false">
     <img class="img-fluid" width="100%" src="img/investigacion/investigacion-aunar.png" >
     <br>Vicerrectoría<br>de Investigación <span class="sr-only">(current)</span></a>    
   </li>
 
   <li class="nav-item" id="">
-    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center ">
+    <a href="cidae" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center ">
     <img class="img-fluid" width="100%" src="img/investigacion/cidae.png" alt="CIDAE AUNAR"><br> CIDAE</a>  	
   </li>
 
   <li class="nav-item" id="">
-    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center">
+    <a href="crean" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center">
     <img class="img-fluid" width="100%" src="img/investigacion/crean.png" alt="CREAN AUNAR" ><br>CREAN</a>  
   </li>
 
    <li class="nav-item" id="">
-    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center">
+    <a href="otri" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center">
     <img class="img-fluid" width="100%" src="img/investigacion/otri.png" alt="OTRI AUNAR" ><br>OTRI</a>  
   </li>
    <li class="nav-item" id="">
-    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center">
+    <a href="postgrados" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center">
     <img class="img-fluid" width="100%" src="img/investigacion/postgrados-aunar.png" alt="POSTGRADOS AUNAR" ><br>Postgrados</a>  
   </li>
    <li class="nav-item" id="">
-    <a href="#" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center">
+    <a href="publicaciones" class=" nav-link hvr-curl-top-right fuente-institucional f-negrita texto-azul text-center">
     <img class="img-fluid" width="100%" src="img/investigacion/publicaciones.png" alt="PUBLICACIONES AUNAR" ><br>Publicaciones</a>  
   </li>
     

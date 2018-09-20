@@ -140,6 +140,8 @@
 				</div>
 			</div>
 		</div>
+
+		<!-- imagen y eventos de vicerrecotoría -->
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-12 p-0">
@@ -147,6 +149,8 @@
 				</div>
 			</div>
 		</div>
+
+		<!-- personal encargado -->
 		<div class="container-fluid py-5">
 			
 			<div class="row ">
@@ -154,9 +158,9 @@
 				<!-- imagen de personal -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12 ">
-						<div class="col-10 p-3 text-center text-lg-right mx-auto">
+						<div class="col-12 py-3 text-center text-lg-right mx-auto ">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img src="img/investigacion/pedro-pablo-burbano.png.png" alt="Pedro Pablo Burbano" width="50%">
+							<img src="img/investigacion/pedro-pablo-burbano.png.png" alt="Pedro Pablo Burbano" width="35%">
 						</div>
 					</div>
 				</div>
@@ -164,7 +168,7 @@
 				<!-- información personal -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12 ">
-						<div class="col-10 p-3 mx-auto text-left texto-azul-os">
+						<div class="col-12 py-3 mx-auto text-left texto-azul-os ">
 							<!-- aqui va todo lo que se quiera centrar -->
 							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">VICERRECTOR</h4>
 							<div class="pt-sans">
@@ -187,25 +191,29 @@
 				</div>
 				<!-- fin información personal -->
 			</div>
+			<!-- linea amarilla -->
 			<div class="row">
 				<div class="col-8 borde-amarillo border-bottom p-0 mx-auto py-3"></div>
 			</div>
+
+
 			<div class="row py-5">
 				
 				<!-- imagen de personal -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12 ">
-						<div class="col-10 p-3 text-center text-lg-right mx-auto">
+						<div class="col-12 py-3 text-center text-lg-right mx-auto">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img src="img/investigacion/Francy-Yasmir-Vallejo-Otaya.png" alt="Francy Yasmir Vallejo Otaya" width="50%">
+							<img src="img/investigacion/Francy-Yasmir-Vallejo-Otaya.png" alt="Francy Yasmir Vallejo Otaya" width="35%">
 						</div>
 					</div>
 				</div>
 				<!-- fin imagen de personal -->
+				
 				<!-- información personal -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12 ">
-						<div class="col-10 p-3 mx-auto text-center text-lg-left texto-azul-os">
+						<div class="col-12 py-3 mx-auto text-center text-lg-left texto-azul-os">
 							<!-- aqui va todo lo que se quiera centrar -->
 							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">AUXILIAR DE INVESTIGACIÓN</h4>
 							<div class="pt-sans">
