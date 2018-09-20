@@ -27,7 +27,7 @@
 		<?php include_once('secciones/menu_investigacion.php');?>
 		
 		<!-- informacion de primeros auxilios -->
-		<div class="container-fluid">
+		<div class="container-fluid py-5">
 			<div class="row m-2 m-md-5">
 				<div class="col-12 col-md-3">
 					<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
@@ -85,6 +85,7 @@
 			</div>
 		</div>
 		<!-- ----------------FIN OFERTAS DE ITENRES--------------------- -->
+		
 		<!-- personal encargado -->
 		
 		<div class="container-fluid">
@@ -122,6 +123,8 @@
 			</div>
 			
 		</div>
+		<!-- Fin personal encargado -->
+		
 		<?php include_once('secciones/footer-principal.php');?>
 		
 		
