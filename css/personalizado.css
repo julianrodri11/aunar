@@ -813,7 +813,7 @@ font-weight: bold;
 
 /*EFECTO EN GALERIA DE AUNAR VIRTUAL */
 .content_img_virtual {
-	background-color:#FFCD0F;
+	background-color: #FFCD0F;
     position: relative;
     
 }
@@ -890,4 +890,27 @@ font-weight: bold;
 	background-image: url("../img/investigacion/fondo-grupos-inv-aunar.jpg");
 	background-size: cover;/*necesario para que se mire en todas las pantallas*/
 
+}
+
+
+/*Efecto cuando se coloca el mouse sobre la galería de grupos de investigación*/
+
+.content_img_gruposinvestigacion {
+	position: relative;
+    
+}
+
+.img_gruposinvestigacion {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.content_img_gruposinvestigacion:hover .img_gruposinvestigacion {
+  opacity: 0.7;
+  background-image: url('../img/transparente5x5px.png');
+  border-radius: 35px;
 }

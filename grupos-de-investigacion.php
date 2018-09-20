@@ -28,14 +28,30 @@
 		<!-- galería de imágenes -->
 		<div class="container-fluid texto-azul-os">
 			<div class="row fondo-grupos-investigacion p-5">
-				<div class="col-12 col-md-6 p-2"><img class="img-fluid" width="100%" src="img/investigacion/inmecnar.png" alt="Grupo de Investigacion INMECNAR"></div>
-				<div class="col-12 col-md-6 p-2"><img class="img-fluid" width="100%" src="img/investigacion/irop.png" alt="IROP Mecánica Dental"></div>
-				<div class="col-12 col-md-6 p-2"><img class="img-fluid" width="100%" src="img/investigacion/ciac.png" alt="CIAC Ciencias Administrativas y Contables"></div>
-				<div class="col-12 col-md-6 p-2"><img class="img-fluid" width="100%" src="img/investigacion/zed-matec.png" alt="ZED MATEC Sistemas Expertos, Desarrollo de Software, Matemáticas Aplicadas t TECnología"></div>
-				<div class="col-12 col-md-6 p-2"><img class="img-fluid" width="100%" src="img/investigacion/egresados-aunar.png" alt="Egresados AUNAR"></div>
-				<div class="col-12 col-md-6 p-2"><img class="img-fluid" width="100%" src="img/investigacion/moda-+-cultura.png" alt="MODA-+-CULTURA"></div>
-				<div class="col-12 col-md-6 p-2"><img class="img-fluid" width="100%" src="img/investigacion/metanola.png" alt="METANOLA"></div>
-				<div class="col-12 col-md-6 p-2"><img class="img-fluid" width="100%" src="img/investigacion/gidsma.png" alt="GIDSMA"></div>
+				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
+					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/inmecnar.png" alt="Grupo de Investigacion INMECNAR">					
+				</div>
+				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
+					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/irop.png" alt="IROP Mecánica Dental">					
+				</div>
+				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
+					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/ciac.png" alt="CIAC Ciencias Administrativas y Contables">					
+				</div>
+				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
+					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/zed-matec.png" alt="ZED MATEC Sistemas Expertos, Desarrollo de Software, Matemáticas Aplicadas t TECnología">					
+				</div>
+				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
+					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/egresados-aunar.png" alt="Egresados AUNAR">					
+				</div>
+				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
+					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/moda-+-cultura.png" alt="MODA-+-CULTURA">					
+				</div>
+				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
+					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/metanola.png" alt="METANOLA">					
+				</div>
+				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
+					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/gidsma.png" alt="GIDSMA">					
+				</div>
 			</div>
 		</div>
 		
@@ -93,7 +109,7 @@
 
 		<div class="container-fluid">
 			<div class="row fuente-institucional texto-azul-os p-sm-5 d-flex justify-content-center">
-				<div class="col-9 pt-lg-2 mt-lg-4 f-myriad text-justify">					
+				<div class="col-9 pt-lg-3 mt-lg-4 f-myriad text-justify">					
 				<p>
 					<br> <strong>Descripción:</strong><br>
 					Un Grupo de Investigación es la unidad docente especializada que se dedica a la investigación científica, al desarrollo tecnológico o a la innovación, integrada por profesores, jóvenes investigadores y otro tipo de personal interno y externo de la institución, provenientes de una o de diferentes áreas del conocimiento. A nivel institucional, se requiere que estos procesos tengan en cuenta, para su formulación y desarrollo, los lineamientos de Colciencias. 
