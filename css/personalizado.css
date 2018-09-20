@@ -857,6 +857,7 @@ font-weight: bold;
 .content_img_virtual:hover .img_virtual {
   opacity: 0.3;
 }
+
 .content_img_virtual:hover .texto_principal {
   opacity: 0;
 }
@@ -871,6 +872,7 @@ font-weight: bold;
   font-size: 16px;
   /*padding: 16px 32px;*/
 }
+
 .texto_principal {
   background-color: #FFCD0F;
   opacity: 0.6;

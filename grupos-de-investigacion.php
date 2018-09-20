@@ -25,7 +25,7 @@
 		<?php  include_once('secciones/menu2.php') ?>
 		<?php include_once('secciones/menu_investigacion.php');?>
 		
-		
+		<!-- galería de imágenes -->
 		<div class="container-fluid texto-azul-os">
 			<div class="row fondo-grupos-investigacion p-5">
 				<div class="col-12 col-md-6 p-2"><img class="img-fluid" width="100%" src="img/investigacion/inmecnar.png" alt="Grupo de Investigacion INMECNAR"></div>
@@ -38,7 +38,8 @@
 				<div class="col-12 col-md-6 p-2"><img class="img-fluid" width="100%" src="img/investigacion/gidsma.png" alt="GIDSMA"></div>
 			</div>
 		</div>
-
+		
+		<!-- imágen de inmecnar -->
 		<div class="container-fluid py-5">
 			<div class="row d-flex justify-content-center">
 				<div class="col-8 col-md-4 p-0">
@@ -46,12 +47,53 @@
 				</div>
 			</div>
 		</div>
-
+		
+		<!-- Datos de investigación -->
+		<div class="container-fluid">
+			<div class="row d-flex justify-content-center fuente-institucional f-negrita texto-azul-os">
+				<div class="col-8 col-md-7 border-bottom border-top borde-azul fondo-gris-os p-2">
+					<div class="row">
+						<div class="col-12 col-sm-6 text-left text-sm-right">Coordinador:</div>
+						<div class="col-12 col-sm-6">Pedro Pablo Burbano</div>
+					</div>
+				</div>
+				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-c  p-2">
+					<div class="row">
+						<div class="col-12 col-sm-6 text-left text-sm-right">Correo electrónico:</div>
+						<div class="col-12 col-sm-6">inmecnar@aunar.edu.co</div>
+					</div>
+				</div>
+				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-os p-2">
+					<div class="row">
+						<div class="col-12 col-sm-6 text-left text-sm-right">Site:</div>
+						<div class="col-12 col-sm-6">Pendiente</div>
+					</div>
+				</div>
+				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-c  p-2">
+					<div class="row">
+						<div class="col-12 col-sm-6 text-left text-sm-right">Código en Colciencias:</div>
+						<div class="col-12 col-sm-6">Pendiente</div>
+					</div>
+				</div>
+				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-os p-2">
+					<div class="row">
+						<div class="col-12 col-sm-6 text-left text-sm-right">Área:</div>
+						<div class="col-12 col-sm-6">Ingeniería Mecánica</div>
+					</div>
+				</div>
+				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-c  p-2">
+					<div class="row">
+						<div class="col-12 col-sm-6 text-left text-sm-right">Colciencias:</div>
+						<div class="col-12 col-sm-6">Enlace al GrupLac</div>
+					</div>
+				</div>
+			</div>
+		</div>
 
 
 		<div class="container-fluid">
 			<div class="row fuente-institucional texto-azul-os p-sm-5 d-flex justify-content-center">
-				<div class="col-9 pt-lg-5 mt-lg-4 f-myriad text-justify">					
+				<div class="col-9 pt-lg-2 mt-lg-4 f-myriad text-justify">					
 				<p>
 					<br> <strong>Descripción:</strong><br>
 					Un Grupo de Investigación es la unidad docente especializada que se dedica a la investigación científica, al desarrollo tecnológico o a la innovación, integrada por profesores, jóvenes investigadores y otro tipo de personal interno y externo de la institución, provenientes de una o de diferentes áreas del conocimiento. A nivel institucional, se requiere que estos procesos tengan en cuenta, para su formulación y desarrollo, los lineamientos de Colciencias. 
