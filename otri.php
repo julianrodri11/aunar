@@ -105,7 +105,7 @@
 					<div class="row col-12 ">
 						<div class="col-12 py-3 text-center text-lg-right mx-auto ">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img src="img/investigacion/pedro-pablo-burbano.png.png" alt="Pedro Pablo Burbano" width="35%">
+							<img src="img/investigacion/docente-otri.png" alt="Pedro Pablo Burbano" width="35%">
 						</div>
 					</div>
 				</div>
@@ -117,7 +117,7 @@
 							<!-- aqui va todo lo que se quiera centrar -->
 							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">PROFESIONAL ENCARGADO</h4>
 							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">DIRECTOR</h4>
-							<div class="pt-sans text-justify">
+							<div class="pt-sans text-justify pr-lg-5">
 								<label class="f-negrita">LOREM IPSUM DOLOR.</label>
 								<br> Ingeniero Electrónico, Especialista en Telemática, Magister en Informática y Telecomunicaciones, Ph.D (c ) en Ingeniería, Gestión de la Tecnología y la Innovación.
 								<br> Docente Universidad de Nariño, Universidad Antonio José Camacho, Corporación Universitaria Autónoma de Nariño.
