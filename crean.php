@@ -44,6 +44,7 @@
 					<div class="tab-content pt-sans texto-azul-os" id="v-pills-tabContent">
 						<div class="tab-pane fade p-3 fondo-gris-os show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
+								<strong>¿Quiénes Somos?</strong>
 								<p>El Centro Regional de Emprendimiento y Empresarismo Autónoma de Nariño está adscrita a la Vicerrectoría de Investigación, Desarrollo, Innovación y posgrados, cuya principal finalidad es la fomentar la construcción de una mentalidad y cultura de emprendimiento en la comunidad universitaria de AUNAR.
 								</p>
 							</div>
@@ -51,6 +52,7 @@
 						</div>
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
+								<strong>Misión</strong>
 								<p> 
 								Somos el Centro Regional de Emprendimiento y Empresarismo de la Corporación Universitaria Autónoma de Nariño, comprometidos con la formación de la mentalidad emprendedora y el espíritu empresarial en la comunidad universitaria de la región.
 								</p>
@@ -60,6 +62,7 @@
 						</div>
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
+								<strong>Visión</strong>
 								<p>Para el año 2023 seremos reconocidos como el centro de emprendimiento universitario pionero y líder en el proceso de formación de la mentalidad emprendedora en el suroccidente colombiano.</p>
 							</div>
 						
