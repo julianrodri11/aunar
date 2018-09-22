@@ -208,9 +208,27 @@
 						<!-- pestaña 8-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-8" role="tabpanel" aria-labelledby="v-pills-act-8-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
-								<h3 class=" f-negrita fuente-institucional texto-azul">Formatos</h3>  
+								<h3 class=" f-negrita fuente-institucional texto-azul">Formatos</h3>
 							</div>
-							<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/investigacion/organigrama-cidae-aunar.jpg" alt="organigrama cida aunar"></div>
+							<div class="col-12 p-2 px-md-5 text-justify">
+								DOCUMENTOS REQUERIDOS CREACIÓN GRUPOS DE INVESTIGACIÓN <br>
+								<br>- Carta de solicitud de reconocimiento institucional del grupo de investigación
+								<br>- Carta de Solicitud Correo Institucional de Grupo de Investigación
+								<br>- Dossier de Presentación 
+								<br>- Grupos de investigación Aunar
+								<br>- Formato de Inscripción 
+								<br>- Grupos de Investigación
+								<br>- Formato de Presentación de Proyectos de Investigación Docente
+								<br>- Instructivo Creación Grupos de Investigación
+								<br>- Formato para pedir clave a Colciencias
+								<br>- Formato para presentar diplomado ante Cidae
+								<br>- Formatos de Inscripción Nodal
+								<br>- Manual de Trabajo de Grado 
+								<br>- Facultad de Ingenierías
+								<br>- Formato de Presupuesto 
+								<br>- Proyectos de Investigación
+
+							</div>							
 						</div>
 
 					</div>
