@@ -35,58 +35,68 @@
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Misión</a>
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Visión</a>
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">Objetivos</a>
-						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os" id="v-pills-act-deportivas-tab" data-toggle="pill" href="#v-pills-act-deportivas" role="tab" aria-controls="v-pills-act-deportivas" aria-selected="false">Líneas de investigación</a>
-						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center bg-success f-negrita fondo-gris" id="v-pills-act-deportivas-tab" data-toggle="pill" href="#v-pills-act-deportivas" role="tab" aria-controls="v-pills-act-deportivas" aria-selected="false">No se ha enviado información</a>
-						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center bg-success f-negrita fondo-gris-os" id="v-pills-act-deportivas-tab" data-toggle="pill" href="#v-pills-act-deportivas" role="tab" aria-controls="v-pills-act-deportivas" aria-selected="false">No se ha enviado información</a>
-						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center bg-success f-negrita fondo-gris" id="v-pills-act-deportivas-tab" data-toggle="pill" href="#v-pills-act-deportivas" role="tab" aria-controls="v-pills-act-deportivas" aria-selected="false">No se ha enviado información</a>
+						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os" id="v-pills-act-deportivas-tab" data-toggle="pill" href="#v-pills-act-deportivas" role="tab" aria-controls="v-pills-act-deportivas" aria-selected="false">Emprendimiento</a>
+						
+						
 					</div>
 				</div>
 				<div class="col-12 col-md-9">
 					<div class="tab-content pt-sans texto-azul-os" id="v-pills-tabContent">
 						<div class="tab-pane fade p-3 fondo-gris-os show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p>Se entiende por primeros auxilios, la atención inmediata y temporal que se brinda a víctimas de accidentes o de afecciones de salud que se presentan repentinamente y que ponen en riesgo el bienestar de la persona. Este servicio se presta sin costo, a cualquier persona que se encuentre en el campus universitario y que requiera de dicha atención.</p>
-								<p>Cuando se requiere este servicio, por favor acérquese a la Oficina de Primeros Auxilios ubicada en el primer piso de Institución.</p>
+								<p>El Centro Regional de Emprendimiento y Empresarismo Autónoma de Nariño está adscrita a la Vicerrectoría de Investigación, Desarrollo, Innovación y posgrados, cuya principal finalidad es la fomentar la construcción de una mentalidad y cultura de emprendimiento en la comunidad universitaria de AUNAR.
+								</p>
 							</div>
-							<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/aunar_primeros_auxilios.jpg"></div>
+							
 						</div>
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p>La hipertensión arterial es una patología crónica que consiste en el aumento de la presión arterial. Una de las características de esta enfermedad es que no presenta síntomas claros y no se manifiestan durante mucho tiempo.</p>
-								<p>Para una persona hipertensa, es indispensable que controle sus valores de presión sanguínea varias veces por semana. Caso contrario, podría presentar complicaciones silenciosas debido al efecto que produce la hipertensión arterial sobre muchos órganos.</p>
-								<p>¿Cómo controlar la presión arterial?</p>
-								<p>Las siguientes medidas pueden contribuir al control de la presión arterial:</p>
-								<p> - Perder peso
-									- Aumentar la actividad física <br>
-									- Limitar la ingesta de sal <br>
-									- Limitar la ingesta de alcohol <br>
-									- Dejar de fumar <br>
-								- Tomar la medicación aconsejada por tu médico</p>
-								<p>Cuando se requiere este servicio, por favor acérquese a la Oficina de Primeros Auxilios ubicada en el primer piso de Institución.</p>
+								<p> 
+								Somos el Centro Regional de Emprendimiento y Empresarismo de la Corporación Universitaria Autónoma de Nariño, comprometidos con la formación de la mentalidad emprendedora y el espíritu empresarial en la comunidad universitaria de la región.
+								</p>
+								<p>Conformamos un equipo humano idóneo, íntegro y comprometido con el ejercicio de brindar un acompañamiento oportuno, que, apoyado con los recursos tecnológicos, financieros, de infraestructura y en general todos aquellos requeridos para garantizar un servicio óptimo para nuestros emprendedores. </p>
 							</div>
-							<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/tension_arterial.jpg"></div>
+							
 						</div>
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p>Auto cuidado y manejo responsable de la sexualidad, derechos sexuales y reproductivos, conocimiento de Infecciones de Transmisión Sexual, su prevención y el manejo de ellas con asesoría en enfermería. <br>
-									- Higiene íntima. <br>
-									- Asesoría en planificación familiar. <br>
-									- Autoexamen de mamas
-								</p>
+								<p>Para el año 2023 seremos reconocidos como el centro de emprendimiento universitario pionero y líder en el proceso de formación de la mentalidad emprendedora en el suroccidente colombiano.</p>
 							</div>
-							<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/asesorias_educacion_sexual.jpg"></div>
+						
 						</div>
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
-								Es un programa que informa y educa a la comunidad universitaria sobre la importancia que tiene el respeto consigo mismo, con el auto cuidado y el aprendizaje significativo de estilos de vida que favorezcan la salud física y mental.
+							
+							<strong>Objetivo general </strong>
+							<p>
+							Fortalecer y dinamizar el tanto el emprendimiento como el empresarismo al interior de la Corporación Universitaria Autónoma de Nariño durante los años 2015-2023.
+							</p>
+
+							<strong>Objetivos específicos:</strong>
+
+							<p>Coordinar y articular las políticas e iniciativas de emprendimiento que se ejecutan desde y hacia la universidad.
+							Fortalecer la cultura y mentalidad emprendedora dentro de los miembros de la comunidad universitaria y su área de influencia.
+							Estimular el emprendimiento y el empresarismo dentro de los miembros de la comunidad universitaria y su área de influencia.
+							Promover la interactividad con las diferentes redes de emprendimiento tanto en los ámbitos regional, nacional e internacional.</p>
 							</div>
-							<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/promocion_y_prevencion.jpg"></div>
+							
 						</div>
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-deportivas" role="tabpanel" aria-labelledby="v-pills-act-deportivas-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p>Durante la realización de cualquier actividad deportiva y cultural AUNAR, se tiene acompañamiento de personal experto en cada área y que garantice las condiciones óptimas en cada evento.</p>
+							<p>
+								Los procesos que lidera la dependencia son:
+								<br><br>
+								Articulación institucional en emprendimiento: Desde donde se busca Interrelacionar las actividades curriculares que se están desarrollando dentro de las diferentes asignaturas incluidas en los pensum académicos de los diferentes programas ofrecidos por la institución de tal manera que se consolide una temática transversal de la formación profesional en mentalidad emprendedora.
+								<br><br>
+								Formación extracurricular en emprendimiento: cuya finalidad es la de diseñar, construir y ejecutar espacios extracurriculares que permitan la motivación y la formación integral del nuevo profesional como un ser autónomo, creativo, innovador y emprendedor con sentido social.
+								<br><br>
+								Acompañamiento al emprendedor: En este proceso se brida asesoría personalizada a los emprendedores que deseen avanzar de manera significativa en su objetivo de crear sus propias unidades de negocio o liderar sus proyectos emprendedores.
+								<br><br>
+								Participación dinámica con el entorno: Buscando participar activamente en redes locales, regionales, nacionales e internacionales en emprendimiento y fortalecer las relaciones con el entorno empresarial de la región, de tal manera que se obtenga una interacción que permita la transferencia tecnológica y de innovación en beneficio del emprendimiento.
+
+							</p>
 							</div>
-							<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/acompanamiento_actividades_deportivas.jpg"></div>
+							
 						</div>
 					</div>
 				</div>
