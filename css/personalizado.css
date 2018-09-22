@@ -497,6 +497,13 @@ font-weight: bold;
 
 }
 
+/*fondo de la página de vicerectoria académica en la seccion de eventos*/
+.fondo-eventos-vicerectoria
+{
+  background-image: url("../img/investigacion/eventos-invetigacion.jpg");
+  background-size: cover;/*necesario para que se mire en todas las pantallas*/
+
+}
 /* CLASE PARA COLOCAR TEXTO SOBRE UNA IMAGEN*/
 .contenedor_preinscripcion
 {

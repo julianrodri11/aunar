@@ -140,97 +140,176 @@
 				</div>
 			</div>
 		</div>
-
-		<!-- imagen y eventos de vicerrecotoría -->
-		<div class="container-fluid">
+		
+		<!-- -----------------EVENTOS--------------------------------- -->
+		<div class="container-fluid fondo-amarillo fondo-eventos-vicerectoria">
 			<div class="row">
-				<div class="col-12 p-0">
-					<img class="mx-auto img-fluid" width="100%" src="img/investigacion/eventos-invetigacion.jpg" alt="vicerrectoría de investigación" />
+				<div class="col-lg-12 p-2 d-flex align-items-center justify-content-center justify-content-sm-center justify-content-md-center e_arriba_abajo">
+					
+					<div class="p-1 mt-5 mt-sm-5 bd-highlight text-center pr-3">
+						<h1 class="my-1 fuente-institucional text-white f-negrita">Eventos</h1>
+						<label class="  fuente-institucional text-white f-size-18">¡Entérate nuestras novedades!</label>
+					</div>
+				<!-- div class="p-1 bg-primary bd-highlight">Flex item 2</div>
+				<div class="p-1 bg-white bd-highlight">Flex item 3</div> -->
+			</div>
+			<div class="col-lg-12  ">
+				<div class="row p-3 ">
+					
+					<div class="col-md-6 p-3 derecha_izquierda d-flex align-items-center">
+						<div class="col-12 p-lg-4 mb-3">
+							
+							<!-- seccion de eventos  -->
+							<!-- evento 1 -->
+							<div class="row p-1 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
+								<div class="col-12 col-sm-4 d-flex justify-content-center justify-content-sm-start">
+									<div class=" hexagon p-3">
+										<div class="row pt-2 text-center ">
+											<span class="col-12 fuente-institucional f-negrita f-size-16">20</span>
+											<span class="col-12 fuente-institucional f-negrita f-size-16">Junio</span>
+										</div>
+									</div>
+								</div>
+								<div class="col-12 col-sm-8 d-flex justify-content-center justify-content-sm-start">
+									<div class="row texto-azul pt-sans">
+										<div class="col-lg-12 text-center text-lg-left text-md-left f-negrita f-size-16"><label class="border-bottom borde-azul">II Encuentro de Bibliotecas.</label></div>
+										<div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
+										<div class="col-lg-12 text-center text-lg-left text-md-left">Hora: 8:00 am</div>
+									</div>
+								</div>
+							</div>
+							<!-- evetnos 2 -->
+							<div class="row p-1 pl-sm-5 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
+								<div class="col-12 col-sm-5 d-flex justify-content-center justify-content-sm-start">
+									<div class=" hexagon p-3">
+										<div class="row pt-2 text-center ">
+											<span class="col-12 fuente-institucional f-negrita f-size-16">17</span>
+											<span class="col-12 fuente-institucional f-negrita f-size-16">Julio</span>
+										</div>
+									</div>
+								</div>
+								<div class="col-12 col-sm-7 d-flex justify-content-center justify-content-sm-start">
+									<div class="row texto-azul pt-sans">
+										<div class="col-lg-12 text-center text-lg-left text-md-left f-negrita f-size-16"><label class="border-bottom borde-azul">II Encuentro de Bibliotecas.</label></div>
+										<div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
+										<div class="col-lg-12 text-center text-lg-left text-md-left">Hora: 8:00 am</div>
+									</div>
+								</div>
+							</div>
+							<!-- evento 3 -->
+							<div class="row p-1 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
+								<div class="col-12 col-sm-4 d-flex justify-content-center justify-content-sm-start">
+									<div class=" hexagon p-3">
+										<div class="row pt-2 text-center ">
+											<span class="col-12 fuente-institucional f-negrita f-size-16">30</span>
+											<span class="col-12 fuente-institucional f-negrita f-size-16">Agosto</span>
+										</div>
+									</div>
+								</div>
+								<div class="col-12 col-sm-8 d-flex justify-content-center justify-content-sm-start">
+									<div class="row texto-azul pt-sans">
+										<div class="col-lg-12 text-center text-lg-left text-md-left f-negrita f-size-16"><label class="border-bottom borde-azul">II Encuentro de Bibliotecas.</label></div>
+										<div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
+										<div class="col-lg-12 text-center text-lg-left text-md-left">Hora: 8:00 am</div>
+									</div>
+								</div>
+							</div>
+							<!-- fin sección eventos -->
+						</div>
+					</div>
+					<div class="col-md-6 p-2 hvr-grow-shadow izquierda_derecha d-flex align-items-center" >
+						<div class="col p-2 text-center "><a href="radio-aunar-stereo"><img class="img-fluid" width="100%" alt="AUNAR ESTEREO" src="img/aunar-stereo.png"/></a></div>
+						<!-- <div class=" texto-azul text-center ">
+							<div class="row">
+								<div class="col-12 mb-0 p-0 fuente-institucional ">AUNAR STEREO</div>
+								<div class="col-12 "><label class="f-size-14">¡Tú también puedes ser un creador de espacios de diálogo!</label></div>
+							</div>
+						</div> -->
+					</div>
 				</div>
 			</div>
 		</div>
-
-		<!-- personal encargado -->
-		<div class="container-fluid py-5">
+	</div>
+	<!-- ----------------FIN EVENTOS------------------------------ -->
+	<!-- personal encargado -->
+	<div class="container-fluid py-5">
+		
+		<div class="row ">
 			
-			<div class="row ">
-				
-				<!-- imagen de personal -->
-				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-					<div class="row col-12 ">
-						<div class="col-12 py-3 text-center text-lg-right mx-auto ">
-							<!-- aqui va todo lo que se quiera centrar -->
-							<img src="img/investigacion/pedro-pablo-burbano.png.png" alt="Pedro Pablo Burbano" width="35%">
-						</div>
+			<!-- imagen de personal -->
+			<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+				<div class="row col-12 ">
+					<div class="col-12 py-3 text-center text-lg-right mx-auto ">
+						<!-- aqui va todo lo que se quiera centrar -->
+						<img src="img/investigacion/pedro-pablo-burbano.png.png" alt="Pedro Pablo Burbano" width="35%">
 					</div>
 				</div>
-				<!-- fin imagen de personal -->
-				<!-- información personal -->
-				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-					<div class="row col-12 ">
-						<div class="col-12 py-3 mx-auto text-left texto-azul-os ">
-							<!-- aqui va todo lo que se quiera centrar -->
-							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">VICERRECTOR</h4>
-							<div class="pt-sans">
-								<label class="f-negrita">PEDRO PABLO BURBANO</label>
-								<br>Lic. en física
-								<br>Esp. Economía de los recursos naturales
-								<br>Esp. Ciencia, tecnología y sociedad
-								<br>Esp. Dirección y gerencia pública en administración local
-								<br>Mg. Docencia de la física
-								<br>Mg. Análisis y gestión de la ciencia y la tecnología
-								<br>Mg. MBA directivo
-								<br>Doc. Estudios políticos
-								<br>Docente de los Colegios Seminario Misional de Sibundoy, Champagnat de Sibundoy y Minuto de Dios, Bogotá.
-								<br>Docente de las Universidades: Cauca, ESAP, Distrital, Los Libertadores, Instituto Tecnológico del Putumayo, Autónoma de Nariño.
-								<br><br>
-								Vicerrectoria.investigacion@aunar.edu.co
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- fin información personal -->
 			</div>
-			<!-- linea amarilla -->
-			<div class="row">
-				<div class="col-8 borde-amarillo border-bottom p-0 mx-auto py-3"></div>
-			</div>
-
-
-			<div class="row py-5">
-				
-				<!-- imagen de personal -->
-				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-					<div class="row col-12 ">
-						<div class="col-12 py-3 text-center text-lg-right mx-auto">
-							<!-- aqui va todo lo que se quiera centrar -->
-							<img src="img/investigacion/Francy-Yasmir-Vallejo-Otaya.png" alt="Francy Yasmir Vallejo Otaya" width="35%">
+			<!-- fin imagen de personal -->
+			<!-- información personal -->
+			<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+				<div class="row col-12 ">
+					<div class="col-12 py-3 mx-auto text-left texto-azul-os ">
+						<!-- aqui va todo lo que se quiera centrar -->
+						<h4 class="texto-amarillo fuente-institucional f-negrita p-0">VICERRECTOR</h4>
+						<div class="pt-sans">
+							<label class="f-negrita">PEDRO PABLO BURBANO</label>
+							<br>Lic. en física
+							<br>Esp. Economía de los recursos naturales
+							<br>Esp. Ciencia, tecnología y sociedad
+							<br>Esp. Dirección y gerencia pública en administración local
+							<br>Mg. Docencia de la física
+							<br>Mg. Análisis y gestión de la ciencia y la tecnología
+							<br>Mg. MBA directivo
+							<br>Doc. Estudios políticos
+							<br>Docente de los Colegios Seminario Misional de Sibundoy, Champagnat de Sibundoy y Minuto de Dios, Bogotá.
+							<br>Docente de las Universidades: Cauca, ESAP, Distrital, Los Libertadores, Instituto Tecnológico del Putumayo, Autónoma de Nariño.
+							<br><br>
+							Vicerrectoria.investigacion@aunar.edu.co
 						</div>
 					</div>
 				</div>
-				<!-- fin imagen de personal -->
-				
-				<!-- información personal -->
-				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-					<div class="row col-12 ">
-						<div class="col-12 py-3 mx-auto text-center text-lg-left texto-azul-os">
-							<!-- aqui va todo lo que se quiera centrar -->
-							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">AUXILIAR DE INVESTIGACIÓN</h4>
-							<div class="pt-sans">
-								<label class="f-negrita">FRANCY YASMIR VALLEJO OTAYA</label>
-								<br>secretaria.investigacion@aunar.edu.co
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- fin información personal -->
 			</div>
+			<!-- fin información personal -->
+		</div>
+		<!-- linea amarilla -->
+		<div class="row">
+			<div class="col-8 borde-amarillo border-bottom p-0 mx-auto py-3"></div>
+		</div>
+		<div class="row py-5">
 			
+			<!-- imagen de personal -->
+			<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+				<div class="row col-12 ">
+					<div class="col-12 py-3 text-center text-lg-right mx-auto">
+						<!-- aqui va todo lo que se quiera centrar -->
+						<img src="img/investigacion/Francy-Yasmir-Vallejo-Otaya.png" alt="Francy Yasmir Vallejo Otaya" width="35%">
+					</div>
+				</div>
+			</div>
+			<!-- fin imagen de personal -->
+			
+			<!-- información personal -->
+			<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+				<div class="row col-12 ">
+					<div class="col-12 py-3 mx-auto text-center text-lg-left texto-azul-os">
+						<!-- aqui va todo lo que se quiera centrar -->
+						<h4 class="texto-amarillo fuente-institucional f-negrita p-0">AUXILIAR DE INVESTIGACIÓN</h4>
+						<div class="pt-sans">
+							<label class="f-negrita">FRANCY YASMIR VALLEJO OTAYA</label>
+							<br>secretaria.investigacion@aunar.edu.co
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- fin información personal -->
 		</div>
 		
-		
-		<?php include_once('secciones/footer-principal.php');?>
-		
-		
-	</body>
+	</div>
+	
+	
+	<?php include_once('secciones/footer-principal.php');?>
+	
+	
+</body>
 </html>

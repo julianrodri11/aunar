@@ -226,12 +226,12 @@
           </div> -->
         </div>
         <div class="col-md-6 p-3 derecha_izquierda d-flex align-items-center">           
-            <div class="col-12 p-4 mb-3">
+            <div class="col-12 p-lg-4 mb-3">
             
               <!-- seccion de eventos  -->
               <!-- evento 1 -->
               <div class="row p-1 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
-                <div class="col-md-3 col-12 ">
+                <div class="col-12 col-sm-4 d-flex justify-content-center justify-content-sm-start">
                   <div class=" hexagon p-3">
                     <div class="row pt-2 text-center "> 
                       <span class="col-12 fuente-institucional f-negrita f-size-16">20</span>
@@ -239,7 +239,7 @@
                     </div>
                   </div>
                 </div> 
-                <div class="col-md-9 col-12">
+                <div class="col-12 col-sm-8 d-flex justify-content-center justify-content-sm-start">
                   <div class="row texto-azul pt-sans">
                     <div class="col-lg-12 text-center text-lg-left text-md-left f-negrita f-size-16"><label class="border-bottom borde-azul">II Encuentro de Bibliotecas.</label></div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
@@ -248,8 +248,8 @@
                 </div>
               </div>
               <!-- evetnos 2 -->
-               <div class="row p-1 pl-5 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
-                <div class="col-md-3 col-12 ">
+               <div class="row p-1 pl-sm-5 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
+                <div class="col-12 col-sm-5 d-flex justify-content-center justify-content-sm-start">
                   <div class=" hexagon p-3">
                     <div class="row pt-2 text-center "> 
                       <span class="col-12 fuente-institucional f-negrita f-size-16">17</span>
@@ -257,7 +257,7 @@
                     </div>
                   </div>
                 </div> 
-                <div class="col-md-9 col-12">
+                <div class="col-12 col-sm-7 d-flex justify-content-center justify-content-sm-start">
                   <div class="row texto-azul pt-sans">
                     <div class="col-lg-12 text-center text-lg-left text-md-left f-negrita f-size-16"><label class="border-bottom borde-azul">II Encuentro de Bibliotecas.</label></div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
@@ -267,7 +267,7 @@
               </div>
               <!-- evento 3 -->
                <div class="row p-1 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">
-                <div class="col-md-3 col-12 ">
+                <div class="col-12 col-sm-4 d-flex justify-content-center justify-content-sm-start">
                   <div class=" hexagon p-3">
                     <div class="row pt-2 text-center "> 
                       <span class="col-12 fuente-institucional f-negrita f-size-16">30</span>
@@ -275,7 +275,7 @@
                     </div>
                   </div>
                 </div> 
-                <div class="col-md-9 col-12">
+                <div class="col-12 col-sm-8 d-flex justify-content-center justify-content-sm-start">
                   <div class="row texto-azul pt-sans">
                     <div class="col-lg-12 text-center text-lg-left text-md-left f-negrita f-size-16"><label class="border-bottom borde-azul">II Encuentro de Bibliotecas.</label></div>
                     <div class="col-lg-12 text-center text-lg-left text-md-left">RED UREL</div>
