@@ -11,16 +11,15 @@
   <li class="nav-item  dropdown border-right borde-azul borde-1 ">
     <a class="nav-link dropdown-toggle fuente-institucional hvr-curl-top-right  pointer"  id="institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Institucional <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul " aria-labelledby="institucional">
-      <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Misión</a>
-      <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Visión</a>
+      <a class=" dropdown-item hvr-underline-from-left" href="institucional">Información Institucional</a>
+      <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Rectoría</a>  
+      <a class=" dropdown-item hvr-underline-from-left" href="vicerrectorias">Vicerrectorías</a>       
+      <!-- <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Visión</a>
       <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Reglamentos</a>  
       <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Resoluciones</a>  
       <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Organigrama</a>  
       <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Simbolos de la institución</a>  
-      <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Directorio</a>  
-      <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Rectoria</a>  
-      <a class=" dropdown-item hvr-underline-from-left" href="institucional">Vicerrectoras</a>  
-      <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Planeación</a>  
+      <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Directorio</a>   -->
 
     </div>
     

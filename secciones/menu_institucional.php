@@ -8,18 +8,18 @@
 <ul class="nav d-flex justify-content-center  ">
   
   <li class="nav-item">
-    <a href="institucional" class="nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false"><img width="80" src="img/institucional/informacion_institucional_aunar.png" ><br>Información 
-<br> Institucional <span class="sr-only">(current)</span></a>    
+    <a href="institucional" class="nav-link hvr-curl-top-right f-negrita fuente-institucional texto-azul text-center"  id="" role="button" aria-haspopup="true" aria-expanded="false"><img width="100%" src="img/institucional/informacion_institucional_aunar.png" >
+      <br><br>Información <br> Institucional <span class="sr-only">(current)</span></a>    
   </li>
 
   <li class="nav-item" id="">
-    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center "><img width="80" src="img/institucional/rectoria_aunar.png" ><br> Rectoria</a>  	
+    <a href="rectoria" class=" nav-link hvr-curl-top-right f-negrita fuente-institucional texto-azul text-center "><img width="100%" src="img/institucional/rectoria_aunar.png" ><br><br> Rectoria</a>  	
   </li>
 
   <li class="nav-item" id="">
-    <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/institucional/vicerrectoria_aunar.png" ><br>Vicerrectoría</a>  
+    <a href="rectoria" class=" nav-link hvr-curl-top-right f-negrita fuente-institucional texto-azul text-center"><img width="100%" src="img/institucional/vicerrectoria_aunar.png" ><br><br>Vicerrectoría</a>  
   </li>
-
+<!-- 
    <li class="nav-item" id="">
     <a href="rectoria" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/institucional/planecacion_aunar.png" ><br>Planeación</a>  
   </li>
@@ -30,7 +30,7 @@ de Calidad </a>
   </li>
    <li class="nav-item" id="">
     <a href="#" class=" nav-link hvr-curl-top-right fuente-institucional texto-azul text-center"><img width="80" src="img/institucional/autoevaluacion_aunar.png" ><br>Autoevaluación</a>  
-  </li>
+  </li> -->
     
 
 </ul>
