@@ -25,7 +25,6 @@
 		
 		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_institucional.php');?>
-
 		<!-- Slider -->
 		<div class="container-fluid texto-azul-os py-4">
 			<div class="row">
@@ -72,87 +71,214 @@
 		</div>
 		<!-- Fin slider-->
 		
-
 		<!-- informacion de rectoría -->
-		<div class="container-fluid">
-			<div class="row m-2 m-md-5">
-				<div class="col-12 col-md-3">
-					<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-				      <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Misión Institucional</a>
-				      <a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Visión Institucional</a>				      
-				    </div>
-				</div>
-				<div class="col-12 col-md-9">
-					<div class="tab-content pt-sans texto-azul-os" id="v-pills-tabContent">
-				      
-				      <div class="tab-pane fade p-3 fondo-gris-os show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-						<div class="col-12 p-2 px-md-5 text-justify">
-							<p>La oficina de Bienestar institucional de la Corporación Universitaria Autónoma de Nariño a través de la Coordinación de recreación y deporte, incentiva y fomenta realizar de manera regular y sistemática la práctica del deporte y la actividad física, la cual ha demostrado ser beneficiosa en la prevención, desarrollo y rehabilitación de la salud, así como un medio para forjar el carácter, disciplina, toma de decisiones y el cumplimiento de las reglas beneficiando así el desenvolvimiento del practicante en todos los ámbitos de la vida cotidiana.</p>
-							<p>El deporte y la actividad física es entendido como una actividad motriz, que representa un fundamento y una condición importante, no sólo para el desarrollo físico, sino también para el desarrollo intelectual y socioafectivo, es considerado como un instrumento de la pedagogía, por cuanto ayuda a desarrollar las cualidades básicas del hombre como unidad bio-sico-social. Contribuye al accionar educativo con sus fundamentos científicos y sus vínculos interdisciplinarios, promueve y facilita a los individuos el alcanzar a comprender su propio cuerpo, sus posibilidades y dominar un número variado de actividades corporales y deportivas, de modo que en el futuro pueda escoger las más convenientes para su desarrollo y recreación personal, mejorando a su vez su calidad de vida por medio del enriquecimiento, disfrute personal y la relación con los demás.</p>
-							<p>De esta manera, la Coordinación de recreación y deporte brinda a la comunidad “AUNAR”, la posibilidad de lograr articular el deporte dentro de su vida cotidiana, académica y laboral, brindando la posibilidad de practicar diferentes actividades deportivas que coadyuven a mejorar la calidad de vida y a obtener un mayor provecho de su tiempo libre, preservando la salud física y mental, por lo tanto, se brinda la posibilidad a la comunidad “AUNAR” de practicar el deporte con el que tenga mayor afinidad y ser parte de las diferentes selecciones deportivas que tiene nuestra institución, logrando representar a la misma en diferentes campeonatos a nivel regional y nacional.</p>
+		<div class="container-fluid fondo-gris-c p-lg-5">
+			
+			<div class="row px-lg-5 m-lg-2 pt-sans texto-azul-os text-justify">
+				<div class="col-12 col-md-6 p-lg-5">
+					<div class="row ">
+						<div class="col-12 py-4"><h3 class="fuente-institucional f-negrita"> Objetivo</h3></div>
+						<div class="col-12 text-justify pt-sans">
+							<p>Cumplir y hacer cumplir en la Institución Universitaria las normas legales, estatutarias y reglamentarias vigentes.</p>
 						</div>
-						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/sobre_deportes.jpg"></div>
-				      </div>
-
-				      <div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-				      	<div class="col-12 p-2 px-md-5 text-center" >
-							Fútbol<br>Fútbol sala masculino y femenino 
-				      	</div>
-						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/futbol_autonoma_de_narino.jpg"></div>
-						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/futbol_autonoma_de_narino_2.jpg"></div>
-						<div class="col-12 p-2 px-md-5 text-center" >
-							Baloncesto <br>masculino y femenino 
-
-				      	</div>
-						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/baloncesto_autonoma_de_narino.jpg"></div>
-						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/baloncesto_autonoma_de_narino_2.jpg"></div>
-						<div class="col-12 p-2 px-md-5 text-center" >
-							Voleibol 
-				      	</div>
-						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/voleibol_autonoma_de_narino.jpg"></div>
-						<div class="col-12 p-2 px-md-5 text-center" >
-						Taekwondo masculino y femenino
-				      	</div>
-						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/taekwondo_autonoma_de_narino.jpg"></div>						
-				      </div>
-
-				    </div>
+					</div>
+					<div class="row ">
+						<div class="col-12 py-4"><h3 class="fuente-institucional f-negrita"> Descripción de la Rectoría</h3></div>
+						<div class="col-12 text-justify pt-sans">
+							<p>El Rector de la Corporación Universitaria Autónoma de
+								Nariño, es la autoridad académica y ejecutiva de la
+								Institución. Para ser Rector, se requiere poseer título
+								profesional universitario o haber sido profesor universitario
+								por espacio de tres años continuos o discontinuos y haber
+								demostrado excelente reputación moral o haber ejercido la
+								profesión cinco años.
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 p-lg-5 border-left borde-amarillo borde-2">
+					<h3 class="fuente-institucional f-negrita texto-azul-os mx-auto">Funciones del Rector(a):</h3>
+					<p>
+						<br>Dirigir las labores académicas de la Corporación Universitaria de acuerdo con los
+						Estatutos, hacer cumplir las determinaciones y políticas de la Asamblea de
+						Fundadores y del Consejo Directivo.
+						<br><br>Presentar al Consejo Directivo el proyecto de presupuesto de ingresos y egresos de la
+						Corporación Universitaria y ejecutarlo una vez éste lo haya aprobado.
+						Presentar al Consejo Directivo, los proyectos de organización administrativa, de
+						manual de funciones, de planta de personal, de sistema de procedimiento de la
+						Corporación Universitaria.
+						<br><br>Nombrar y remover el personal docente y administrativo.
+						<br><br>Dirigir, orientar y controlar el funcionamiento de todas las dependencias académicas
+						y administrativas de la Corporación Universitaria.
+						<br><br>Producir los actos administrativos y académicos, realizar las operaciones y celebrar los
+						contratos necesarios para el normal desarrollo de las actividades de la Corporación
+						Universitaria con sujeción a las cuantías que le fije el Consejo Directivo.
+						<br><br>Autorizar con su firma los títulos académicos que expida la Corporación Universitaria.
+						Presentar al Consejo Directivo, los proyectos para la aprobación, supresión o
+						modificación de planes de enseñanza, capacitación, investigación y extensión de la
+						Institución Universitaria.
+						<br><br>Presentar al Consejo Directivo y a la Asamblea de Fundadores, los balances y estados
+						financieros de la Entidad.
+						<br><br>Dirigir el Comité de Rectoría y el Comité Académico para orientar las políticas fijadas
+						por la Corporación Universitaria.
+						<br><br>Cumplir en todos los Estatutos y Reglamentos de la Corporación Universitaria.
+						<br><br>Las demás que le asigne los reglamentos internos de la Corporación Universitaria.
+					</p>
 				</div>
 			</div>
 		</div>
-
 		
-		<!-- personal encargado -->		
-
-		<div class="container-fluid p-2 p-lg-5 ">
-			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
-				<div class="col-12 col-lg-6 ">
-				<!-- Personal -->
-				<div class="media border-bottom borde-amarillo pb-3">
-				<div class="media-body ">
-					
-					<div class="row">
-						<div class="col-12 col-md-6 text-center">
-							<img src="img/bienestar/Vanessa_Constanza.png" class="align-self-center mr-3 rounded-circle img-fluid" >
-						</div>
-						<div class="col-12 col-md-6 text-center text-md-left">
-							<h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
-						    <div class="pt-sans">
-						    <label class="f-negrita">JOSÉ LUIS YARPAZ BENAVIDES </label><br>
-						    Coordinador de deporte y cultura <br>									
-							Lic. En educación Física<br>									
-							Candidato A Magister En Deporte Y Actividad Física
-						    </div>
-						</div>
-					</div>	  
-				  
-				    
-				  </div>
-				</div>
-				</div>			
+		
+		<!-- personal encargado -->
+		<div class="container-fluid py-5">
+			<!-- linea amarilla -->
+			<div class="row">
+				<div class="col-8 borde-amarillo border-bottom p-0 mx-auto py-3"></div>
 			</div>
+			<div class="row ">
+				
+				<!-- imagen de personal -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12 ">
+						<div class="col-12 py-3 text-center text-lg-right mx-auto ">
+							<!-- aqui va todo lo que se quiera centrar -->
+							<img src="img/institucional/INGRID_ELIZABETH_COLUNGE_ORDONEZ.png" alt="INGRID ELIZABETH COLUNGE ORDÓÑEZ - RECTOR AUNAR" width="50%">
+						</div>
+					</div>
+				</div>
+				<!-- fin imagen de personal -->
+				<!-- información personal -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12 ">
+						<div class="col-12 py-3 mx-auto text-left texto-azul-os ">
+							<!-- aqui va todo lo que se quiera centrar --><br><br>
+							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">PROFESIONAL ENCARGADO</h4>
+							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">RECTOR (A)</h4>
+							<div class="pt-sans">
+								<label class="f-negrita">INGRID ELIZABETH COLUNGE ORDÓÑEZ</label>
+								<br><strong>Formación Académica:</strong>
+								<br>Administradora de Empresas
+								<br>Especialista
+								<br>Estudiante de Maestría
+								<br><br>
+								<strong>Experiencia Profesional:</strong>
+								<br>Docente Universitaria
+								<br>Decana Facultad de Ciencias Contables y Administrativas
+								<br>Directora de la Corporación Universitaria Autónoma de Nariño
+								<br>Seccional de Ipiales
+								<br>Directora de la Fundación Cultural de Radiodifusión Futura FUTURO Stereo 99.5
+								<br><br>Correo electrónico: rectoria@aunar.edu.co
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- fin información personal -->
+			</div>
+			<!-- linea amarilla -->
+			<div class="row">
+				<div class="col-8 borde-amarillo border-bottom p-0 mx-auto py-3"></div>
+			</div>
+			
+			<div class="container-fluid">
+				
+				<div class="row">
+					<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0">
+						<div class="row col-12 ">
+							<div class="col-12 p-0 text-center mx-auto">
+								<!-- aqui va todo lo que se quiera centrar -->
+								<div class="row">
+									<!-- imagen de personal -->
+									<div class="col-12 col-md-5 p-0 d-flex justify-content-center align-items-center">
+										<div class="row col-12 ">
+											<div class="col-12 text-center text-lg-right mx-auto p-0">
+												<!-- aqui va todo lo que se quiera centrar -->
+												<img src="img/institucional/rocio-ibarra-ceron.png" alt="Rocio Ibarra Ceron" width="70%">
+											</div>
+										</div>
+									</div>
+									<!-- fin imagen de personal -->
+									
+									<!-- información personal -->
+									<div class="col-12 col-md-7 d-flex justify-content-center align-items-center">
+										<div class="row col-12 ">
+											<div class="col-12 py-3 mx-auto text-center text-md-left texto-azul-os">
+												<!-- aqui va todo lo que se quiera centrar -->
+												<h4 class="texto-amarillo fuente-institucional f-negrita p-0">ASISTENTE RECTORÍA</h4>
+												<div class="pt-sans">
+													<label class="f-negrita">ROCIO IBARRA CERÓN</label>
+													<br>Formación Académica:
+													<br>Abogada
+													<br>Especialista en Docencia
+													<br>Diplomada en Solución de conflictos y
+													<br>en insolvencia económica persona
+													<br>natural
+													<br><br>Experiencia Profesional:
+													<br>Directora de Consultorio Jurídicos y
+													<br>Centro de Conciliación Facultad de
+													<br>Derecho
+													<br>Asesora Jurídica
+													<br>Docente Universitaria
+													<br>Coordinadora de Internacionalización
+													<br><br>Correo electrónico:
+													<br>asistente.rectoria@aunar.edu.co
+												</div>
+											</div>
+										</div>
+									</div>
+									<!-- fin información personal -->
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0">
+						<div class="row col-12 ">
+							<div class="col-12 p-0 text-center mx-auto">
+								<!-- aqui va todo lo que se quiera centrar -->
+								<div class="row">
+									<!-- imagen de personal -->
+									<div class="col-12 col-md-5 p-0 d-flex justify-content-center align-items-center">
+										<div class="row col-12 ">
+											<div class="col-12 text-center text-md-right mx-auto p-0">
+												<!-- aqui va todo lo que se quiera centrar -->
+												<img src="img/institucional/OLGA_SILENE_ERASO.png" alt="OLGA SILENE ERASO" width="70%">
+											</div>
+										</div>
+									</div>
+									<!-- fin imagen de personal -->
+									
+									<!-- información personal -->
+									<div class="col-12 col-md-7 d-flex justify-content-center align-items-center ">
+										<div class="row col-12 ">
+											<div class="col-12 py-3 mx-auto text-center text-lg-left texto-azul-os">
+												<!-- aqui va todo lo que se quiera centrar -->
+												<h4 class="texto-amarillo fuente-institucional f-negrita p-0">SECRETARIA</h4>
+												<div class="pt-sans">
+													<label class="f-negrita">OLGA SILENE ERASO</label>
+													Formación Académica:
+													<br> Administradora Financiera
+													<br>Experiencia Profesional:
+													<br>Registro y Control Académico
+													<br>Auxiliar Contable
+													<br>Presupuesto
+													<br><br>Correo electrónico:
+													<br>asistente.secretaria@aunar.edu.co
+													<br>Contacto: 7291758
+												</div>
+											</div>
+										</div>
+									</div>
+									<!-- fin información personal -->
+								</div>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
 		</div>
-
+		<!-- fin personal encargado -->
+		<!-- footer -->
 		<?php include_once('secciones/footer-principal.php');?>
 		
 		

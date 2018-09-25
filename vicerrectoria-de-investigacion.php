@@ -233,6 +233,7 @@
 		</div>
 	</div>
 	<!-- ----------------FIN EVENTOS------------------------------ -->
+
 	<!-- personal encargado -->
 	<div class="container-fluid py-5">
 		
@@ -308,6 +309,7 @@
 		</div>
 		
 	</div>
+	<!-- fin personal encargado -->
 	
 	
 	<?php include_once('secciones/footer-principal.php');?>
