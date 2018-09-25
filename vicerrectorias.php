@@ -58,7 +58,7 @@
 								institucional...
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
-								<a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+								<a href="vicerrectoria_academica.php" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
 							</div>
 						</div>
 					</div>
@@ -86,7 +86,7 @@
 								encuentra bajo la dirección del al Rectoría. Forma parte del ...
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
-								<a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+								<a href="vicerrectoria_administrativa-financiera.php" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
 							</div>
 						</div>
 					</div>
@@ -202,7 +202,7 @@
 						<div class="col-12 p-0 py-md-3 mx-auto texto-azul-os ">
 							<!-- aqui va todo lo que se quiera centrar -->
 							<div class="text-center pr-lg-5">
-								<h1 class="texto-amarillo fuente-institucional fuente-18 p-0">Vicerrectoría de</h1>
+								<h1 class="texto-amarillo fuente-institucional fuente-18 p-0">Vicerrectoría</h1>
 								<h1 class="texto-amarillo fuente-institucional fuente-big p-0"><strong>BIENESTAR INSTITUCIONAL</strong></h1>
 							</div>														
 							<div class="pt-sans text-justify pr-lg-5">

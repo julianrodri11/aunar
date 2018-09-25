@@ -13,11 +13,11 @@
   </li>
 
   <li class="nav-item" id="">
-    <a href="rectoria" class=" nav-link hvr-curl-top-right f-negrita fuente-institucional texto-azul text-center "><img width="100%" src="img/institucional/rectoria_aunar.png" ><br><br> Rectoria</a>  	
+    <a href="rectoria" class=" nav-link hvr-curl-top-right f-negrita fuente-institucional texto-azul text-center "><img width="100%" src="img/institucional/rectoria_aunar.png" ><br><br> Rectoría</a>  	
   </li>
 
   <li class="nav-item" id="">
-    <a href="rectoria" class=" nav-link hvr-curl-top-right f-negrita fuente-institucional texto-azul text-center"><img width="100%" src="img/institucional/vicerrectoria_aunar.png" ><br><br>Vicerrectoría</a>  
+    <a href="vicerrectorias" class=" nav-link hvr-curl-top-right f-negrita fuente-institucional texto-azul text-center"><img width="100%" src="img/institucional/vicerrectoria_aunar.png" ><br><br>Vicerrectorías</a>  
   </li>
 <!-- 
    <li class="nav-item" id="">

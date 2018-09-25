@@ -3,7 +3,7 @@
 	<head>
 		<?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
 		<!--TÍTULO DE LA PÁGINA-->
-		<title>RECTORÍA - AUTÓNOMA DE NARIÑO</title>
+		<title>VICERRECTORÍA ADMINISTRATIVA FINANCIERA - AUTÓNOMA DE NARIÑO</title>
 		
 	</head>
 	<body>
@@ -18,7 +18,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-12 p-0">
-					<img class="mx-auto img-fluid" width="100%" src="img/institucional/rectoria-aunar.jpg" alt="Rectoría Autónoma de Nariño - AUNAR"/>
+					<img class="mx-auto img-fluid" width="100%" src="img/institucional/vicerrectoria_administrativa_y_financiera_portada.jpg" alt="VICERRECTORÍA ADMINISTRATIVA FINANCIERA"/>
 				</div>
 			</div>
 		</div>
