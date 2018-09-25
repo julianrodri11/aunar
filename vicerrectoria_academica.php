@@ -25,7 +25,6 @@
 		
 		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_institucional.php');?>
-
 		<!-- Slider -->
 		<div class="container-fluid texto-azul-os py-4">
 			<div class="row">
@@ -72,27 +71,26 @@
 		</div>
 		<!-- Fin slider-->
 		
-
 		<div class="container-fluid">
 			<div class="row d-flex justify-content-center fondo-gris-os">
 				<div class="col-10 col-lg-8 p-3 texto-azul-os">
 					<div class="col-12 text-center">
-						<h3 class="fuente-institucional"><strong>Descripción de la Vicerrectoría Administrativa y Financiera</strong></h3>	
+						<h3 class="fuente-institucional"><strong>Descripción de la Vicerrectoría <br>Administrativa y Financiera</strong></h3><br>
 					</div>
 					<div class="col-12 text-justify border-bottom borde-amarillo">
 						<p class="pt-sans">
 							Gerencia los programas de docencia, investigación y extensión, para hacer cumplir los propósitos de la misión, visión y filosofía institucional
 							<br>
 							Dirige y evalúa la planeación, organización y desarrollo de los procesos de ingreso, control y egreso de los estudiantes de la corporación, así como dirigir y evaluar las actividades de control y seguimiento de las diferentes facultades
-						</p>						
+						</p>
 					</div>
-
 					<div class="col-12">
-						<h3 class="fuente-institucional"><strong>Objetivos</strong></h3>	
+						<br><br>
+						<h3 class="fuente-institucional"><strong>Objetivos</strong></h3>
 					</div>
 					<div class="col-12 text-justify ">
 						<p class="pt-sans">
-							<br><br>-Planear, dirigir y ejecutar de común acuerdo con el rector, las políticas sobre asuntos académicos de la Corporación Universitaria
+							<br>-Planear, dirigir y ejecutar de común acuerdo con el rector, las políticas sobre asuntos académicos de la Corporación Universitaria
 							<br><br>-Coordinar las actividades académicas de las unidades, así como la evaluación periódica de los diferentes programas de estudio y proponer las
 							modificaciones que estime conveniente
 							<br><br>-Planear los objetivos del área, liderar el trabajo de equipo y evaluar los
@@ -140,7 +138,7 @@
 							<br><br>-Estudiar, analizar y proponer alternativas de solución a problemas relacionados con el desarrollo docente y estudiantil
 							<br><br>-Colaborar en el análisis y elaboración del reglamento general y los reglamentos internos, a fin de que esté en concordancia con los
 							lineamientos generales de la institución
-						</p>						
+						</p>
 					</div>
 					
 				</div>
@@ -149,78 +147,81 @@
 		</div>
 		
 		<!-- personal encargado -->
-	<div class="container-fluid py-5">
-		
-		<div class="row ">
-			
-			<!-- imagen de personal -->
-			<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-				<div class="row col-12 ">
-					<div class="col-12 py-3 text-center text-lg-right mx-auto ">
-						<!-- aqui va todo lo que se quiera centrar -->
-						<img src="img/institucional/constanza_colunge_ordonez.png" alt="CONSTANZA COLUNGE ORDÓÑEZ" width="35%">
-					</div>
-				</div>
+		<div class="container-fluid py-5">
+			<!-- linea amarilla -->
+			<div class="row">
+				<div class="col-8 borde-amarillo border-bottom p-0 mx-auto py-3"></div>
 			</div>
-			<!-- fin imagen de personal -->
-			<!-- información personal -->
-			<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-				<div class="row col-12 ">
-					<div class="col-12 py-3 mx-auto text-left texto-azul-os ">
-						<!-- aqui va todo lo que se quiera centrar -->
-						<h4 class="texto-amarillo fuente-institucional f-negrita p-0">PROFESIONAL ENCARGADO</h4>
-						<h4 class="texto-amarillo fuente-institucional f-negrita p-0">RECTOR (A)</h4>
-						<div class="pt-sans">
-							<label class="f-negrita">CONSTANZA COLUNGE ORDÓÑEZ</label>
-							<br>MAESTRÍA EN E-LEARNING
-							<br>-12 AÑOS EN Experiencia Académica
-							<br>-722 6020 EXTENSION 414 - 
-							<br><br>academico@aunar.edu.co
-							
+			
+			<div class="row ">
+				
+				<!-- imagen de personal -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12 ">
+						<div class="col-12 py-3 text-center text-lg-right mx-auto ">
+							<!-- aqui va todo lo que se quiera centrar -->
+							<img src="img/institucional/constanza_colunge_ordonez.png" alt="CONSTANZA COLUNGE ORDÓÑEZ" width="35%">
 						</div>
 					</div>
 				</div>
-			</div>
-			<!-- fin información personal -->
-		</div>
-		<!-- linea amarilla -->
-		<div class="row">
-			<div class="col-8 borde-amarillo border-bottom p-0 mx-auto py-3"></div>
-		</div>
-		<div class="row py-5">
-			
-			<!-- imagen de personal -->
-			<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-				<div class="row col-12 ">
-					<div class="col-12 py-3 text-center text-lg-right mx-auto">
-						<!-- aqui va todo lo que se quiera centrar -->
-						<img src="img/institucional/secretaria.png" alt="Secretaria vicerrectoria académica" width="35%">
-					</div>
-				</div>
-			</div>
-			<!-- fin imagen de personal -->
-			
-			<!-- información personal -->
-			<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-				<div class="row col-12 ">
-					<div class="col-12 py-3 mx-auto text-center text-lg-left texto-azul-os">
-						<!-- aqui va todo lo que se quiera centrar -->
-						<h4 class="texto-amarillo fuente-institucional f-negrita p-0">SECRETARIA</h4>
-						<div class="pt-sans">
-							<label class="f-negrita"></label>
-							<br>auxiliar.vacademica@aunar.edu.co
+				<!-- fin imagen de personal -->
+				<!-- información personal -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12 ">
+						<div class="col-12 py-3 mx-auto text-center text-lg-left texto-azul-os ">
+							<!-- aqui va todo lo que se quiera centrar -->
+							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">PROFESIONAL ENCARGADO</h4>
+							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">RECTOR (A)</h4>
+							<div class="pt-sans">
+								<label class="f-negrita">CONSTANZA COLUNGE ORDÓÑEZ</label>
+								<br>MAESTRÍA EN E-LEARNING
+								<br>12 AÑOS En Experiencia Académica
+								<br>722 6020 extensión 414
+								<br><br>Correo: academico@aunar.edu.co
+								
+							</div>
 						</div>
 					</div>
 				</div>
+				<!-- fin información personal -->
 			</div>
-			<!-- fin información personal -->
+			
+			<!-- linea amarilla -->
+			<div class="row">
+				<div class="col-8 borde-amarillo border-bottom p-0 mx-auto py-3"></div>
+			</div>
+			<div class="row py-5">
+				
+				<!-- imagen de personal -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12 ">
+						<div class="col-12 py-3 text-center text-lg-right mx-auto">
+							<!-- aqui va todo lo que se quiera centrar -->
+							<img src="img/institucional/secretaria.png" alt="Secretaria vicerrectoria académica" width="35%">
+						</div>
+					</div>
+				</div>
+				<!-- fin imagen de personal -->
+				
+				<!-- información personal -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12 ">
+						<div class="col-12 py-3 mx-auto text-center text-lg-left texto-azul-os">
+							<!-- aqui va todo lo que se quiera centrar -->
+							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">SECRETARIA</h4>
+							<div class="pt-sans">
+								<label class="f-negrita"></label>
+								<br>auxiliar.vacademica@aunar.edu.co
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- fin información personal -->
+			</div>
+			
 		</div>
+		<!-- fin personal encargado -->
 		
-	</div>
-	<!-- fin personal encargado -->
-
-		
-
 		<?php include_once('secciones/footer-principal.php');?>
 		
 		

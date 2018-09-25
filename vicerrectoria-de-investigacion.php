@@ -240,7 +240,7 @@
 		<div class="row ">
 			
 			<!-- imagen de personal -->
-			<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+			<div class="col-12 col-lg-5 d-flex justify-content-center align-items-center">
 				<div class="row col-12 ">
 					<div class="col-12 py-3 text-center text-lg-right mx-auto ">
 						<!-- aqui va todo lo que se quiera centrar -->
@@ -250,7 +250,7 @@
 			</div>
 			<!-- fin imagen de personal -->
 			<!-- información personal -->
-			<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+			<div class="col-12 col-lg-5 d-flex justify-content-center align-items-center">
 				<div class="row col-12 ">
 					<div class="col-12 py-3 mx-auto text-left texto-azul-os ">
 						<!-- aqui va todo lo que se quiera centrar -->
@@ -282,7 +282,7 @@
 		<div class="row py-5">
 			
 			<!-- imagen de personal -->
-			<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+			<div class="col-12 col-lg-5 d-flex justify-content-center align-items-center">
 				<div class="row col-12 ">
 					<div class="col-12 py-3 text-center text-lg-right mx-auto">
 						<!-- aqui va todo lo que se quiera centrar -->
@@ -293,7 +293,7 @@
 			<!-- fin imagen de personal -->
 			
 			<!-- información personal -->
-			<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+			<div class="col-12 col-lg-5 d-flex justify-content-center align-items-center">
 				<div class="row col-12 ">
 					<div class="col-12 py-3 mx-auto text-center text-lg-left texto-azul-os">
 						<!-- aqui va todo lo que se quiera centrar -->

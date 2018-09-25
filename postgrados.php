@@ -95,24 +95,24 @@
 			</div>
 			<div class="row py-5">
 				<!-- imagen de personal -->
-				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+				<div class="col-12 col-lg-5 d-flex justify-content-center align-items-center">
 					<div class="row col-12 ">
 						<div class="col-12 py-3 text-center text-lg-right mx-auto ">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img src="img/investigacion/docente-postgrados.png" alt="Pedro Pablo Burbano" width="35%">
+							<img src="img/investigacion/docente-postgrados.png" alt="Pedro Pablo Burbano" width="50%">
 						</div>
 					</div>
 				</div>
 				<!-- fin imagen de personal -->
 				<!-- información personal -->
-				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+				<div class="col-12 col-lg-5 d-flex justify-content-center align-items-center">
 					<div class="row col-12 ">
 						<div class="col-12 py-3 mx-auto text-left texto-azul-os ">
 							<!-- aqui va todo lo que se quiera centrar -->
 							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">PROFESIONAL ENCARGADO</h4>
 							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">DIRECTOR</h4>
 							<div class="pt-sans text-justify pr-lg-5">
-								<label class="f-negrita">LOREM IPSUM DOLOR.</label>
+								<label class="f-negrita bg-danger">información no enviada</label>
 								<br>Técnico Superior Universitario (TSU) en Administración, Mención: Recursos Físicos y Financieros. (Colegio Universitario Fermín Toro de Barquisimeto, estado Lara (CUFT, 1995), TSU: Educación Especial, Mención Dificultades de Aprendizaje, Universidad Pedagógica Experimental Libertador, Instituto de Mejoramiento Profesional del Magisterio, Barquisimeto (UPEL-IMPM, 2003), Profesor en Educación Especial, Mención Dificultades de Aprendizaje, (UPEL,2004), Diplomado en Orientación Escolar, Familiar y Comunitaria, Centro de Investigación, Capacitación y Desarrollo Integral Humano, Barquisimeto, (CICODIH,2005), Universidad Virtual de FATLA, Magíster en Experto en Procesos Elearning (FATLA, 2011). Doctor en Ciencias de la Educación. (Universidad Latinoamérica y del Caribe (ULAC, 2013).  Cursante de los últimos semestres de la Carrera de Psicología, (Universidad Yacambú).
 								<br><br> Email: posgrados@aunar.edu.co
 							</div>
