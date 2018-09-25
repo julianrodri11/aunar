@@ -35,9 +35,14 @@
 				<!-- imagen de publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
 					<div class="row col-12 p-0">
-						<div class="col-12 p-0 text-center mx-auto ">
+						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img src="img/institucional/vicerrectoria_academica_aunar.jpg" alt="vicerrectoría académica AUNAR" width="100%">
+							<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_academica_aunar.jpg" alt="vicerrectoría académica AUNAR" width="100%">
+							<div class="cont_texto_secundario">
+								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
+									<!-- aqui se puede colocar un boton para una acción -->
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -94,9 +99,14 @@
 				<!-- imagen de publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
 					<div class="row col-12 p-0">
-						<div class="col-12 p-0 text-center mx-auto ">
+						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img src="img/institucional/vicerrectoria_administrativa_y_financiera_aunar.jpg" alt="vicerrectoria administrativa y financiera AUNAR" width="100%">
+							<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_administrativa_y_financiera_aunar.jpg" alt="vicerrectoria administrativa y financiera AUNAR" width="100%">
+							<div class="cont_texto_secundario">
+								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
+									<!-- aqui se puede colocar un boton para una acción -->
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -112,9 +122,14 @@
 				<!-- imagen de publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
 					<div class="row col-12 p-0">
-						<div class="col-12 p-0 text-center mx-auto ">
+						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img src="img/institucional/vicerrectoria_de_investigacion_aunar.jpg" alt="vicerrectoría de investigación AUNAR" width="100%">
+							<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_de_investigacion_aunar.jpg" alt="vicerrectoría de investigación AUNAR" width="100%">
+							<div class="cont_texto_secundario">
+								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
+									<!-- aqui se puede colocar un boton para una acción -->
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -170,9 +185,14 @@
 				<!-- imagen de publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
 					<div class="row col-12 p-0">
-						<div class="col-12 p-0 text-center mx-auto ">
+						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img src="img/institucional/vicerrectoria_de_talento_humano_aunar.jpg" alt="vicerrectoria de talento humano AUNAR" width="100%">
+							<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_de_talento_humano_aunar.jpg" alt="vicerrectoria de talento humano AUNAR" width="100%">
+							<div class="cont_texto_secundario">
+								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
+									<!-- aqui se puede colocar un boton para una acción -->
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -188,9 +208,14 @@
 				<!-- imagen de publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
 					<div class="row col-12 p-0">
-						<div class="col-12 p-0 text-center mx-auto ">
+						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img src="img/institucional/vicerrectoria_bienestar_institucional_aunar.jpg" alt="vicerrectoría de bienestar institucional AUNAR" width="100%">
+							<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_bienestar_institucional_aunar.jpg" alt="vicerrectoría de bienestar institucional AUNAR" width="100%">
+							<div class="cont_texto_secundario">
+								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
+									<!-- aqui se puede colocar un boton para una acción -->
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
