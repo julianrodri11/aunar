@@ -46,7 +46,7 @@
       <a class=" dropdown-item hvr-underline-from-left  " href="">Semilleros</a>
       <a class=" dropdown-item hvr-underline-from-left  " href="">Convocatorias</a>
       <a class=" dropdown-item hvr-underline-from-left  " href="">Congreso</a>
-      <a class=" dropdown-item hvr-underline-from-left  " href="">Publicaciones</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="publicaciones">Publicaciones</a>
 
 
       

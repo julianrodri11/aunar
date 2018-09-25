@@ -26,7 +26,7 @@
 		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_investigacion.php');?>
 		
-		<!-- informacion de primeros auxilios -->
+		<!-- informacion de CIDAE -->
 		<div class="container-fluid">
 			<div class="row m-2 m-md-5">
 				<div class="col-12 col-md-3">
