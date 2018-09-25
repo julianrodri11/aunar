@@ -18,7 +18,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-12 p-0">
-					<img class="mx-auto img-fluid" width="100%" src="img/investigacion/publicaciones-aunar.jpg" alt="PUBLICACIONES - Autónoma de Nariño"/>
+					<img class="mx-auto img-fluid" width="100%" src="img/investigacion/publicaciones-aunar.png" alt="PUBLICACIONES - Autónoma de Nariño"/>
 				</div>
 			</div>
 		</div>
