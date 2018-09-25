@@ -142,7 +142,7 @@
 					<div class="row col-12 ">
 						<div class="col-12 py-3 text-center text-lg-right mx-auto ">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img src="img/institucional/INGRID_ELIZABETH_COLUNGE_ORDONEZ.png" alt="INGRID ELIZABETH COLUNGE ORDÓÑEZ - RECTOR AUNAR" width="50%">
+							<img src="img/institucional/INGRID_ELIZABETH_COLUNGE_ORDONEZ.png" alt="INGRID ELIZABETH COLUNGE ORDÓÑEZ - RECTOR AUNAR" width="65%">
 						</div>
 					</div>
 				</div>
@@ -249,12 +249,12 @@
 									<!-- información personal -->
 									<div class="col-12 col-md-7 d-flex justify-content-center align-items-center ">
 										<div class="row col-12 ">
-											<div class="col-12 py-3 mx-auto text-center text-lg-left texto-azul-os">
+											<div class="col-12 py-3 mx-auto text-center text-md-left texto-azul-os">
 												<!-- aqui va todo lo que se quiera centrar -->
 												<h4 class="texto-amarillo fuente-institucional f-negrita p-0">SECRETARIA</h4>
 												<div class="pt-sans">
 													<label class="f-negrita">OLGA SILENE ERASO</label>
-													Formación Académica:
+													<br> Formación Académica:
 													<br> Administradora Financiera
 													<br>Experiencia Profesional:
 													<br>Registro y Control Académico
