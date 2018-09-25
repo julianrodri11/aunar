@@ -130,6 +130,7 @@
 			</div>
 			
 		</div>
+		
 		<?php include_once('secciones/footer-principal.php');?>
 		
 		
