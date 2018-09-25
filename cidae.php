@@ -235,6 +235,143 @@
 				</div>
 			</div>
 		</div>
+
+		<!-- contenido de cidae -->
+
+		
+		<div class="container-fluid">
+			
+			<!-- publicación 1 -->
+
+			<div class="row py-5 py-md-0">
+				
+				<!-- imagen de publicación -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
+					<div class="row col-12 p-0">
+						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
+							<!-- aqui va todo lo que se quiera centrar -->
+							<img class="img-fluid img_virtual"  src="img/cidae/grupos-de-investigacion-cidae.jpg" alt="Grupos de investigación AUNAR" width="100%">
+							<div class="cont_texto_secundario">
+								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
+									<!-- aqui se puede colocar un boton para una acción -->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- fin imagen de  publicación -->
+
+				<!-- información publicación -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12 ">
+						<div class="col-12 py-3 mx-auto texto-azul-os ">
+							<!-- aqui va todo lo que se quiera centrar -->
+							<div class="text-center pr-lg-5">
+								<h2 class="texto-amarillo fuente-institucional f-negrita fuente-18 p-0">Grupos de</h2>
+								<h1 class="texto-amarillo fuente-institucional f-negrita fuente-big p-0"><strong>INVESTIGACIÓN</strong></h1>
+							</div>							
+							<div class="pt-sans text-justify pr-lg-5">
+							<p>Un Grupo de Investigación es la unidad docente especializada que se dedica a la investigación científica, al desarrollo tecnológico o a la innovación... </p>
+							</div>
+							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
+								<a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- fin información publicación -->
+			</div>
+			<!-- fin publicación 1 -->
+
+
+			<!-- publicación 2 -->
+			<div class="row py-5 py-md-0">
+
+				<!-- información personal -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0">
+					<div class="row col-12 ">
+						<div class="col-12 p-0 py-md-3 mx-auto texto-azul-os ">
+							<!-- aqui va todo lo que se quiera centrar -->
+							<div class="text-center pr-lg-5">
+								<h2 class="texto-amarillo fuente-institucional fuente-18 p-0">Semilleros de</h2>
+								<h1 class="texto-amarillo fuente-institucional fuente-big p-0"><strong>INVESTIGACIÓN</strong></h1>
+							</div>							
+							<div class="pt-sans text-justify pr-lg-5">
+								<P>Los Semilleros de Investigación son una estrategia pedagógica extracurricular que tienen el fin de fomentar la cultura investigativa en los estudiantes de pregrado y tecnología; donde... </P>
+							</div>
+							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
+								<a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- imagen de publicación -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
+					<div class="row col-12 p-0">
+						<div class="col-12 p-0 text-center mx-auto content_img_virtual ">
+							<!-- aqui va todo lo que se quiera centrar -->
+							<img class="img-fluid img_virtual" src="img/cidae/semilleros-de-investigacion-cidae.jpg" alt="Semilleros de investigación AUNAR" width="100%">
+							<div class="cont_texto_secundario">
+								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
+									<!-- aqui se puede colocar un boton para una acción -->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- fin imagen de publicación -->
+
+				
+			</div>
+			<!-- fin publicación 2 -->
+
+			<!-- publicación 3 -->
+
+			<div class="row py-5 py-md-0">
+				
+				<!-- imagen de publicación -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
+					<div class="row col-12 p-0">
+						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
+							<!-- aqui va todo lo que se quiera centrar -->
+							<img class="img-fluid img_virtual" src="img/cidae/trabajo-de-grado-cidae.jpg" alt="Trabajo de grado CIDAE - AUNAR" width="100%">
+							<div class="cont_texto_secundario">
+								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
+									<!-- aqui se puede colocar un boton para una acción -->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- fin imagen de  publicación -->
+
+				<!-- información publicación -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12 ">
+						<div class="col-12 py-3 mx-auto texto-azul-os ">
+							<!-- aqui va todo lo que se quiera centrar -->
+							<div class="text-center pr-lg-5">
+								<h2 class="texto-amarillo fuente-institucional fuente-18 p-0">Trabajos de</h2>
+								<h1 class="texto-amarillo fuente-institucional fuente-big p-0"><strong>GRADO</strong></h1>
+							</div>								
+							<div class="pt-sans text-justify pr-lg-5">
+								<P>En cada etapa el estudiante cuenta con el acompañamiento...</P>
+							</div>
+							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
+								<a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- fin información publicación -->
+			</div>
+			<!-- fin publicación 3 -->
+
+
+			
+		</div>
+
+
 		
 		<!-- footer -->
 		<?php include_once('secciones/footer-principal.php');?>
