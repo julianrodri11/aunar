@@ -184,114 +184,142 @@
 			</div>
 		</div>
 		
-		<div class="container-fluid p-5 ">
+
+		
+		<div class="container-fluid">
 			
+			<div class="row">
+				<!-- lado izquierdo -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12">
+						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
+							<div class="col-12 p-2">
+								<!-- imagen -->
+								<img src="img/proyeccion_institucional/sofia_vallejos.png" class="align-self-center mr-3 rounded-circle" width="100%" >
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
+							<!-- descripción  -->
+							<p><strong class="texto-azul-os f-negrita"> Coordinadora </strong><br>
+						    Sofía Vallejos Santacruz <BR>
+							Internacionalización@aunar.edu.co   <br>
+						    <p>
+						</div>
+					</div>
+				</div>
+				<!-- fin lado izquierdo -->
+				<!-- lado derecho -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12">
+						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
+							<div class="col-12 p-2">
+								<!-- imagen -->
+								<img src="img/proyeccion_institucional/1.png" class="align-self-center mr-3 rounded-circle" width="100%" >
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
+							<!-- descripción  -->
+							<p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				    
+							extensión Villavicencio <br>
+							Cristhian García Silva <br>
+							internacionalización@aunarvillavicencio.edu.co <br>
+						    <p>
+						</div>
+					</div>
+				</div>
+				<!-- fin lado derecho -->
 
-			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
-				<div class="col-lg-6 ">
-				<!-- Personal -->
-				<div class="media pb-3 d-flex align-items-center">
-				  <img src="img/proyeccion_institucional/sofia_vallejos.png" class="align-self-center mr-3 rounded-circle" width="180px" >
-				  <div class="media-body">				    
-				    <div class="col-12 pt-sans">
-				    <p><strong class="texto-azul-os f-negrita"> Coordinadora </strong><br>
-				    Sofía Vallejos Santacruz <BR>
-					Internacionalización@aunar.edu.co   <br>
-				    <p>
-				    </div>
-				  </div>
-				</div>
-				</div>
 
-				<div class="col-lg-6 ">
-				<!-- Personal -->
-				<div class="media pb-3 d-flex align-items-center">
-				  <img src="img/proyeccion_institucional/1.png" class="align-self-center mr-3 rounded-circle" width="180px" >
-				  <div class="media-body">				    
-				    <div class="col-12 pt-sans">
-				    <p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				    
-					extensión Villavicencio <br>
-					Cristhian García Silva <br>
-					internacionalización@aunarvillavicencio.edu.co <br>
-				    <p>
-				    </div>
-				  </div>
+				<!-- lado izquierdo -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12">
+						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
+							<div class="col-12 p-2">
+								<!-- imagen -->
+								<img src="img/proyeccion_institucional/4.png" class="align-self-center mr-3 rounded-circle" width="100%" >
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
+							<!-- descripción  -->
+							<p><strong class="texto-azul-os f-negrita">Internacionalización  </strong><br>
+						    extensión Ipiales: <BR>
+						    Nathalie Velásquez <br>					
+							bienestar.ipiales@aunar.edu.co
+						    <p>
+						</div>
+					</div>
 				</div>
-				
+				<!-- fin lado izquierdo -->
+				<!-- lado derecho -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12">
+						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
+							<div class="col-12 p-2">
+								<!-- imagen -->
+								<img src="img/proyeccion_institucional/2.png" class="align-self-center mr-3 rounded-circle" width="100%" >
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
+							<!-- descripción  -->
+							<p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>
+							extensión Cali: <br>
+							Karen Chamat <br>
+							karen.chamat@aunacali.edu.co
+						    <p>
+							
+						</div>
+					</div>
 				</div>
+				<!-- fin lado derecho -->
 
-				<div class="col-lg-6 ">
-				<!-- Personal -->
-				<div class="media pb-3 d-flex align-items-center">
-				  <img src="img/proyeccion_institucional/4.png" class="align-self-center mr-3 rounded-circle" width="180px" >
-				  <div class="media-body">				    
-				    <div class="col-12 pt-sans">
-				    <p><strong class="texto-azul-os f-negrita">Internacionalización  </strong><br>
-				    extensión Ipiales: <BR>
-				    Nathalie Velásquez <br>					
-					bienestar.ipiales@aunar.edu.co
-				    <p>
-				    </div>
-				  </div>
-				</div>
-				</div>
 
-				<div class="col-lg-6 ">
-				<!-- Personal -->
-				<div class="media pb-3 d-flex align-items-center">
-				  <img src="img/proyeccion_institucional/2.png" class="align-self-center mr-3 rounded-circle" width="180px" >
-				  <div class="media-body">				    
-				    <div class="col-12 pt-sans">
-				    <p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>
-					extensión Cali: <br>
-					Karen Chamat <br>
-					karen.chamat@aunacali.edu.co
-				    <p>
-				    </div>
-				  </div>
+				<!-- lado izquierdo -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12">
+						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
+							<div class="col-12 p-2">
+								<!-- imagen -->
+								<img src="img/proyeccion_institucional/5.png" class="align-self-center mr-3 rounded-circle" width="100%" >
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
+							<!-- descripción  -->
+							<p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				    
+							extensión Putumayo: <br>
+							Julia Inés Cuatindioy <br>
+							putumayo@aunar.edu.co <br>
+						    <p>
+						</div>
+					</div>
 				</div>
-				
+				<!-- fin lado izquierdo -->
+				<!-- lado derecho -->
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+					<div class="row col-12">
+						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
+							<div class="col-12 p-2">
+								<!-- imagen -->
+								<img src="img/proyeccion_institucional/3.png" class="align-self-center mr-3 rounded-circle" width="100%" >
+							</div>
+						</div>
+						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
+							<!-- descripción  -->
+							<p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				   	
+							extensión Cartagena: <br>
+							Ricardo Fuetmayor <br>
+							emprendimiento@aunarcartagena.edu.co <br>
+						    <p>
+						</div>
+					</div>
 				</div>
-
-				<div class="col-lg-6 ">
-				<!-- Personal -->
-				<div class="media pb-3 d-flex align-items-center">
-				  <img src="img/proyeccion_institucional/5.png" class="align-self-center mr-3 rounded-circle" width="180px" >
-				  <div class="media-body">				    
-				    <div class="col-12 pt-sans">
-				    <p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				    
-					extensión Putumayo: <br>
-					Julia Inés Cuatindioy <br>
-					putumayo@aunar.edu.co <br>
-				    <p>
-				    </div>
-				  </div>
-				</div>
-				</div>
-
-				<div class="col-lg-6 ">
-				<!-- Personal -->
-				<div class="media pb-3 d-flex align-items-center">
-				  <img src="img/proyeccion_institucional/3.png" class="align-self-center mr-3 rounded-circle" width="180px" >
-				  <div class="media-body">				    
-				    <div class="col-12 pt-sans">
-				    <p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				   	
-					extensión Cartagena: <br>
-					Ricardo Fuetmayor <br>
-					emprendimiento@aunarcartagena.edu.co <br>
-				    <p>
-				    </div>
-				  </div>
-				</div>
-				
-				</div>
-				
-
-				
+				<!-- fin lado derecho -->
 			</div>
-			
 		</div>
 
+
+
+
+		<!-- footer -->
 			<?php include_once('secciones/footer-principal.php');?>
 			
 		</body>

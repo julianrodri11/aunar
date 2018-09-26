@@ -49,22 +49,22 @@
 
 				      <div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
 				      	<div class="col-12 p-2 px-md-5 text-center" >
-							Fútbol<br>Fútbol sala masculino y femenino 
+							<strong><h1 class="pt-sans f-negrita">Fútbol</h1></strong><br>Fútbol sala masculino y femenino 
 				      	</div>
 						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/futbol_autonoma_de_narino.jpg"></div>
 						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/futbol_autonoma_de_narino_2.jpg"></div>
 						<div class="col-12 p-2 px-md-5 text-center" >
-							Baloncesto <br>masculino y femenino 
+							<strong><h1 class="pt-sans f-negrita">Baloncesto</h1></strong> <br>masculino y femenino 
 
 				      	</div>
 						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/baloncesto_autonoma_de_narino.jpg"></div>
 						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/baloncesto_autonoma_de_narino_2.jpg"></div>
 						<div class="col-12 p-2 px-md-5 text-center" >
-							Voleibol 
+							<strong><h1 class="pt-sans f-negrita">Voleibol</h1></strong> 
 				      	</div>
 						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/voleibol_autonoma_de_narino.jpg"></div>
 						<div class="col-12 p-2 px-md-5 text-center" >
-						Taekwondo masculino y femenino
+							<strong><h1 class="pt-sans f-negrita">Taekwondo</h1></strong> masculino y femenino
 				      	</div>
 						<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/bienestar/taekwondo_autonoma_de_narino.jpg"></div>						
 				      </div>
