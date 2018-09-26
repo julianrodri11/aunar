@@ -20,7 +20,7 @@
         <a class=" nav-link dropdown-toggle texto-azul pl-2 hvr-underline-from-center" href="#" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
         <div class="dropdown-menu f-size-12" aria-labelledby="admisiones">
           <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="inscripciones" target="_blanck_admin">Admisiones</a>
-          <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck_1">Ayudas y Becas</a>
+          <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="ayudas-y-becas"  target="_ayudas-y-becas">Ayudas y Becas</a>
           <ul class="navbar-nav"> <!-- navbar-nav -->
           <li class="col-12 nav-item dropdown dropright ">
             <a class="nav-link dropdown-toggle texto-azul pl-2 hvr-underline-from-center f-negrita" href="google.com" id="calendarios" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Calendarios </a>
