@@ -34,7 +34,7 @@
 					    <tbody>
 					      <tr>
 					        <td class="borde-1 b-color-aempresas border-bottom-0" >Facultad a la que está adscrito:</td>
-					        <td class="borde-1 b-color-aempresas border-bottom-0" >Ciencias Adm. Y contables</td>					        
+					        <td class="borde-1 b-color-aempresas border-bottom-0" >Ciencias Administrativas Y contables</td>					        
 					      </tr>
 					      <tr>
 					        <td class="borde-1 b-color-aempresas border-bottom-0 border-top-0" >Nombre del Programa:</td>

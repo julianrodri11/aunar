@@ -296,7 +296,7 @@
 				</div>
 				<div class="col-12 p-0 ">
 					<div class="p-2 fondo-gris-os fuente-institucional texto-azul-os">
-						<br> <strong>Facultad: </strong>
+						<br> <strong>Facultad: </strong><br>
 						Ingeniería, Arquitectura, Urbanismo y Afines
 						<br>
 						<br> <strong>Programa: </strong>
