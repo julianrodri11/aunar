@@ -192,13 +192,13 @@
 				<!-- lado izquierdo -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12">
-						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
+						<div class="col-12 col-sm-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
 							<div class="col-12 p-2">
 								<!-- imagen -->
 								<img src="img/proyeccion_institucional/sofia_vallejos.png" class="align-self-center mr-3 rounded-circle" width="100%" >
 							</div>
 						</div>
-						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
+						<div class="col-12 col-sm-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
 							<!-- descripción  -->
 							<p><strong class="texto-azul-os f-negrita"> Coordinadora </strong><br>
 						    Sofía Vallejos Santacruz <BR>
@@ -211,13 +211,13 @@
 				<!-- lado derecho -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12">
-						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
+						<div class="col-12 col-sm-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
 							<div class="col-12 p-2">
 								<!-- imagen -->
 								<img src="img/proyeccion_institucional/1.png" class="align-self-center mr-3 rounded-circle" width="100%" >
 							</div>
 						</div>
-						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
+						<div class="col-12 col-sm-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
 							<!-- descripción  -->
 							<p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				    
 							extensión Villavicencio <br>
@@ -233,13 +233,13 @@
 				<!-- lado izquierdo -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12">
-						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
+						<div class="col-12 col-sm-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
 							<div class="col-12 p-2">
 								<!-- imagen -->
 								<img src="img/proyeccion_institucional/4.png" class="align-self-center mr-3 rounded-circle" width="100%" >
 							</div>
 						</div>
-						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
+						<div class="col-12 col-sm-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
 							<!-- descripción  -->
 							<p><strong class="texto-azul-os f-negrita">Internacionalización  </strong><br>
 						    extensión Ipiales: <BR>
@@ -253,13 +253,13 @@
 				<!-- lado derecho -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12">
-						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
+						<div class="col-12 col-sm-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
 							<div class="col-12 p-2">
 								<!-- imagen -->
 								<img src="img/proyeccion_institucional/2.png" class="align-self-center mr-3 rounded-circle" width="100%" >
 							</div>
 						</div>
-						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
+						<div class="col-12 col-sm-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
 							<!-- descripción  -->
 							<p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>
 							extensión Cali: <br>
@@ -276,13 +276,13 @@
 				<!-- lado izquierdo -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12">
-						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
+						<div class="col-12 col-sm-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
 							<div class="col-12 p-2">
 								<!-- imagen -->
 								<img src="img/proyeccion_institucional/5.png" class="align-self-center mr-3 rounded-circle" width="100%" >
 							</div>
 						</div>
-						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
+						<div class="col-12 col-sm-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
 							<!-- descripción  -->
 							<p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				    
 							extensión Putumayo: <br>
@@ -296,13 +296,13 @@
 				<!-- lado derecho -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12">
-						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
+						<div class="col-12 col-sm-6 col-lg-5 p-3 d-flex justify-content-center align-items-center">
 							<div class="col-12 p-2">
 								<!-- imagen -->
 								<img src="img/proyeccion_institucional/3.png" class="align-self-center mr-3 rounded-circle" width="100%" >
 							</div>
 						</div>
-						<div class="col-12 col-md-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
+						<div class="col-12 col-sm-6 col-lg-5 p-3 d-flex align-items-center mx-auto">
 							<!-- descripción  -->
 							<p><strong class="texto-azul-os f-negrita">Internacionalización </strong><br>				   	
 							extensión Cartagena: <br>
