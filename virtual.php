@@ -17,8 +17,8 @@
 		?>
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-12">
-					<img class="mx-auto img-fluid" width="100%" src="img/virtual/aunar-virtual.png"/>
+				<div class="col-12 p-0">
+					<img class="mx-auto img-fluid" width="100%" src="img/virtual/aunar-virtual.png" alt="AUNAR VIRTUAL" />
 				</div>
 			</div>
 		</div>
@@ -118,7 +118,7 @@
 		
 
 		<!-- galeria de programas virtuales -->
-		<div class="container-fluid"><div class="row"><h1 class="fuente-institucional mx-auto py-5 texto-azul-os text-center"> <strong> Programas Modalidad Virtual y a Distancia </strong></h1></div></div>
+		<div class="container-fluid"><div class="row"><h1 class="fuente-institucional mx-auto py-5 texto-azul-os text-center fuente-big"> <strong> Programas <br> Modalidad Virtual <br>y a Distancia </strong></h1></div></div>
 
 
 		<div class="container-fluid py-5">

@@ -808,7 +808,7 @@ font-weight: bold;
 /*tamaño de fuente en aunar estero*/
 .fuente-big
 {
-	font-size: 60px;
+	font-size: 35px;
 }
 
 
@@ -921,3 +921,35 @@ font-weight: bold;
   background-image: url('../img/transparente5x5px.png');
   border-radius: 35px;
 }
+
+
+
+/*validaciones para diferentes pantallas */
+
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) { 
+  
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) { 
+
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { 
+
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+/*tamaño de fuente en aunar estero*/
+  .fuente-big
+  {
+    font-size: 60px;
+  }
+
+ }
