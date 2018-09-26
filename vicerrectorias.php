@@ -78,7 +78,7 @@
 			<div class="row py-5 py-md-0">
 
 				<!-- información personal -->
-				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0">
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0 order-2 order-lg-1">
 					<div class="row col-12 ">
 						<div class="col-12 p-0 py-md-3 mx-auto texto-azul-os ">
 							<!-- aqui va todo lo que se quiera centrar -->
@@ -97,7 +97,7 @@
 					</div>
 				</div>
 				<!-- imagen de publicación -->
-				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0 order-1 order-lg-2">
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
@@ -164,7 +164,7 @@
 			<div class="row py-5 py-md-0">
 
 				<!-- información personal -->
-				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0">
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0 order-2 order-lg-1">
 					<div class="row col-12 ">
 						<div class="col-12 p-0 py-md-3 mx-auto texto-azul-os ">
 							<!-- aqui va todo lo que se quiera centrar -->
@@ -183,7 +183,7 @@
 					</div>
 				</div>
 				<!-- imagen de publicación -->
-				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
+				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0 order-1 order-lg-2">
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
