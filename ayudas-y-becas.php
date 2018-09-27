@@ -88,46 +88,104 @@
 						<!-- pestaña 1 -->
 						<div class="tab-pane fade p-3 fondo-gris-os show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
-								
+								<h3><strong>Filosofía</strong></h3>
 							</div>
 							<div class="col-12 p-2 px-md-5 text-justify">								
 								<p>
-									<h3 class="bg-danger">Información no enviada</h3>
+									La CORPORACION UNIVERSITARIA AUTONOMA DE NARIÑO (AUNAR). está consciente de su responsabilidad que tiene de cooperar, desde el ámbito académico, al desarrollo de las comunidades en donde opera. Por esto brinda, a través de becas y descuentos educativos, una opción educativa a aquellos alumnos que están en la disposición y tienen las habilidades necesarias para cursar exitosamente sus estudios de pregrado y posgrado de la AUNAR que requieren de apoyo financiero para hacerlo.
+									<br>
+									Además, para llevar a cabo sus actividades académicas y formativas con los niveles de excelencia establecidos en su Visión, La AUNAR otorga becas al mérito académico a los alumnos más destacados de nuestras universidades educación superior. 
+
 								</p>
 							</div>							
 						</div>
 						
 						<!-- pestaña 2-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+							<div class="col-12 p-2 px-md-5 text-center">
+								<h3><strong>Objetivos y alcance</strong></h3>
+							</div>
 							<div class="col-12 p-2 px-md-5 text-justify">
 								<p class="fuente-institucional">									
-									<h3 class="bg-danger">Información no enviada</h3>
+									Este documento tiene como objetivo establecer con claridad las políticas generales para la solicitud, el otorgamiento, administración y asignación de las becas y financiamientos.
+									<br>
+									Las políticas y normas aquí establecidas se refieren a los estímulos que ofrece la institución y disminuir la deserción estudiantil de la corporación universitaria autónoma de Nariño. 
 								</p>
 							</div>
 						</div>
 						
 						<!-- pestaña 3-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+							<div class="col-12 p-2 px-md-5 text-center">
+								<h3><strong>Entidad responsable de la asignación de estímulos Financieros</strong></h3>
+							</div>							
 							<div class="col-12 p-2 px-md-5 text-justify">
 								<p class="fuente-institucional">
-									<h3 class="bg-danger">Información no enviada</h3>
+									El otorgamiento de becas y estímulos financieros es responsabilidad y función del Comité de Becas y Descuentos. Con el fin de asegurar que la asignación de dichos apoyos se realice de forma imparcial y considerando la situación particular de cada alumno, este comité deberá estar integrado por la rectoría, las diferentes vicerrectorías bienestar institucional, académica, investigación, administrativa y financiera. 
+									<br>
+									El Comité estará presidido por el Vicerrector de bienestar institucional. 
 								</p>
 							</div>							
 						</div>
 						
 						<!-- pestaña 4-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+							<div class="col-12 p-2 px-md-5 text-center">
+								<h3><strong>Definición de beca y crédito educativo.</strong></h3>
+							</div>	
+							
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<h3 class="bg-danger">Información no enviada</h3>
+								<p class="fuente-institucional">
+									Para los niveles de preparatoria de Pregrado y Posgrado de la AUNAR existen tres tipos de apoyo financiero: beca, descuentos y crédito educativo.
+									<br><br><strong>Beca</strong> es el reconocimiento de los esfuerzos académicos realizados en la AUNAR en donde cada semestre se otorga el beneficio reglamentado en reglamento estudiantil.
+									<br><br><strong>Descuentos:</strong> son los estímulos otorgados para los diferentes beneficios que realiza la AUNAR (convenios, reconocimiento y representativos)
+									<br><br><strong>Crédito Educativo</strong> es la financiación de la matrícula en cuotas y las condiciones que la institución otorga en el transcurso del semestre.
+
 								</p>
 							</div>							
 						</div>
 						
 						<!-- pestaña 5-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-deportivas" role="tabpanel" aria-labelledby="v-pills-act-deportivas-tab">
+							<div class="col-12 p-2 px-md-5 text-center">
+								<h3><strong>Requisitos para la asignación y la conservación de la beca y apoyo financiero.</strong></h3>
+							</div>	
 							<div class="col-12 p-2 px-md-5 text-justify">
 								<p>
-									<h3 class="bg-danger">Información no enviada</h3>
+									<br><strong> A)   Becas mérito académico.</strong>
+										<br><br><strong> Los requisitos mínimos que deberá cumplir el estudiante para acceder a un porcentaje de beca al mérito académico son:</strong>
+										<br>-Estar matriculado en los diferentes programas académicos de la corporación universitaria autónoma de Nariño.
+										<br>-Obtener un promedio académico mayor o igual a 4.5.
+										<br>-Obtener un buen desempeño académico.
+										<br>-Todos los semestres pueden participar desde que posee promedio académico.
+										<br>-Obtener certificación de la institución educativas básica secundaria de excelencia académica.
+										<br>-Obtención de becas por los diferentes convenios.
+										<br>-Obtención de reconocimiento en el departamento de investigación.
+										<br>-Obtención de reconocimiento representativos de la institución.
+
+										<br><br><strong> Los requisitos mínimos que deberá cumplir el estudiante para conservar estos tipos de estímulos financiero son:</strong>
+										<br>-Cursar los semestres académicos sin habilitaciones.
+										<br>-Mantener el promedio de 4.5 por el transcurso de los programas de pregrado y posgrado.
+										<br>-Para los estudiantes cuya beca se haya cancelado se puede ofrecer los créditos educativos.
+										 
+
+
+										<br><br><strong> B)   Descuentos:</strong>
+										<br><br><strong> Los requisitos mínimos que deberá cumplir el estudiante para acceder a un porcentaje de beca son:</strong>
+										 
+										<br>-Estar matriculado a la corporación universitaria autónoma de nariño.
+										<br>-Estoy estímulos son otorgados por el comité de becas y descuentos.
+										<br><br><strong>C)   Crédito Educativo:</strong>
+										<br><br><strong> Los requisitos mínimos que deberá cumplir el estudiante que desee obtener estos tipos de apoyo financiero son:</strong>
+										<br>-Llenar debidamente su solicitud de apoyo financiero y presentar la documentación requerida por el departamento de jurídica.
+										<br>-No estar condicionado académicamente por la institución.
+										<br>-No contar con créditos educativos externos. 
+										<br>-Demostrar satisfactoriamente, a juicio del Comité de becas y descuentos, que requiere de apoyo financiero para continuar con sus estudios.
+										<br>-Tener un buen manejo crediticia institucional.
+										<br>-Cumplir con los requisitos de créditos educativos.
+										<br>-Cumplir con las fechas pactadas.
+										<h3><strong>Disciplina de los estudiantes becados.</strong></h3>		
+										Cualquier estudiante que incurra en alguna falta de disciplina contemplada en el reglamento estudiantil, así como en actos que dañen la imagen de nuestra Institución, su beca o crédito educativo quedará automáticamente cancelada.
 								</p>
 							</div>
 							
@@ -135,9 +193,14 @@
 
 						<!-- pestaña 6-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-6" role="tabpanel" aria-labelledby="v-pills-act-6-tab">
+							<div class="col-12 p-2 px-md-5 text-center">
+								<h3><strong>Disciplina de los estudiantes becados.</strong></h3>
+							</div>	
 							<div class="col-12 p-2 px-md-5 text-justify">
 								<p>
-								<h3 class="bg-danger">Información no enviada</h3>
+									Las becas y/o los créditos educativos son aplicables a los períodos académicos semestrales, para los estudiantes de pregrado y posgrado
+									<br>
+									Su aplicación en los cursos intensivos de verano quedará sujeta a la determinación del Comité de Becas y Descuentos.								
 								</p>
 							</div>							
 						</div>
@@ -145,7 +208,12 @@
 						<!-- pestaña 7-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-7" role="tabpanel" aria-labelledby="v-pills-act-7-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
-							<h3 class="bg-danger">Información no enviada</h3>
+								<h3><strong>Fechas</strong></h3>
+							</div>	
+							<div class="col-12 p-2 px-md-5 text-justify">
+								<p>
+									Las fechas para la entrega y recepción de solicitudes de apoyos financieros y becas, serán establecidas y se darán a conocer por los medios de difusión. No se tomará en consideración ninguna solicitud entregada extemporáneamente aun cuando cumpla con los requisitos mínimos.
+								</p>
 							</div>
 							
 						</div>
