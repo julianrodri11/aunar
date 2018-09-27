@@ -39,7 +39,7 @@
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img class="img-fluid img_virtual"  src="img/investigacion/publicacion-1.jpg" alt="publicaciones AUNAR" width="100%">
+							<a href="http://aunartech.aunar.edu.co/" target="aunar_tech"><img class="img-fluid img_virtual"  src="img/investigacion/publicacion-1.jpg" alt="publicaciones AUNAR" width="100%"></a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
 									<!-- aqui se puede colocar un boton para una acción -->
@@ -65,7 +65,7 @@
 								investigación y el desarrollo regional...
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
-								<a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+								<a href="http://aunartech.aunar.edu.co/" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional" target="aunar_tech">Leer Más</a>
 							</div>
 						</div>
 					</div>
@@ -93,7 +93,7 @@
 								humanos puedan comprender de mejor ...
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
-								<a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+								<a href="http://www.aunar.edu.co/docs/CREAN.pdf" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional" target="boletin_investigacion">Leer Más</a>
 							</div>
 						</div>
 					</div>
@@ -103,7 +103,7 @@
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual ">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img class="img-fluid img_virtual" src="img/investigacion/publicacion-2.jpg" alt="publicaciones AUNAR" width="100%">
+							<a href="http://www.aunar.edu.co/docs/CREAN.pdf" target="boletin_investigacion"><img class="img-fluid img_virtual" src="img/investigacion/publicacion-2.jpg" alt="publicaciones AUNAR" width="100%"></a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
 									<!-- aqui se puede colocar un boton para una acción -->
@@ -127,7 +127,7 @@
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img class="img-fluid img_virtual" src="img/investigacion/publicacion-3.jpg" alt="publicaciones AUNAR" width="100%">
+							<a href="http://www.aunar.edu.co/docs/Revista-Virtual-2018.pdf" target="revista"><img class="img-fluid img_virtual" src="img/investigacion/publicacion-3.jpg" alt="publicaciones AUNAR" width="100%"></a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
 									<!-- aqui se puede colocar un boton para una acción -->
@@ -153,7 +153,7 @@
 								permite exponer apreciaciones...
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
-								<a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+								<a href="http://www.aunar.edu.co/docs/Revista-Virtual-2018.pdf" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional" target="revista">Leer Más</a>
 							</div>
 						</div>
 					</div>

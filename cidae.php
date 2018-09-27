@@ -212,21 +212,16 @@
 							</div>
 							<div class="col-12 p-2 px-md-5 text-justify">
 								DOCUMENTOS REQUERIDOS CREACIÓN GRUPOS DE INVESTIGACIÓN <br>
-								<br>- Carta de solicitud de reconocimiento institucional del grupo de investigación
-								<br>- Carta de Solicitud Correo Institucional de Grupo de Investigación
-								<br>- Dossier de Presentación 
-								<br>- Grupos de investigación Aunar
-								<br>- Formato de Inscripción 
-								<br>- Grupos de Investigación
-								<br>- Formato de Presentación de Proyectos de Investigación Docente
-								<br>- Instructivo Creación Grupos de Investigación
-								<br>- Formato para pedir clave a Colciencias
-								<br>- Formato para presentar diplomado ante Cidae
-								<br>- Formatos de Inscripción Nodal
-								<br>- Manual de Trabajo de Grado 
-								<br>- Facultad de Ingenierías
-								<br>- Formato de Presupuesto 
-								<br>- Proyectos de Investigación
+								<br><a class="hover-texto-blanco" href="docs/cidae/Carta de solicitud de reconocimiento institucional del grupo de investigación.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Carta de solicitud de reconocimiento institucional del grupo de investigación		</a>
+								<br><a class="hover-texto-blanco" href="docs/cidae/Carta de Solicitud Correo Institucional de Grupo de Investigación.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Carta de Solicitud Correo Institucional de Grupo de Investigación								</a>
+								<br><a class="hover-texto-blanco" href="docs/cidae/Dossier de Presentación - Grupos de investigación Aunar.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Dossier de Presentación - Grupos de Investigación AUNAR													</a>								
+								<br><a class="hover-texto-blanco" href="docs/cidae/Formato de Inscripción - Grupos de Investigación.xlsx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formato de Inscripción Grupos de Investigación 											</a>								
+								<br><a class="hover-texto-blanco" href="docs/cidae/Formato de Presentación de Proyectos de Investigación Docente.doc" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formato de Presentación de Proyectos de Investigación Docente					</a>								
+								<br><a class="hover-texto-blanco" href="docs/cidae/Formato para pedir clave a Colciencias.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formato para pedir clave a Colciencias								</a>
+								<br><a class="hover-texto-blanco" href="docs/cidae/Formato para presentar diplomado ante Cidae.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formato para presentar diplomado ante Cidae					</a>
+								<br><a class="hover-texto-blanco" href="docs/cidae/Formatos de Inscripción Nodal.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formatos de Inscripción Nodal												</a>
+								<br><a class="hover-texto-blanco" href="docs/cidae/Manual de Trabajo de Grado - Facultad de Ingenierías.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Manual de Trabajo de Grado - Facultad de Ingenierías	</a>								
+								<br><a class="hover-texto-blanco" href="docs/cidae/Formato de Presupuesto - Proyectos de Investigación.xlsx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formato de Presupuesto - Proyectos de Investigación	</a>
 
 							</div>							
 						</div>

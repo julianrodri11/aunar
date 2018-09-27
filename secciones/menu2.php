@@ -33,7 +33,7 @@
   <li class="nav-item  dropdown border-right borde-azul borde-1 ">
     <a class=" nav-link dropdown-toggle hvr-curl-top-right pointer "  id="investigacion" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Investigación <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="investigacion">
-      <a class=" dropdown-item hvr-underline-from-left  " href="vicerrectoria-de-investigacion">Vicerrectoria de Investigacion</a>
+      <a class=" dropdown-item hvr-underline-from-left  " href="vicerrectoria-de-investigacion">Vicerrectoria de Investigación</a>
       <a class=" dropdown-item hvr-underline-from-left  " href="cidae">CIDAE</a>
       <a class=" dropdown-item hvr-underline-from-left  " href="crean">CREAN</a>
       <a class=" dropdown-item hvr-underline-from-left  " href="otri">OTRI</a>      
