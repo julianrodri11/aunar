@@ -82,7 +82,7 @@
 								<span class="text-center pt-sans"> <strong>CENTRO DE INVESTIGACIONES DESARROLLO Y ASESORÍA EMPRESARIAL <br>"CIDAE"</strong></span>
 							</div>
 							<div class="col-12 p-2 px-md-5 text-justify">								
-								<p>
+								<p class="pt-sans">
 									La Corporación Autónoma de Nariño, AUNAR, como comunidad productora de conocimiento crítico y aplicable a las necesidades regionales y nacionales, centra su misión en la docencia, la investigación y la extensión, asumiendo un claro compromiso con el desarrollo de Nariño.
 									<br><br>
 									A nivel institucional se define al centro de Investigación como: "La unidad de servicio en donde la actividad investigativa procura la aproximación de las disciplinas científicas y la unión de la investigación y la docencia". Orgánicamente estará orientado y constituido por unidades especializadas en potenciar el emprendimiento, la difusión académica y la conformación de semilleros y grupos de investigación.
@@ -113,7 +113,7 @@
 						<!-- pestaña 2-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p class="fuente-institucional">
+								<p class="pt-sans">
 									<strong>EL CENTRO DE INVESTIGACIONES, DESARROLLO Y ASESORÍA EMPRESARIAL CIDAE</strong>, es un estamento comprometido con el desarrollo teórico práctico de la actividad investigativa de tal manera que sea factible generar, desarrollar y fomentar en el estudiante y en el docente una actitud crítica, reflexiva y creativa frente al conocimiento y al papel desempeñado dentro del contexto y de su propio criterio profesional.
 
 								</p>
@@ -123,7 +123,7 @@
 						<!-- pestaña 3-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p class="fuente-institucional">
+								<p class="pt-sans">
 									Institucionalmente el CIDAE, promoverá la investigación en todos los programas de las distintas facultades, para que desde un lenguaje investigativo unificado, fortalezca el desarrollo y ejecución de trabajos de grado y de las distintas formas de investigación tanto para el personal docente como estudiantes con visión científica que satisfaga el interés personal y el servicio a la comunidad; promoverá a partir de la investigación el desarrollo de tecnologías, la creación y consolidación de una comunidad investigativa y se encaminará al reconocimiento de la AUNAR como un ente investigador por excelencia que presenta resultados acordes con las necesidades de la región.
 								</p>
 							</div>							
@@ -131,7 +131,7 @@
 						
 						<!-- pestaña 4-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
-							<div class="col-12 p-2 px-md-5 text-justify">
+							<div class="col-12 p-2 px-md-5 text-justify pt-sans">
 								<strong>Objetivo general</strong>
 								
 								<p>
@@ -162,7 +162,7 @@
 						<!-- pestaña 5-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-deportivas" role="tabpanel" aria-labelledby="v-pills-act-deportivas-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p>
+								<p class="pt-sans">
 									Las líneas de Investigación son los enfoques disciplinarios establecidos por la institución, que permiten enmarcar los procesos, prácticas y perspectivas de análisis de los proyectos de investigación.
 									<br><br>
 									Las líneas de investigación establecen la relación entre la teoría y la práctica; se convierte en el orientador que articulada la formación, la investigación, la proyección, el desarrollo de competencias profesionales y la posibilidad de generar aportes a los diversos contextos; permite el diseño de estrategias conducentes a generar procesos de desarrollo empresarial y a la creación de nuevas empresas, alternativas necesarias para contribuir desde la academia al desarrollo local, nacional e internacional
@@ -181,7 +181,7 @@
 						<!-- pestaña 6-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-6" role="tabpanel" aria-labelledby="v-pills-act-6-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
-							<p>Como principios de la investigación en la institución se identifican:
+							<p class="pt-sans">Como principios de la investigación en la institución se identifican:
 							<br><br>
 							- La articulación entre docente - discente e investigación.
 							<br>
@@ -210,7 +210,7 @@
 							<div class="col-12 p-2 px-md-5 text-center">
 								<h3 class=" f-negrita fuente-institucional texto-azul">Formatos</h3>
 							</div>
-							<div class="col-12 p-2 px-md-5 text-justify">
+							<div class="col-12 p-2 px-md-5 text-justify pt-sans">
 								DOCUMENTOS REQUERIDOS CREACIÓN GRUPOS DE INVESTIGACIÓN <br>
 								<br><a class="hover-texto-blanco" href="docs/cidae/Carta de solicitud de reconocimiento institucional del grupo de investigación.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Carta de solicitud de reconocimiento institucional del grupo de investigación		</a>
 								<br><a class="hover-texto-blanco" href="docs/cidae/Carta de Solicitud Correo Institucional de Grupo de Investigación.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Carta de Solicitud Correo Institucional de Grupo de Investigación								</a>

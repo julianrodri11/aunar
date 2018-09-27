@@ -162,7 +162,7 @@
 								<span class="pt-sans"> <strong><h3 class="f-negrita">VISIÓN</h3></strong></span>
 							</div>
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p class="fuente-institucional">
+								<p class="pt-sans">
 									Institucionalmente el CIDAE, promoverá la investigación en todos los programas de las distintas facultades, para que desde un lenguaje investigativo unificado, fortalezca el desarrollo y ejecución de trabajos de grado y de las distintas formas de investigación tanto para el personal docente como estudiantes con visión científica que satisfaga el interés personal y el servicio a la comunidad; promoverá a partir de la investigación el desarrollo de tecnologías, la creación y consolidación de una comunidad investigativa y se encaminará al reconocimiento de la AUNAR como un ente investigador por excelencia que presenta resultados acordes con las necesidades de la región.
 								</p>
 							</div>
@@ -185,7 +185,7 @@
 								<span class="pt-sans"> <strong><h3 class="f-negrita">PRINCIPIOS</h3></strong></span>
 							</div>
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p>
+								<p class="pt-sans">
 									La Institución tiene su filosofía basada en la ciencia, la cultura, la tecnología para la formación del talento humano calificado para enfrentar exitosamente al mundo competitivo y al crecimiento que la actualidad exige en el campo de las competencias y la solución de problemas a todos los niveles con sentido de responsabilidad y humanismo en el marco de una sociedad global. <br><br>
 									En el desarrollo y crecimiento humano, científico y tecnológico, se reafirma el valor de la nacionalidad en lo étnico y pluricultural el respeto por los valores culturales regionales, socialización de la cultura y la protección del medio ambiente.<br><br>
 									Teniendo en cuenta la importancia del conocimiento Universal, la Institución es un espacio de controversia y contratación con el respeto a la libertad de conciencia, opinión, información, creencia, enseñanza,aprendizaje,investigación respetando la libertad de cátedra y la calidad científica, tecnológica y humana.
@@ -233,7 +233,7 @@
 							<div class="col-12 p-2 px-md-5 text-center">
 								<h3 class=" f-negrita fuente-institucional texto-azul">DIRECTORIO</h3>
 							</div>
-							<div class="col-12 p-2 px-md-5 text-justify">
+							<div class="col-12 p-2 px-md-5 text-justify pt-sans">
 								102 RECEPCIÓN
 								<br> 103 REGISTRO Y CONTROL
 								<br> 104 MERCADEO 1
