@@ -77,7 +77,7 @@
 <div class="row pt-3 mt-1 ml-0  float-right float-md-none mr-2">
   <!-- <div class=" f-italica f-negrita f-size-14 ">La Tecnología es el Camino hacia un Mundo sin Fronteras</div> -->
   <div class=" f-italica f-negrita f-size-14 "></div>
-  <span class="ml-2 mr-1  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo p-1" data-toggle="modal"   data-target="#btn_traductor">Idioma</span>
+  <span class="ml-2 mr-1  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo p-1" data-toggle="modal"   data-target="#btn_traductor" onclick="llamar_traductor()">Idioma</span>
 </div>
 </div>
 <!-- <form class="form-inline my-2 my-lg-0">
