@@ -91,7 +91,7 @@
 								<h3><strong>Filosofía</strong></h3>
 							</div>
 							<div class="col-12 p-2 px-md-5 text-justify">								
-								<p>
+								<p class="pt-sans">
 									La CORPORACION UNIVERSITARIA AUTONOMA DE NARIÑO (AUNAR). está consciente de su responsabilidad que tiene de cooperar, desde el ámbito académico, al desarrollo de las comunidades en donde opera. Por esto brinda, a través de becas y descuentos educativos, una opción educativa a aquellos alumnos que están en la disposición y tienen las habilidades necesarias para cursar exitosamente sus estudios de pregrado y posgrado de la AUNAR que requieren de apoyo financiero para hacerlo.
 									<br>
 									Además, para llevar a cabo sus actividades académicas y formativas con los niveles de excelencia establecidos en su Visión, La AUNAR otorga becas al mérito académico a los alumnos más destacados de nuestras universidades educación superior. 
@@ -106,7 +106,7 @@
 								<h3><strong>Objetivos y alcance</strong></h3>
 							</div>
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p class="fuente-institucional">									
+								<p class="pt-sans">									
 									Este documento tiene como objetivo establecer con claridad las políticas generales para la solicitud, el otorgamiento, administración y asignación de las becas y financiamientos.
 									<br>
 									Las políticas y normas aquí establecidas se refieren a los estímulos que ofrece la institución y disminuir la deserción estudiantil de la corporación universitaria autónoma de Nariño. 
@@ -120,7 +120,7 @@
 								<h3><strong>Entidad responsable de la asignación de estímulos Financieros</strong></h3>
 							</div>							
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p class="fuente-institucional">
+								<p class="pt-sans">
 									El otorgamiento de becas y estímulos financieros es responsabilidad y función del Comité de Becas y Descuentos. Con el fin de asegurar que la asignación de dichos apoyos se realice de forma imparcial y considerando la situación particular de cada alumno, este comité deberá estar integrado por la rectoría, las diferentes vicerrectorías bienestar institucional, académica, investigación, administrativa y financiera. 
 									<br>
 									El Comité estará presidido por el Vicerrector de bienestar institucional. 
@@ -135,7 +135,7 @@
 							</div>	
 							
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p class="fuente-institucional">
+								<p class="pt-sans">
 									Para los niveles de preparatoria de Pregrado y Posgrado de la AUNAR existen tres tipos de apoyo financiero: beca, descuentos y crédito educativo.
 									<br><br><strong>Beca</strong> es el reconocimiento de los esfuerzos académicos realizados en la AUNAR en donde cada semestre se otorga el beneficio reglamentado en reglamento estudiantil.
 									<br><br><strong>Descuentos:</strong> son los estímulos otorgados para los diferentes beneficios que realiza la AUNAR (convenios, reconocimiento y representativos)
@@ -151,7 +151,7 @@
 								<h3><strong>Requisitos para la asignación y la conservación de la beca y apoyo financiero.</strong></h3>
 							</div>	
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p>
+								<p class="pt-sans">
 									<br><strong> A)   Becas mérito académico.</strong>
 										<br><br><strong> Los requisitos mínimos que deberá cumplir el estudiante para acceder a un porcentaje de beca al mérito académico son:</strong>
 										<br>-Estar matriculado en los diferentes programas académicos de la corporación universitaria autónoma de Nariño.
@@ -197,7 +197,7 @@
 								<h3><strong>Disciplina de los estudiantes becados.</strong></h3>
 							</div>	
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p>
+								<p class="pt-sans">
 									Las becas y/o los créditos educativos son aplicables a los períodos académicos semestrales, para los estudiantes de pregrado y posgrado
 									<br>
 									Su aplicación en los cursos intensivos de verano quedará sujeta a la determinación del Comité de Becas y Descuentos.								
@@ -211,7 +211,7 @@
 								<h3><strong>Fechas</strong></h3>
 							</div>	
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<p>
+								<p class="pt-sans">
 									Las fechas para la entrega y recepción de solicitudes de apoyos financieros y becas, serán establecidas y se darán a conocer por los medios de difusión. No se tomará en consideración ninguna solicitud entregada extemporáneamente aun cuando cumpla con los requisitos mínimos.
 								</p>
 							</div>
