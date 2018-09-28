@@ -70,7 +70,7 @@
 						
 						<!-- pestaña 6 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris" id="v-pills-act-6-tab" data-toggle="pill" href="#v-pills-act-6" role="tab" aria-controls="v-pills-act-6" aria-selected="false">
-							Períodos 
+							Disciplina de los estudiantes becados
 						</a>
 						
 						<!-- pestaña 7 -->
@@ -184,8 +184,6 @@
 										<br>-Tener un buen manejo crediticia institucional.
 										<br>-Cumplir con los requisitos de créditos educativos.
 										<br>-Cumplir con las fechas pactadas.
-										<h3><strong>Disciplina de los estudiantes becados.</strong></h3>		
-										Cualquier estudiante que incurra en alguna falta de disciplina contemplada en el reglamento estudiantil, así como en actos que dañen la imagen de nuestra Institución, su beca o crédito educativo quedará automáticamente cancelada.
 								</p>
 							</div>
 							
@@ -196,8 +194,10 @@
 							<div class="col-12 p-2 px-md-5 text-center">
 								<h3><strong>Disciplina de los estudiantes becados.</strong></h3>
 							</div>	
-							<div class="col-12 p-2 px-md-5 text-justify">
-								<p class="pt-sans">
+							<div class="col-12 p-2 px-md-5 ">
+								<p class="pt-sans text-justify">
+									Cualquier estudiante que incurra en alguna falta de disciplina contemplada en el reglamento estudiantil, así como en actos que dañen la imagen de nuestra Institución, su beca o crédito educativo quedará automáticamente cancelada. 
+									<br>	
 									Las becas y/o los créditos educativos son aplicables a los períodos académicos semestrales, para los estudiantes de pregrado y posgrado
 									<br>
 									Su aplicación en los cursos intensivos de verano quedará sujeta a la determinación del Comité de Becas y Descuentos.								

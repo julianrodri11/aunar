@@ -256,7 +256,7 @@ a Proyección Social </a>
 				  </div>
 				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-44" role="tabpanel" aria-labelledby="pills-4-tab">
 					<div class="col-12">Con la grata intervención de la Secretaria de Equidad de Género e Inclusión Social, Secretaría de TIC Innovación y Gobierno Abierto, Centro de Innovación Social de Nariño (CISNA) por parte de la Gobernación de Nariño y Subsecretaría de Desarrollo Comunitario y Secretaría de Desarrollo Económico por parte de la Alcaldía de Pasto :) A todos ustedes muchas gracias por compartir sus experiencias con nosotros y a todos los estudiantes, docentes y administrativos que nos acompañaron en este foro, gracias también por su activa participación <strong>#AunarPasto</strong> <strong>#AunarProyecciónSocial</strong> :D Comprometidos con nuestra comunidad</div>
-					<div class="col-12"><br><img class="img-fluid" src="https://scontent.feoh2-1.fna.fbcdn.net/v/t31.0-8/22904985_1645202652168769_6624260379624144955_o.jpg?_nc_cat=0&_nc_eui2=AeG9bX8fysNByqJzfKqwO1RZwXWpZ0n72SZGBEY09Ksv6DmsZBBn068cGWmam3DqIUIai61T1vRco9Y0ELrGK-b8_33FxA7L2JVOdtEEHj9K2w&oh=f09f8c82b85de41695ec5cadbc3863fc&oe=5B856CA3" width="100%"></div>				  	
+					<div class="col-12"><br><img class="img-fluid" src="img/proyeccion_institucional/foro_proyeccion_social.png" width="100%" alt="Foro proyección social"></div>				  	
 				  </div>
 
 				</div>

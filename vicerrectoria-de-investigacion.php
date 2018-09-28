@@ -111,28 +111,30 @@
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab">
 							<div class="col-12 p-2 px-md-5"><strong>Objetivos</strong></div>
 							<div class="col-12 p-2 px-md-5 text-justify" >
-								<strong>a.</strong> Estimular la investigación formativa, básica, aplicada y de desarrollo entre los diferentes actores de la comunidad universitaria.
-								<strong><br>b.</strong> Fomentar la I+D+I y posgrados con el fin de cumplir con su misión institucional de investigación, docencia y extensión.
-								<strong><br>c.</strong> Desarrollar programas y proyectos de investigación que se enmarcan bajo la conceptualización del modo dos de transferencia de conocimientos.
-								<strong><br>d.</strong> Estimular la realización de programas y proyectos de I+D+I y posgrados que articulen el cuadrinomio Empresa-Estado-Sociedad-Universidad.
-								<strong><br>e.</strong> Realizar convenios regionales, nacionales e internacionales que fortalezcan la cultura investigativa.
-								<strong><br>f.</strong> Estimular alternativas de solución a los problemas de la sociedad mediante los procesos de I+D+I y posgrados.
-								<strong><br>g.</strong> Articular a los procesos de I+D+I y posgrados a pares investigativos del orden regional, nacional e internacional.
-								<strong><br>h.</strong> Articular la I+D+I y posgrados a pares, grupos, redes y comunidades investigativas del orden regional, nacional e internacional.
-								<strong><br>i.</strong> Fomentar y apoyar el desarrollo de I+D+I y posgrados con altos estándares de calidad de acuerdo a parámetros internacionales.
-								<strong><br>j.</strong> Favorecer, estimular y apoyar los intercambios académicos, pedagógicos e investigativos de los actores de la comunidad universitaria.
-								<strong><br>k.</strong> Estimular y apoyar la formación de talento humano a nivel de maestría y doctorado con el fin de fortalecer la cultura de I+D+I de la AUNAR.
-								<strong><br>l.</strong> Promover la realización de programas y proyectos de I+D+I con comunidades académicas e investigativas del orden regional, nacional e internacional.
-								<strong><br>l</strong>l.- Estimular y apoyar la socialización de los resultados de I+D+I y posgrados a nivel regional, nacional e internacional.
-								<strong><br>m.</strong> Estimular los procesos de I+D+I y posgrados en semilleros de investigación y jóvenes investigadores.
-								<strong><br>n.</strong> Fomentar la transferencia de conocimientos a los sectores y actores del Sistema de Innovación Nacional y Regional.
-								<strong><br>ñ.</strong> Institucionalizar un evento académico-investigativo bianual que reúna a la comunidad científica regional, nacional e internacional con el fin de socializar los resultados de los procesos de I+D+I y posgrados.
-								<strong><br>o.</strong> Fomentar la creación de grupos, centros e institutos de investigación.
-								<strong><br>p.</strong> Promover y apoyar el desarrollo de líneas, programas y proyectos de investigación.
-								<strong><br>q.</strong> Apoyar la creación de programas académicos a nivel de maestría y doctorado en el marco de las líneas y grupos de investigación.
-								<strong><br>r.</strong> Promover el intercambio de docentes, investigadores y administrativos con universidades u organismos públicos y privados de Investigación del orden regional, nacional e internacional.
-								<strong><br>r</strong>r.- Crear instrumentos institucionales con el fin de realizar transferencia de conocimientos a los actores y sectores del Sistema de Innovación Nacional y Regional.
-								<strong><br>s.</strong> Fomentar e implementar la cultura bioética y ética entre los actores del sistema de I+D+I y posgrados.
+							<ul>
+								<strong><li>	</strong> Estimular la investigación formativa, básica, aplicada y de desarrollo entre los diferentes actores de la comunidad universitaria.
+								<strong><br><li>	</strong> Fomentar la I+D+I y posgrados con el fin de cumplir con su misión institucional de investigación, docencia y extensión.
+								<strong><br><li>	</strong> Desarrollar programas y proyectos de investigación que se enmarcan bajo la conceptualización del modo dos de transferencia de conocimientos.
+								<strong><br><li>	</strong> Estimular la realización de programas y proyectos de I+D+I y posgrados que articulen el cuadrinomio Empresa-Estado-Sociedad-Universidad.
+								<strong><br><li>	</strong> Realizar convenios regionales, nacionales e internacionales que fortalezcan la cultura investigativa.
+								<strong><br><li>	</strong> Estimular alternativas de solución a los problemas de la sociedad mediante los procesos de I+D+I y posgrados.
+								<strong><br><li>	</strong> Articular a los procesos de I+D+I y posgrados a pares investigativos del orden regional, nacional e internacional.
+								<strong><br><li>	</strong> Articular la I+D+I y posgrados a pares, grupos, redes y comunidades investigativas del orden regional, nacional e internacional.
+								<strong><br><li>	</strong> Fomentar y apoyar el desarrollo de I+D+I y posgrados con altos estándares de calidad de acuerdo a parámetros internacionales.
+								<strong><br><li>	</strong> Favorecer, estimular y apoyar los intercambios académicos, pedagógicos e investigativos de los actores de la comunidad universitaria.
+								<strong><br><li>	</strong> Estimular y apoyar la formación de talento humano a nivel de maestría y doctorado con el fin de fortalecer la cultura de I+D+I de la AUNAR.
+								<strong><br><li>	</strong> Promover la realización de programas y proyectos de I+D+I con comunidades académicas e investigativas del orden regional, nacional e internacional.
+								<strong><br><li>	</strong> Estimular y apoyar la socialización de los resultados de I+D+I y posgrados a nivel regional, nacional e internacional.
+								<strong><br><li>	</strong> Estimular los procesos de I+D+I y posgrados en semilleros de investigación y jóvenes investigadores.
+								<strong><br><li>	</strong> Fomentar la transferencia de conocimientos a los sectores y actores del Sistema de Innovación Nacional y Regional.
+								<strong><br><li>	</strong> Institucionalizar un evento académico-investigativo bianual que reúna a la comunidad científica regional, nacional e internacional con el fin de socializar los resultados de los procesos de I+D+I y posgrados.
+								<strong><br><li>	</strong> Fomentar la creación de grupos, centros e institutos de investigación.
+								<strong><br><li>	</strong> Promover y apoyar el desarrollo de líneas, programas y proyectos de investigación.
+								<strong><br><li>	</strong> Apoyar la creación de programas académicos a nivel de maestría y doctorado en el marco de las líneas y grupos de investigación.
+								<strong><br><li>	</strong> Promover el intercambio de docentes, investigadores y administrativos con universidades u organismos públicos y privados de Investigación del orden regional, nacional e internacional.
+								<strong><br><li>    </strong> Crear instrumentos institucionales con el fin de realizar transferencia de conocimientos a los actores y sectores del Sistema de Innovación Nacional y Regional.
+								<strong><br><li>	</strong> Fomentar e implementar la cultura bioética y ética entre los actores del sistema de I+D+I y posgrados.
+							</ul>
 							</div>
 							
 							

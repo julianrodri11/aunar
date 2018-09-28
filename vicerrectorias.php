@@ -37,7 +37,9 @@
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
+							<a href="vicerrectoria_academica" target="v-academica">
 							<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_academica_aunar.jpg" alt="vicerrectoría académica AUNAR" width="100%">
+							</a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
 									<!-- aqui se puede colocar un boton para una acción -->
@@ -63,7 +65,7 @@
 								institucional...
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
-								<a href="vicerrectoria_academica.php" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+								<a href="vicerrectoria_academica" target="v-academica" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
 							</div>
 						</div>
 					</div>
@@ -91,7 +93,7 @@
 								encuentra bajo la dirección del al Rectoría. Forma parte del ...
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
-								<a href="vicerrectoria_administrativa-financiera.php" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+								<a href="vicerrectoria_administrativa-financiera" target="v-adm-finan" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
 							</div>
 						</div>
 					</div>
@@ -101,7 +103,9 @@
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
+							<a href="vicerrectoria_administrativa-financiera" target="v-adm-finan">
 							<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_administrativa_y_financiera_aunar.jpg" alt="vicerrectoria administrativa y financiera AUNAR" width="100%">
+							</a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
 									<!-- aqui se puede colocar un boton para una acción -->
@@ -124,7 +128,9 @@
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
+							<a href="vicerrectoria-de-investigacion" target="v-investigacion">
 							<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_de_investigacion_aunar.jpg" alt="vicerrectoría de investigación AUNAR" width="100%">
+							</a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
 									<!-- aqui se puede colocar un boton para una acción -->
@@ -150,7 +156,7 @@
 								Innovación, I+D+I ...
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
-								<a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+								<a href="vicerrectoria-de-investigacion" target="v-investigacion" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
 							</div>
 						</div>
 					</div>
@@ -210,7 +216,9 @@
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
+							<a href="bienestar" target="v-bienestar">
 							<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_bienestar_institucional_aunar.jpg" alt="vicerrectoría de bienestar institucional AUNAR" width="100%">
+							</a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
 									<!-- aqui se puede colocar un boton para una acción -->
@@ -236,7 +244,7 @@
 								Innovación, I+D+I ...
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
-								<a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+								<a href="bienestar" target="v-bienestar" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
 							</div>
 						</div>
 					</div>

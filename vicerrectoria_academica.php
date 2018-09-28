@@ -75,9 +75,9 @@
 			<div class="row d-flex justify-content-center fondo-gris-os">
 				<div class="col-10 col-lg-8 p-3 texto-azul-os">
 					<div class="col-12 text-center">
-						<h3 class="fuente-institucional"><strong>Descripción de la Vicerrectoría <br>Administrativa y Financiera</strong></h3><br>
+						<h3 class="fuente-institucional"><strong>Descripción de la Vicerrectoría <br>Académica</strong></h3><br>
 					</div>
-					<div class="col-12 text-justify border-bottom borde-amarillo">
+					<div class="col-12 text-justify border-bottom borde-amarillo pb-5">
 						<p class="pt-sans">
 							Gerencia los programas de docencia, investigación y extensión, para hacer cumplir los propósitos de la misión, visión y filosofía institucional
 							<br>

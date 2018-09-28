@@ -108,29 +108,48 @@
   
               <div class="form-group pt-sans">                
                 <select class="form-control" id="exampleSelect1">
-                  <option>Seleccione Sede</option>
-                  <option>2</option>
-                  <option>3</option>
-                  <option>4</option>
-                  <option>5</option>
+                  <option>Seleccione Sede</option>                  
+                  <option value="CALI">CALI</option>
+                  <option value="CARTAGENA">CARTAGENA</option>
+                  <option value="IPIALES">IPIALES</option>
+                  <option value="PASTO">PASTO</option>
+                  <option value="PUTUMAYO">PUTUMAYO</option>
+                  <option value="VILLAVICENCIO">VILLAVICENCIO</option>
+
                 </select>
               </div>
               <div class="form-group pt-sans">                
                 <select class="form-control" id="exampleSelect1">
                   <option>Seleccione Programa</option>
-                  <option>2</option>
-                  <option>3</option>
-                  <option>4</option>
-                  <option>5</option>
+                    <option value="">	Administración de Empresas  </option>
+                    <option value="">	Contaduría Publica  </option>
+                    <option value="">	Decoración de Interiores  </option>
+                    <option value="">	Ingeniería Electrónica  </option>
+                    <option value="">	Ingeniería Informática  </option>
+                    <option value="">	Ingeniería Mecánica </option>
+                    <option value="">	Seguridad y Salud en el Trabajo </option>
+                    <option value="">	Técnico Laboral Asistente en Comercio Exterior  </option>
+                    <option value="">	Técnico Laboral Auxiliar Contable y Financiero  </option>
+                    <option value="">	Técnico Laboral Auxiliar en Diseño Gráfico  </option>
+                    <option value="">	Técnico Laboral Auxiliar en Sistemas Informáticos </option>
+                    <option value="">	Técnico Laboral en Cocina </option>
+                    <option value="">	Técnico Laboral por Competencias en Diseño y Confección de Modas  </option>
+                    <option value="">	Técnico Profesional en procesos Administrativos </option>
+                    <option value="">	Tecnología en Control de Procesos Electrónicos  </option>
+                    <option value="">	Tecnología en Gestión Empresarial </option>
+                    <option value="">	Tecnología en Gestión en Salud Ocupacional  </option>
+                    <option value="">	Tecnología en Mecánica Dental </option>
+                    <option value="">	Tecnología en Mercadeo Agropecuario </option>
+                    <option value="">	Tecnología en Producción Gráfica  </option>
+                    <option value="">	Tecnología en Transformación de Plantas Aromáticas  </option>
                 </select>
               </div>
               <div class="form-group pt-sans">                
                 <select class="form-control" id="exampleSelect1">
                   <option>Seleccione Modalidad</option>
-                  <option>2</option>
-                  <option>3</option>
-                  <option>4</option>
-                  <option>5</option>
+                  <option value="">Distancia</option>
+                  <option value="">Presencial</option>
+                  <option value="">Virtual</option>                  
                 </select>
               </div>
              
