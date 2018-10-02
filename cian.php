@@ -23,6 +23,32 @@
 			</div>
 		</div>
 		<?php  include_once('secciones/menu2.php') ?>
+
+		<!-- enlaces externos -->
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-12 pt-lg-5 mt-lg-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">ENLACES EXTERNOS</h3></div>
+				<!-- <div class="col-12  "><p class="pt-sans f-negrita texto-azul-os text-center mx-auto">NIVELES DE FORMACIÓN</p></div> -->
+			</div>			
+		</div>
+		<div class="container mt-5">
+			<div class="row">
+				<div class="col-12 col-sm-6 p-2">
+					<div class="row text-center fuente-institucional">
+						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" target="_blanck1" href="https://goo.gl/forms/on4uljowlKOOF5Ua2"><img src="img/cian/Club_Conversacional.png" alt="club conversacional aunar"><br>Club Conversacional</a></div>
+						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" target="_blanck2" href="https://docs.google.com/forms/d/e/1FAIpQLSet-HfLJwxcBGJWPYB31ZJrbge8heywPB99fEjbNijji_NZKQ/viewform"><img src="img/cian/cursos_de_idiomas.png" alt="cursos de idiomas aunar"> <br>Cursos de Idiomas:</a></div>												
+					</div>
+				</div>
+				<div class="col-12 col-sm-6 p-2">
+					<div class="row text-center fuente-institucional">
+						<div class="col-4 border-left borde-azul"><a class="sin-texto-subrayado texto-azul-os" target="_blanck3" href="http://learnenglishteens.britishcouncil.org/skills"><img src="img/cian/British_Counsil.png" alt="British Counsil aunar"><br>British Counsil</a></div>
+						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" target="_blanck4" href="https://thewritepractice.com/writing-practice/"><img src="img/cian/The_Write_Practice.png" alt="The Write Practice aunar"> <br>The Write Practice</a></div>
+						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" target="_blanck5" href="https://www.examenglish.com/CEFR/cefr.php"><img src="img/cian/Exam_English.png" alt="Exam English aunar"> <br>Exam English</a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- fin enlaces externos -->
 		
 		<div class="container-fluid texto-azul-os py-5">
 			<div class="row">
@@ -407,37 +433,13 @@
 				  	</div>
 					
 				  </div>		  
-				<div class="col-12 border-bottom borde-amarillo borde-2 pb-4"></div><!--linea amarilla -->
+				<div class="col-12 "></div><!--linea amarilla -->
 				</div>
 					
 				</div>
 			</div>
 		</div>
-		<!-- enlaces externos -->
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-12 pt-lg-5 mt-lg-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">ENLACES EXTERNOS</h3></div>
-				<!-- <div class="col-12  "><p class="pt-sans f-negrita texto-azul-os text-center mx-auto">NIVELES DE FORMACIÓN</p></div> -->
-			</div>			
-		</div>
-		<div class="container mt-5">
-			<div class="row">
-				<div class="col-12 col-sm-6 p-2">
-					<div class="row text-center fuente-institucional">
-						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" target="_blanck1" href="https://goo.gl/forms/on4uljowlKOOF5Ua2"><img src="img/cian/Club_Conversacional.png" alt="club conversacional aunar"><br>Club Conversacional</a></div>
-						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" target="_blanck2" href="https://docs.google.com/forms/d/e/1FAIpQLSet-HfLJwxcBGJWPYB31ZJrbge8heywPB99fEjbNijji_NZKQ/viewform"><img src="img/cian/cursos_de_idiomas.png" alt="cursos de idiomas aunar"> <br>Cursos de Idiomas:</a></div>												
-					</div>
-				</div>
-				<div class="col-12 col-sm-6 p-2">
-					<div class="row text-center fuente-institucional">
-						<div class="col-4 border-left borde-azul"><a class="sin-texto-subrayado texto-azul-os" target="_blanck3" href="http://learnenglishteens.britishcouncil.org/skills"><img src="img/cian/British_Counsil.png" alt="British Counsil aunar"><br>British Counsil</a></div>
-						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" target="_blanck4" href="https://thewritepractice.com/writing-practice/"><img src="img/cian/The_Write_Practice.png" alt="The Write Practice aunar"> <br>The Write Practice</a></div>
-						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" target="_blanck5" href="https://www.examenglish.com/CEFR/cefr.php"><img src="img/cian/Exam_English.png" alt="Exam English aunar"> <br>Exam English</a></div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- fin enlaces externos -->
+		
 
 		<!-- personal encargado -->		
 

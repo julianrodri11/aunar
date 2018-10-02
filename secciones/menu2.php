@@ -11,9 +11,9 @@
   <li class="nav-item  dropdown border-right borde-azul borde-1 ">
     <a class="nav-link dropdown-toggle fuente-institucional hvr-curl-top-right  pointer"  id="institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Institucional <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul " aria-labelledby="institucional">
-      <a class=" dropdown-item hvr-underline-from-left" href="institucional">Información Institucional</a>
-      <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Rectoría</a>  
-      <a class=" dropdown-item hvr-underline-from-left" href="vicerrectorias">Vicerrectorías</a>       
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="institucional">Información Institucional</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="rectoria">Rectoría</a>  
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="vicerrectorias">Vicerrectorías</a>       
       <!-- <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Visión</a>
       <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Reglamentos</a>  
       <a class=" dropdown-item hvr-underline-from-left" href="rectoria">Resoluciones</a>  
@@ -33,19 +33,19 @@
   <li class="nav-item  dropdown border-right borde-azul borde-1 ">
     <a class=" nav-link dropdown-toggle hvr-curl-top-right pointer "  id="investigacion" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Investigación <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="investigacion">
-      <a class=" dropdown-item hvr-underline-from-left  " href="vicerrectoria-de-investigacion">Vicerrectoria de Investigación</a>
-      <a class=" dropdown-item hvr-underline-from-left  " href="cidae">CIDAE</a>
-      <a class=" dropdown-item hvr-underline-from-left  " href="crean">CREAN</a>
-      <a class=" dropdown-item hvr-underline-from-left  " href="otri">OTRI</a>      
-      <a class=" dropdown-item hvr-underline-from-left  " href="postgrados">Oficina de Postgrados</a>
-      <a class=" dropdown-item hvr-underline-from-left  " href="investigadores">Investigadores</a>
-      <a class=" dropdown-item hvr-underline-from-left  " href="grupos-de-investigacion">Grupos de investigación</a>
-      <a class=" dropdown-item hvr-underline-from-left  " href="">Jóvenes Investigadores</a>
-      <a class=" dropdown-item hvr-underline-from-left  " href="">Red Internacional</a>
-      <a class=" dropdown-item hvr-underline-from-left  " href="">Semilleros</a>
-      <a class=" dropdown-item hvr-underline-from-left  " href="">Convocatorias</a>
-      <a class=" dropdown-item hvr-underline-from-left  " href="">Congreso</a>
-      <a class=" dropdown-item hvr-underline-from-left  " href="publicaciones">Publicaciones</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="vicerrectoria-de-investigacion">Vicerrectoria de Investigación</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="cidae">CIDAE</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="crean">CREAN</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="otri">OTRI</a>      
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="postgrados">Oficina de Postgrados</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="investigadores">Investigadores</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="grupos-de-investigacion">Grupos de investigación</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="">Jóvenes Investigadores</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="">Red Internacional</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="">Semilleros</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="">Convocatorias</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="">Congreso</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="publicaciones">Publicaciones</a>
 
 
       
@@ -98,7 +98,7 @@
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right pointer"  id="cian" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">CIAN</a>
     <div class="dropdown-menu dropdown-menu-left fuente-institucional texto-azul" aria-labelledby="cian">
-      <a class=" dropdown-item hvr-underline-from-left " href="cian">Dpto de Inglés</a>      
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os " href="cian">Dpto de Inglés</a>      
       
     </div>
   </li>
