@@ -592,6 +592,83 @@
 				</div>
 			</div>
 		</div>
+
+		<!-- imágen de inmecnar -->
+		<div class="container-fluid py-5">
+			<div class="row d-flex justify-content-center">
+				<div class="col-8 col-md-7 p-0">
+					<img class="mx-auto img-fluid" width="100%" src="img/investigacion/gidsma.png" alt="grupos de investigación GIDSMA AUNAR" />
+				</div>
+			</div>
+		</div>
+		
+		<!-- Datos de grupo de investigación -->
+		<div class="container-fluid">
+			<div class="row d-flex justify-content-center fuente-institucional f-negrita texto-azul-os">
+				<div class="col-8 col-md-7 border-bottom border-top borde-azul fondo-gris-os p-2">
+					<div class="row">
+						<div class="col-12 col-sm-6 text-left text-sm-right">Coordinador:</div>
+						<div class="col-12 col-sm-6">Alejandra Narvaez Herrera</div>
+					</div>
+				</div>
+				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-c  p-2">
+					<div class="row">
+						<div class="col-12 col-sm-6 text-left text-sm-right">Correo electrónico:</div>
+						<div class="col-12 col-sm-6 bg-danger">Pendiente</div>
+					</div>
+				</div>
+				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-os p-2">
+					<div class="row">
+						<div class="col-12 col-sm-6 text-left text-sm-right">Site:</div>
+						<div class="col-12 col-sm-6 bg-danger">Pendiente</div>
+					</div>
+				</div>
+				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-c  p-2">
+					<div class="row">
+						<div class="col-12 col-sm-6 text-left text-sm-right">Código en Colciencias:</div>
+						<div class="col-12 col-sm-6 bg-danger">Pendiente</div>
+					</div>
+				</div>
+				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-os p-2">
+					<div class="row">
+						<div class="col-12 col-sm-6 text-left text-sm-right">Área:</div>
+						<div class="col-12 col-sm-6">Ciencias Administrativas y Contables</div>
+					</div>
+				</div>
+				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-c  p-2">
+					<div class="row">
+						<div class="col-12 col-sm-6 text-left text-sm-right">Colciencias:</div>
+						<div class="col-12 col-sm-6 bg-danger">Pendiente</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!-- Datos detallados de grupo de investigación -->
+		<div class="container-fluid">
+			<div class="row fuente-institucional texto-azul-os p-sm-5 d-flex justify-content-center">
+				<div class="col-9 pt-lg-3 mt-lg-4 f-myriad text-justify">
+					<p>
+						<br> <strong>Descripción:</strong><br>
+						<label for="" class="bg-danger">Información no enviada</label>
+					</p>
+					<p>
+						<br> <strong>Misión</strong><br>
+						<label for="" class="bg-danger">Información no enviada</label>
+					</p>
+					<p>
+						<br> <strong>Visión</strong><br>
+						En el año 2019 seremos reconocidos como un grupo de investigación pionero, dinámico y en crecimiento tanto en la institución como en la región. Para ello, nos ocuparemos por ofrecer un portafolio de servicios pertinente y de alta calidad para aportar en el desarrollo integral de los egresados de la AUNAR. 					
+					</p>
+					<p>
+						<br> <strong>Historia </strong><br>
+						<label for="" class="bg-danger">Información no enviada</label>
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<!-- footer -->
 		<?php include_once('secciones/footer-principal.php');?>
 		
 	</body>
