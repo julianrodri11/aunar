@@ -658,7 +658,7 @@
 					</p>
 					<p>
 						<br> <strong>Visión</strong><br>
-						En el año 2019 seremos reconocidos como un grupo de investigación pionero, dinámico y en crecimiento tanto en la institución como en la región. Para ello, nos ocuparemos por ofrecer un portafolio de servicios pertinente y de alta calidad para aportar en el desarrollo integral de los egresados de la AUNAR. 					
+						<label for="" class="bg-danger">Información no enviada</label>
 					</p>
 					<p>
 						<br> <strong>Historia </strong><br>
