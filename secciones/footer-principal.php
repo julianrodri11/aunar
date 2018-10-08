@@ -48,7 +48,7 @@
              </a>
           </div>
           <div class="mb-1 text-light fuente-institucional small">
-            <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f8" href="">
+            <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f8" href="docs/footer/Plan_de_Inversion.pdf">
               Plan de Inversión
              </a>
           </div>
