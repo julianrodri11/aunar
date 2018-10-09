@@ -42,8 +42,8 @@
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="grupos-de-investigacion">Grupos de investigación</a>
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="">Jóvenes Investigadores</a>
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="">Red Internacional</a>
-      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="">Semilleros</a>
-      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="">Convocatorias</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="semilleros">Semilleros</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="convocatorias">Convocatorias</a>
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="">Congreso</a>
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="publicaciones">Publicaciones</a>
 

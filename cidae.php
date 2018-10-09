@@ -353,7 +353,7 @@
 								<P>En cada etapa el estudiante cuenta con el acompañamiento...</P>
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
-								<a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+								<a href="trabajos-de-grado" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
 							</div>
 						</div>
 					</div>
