@@ -37,52 +37,45 @@
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="cidae">CIDAE</a>
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="crean">CREAN</a>
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="otri">OTRI</a>      
-      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="postgrados">Oficina de Postgrados</a>
-      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="investigadores">Investigadores</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="postgrados">Postgrados</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="publicaciones">publicaciones</a>
+      <!-- <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="investigadores">Investigadores</a>
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="grupos-de-investigacion">Grupos de investigación</a>
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="">Jóvenes Investigadores</a>
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="">Red Internacional</a>
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="semilleros">Semilleros</a>
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="convocatorias">Convocatorias</a>
       <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="">Congreso</a>
-      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="publicaciones">Publicaciones</a>
-
-
-      
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="publicaciones">Publicaciones</a> -->
     </div>
   </li>
 
 <li class="nav-item dropdown  border-right borde-azul borde-1">
-  <a class=" nav-link texto-azul pl-2 hvr-underline-from-center" href="bienestar">Bienestar Institucional</a>
-</li>
-
-  <!-- <li class="nav-item dropdown  border-right borde-azul borde-1">
-
-    <a href="bienestar" class=" nav-link dropdown-toggle hvr-curl-top-right "  id="bienestar-universitario" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Bienestar Universitario</a>
-    <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="bienestar-universitario">
-      <a class=" dropdown-item hvr-underline-from-left ">Vicerrectoría de Bienestar<br> Universitario</a>
-      <a class=" dropdown-item hvr-underline-from-left ">Primeros auxilios</a>
-      <a class=" dropdown-item hvr-underline-from-left ">Psicología</a>
-      <a class=" dropdown-item hvr-underline-from-left ">Deporte </a>
-      <a class=" dropdown-item hvr-underline-from-left ">Cultura</a>
+ <a class=" nav-link dropdown-toggle  hvr-curl-top-right pointer"  id="bienestar-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Bienestar</a>
+   
+    <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="bienestar-institucional">
+      <a class=" dropdown-item hvr-underline-from-left " href="bienestar">Bienestar Institucional</a>
+      <a class=" dropdown-item hvr-underline-from-left " href="primeros_auxilios">Primeros Auxilios</a>
+      <a class=" dropdown-item hvr-underline-from-left " href="psicologia">Psicología</a>
+      <a class=" dropdown-item hvr-underline-from-left " href="deportes">Deportes </a>
+      <a class=" dropdown-item hvr-underline-from-left " href="cultura">Cultura</a>
+      <a class=" dropdown-item hvr-underline-from-left " href="inclusion_social">Inclusión Social</a>
       
     </div>
   </li>
-   -->
-  <li class="nav-item dropdown  border-right borde-azul borde-1">
-    <!--a class="nav-link active    " >Extensiones</a-->
-    <a class=" nav-link texto-azul hvr-underline-from-center pointer"  href="proyeccion_institucional">Proyección Institucional</a>
-    <!-- <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="proyeccion-institucional">
-      <a class=" dropdown-item hvr-underline-from-left ">Proyección Institucional<br> Aunar</a>
-      <a class=" dropdown-item hvr-underline-from-left ">Internacionalización</a>
-      <a class=" dropdown-item hvr-underline-from-left ">Proyección Social</a>
+ 
+  <li class="nav-item dropdown  border-right borde-azul borde-1">    
+    <a class=" nav-link dropdown-toggle hvr-curl-top-right pointer"  id="proyeccion_institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Proyección Institucional</a>
+     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="proyeccion-institucional">      
+      <a class=" dropdown-item hvr-underline-from-left" href="proyeccion_institucional">Proyección Social</a>
+      <a class=" dropdown-item hvr-underline-from-left" href="internacionalizacion">Internacionalización</a>
       
-    </div> -->
+    </div>
   </li>
   <li class="nav-item dropdown  border-right borde-azul borde-1">
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right pointer"  id="talento-humano" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Talento Humano</a>
-    <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="talento-humano">
+    <!-- <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="talento-humano">
       <a class=" dropdown-item hvr-underline-from-left ">Información Oficina<br> Talento Humano</a>
       <a class=" dropdown-item hvr-underline-from-left ">circulares, permisos<br> y licencias</a>
       <a class=" dropdown-item hvr-underline-from-left ">Reporte de salidas</a>
@@ -90,7 +83,7 @@
       <a class=" dropdown-item hvr-underline-from-left ">psicología</a>
       <a class=" dropdown-item hvr-underline-from-left ">Deporte</a>
       <a class=" dropdown-item hvr-underline-from-left ">Cultura</a>
-      <a class=" dropdown-item hvr-underline-from-left ">reglamentos</a>
+      <a class=" dropdown-item hvr-underline-from-left ">reglamentos</a> -->
       
     </div>
   </li>
