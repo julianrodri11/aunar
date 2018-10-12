@@ -56,7 +56,14 @@
 							<div class="col-12 p-2 px-md-5 text-justify">
 								<strong>Formatos</strong>
 								<br><a class="hover-texto-blanco" href="" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Presentación de Trabajos de Grado</a>								
-								<br><a class="hover-texto-blanco" href="docs/footer/Plan_Educactivo_Institucional.pdf" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato" target="pei">- Plan Educativo Institucional	</a>
+								<br><a class="hover-texto-blanco" href="docs/footer/Plan_Educactivo_Institucional.pdf" data-toggle="tooltip" data-placement="auto" title="Ver" target="pei">- Plan Educativo Institucional	</a>
+								<br><br><strong>INVESTIGACIÓN FORMATIVA - FORMATOS ETAPAS TRABAJO DE GRADO</strong>
+								<br><a class="hover-texto-blanco" href="docs/trabajos_de_grado/formato-propuesta-de-grado.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato" target="fd3">- Presentación de Propuesta de Trabajo de Grado	</a>
+								<br><a class="hover-texto-blanco" href="docs/trabajos_de_grado/formato-anteproyecto-investigacion.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato" target="fd4">- Anteproyecto de Investigación	</a>
+								<br><a class="hover-texto-blanco" href="" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato" target="fd5">- Proyecto de Investigación	</a>
+								<br><a class="hover-texto-blanco" href="docs/trabajos_de_grado/parametros-entrega-trabajos-dvd-aunar-2017.pdf" data-toggle="tooltip" data-placement="auto" title="Ver" target="fd6">- Parámetros para la Entrega de Trabajos de Grado en Medio Magnético DVD</a>
+								<br><a class="hover-texto-blanco" href="docs/trabajos_de_grado/plantilla-dvd-2017.pdf" data-toggle="tooltip" data-placement="auto" title="Ver" target="fd7">- Plantilla DVD (Esta plantilla puede ser editada en Adobe Ilustrador, Corel Draw)	</a>
+
 							</div>
 						</div>
 						
