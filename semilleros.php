@@ -47,41 +47,53 @@
 						
 						<!-- Pestaña 1-->
 						<div class="tab-pane fade p-3 fondo-gris-os show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-							<div class="col-12 p-2 px-md-5 text-justify">
-								<strong>Descripción de la Oficina OTRI</strong>
-								<p>La Oficina de Transferencia de Resultados de Investigación (<strong> OTRI </strong>), está adscrita a la vicerrectoría de I+D+I y Posgrados de la Corporación Universitaria Autónoma de Nariño, tiene como objetivo principal transferir a la sociedad y al sector productivo, los resultados de investigación generados por los grupos y semilleros de investigación de “AUNAR, incorporando el conocimiento y capacidades de la Institución a las necesidades del sector empresarial.
-								</p>
-								
+							<div class="col-12 p-2 px-md-5 text-center"><strong>Fortalecimiento cultura investigativa, y gestión extracurricular con el apoyo y acompañamiento de los semilleros de Investigación.</strong></div>
+							<div class="col-12 p-2 px-md-5 text-justify">								
+								<p> 
+								Los Semilleros de Investigación son una estrategia pedagógica extracurricular que tienen el fin de fomentar la cultura investigativa en los estudiantes de pregrado y tecnología; donde se agrupan para desarrollar actividades que los apasionen y que los inicien en la formación investigativa y el trabajo en equipo. Este proceso es Asesorado por los coordinadores y docentes de investigación de los programas.
+								<br><br>								
+								Con el fin de fortalecer la cultura investigativa en los estudiantes de nuestra Institución se busca desarrollar la creatividad a partir de intereses propios y adoptar la investigación como estrategia pedagógica con el fin de transformar y generar conocimientos, además de despertar la curiosidad natural en el estudiante y formar profesionales creativos, a través de procesos de investigación que permitan a los futuros profesionales dar soluciones a las problemáticas regionales y globales.
+								</p>								
 							</div>
 						</div>
 						
 						<!-- Pestaña 2-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-							<div class="col-12 p-2 px-md-5 text-justify">
-								<strong>Misión</strong>
-								<p>La misión de la <strong> OTRI </strong> es proporcionar a los estudiantes, investigadores y funcionarios administrativos de la Corporación Universitaria Autónoma de Nariño, la información, el asesoramiento y el acompañamiento en la gestión de la investigación, la propiedad intelectual y la transferencia de conocimiento, con el fin de estimular la investigación aplicada y el contacto permanente con las empresas de la región.</p>
+							<div class="col-12 p-2 px-md-5 text-center">							
+								<strong>Objetivo General</strong>
 							</div>
+							<div class="col-12 p-2 px-md-5 text-justify">
+								<p>Convocar y Crear Semilleros de Investigación de las diferentes facultades, para fomentar la investigación y a su vez fortalecer capacidades de trabajo en equipo, oralidad, escritura, entre otras.</p>
+							</div>							
+							<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/investigacion/ciclo_semillerista_aunar.jpg" alt="Ciclo semillerista AUNAR"></div>						
 						</div>
 						
 						<!-- Pestaña 3-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+						<div class="col-12 p-2 px-md-5 text-center"><strong>FORMALIZACIÓN DE SEMILLEROS</strong></div>
+							<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/investigacion/formalizacion_de_semilleros.jpg" alt="Formalizacion semilleros AUNAR"></div>						
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<strong>Visión</strong>
-								<p>Ser reconocida al 2022, como una oficina de referencia en la transferencia de resultados de investigación hacia el sector productivo del sur occidente colombiano.
-								</p>
+								<P>Se logró cumplir la meta de formalización de los semilleros en el tema administrativo y operativo, con lo cual hemos consolidado en este primer periodo académico 5 semilleros de investigación:</P>
+								<P> a)	Los programas de ingeniería Informática y Mecánica el anterior año (2016) trabajó con un semillero conjunto el cual tenía como línea de investigación la robótica llamado MACHINE, por definición del programa de Ingeniería mecánica y el apoyo de los docentes se creó un semillero denominado ICIMA, coordinado por la docente Gisela Cabrera con apoyo de los ingenieros: Juan C. Guerrero, Iván Ruiz, Nelson Sáenz, Álvaro Burgos y Diego Parra. Este semillero se encuentra formalizado.
+									<br> <br>b)	Por su parte, el programa de ingeniería informática crea dos semilleros de investigación denominados: ASIMOV y SINAPSIS coordinados por el ingeniero Juan Carlos Alvarado en apoyo con la coordinadora de programa ingeniera Lilian Cruz. Este semillero se encuentra formalizado.
+									<br> <br>c)	El programa de Ingeniería electrónica crea un nuevo semillero SIGNAL formalizado y coordinado por el ingeniero Oscar Rodríguez.
+									<br> <br>d)	Los programas de Administración de empresas y contaduría pública de manera unificada crean un semillero de investigación formalizado y coordinado por el docente Iván Esney Benavides Torres quien trabaja en apoyo con la docente Irina Jurado, denominado GRAINE.
+								</P>
 							</div>
 						</div>
 						
 						<!-- Pestaña 4-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
-							<div class="col-12 p-2 px-md-5 text-justify">
-								<strong>Objetivos</strong>
-								<br>- Identificar Resultados de Investigación de la Institución con potencial de ser transferidos.
-								<br>- Promocionar y difundir la oferta tecnológica resultado de la investigación de “AUNAR”.
-								<br>- Gestionar la Propiedad Intelectual.
-								<br>- Realizar actividades de Vigilancia Tecnológica.
-								<br>- Apoyar el emprendimiento de Base Tecnológica.
-								<br>- Apoyar la creación de Spin Off.
+							<div class="col-12 p-2 px-md-5 text-center">
+								<strong>Formación investiga en articulación con RedCOLSI</strong>
+							</div>
+							<div class="col-12 p-2 px-md-5 text-justify">								
+								<p>Participaron durante este semestre 4 estudiantes de la institución en diplomado de investigación dictado por la RedCOLSI Nodo Nariño, en IUCESMAG. <br><br>
+								El diplomado se denominó V DIPLOMADO EN INVESTIGACIÓN – TERCERA COHORTE INVESTIGACIÓN PROPUESTA DE INVESTIGACIÓN, propuestos por la Fundación Red Colombiana de Semilleros de Investigación Nodo Nariño el cual hizo énfasis en los principios de la investigación y con el propósito de promover el desarrollo de las competencias investigativas y fortalecer el espíritu investigativo de los estudiantes pertenecientes al Nodo Nariño de Semilleros de Investigación, el Comité Ejecutivo Nodal, ofrece un espacio de capacitación y actualización en investigación, bajo la figura de un diplomado, con el fin de facilitar a los asistentes el conocimiento para la elaboración de la propuesta de investigación.
+								</p>
+								<p>
+								La intensidad horaria del diplomado fue de 120 horas las cuales fueron aprobadas por los cuatro estudiantes inscritos; las 60 horas de trabajo independiente se realizarán a través del trabajo práctico de elaboración del análisis, interpretación y discusión de los resultados parciales de la investigación.  Las temáticas abordadas fueron: Fundamentos teóricos, Problema y justificación, Referentes teóricos, Operacionalización de variables, hipótesis, categorización, Metodología e instrumentos de recolección de información, Cronograma y presupuesto y Presentación de propuestas de investigación.
+								</p>
 							</div>
 							
 						</div>
