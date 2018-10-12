@@ -54,12 +54,12 @@
  <a class=" nav-link dropdown-toggle  hvr-curl-top-right pointer"  id="bienestar-institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Bienestar</a>
    
     <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="bienestar-institucional">
-      <a class=" dropdown-item hvr-underline-from-left " href="bienestar">Bienestar Institucional</a>
-      <a class=" dropdown-item hvr-underline-from-left " href="primeros_auxilios">Primeros Auxilios</a>
-      <a class=" dropdown-item hvr-underline-from-left " href="psicologia">Psicología</a>
-      <a class=" dropdown-item hvr-underline-from-left " href="deportes">Deportes </a>
-      <a class=" dropdown-item hvr-underline-from-left " href="cultura">Cultura</a>
-      <a class=" dropdown-item hvr-underline-from-left " href="inclusion_social">Inclusión Social</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os " href="bienestar">Bienestar Institucional</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os " href="primeros_auxilios">Primeros Auxilios</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os " href="psicologia">Psicología</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os " href="deportes">Deportes </a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os " href="cultura">Cultura</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os " href="inclusion_social">Inclusión Social</a>
       
     </div>
   </li>
@@ -67,8 +67,8 @@
   <li class="nav-item dropdown  border-right borde-azul borde-1">    
     <a class=" nav-link dropdown-toggle hvr-curl-top-right pointer"  id="proyeccion_institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Proyección Institucional</a>
      <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="proyeccion-institucional">      
-      <a class=" dropdown-item hvr-underline-from-left" href="proyeccion_institucional">Proyección Social</a>
-      <a class=" dropdown-item hvr-underline-from-left" href="internacionalizacion">Internacionalización</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="proyeccion_institucional">Proyección Social</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="internacionalizacion">Internacionalización</a>
       
     </div>
   </li>

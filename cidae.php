@@ -245,7 +245,9 @@
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
+							<a href="grupos-de-investigacion" target="gin">
 							<img class="img-fluid img_virtual"  src="img/cidae/grupos-de-investigacion-cidae.jpg" alt="Grupos de investigación AUNAR" width="100%">
+							</a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
 									<!-- aqui se puede colocar un boton para una acción -->
@@ -269,7 +271,7 @@
 							<p>Un Grupo de Investigación es la unidad docente especializada que se dedica a la investigación científica, al desarrollo tecnológico o a la innovación... </p>
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
-								<a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+								<a href="grupos-de-investigacion" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional" target="gin">Leer Más</a>
 							</div>
 						</div>
 					</div>
@@ -295,7 +297,7 @@
 								<P>Los Semilleros de Investigación son una estrategia pedagógica extracurricular que tienen el fin de fomentar la cultura investigativa en los estudiantes de pregrado y tecnología; donde... </P>
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
-								<a href="#" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+								<a href="semilleros" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional" target="semilleros">Leer Más</a>
 							</div>
 						</div>
 					</div>
@@ -305,7 +307,9 @@
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual ">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img class="img-fluid img_virtual" src="img/cidae/semilleros-de-investigacion-cidae.jpg" alt="Semilleros de investigación AUNAR" width="100%">
+							<a href="semilleros" target="semilleros">
+								<img class="img-fluid img_virtual" src="img/cidae/semilleros-de-investigacion-cidae.jpg" alt="Semilleros de investigación AUNAR" width="100%">
+							</a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
 									<!-- aqui se puede colocar un boton para una acción -->
@@ -329,7 +333,9 @@
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<img class="img-fluid img_virtual" src="img/cidae/trabajo-de-grado-cidae.jpg" alt="Trabajo de grado CIDAE - AUNAR" width="100%">
+							<a href="trabajos-de-grado" target="trab_grado">
+								<img class="img-fluid img_virtual" src="img/cidae/trabajo-de-grado-cidae.jpg" alt="Trabajo de grado CIDAE - AUNAR" width="100%">
+							</a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
 									<!-- aqui se puede colocar un boton para una acción -->
@@ -353,7 +359,7 @@
 								<P>En cada etapa el estudiante cuenta con el acompañamiento...</P>
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
-								<a href="trabajos-de-grado" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional">Leer Más</a>
+								<a href="trabajos-de-grado" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional" target="trab_grado">Leer Más</a>
 							</div>
 						</div>
 					</div>
