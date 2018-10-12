@@ -76,14 +76,14 @@
     <!--a class="nav-link active    " >Extensiones</a-->
     <a class=" nav-link dropdown-toggle  hvr-curl-top-right pointer"  id="talento-humano" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Talento Humano</a>
     <!-- <div class="dropdown-menu fuente-institucional texto-azul" aria-labelledby="talento-humano">
-      <a class=" dropdown-item hvr-underline-from-left ">Información Oficina<br> Talento Humano</a>
-      <a class=" dropdown-item hvr-underline-from-left ">circulares, permisos<br> y licencias</a>
-      <a class=" dropdown-item hvr-underline-from-left ">Reporte de salidas</a>
-      <a class=" dropdown-item hvr-underline-from-left ">seguridad y salud en<br> el trabajo</a>
-      <a class=" dropdown-item hvr-underline-from-left ">psicología</a>
-      <a class=" dropdown-item hvr-underline-from-left ">Deporte</a>
-      <a class=" dropdown-item hvr-underline-from-left ">Cultura</a>
-      <a class=" dropdown-item hvr-underline-from-left ">reglamentos</a> -->
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os">Información Oficina<br> Talento Humano</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os">circulares, permisos<br> y licencias</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os">Reporte de salidas</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os">seguridad y salud en<br> el trabajo</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os">psicología</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os">Deporte</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os">Cultura</a>
+      <a class=" dropdown-item hvr-underline-from-left texto-azul-os">reglamentos</a> -->
       
     </div>
   </li>

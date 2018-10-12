@@ -67,13 +67,13 @@
       </div>      
     </div>
 
-    <div class=" col-lg-1 col-sm-2 col-md-2 col-3 pb-3 ">
+    <!-- <div class=" col-lg-1 col-sm-2 col-md-2 col-3 pb-3 ">
       <div class="p-0">
         <a href="http://docentes.aunar.edu.co/" class="hvr-wobble-vertical" target="_blanck">
           <img class="img-fluid " src="img/sistema-academia.png" alt="Sistema de notas académia aunar">
         </a>
       </div>      
-    </div>
+    </div> -->
 
     <!-- <div class=" col-lg-1 col-sm-2 col-md-2 col-1 "><div class="circulo p-3"><i class="fa fa-graduation-3ap sombra-iconos">      </i></div><p class="pt-2 mb-0">Bisel Estudiantes</p> </div>
     <div class=" col-lg-1 col-sm-2 col-md-2 col-1 "><div class="circulo p-3"><i class="fa fa-leanpub sombra-iconos" >  3   </i></div><p class="pt-2 mb-0">Publicaciones</p> </div>
