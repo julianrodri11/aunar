@@ -8,9 +8,9 @@
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <!-- jQuery library -->
-<script src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.min.js" async></script>
 <!-- Popper JS -->
-<script src="js/popper.min.js"></script>
+<script type="text/javascript" src="js/popper.min.js" async></script>
 <!-- Latest compiled JavaScript -->
 <!-- ESTILOS PERSONALES -->
 <link rel="stylesheet" type="text/css" href="css/personalizado.css">
@@ -21,10 +21,10 @@
 <!-- framework para maquetación  -->
 <script src="js/bootstrap.min.js"></script>
 <!-- para activar complementos de bootstrar o hacer otras acciones  -->
-<script type="text/javascript" src="js/personalizado.js"></script>
+<script type="text/javascript" src="js/personalizado.js" async></script>
 <!-- efectos cuando se baje el scroll -->
-<script type="text/javascript" src="js/jquery.smoove.min.js"></script>
+<script type="text/javascript" src="js/jquery.smoove.min.js" async></script>
 <!-- efectos personalizados -->
-<script type="text/javascript" src="js/efectos_smoove.js"></script>
+<script type="text/javascript" src="js/efectos_smoove.js" async></script>
 
 <?php /*VARIABLE QUE SACA EL NOMBRE DEL SERVIDOR*/ $servidor = $_SERVER['SERVER_NAME']; ?>
