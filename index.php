@@ -275,8 +275,7 @@
   <!-- ----------------FIN EVENTOS------------------------------ -->
   <!-- -----------------IMAGENES ENLACES DE EXTERNOS----------------------------- -->
   <?php include_once('secciones/enlaces-externos-aunar.php') ?>
-  <!-- -----------------FIN ENLACES DE EXTERNOS------------------------- -->
-  
+  <!-- -----------------FIN ENLACES DE EXTERNOS------------------------- -->  
   <!-- ----------------PIE DE PÁGINA---------------------------- -->
   <?php include_once('secciones/footer-principal.php') ?>
   <!-- -------------------FIN PIE DE PÁGINA--------------------- -->

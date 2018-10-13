@@ -39,7 +39,7 @@
               <div class="col-12 p-2 m-1 ">
                 <div class="row">
 
-                  <div class="col-12 p-2 text-center"><img class="img-fluid rounded-circle " src="img/aunar.jpg" width="50%"></div>
+                  <div class="col-12 p-2 text-center"><img class="img-fluid rounded-circle " src="img/aunar.jpg" width="30%"></div>
                   <div class="col-12 p-2 text-justify pt-sans texto-azul">Si deseas hacer parte de nuestra Institución, escríbenos un comentario:</div>
                 </div>
               </div>
