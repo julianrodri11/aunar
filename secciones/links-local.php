@@ -13,12 +13,27 @@
 <script  type="text/javascript" src="js/popper.min.js" async></script>
 <!-- Latest compiled JavaScript -->
 <!-- CSS OPTIMIZADO PARA GOOGLE -->
+<noscript id="deferred-styles">
 <!-- ESTILOS PERSONALES -->
 <link rel="stylesheet" type="text/css" href="css/personalizado.css">
 <!-- efectos cuando se colocal el mouse encima de algo -efectos hover -->
 <link rel="stylesheet" type="text/css" href="css/hover.css">
 <!-- libreria para animaciones del hover de una imágen -->  
 <link rel="stylesheet" type="text/css" href="css/animate.css">
+</noscript>
+<script>
+      var loadDeferredStyles = function() {
+        var addStylesNode = document.getElementById("deferred-styles");
+        var replacement = document.createElement("div");
+        replacement.innerHTML = addStylesNode.textContent;
+        document.body.appendChild(replacement)
+        addStylesNode.parentElement.removeChild(addStylesNode);
+      };
+      var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+          window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+      else window.addEventListener('load', loadDeferredStyles);
+</script>
 <!-- FIN CSS OPTIMIZADO PARA GOOGLE -->
 <!-- framework para maquetación  -->
 <script  type="text/javascript" src="js/bootstrap.min.js" async></script>
