@@ -5,13 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- iconos externos de awesome -->  
 <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
-
-
+<!-- Latest compiled and minified CSS -->
+<noscript>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+</noscript
+<!-- jQuery library -->
+<script  type="text/javascript" src="js/jquery.min.js" async></script>
+<!-- Popper JS -->
+<script  type="text/javascript" src="js/popper.min.js" async></script>
 <!-- Latest compiled JavaScript -->
 <!-- CSS OPTIMIZADO PARA GOOGLE -->
 <noscript id="deferred-styles">
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <!-- ESTILOS PERSONALES -->
 <link rel="stylesheet" type="text/css" href="css/personalizado.css">
 <!-- efectos cuando se colocal el mouse encima de algo -efectos hover -->
@@ -33,10 +37,6 @@
       else window.addEventListener('load', loadDeferredStyles);
 </script>
 <!-- FIN CSS OPTIMIZADO PARA GOOGLE -->
-<!-- jQuery library -->
-<script  type="text/javascript" src="js/jquery.min.js" async></script>
-<!-- Popper JS -->
-<script  type="text/javascript" src="js/popper.min.js" async></script>
 <!-- framework para maquetación  -->
 <script  type="text/javascript" src="js/bootstrap.min.js" async></script>
 <!-- para activar complementos de bootstrar o hacer otras acciones  -->
