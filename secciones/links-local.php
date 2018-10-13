@@ -43,5 +43,4 @@
 <script  type="text/javascript" src="js/jquery.smoove.min.js" async></script>
 <!-- efectos personalizados -->
 <script  type="text/javascript" src="js/efectos_smoove.js" async></script>
-
 <?php /*VARIABLE QUE SACA EL NOMBRE DEL SERVIDOR*/ $servidor = $_SERVER['SERVER_NAME']; ?>
