@@ -5,8 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- iconos externos de awesome -->  
 <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="css/bootstrap.min.css">
 <!-- jQuery library -->
 <script async type="text/javascript" src="js/jquery.min.js"></script>
 <!-- Popper JS -->
@@ -16,7 +14,9 @@
 
 <!-- CSS OPTIMIZADO PARA GOOGLE -->
 <noscript id="deferred-styles">
-<!-- ESTILOS PERSONALES -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- ESTILOS PERSONALES -->
     <link rel="stylesheet" type="text/css" href="css/personalizado.css">
     <!-- efectos cuando se colocal el mouse encima de algo -efectos hover -->
     <link rel="stylesheet" type="text/css" href="css/hover.css">
