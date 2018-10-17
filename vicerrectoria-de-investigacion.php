@@ -256,7 +256,7 @@
 				<div class="row col-12 ">
 					<div class="col-12 py-3 mx-auto text-left texto-azul-os ">
 						<!-- aqui va todo lo que se quiera centrar -->
-						<h4 class="texto-amarillo fuente-institucional f-negrita p-0">VICERRECTOR</h4>
+						<h4 class="texto-amarillo fuente-institucional f-negrita p-0">VICERECTOR (A)</h4>
 						<div class="pt-sans">
 							<label class="f-negrita">PEDRO PABLO BURBANO</label>
 							<br>Lic. en física

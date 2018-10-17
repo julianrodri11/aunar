@@ -171,7 +171,7 @@
 						<div class="col-12 py-3 mx-auto text-center text-lg-left texto-azul-os ">
 							<!-- aqui va todo lo que se quiera centrar -->
 							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">PROFESIONAL ENCARGADO</h4>
-							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">RECTOR (A)</h4>
+							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">VICERECTOR (A)</h4>
 							<div class="pt-sans">
 								<label class="f-negrita">CONSTANZA COLUNGE ORDÓÑEZ</label>
 								<br>MAESTRÍA EN E-LEARNING
@@ -208,7 +208,7 @@
 					<div class="row col-12 ">
 						<div class="col-12 py-3 mx-auto text-center text-lg-left texto-azul-os">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">SECRETARIA</h4>
+							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">ASISTENTE</h4>
 							<div class="pt-sans">
 								<label class="f-negrita"></label>
 								<br>auxiliar.vacademica@aunar.edu.co

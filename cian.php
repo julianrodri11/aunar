@@ -145,7 +145,7 @@
 				    <a class="nav-link p-3 texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Elemental</a>
 				  </li>
 				  <li class="nav-item  fondo-gris-os d-flex  align-items-center ">
-				    <a class="nav-link p-3 texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Idependiente</a>
+				    <a class="nav-link p-3 texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Independiente</a>
 				  </li>
 				</ul>
 			</div>
@@ -187,7 +187,7 @@
 															</div>
 															<div class="col-12"><br><p><strong> Justificación: </strong> El aprendizaje de Inglés se enfoca en adecuar y optimizar el perfil profesional de los estudiantes tanto a nivel personal como laboral, para esto las actividades y procedimientos a tenerse en cuenta están directamente relacionados con la creación de textos, role plays, comunicación directa, presentaciones y trabajo grupal e individual.</p></div>
 															<div class="col-12"><br><p><strong> Objetivo general:</strong> Conocer, reflexionar y aplicar modelos, estrategias y técnicas de enseñanza de inglés como lengua extranjera en concordancia con el nuevo marco curricular nacional para el subsector inglés; elaborar e implementar una planificación  de clase acorde con el desarrollo de habilidades comunicativas y cognitivas de orden superior.</p></div>
-															<div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
+															<!-- <div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
 																<br>• The alphabet 
 																<br>• Numbers
 																<br>• Pronouns
@@ -197,7 +197,7 @@
 																<br>• Present continuous
 																<br>• Superlatives and comparatives
 																<br>• Action verbs												
-															</div>
+															</div> -->
 														</div>
 													</div>
 													
@@ -220,7 +220,7 @@
 															</div>
 															<div class="col-12"><br><p><strong> Justificación: </strong> El aprendizaje de Inglés se enfoca en adecuar y optimizar el perfil profesional de los estudiantes tanto a nivel personal como laboral, para esto las actividades y procedimientos a tenerse en cuenta están directamente relacionados con la creación de textos, role plays, comunicación directa, presentaciones y trabajo grupal e individual.</p></div>
 															<div class="col-12"><br><p><strong> Objetivo general:</strong> Conocer, reflexionar y aplicar modelos, estrategias y técnicas de enseñanza de inglés como lengua extranjera en concordancia con el nuevo marco curricular nacional para el subsector inglés; elaborar e implementar una planificación  de clase acorde con el desarrollo de habilidades comunicativas y cognitivas de orden superior.</p></div>
-															<div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
+															<!-- <div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
 																<br>•	Past of verb To Be 
 																<br>•	Ordinal numbers
 																<br>•	Yes / No Questions and WH Questions with was / were
@@ -233,7 +233,7 @@
 																<br>•	Present continuous
 																<br>•	Questions with and without auxiliaries
 											
-															</div>
+															</div> -->
 														</div>
 													</div>
 										</div>						
@@ -282,7 +282,7 @@
 															</div>
 															<div class="col-12"><br><p><strong> Justificación: </strong> El aprendizaje de Inglés se enfoca en adecuar y optimizar el perfil profesional de los estudiantes tanto a nivel personal como laboral, para esto las actividades y procedimientos a tenerse en cuenta están directamente relacionados con la creación de textos, role plays, comunicación directa, presentaciones y trabajo grupal e individual.</p></div>
 															<div class="col-12"><br><p><strong> Objetivo general:</strong> Conocer, reflexionar y aplicar modelos, estrategias y técnicas de enseñanza de inglés como lengua extranjera en concordancia con el nuevo marco curricular nacional para el subsector inglés; elaborar e implementar una planificación  de clase acorde con el desarrollo de habilidades comunicativas y cognitivas de orden superior.</p></div>
-															<div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
+															<!-- <div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
 																<br>•	Past of verb To Be 
 																<br>•	Present perfect
 																<br>•	Past perfect
@@ -292,7 +292,7 @@
 																<br>•	Used to
 
 											
-															</div>
+															</div> -->
 														</div>
 													</div>													
 										</div>						
@@ -314,7 +314,7 @@
 															</div>
 															<div class="col-12"><br><p><strong> Justificación: </strong> El aprendizaje de Inglés se enfoca en adecuar y optimizar el perfil profesional de los estudiantes tanto a nivel personal como laboral, para esto las actividades y procedimientos a tenerse en cuenta están directamente relacionados con la creación de textos, role plays, comunicación directa, presentaciones y trabajo grupal e individual.</p></div>
 															<div class="col-12"><br><p><strong> Objetivo general:</strong>Conocer, reflexionar y aplicar modelos, estrategias y técnicas de enseñanza de inglés como lengua extranjera en concordancia con el nuevo marco curricular nacional para el subsector inglés; elaborar e implementar una planificación  de clase acorde con el desarrollo de habilidades comunicativas y cognitivas de orden superior.</p></div>
-															<div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
+															<!-- <div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
 																	<br>•	Perfect tenses
 																	<br>•	Confusing verbs
 																	<br>•	Demonstrative pronouns
@@ -323,7 +323,7 @@
 																	<br>•	Present continuous
 
 											
-															</div>
+															</div> -->
 														</div>
 													</div>
 										</div>						
@@ -373,7 +373,7 @@
 															</div>
 															<div class="col-12"><br><p><strong> Justificación: </strong> El aprendizaje de Inglés se enfoca en adecuar y optimizar el perfil profesional de los estudiantes tanto a nivel personal como laboral, para esto las actividades y procedimientos a tenerse en cuenta están directamente relacionados con la creación de textos, role plays, comunicación directa, presentaciones y trabajo grupal e individual.</p></div>
 															<div class="col-12"><br><p><strong> Objetivo general:</strong>Conocer, reflexionar y aplicar modelos, estrategias y técnicas de enseñanza de inglés como lengua extranjera en concordancia con el nuevo marco curricular nacional para el subsector inglés; elaborar e implementar una planificación  de clase acorde con el desarrollo de habilidades comunicativas y cognitivas de orden superior.</p></div>
-															<div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
+															<!-- <div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
 																	<br>•	Perfect Tenses
 																	<br>•	Perfect Continuous Tenses
 																	<br>•	Vocabulary (Feelings - Opinión)
@@ -384,7 +384,7 @@
 
 
 											
-															</div>
+															</div> -->
 														</div>
 													</div>										</div>						
 								      </div>
@@ -412,11 +412,11 @@
 																	<br>-Apreciar el valor de la lengua extranjera como medio de comunicación, mostrando curiosidad y respeto hacia sus hablantes y su cultura.
 																					</p>
 															</div>
-															<div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
+															<!-- <div class="col-12"><h4 class="fuente-institucional f-negrita text-center"> Temáticas por nivel:</h4>
 																	
 
 											
-															</div>
+															</div> -->
 														</div>
 													</div>	
 										</div>						

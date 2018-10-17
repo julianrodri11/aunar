@@ -179,6 +179,7 @@
 						</div>
 						<div class="col-12 col-md-6 text-center text-md-left">
 							<h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
+							<h4 class="fuente-institucional texto-amarillo f-negrita">VICERECTOR (A)</h4>
 						    <div class="pt-sans">
 						    <label class="f-negrita">JAIME DAVID COLUNGE ORDOÑEZ </label><br>
 						    Especialista en pedagogía y herramientas virtuales <br>
@@ -208,7 +209,7 @@
 							<img src="img/bienestar/maria_ruiz.png" class="align-self-center mr-3 rounded-circle img-fluid" >
 						</div>
 						<div class="col-12 col-md-6 text-center text-md-left">
-							<h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
+							<h4 class="fuente-institucional texto-amarillo f-negrita">ASISTENTE</h4>
 						    <div class="pt-sans">
 							<label class="f-negrita">ANGÉLICA MARÍA RUIZ JIMÉNEZ </label><br>
 							Celular: 3163055109<br>

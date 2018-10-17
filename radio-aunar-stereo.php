@@ -94,7 +94,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-12 p-5">
-					<h1>Lugar para el chat</h1>
+					<h1>Chat en Construcción</h1>
 				</div>
 			</div>
 		</div>
@@ -116,31 +116,31 @@
 						
 						<div class="col-12 col-lg-10 border-bottom borde-azul border-top">
 							<div class="row">
-								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5">Primeros Auxilios</div>
+								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">informacion Pendiente</div></div>
 								
 							</div>
 						</div>
 						<div class="col-12 col-lg-10 border-bottom borde-azul fondo-gris-os">
 							<div class="row">
-								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5">Control de Tensión Arterial</div>
+								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">informacion Pendiente</div></div>
 								
 							</div>
 						</div>
 						<div class="col-12 col-lg-10 border-bottom borde-azul">
 						<div class="row">
-								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5">Asesorías en salud sexual y reproductiva</div>
+								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">informacion Pendiente</div></div>
 								
 						</div>
 						</div>
 						<div class="col-12 col-lg-10 border-bottom borde-azul fondo-gris-os">
 							<div class="row">
-								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5">Promoción de la salud y prevención de enfermedades</div>
+								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">informacion Pendiente</div></div>
 								
 							</div>
 						</div>
 						<div class="col-12 col-lg-10 border-bottom borde-azul ">
 							<div class="row">
-								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5">Acompañamiento a actividades deportivas y culturales de la universidad</div>
+								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">informacion Pendiente</div></div>
 								
 							</div>
 						</div>

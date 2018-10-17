@@ -149,7 +149,7 @@
 						<div class="col-12 py-3 mx-auto text-center text-lg-left texto-azul-os ">
 							<!-- aqui va todo lo que se quiera centrar -->
 							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">PROFESIONAL ENCARGADO</h4>
-							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">RECTOR (A)</h4>
+							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">VICERECTOR (A)</h4>
 							<div class="pt-sans text-justify">
 								<label class="f-negrita">ANALEONOR ZAMBRANO ROSERO</label>
 								<br>Magíster en Gestión Empresarial – Universidad Libre de Cali
@@ -198,7 +198,7 @@
 					<div class="row col-12 ">
 						<div class="col-12 py-3 mx-auto text-center text-lg-left texto-azul-os">
 							<!-- aqui va todo lo que se quiera centrar -->
-							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">SECRETARIO</h4>
+							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">ASISTENTE</h4>
 							<div class="pt-sans">
 								<label class="f-negrita">JUAN SEBASTIÁN JURADO BURBANO</label>
 								<br>Asistente.administrativa@aunar.edu.co
