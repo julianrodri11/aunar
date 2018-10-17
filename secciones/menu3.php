@@ -1,7 +1,7 @@
 <!-- -----------------MENU ICONOS----------------------------- -->
 <div class="container-fluid pt-5">
     <div class="row justify-content-center">  
-        <h1 class="py-4  fuente-institucional texto-azul f-negrita f-negrita ">Enlaces de interés</h1>
+        <h1 class="py-4  fuente-institucional texto-azul f-negrita text-center ">Enlaces de interés</h1>
     </div>
 
   <div class="row d-flex text-center justify-content-around fuente-institucional f-x-small e_rotacion pb-5">

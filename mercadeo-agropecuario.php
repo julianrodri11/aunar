@@ -237,7 +237,7 @@
 		<div class="col-12 col-sm-6 col-md-5 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
+					<div class="row p-2 ">	<div class="col-12  "><strong>VI Semestre</strong></div> </div>
 				</div>				
 				<div class="col-12">-Procedimientos de Calidad en el Mercadeo Agropecuario.</div>
 				<div class="col-12">-Estrategias de Mercadeo para la Comercialización de Productos Agropecuarios.</div>
