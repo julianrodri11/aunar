@@ -3,7 +3,7 @@
   <head>
     <?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
     <!--TÍTULO DE LA PÁGINA Y SEO-->
-    <title>.::AUNAR::. - ::::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO</title>
+    <title>.::AUNAR::. - .::CORPORACIÓN UNIVERSITARIA AUTÓNOMA DE NARIÑO::.</title>
     <meta name="description" content="Es una institución de Educación Superior comprometida con la Cultura, la Ciencia, la Investigación; la excelencia en la formación de profesionales íntegros y el liderazgo en el desarrollo social.">
     <meta name="keywords" content="Corporación Universitaria Autónoma de Nariño, AUNAR">
     <meta property="og:image" <?php echo 'content=http://'.$servidor.'/img/logo-autonoma-de-narino.png'?>/>
@@ -191,7 +191,7 @@
           
           <div class="p-1 mt-5 mt-sm-5 bd-highlight text-center pr-3">
             <h1 class="my-1 fuente-institucional texto-azul f-negrita">Eventos</h1>
-            <label class="texto-azul fuente-institucional f-size-18">¡Entérate nuestras novedades!</label>
+            <label class="texto-azul fuente-institucional f-size-18">¡Entérate de nuestras novedades!</label>
           </div>
         <!-- div class="p-1 bg-primary bd-highlight">Flex item 2</div>
         <div class="p-1 bg-white bd-highlight">Flex item 3</div> -->

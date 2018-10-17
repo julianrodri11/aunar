@@ -9,7 +9,7 @@
         <!-- Modal Header -->
         <div class="modal-header">
           <h4 class="modal-title fuente-institucional texto-azul">Bienvenidos</h4>
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal">X</button>
           
         </div>
         

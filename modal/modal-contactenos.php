@@ -7,7 +7,7 @@
     <div class="contenedor-ayuda p-0 m-0">
            
         <div class="sombra-iconos icono-blanco p-0 m-0 py-0 " data-toggle="modal"   data-target="#myModalContactenos">     
-          <img src="img/mensaje.png" alt="contactacto autónoma de nariño" width="45" data-toggle="tooltip" data-placement="right" title="¿Necesitas ayuda?, haz click">
+          <img src="img/mensaje.png" width="45" data-toggle="tooltip" data-placement="right" title="¿Necesitas ayuda?, haz click">
         </div>
       
     </div>
@@ -65,7 +65,7 @@
 
           <div class="container-fluid bg-white mt-1 p-1 bg-danger text-center pt-sans texto-azul">
             <p>Información de Contacto<br><label class="f-negrita">mercadeo@aunar.edu.co</label></p>            
-            <p>Horario de Atención<br>Lunes a Viernes:<br>8:00 am  a  12:00 pm <br>2:00 am  a   6:00  pm </p>
+            <p>Horario de Atención<br>Lunes a Viernes:<br>8:00 am  a  12:00 pm <br>2:00 pm  a   6:00  pm </p>
             
           </div>
 

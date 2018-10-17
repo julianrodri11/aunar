@@ -112,7 +112,7 @@
 		     <div class="row col-12 p-2">
 		      <div class="row col-12 p-2  d-flex justify-content-end ">
 		        <div class="col-12 col-lg-7 mt-2 hvr-wobble-horizontal text-right fuente-institucional">
-		        	<div class="col-12 text-white f-negrita f-size-18 text-right">¿Deseas Preinscribirse en este programa?</div>
+		        	<div class="col-12 text-white f-negrita f-size-18 text-right">¿Deseas inscribirse en este programa?</div>
 		        	<div class="col-12 text-white f-size-16 text-right">Encuentra toda la información</div>
 		        	<div class="col-12 f-size-16 text-right"><a href="inscripciones.php" class="texto-amarillo f-negrita">Aquí</a></div>
 		        </div>        

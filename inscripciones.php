@@ -72,8 +72,8 @@
 		<img src="img/admisiones-autonoma-de-narino.jpg" alt="Norway" style="width:100%;">
 		  <div class="text-block"> 
 			<div class=" text-center">	
-				<div class="col-12 text-center"><h1 class=" f-negrita fuente-institucional texto-azul">Preinscripción</h1> </div> 			
-				<div class="col-12 texto-azul">Para realizar su Preinscripción</div>
+				<div class="col-12 text-center"><h1 class=" f-negrita fuente-institucional texto-azul">Inscripción</h1> </div> 			
+				<div class="col-12 texto-azul">Para realizar su Inscripción</div>
 				<div class="col-12"><a class="btn text-light fondo-azul-oscuro pt-sans hvr-forward" href="http://inscripciones.aunar.edu.co/inscripcion.php" target="_blanck">Click aquí</a> </div>
 			</div>
 		  </div>

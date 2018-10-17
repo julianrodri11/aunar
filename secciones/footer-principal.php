@@ -31,7 +31,7 @@
           </div>
           <div class="mb-1 text-light fuente-institucional small">
             <a class="text-white" data-toggle="tooltip" data-placement="auto" title="No enviado" target="fg" href="">
-              Reglamento Trabajos de Grado
+              Reglamento trabajos de grado
              </a>
           </div>
           
