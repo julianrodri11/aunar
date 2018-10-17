@@ -116,31 +116,31 @@
 						
 						<div class="col-12 col-lg-10 border-bottom borde-azul border-top">
 							<div class="row">
-								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">informacion Pendiente</div></div>
+								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">información Pendiente</div></div>
 								
 							</div>
 						</div>
 						<div class="col-12 col-lg-10 border-bottom borde-azul fondo-gris-os">
 							<div class="row">
-								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">informacion Pendiente</div></div>
+								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">información Pendiente</div></div>
 								
 							</div>
 						</div>
 						<div class="col-12 col-lg-10 border-bottom borde-azul">
 						<div class="row">
-								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">informacion Pendiente</div></div>
+								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">información Pendiente</div></div>
 								
 						</div>
 						</div>
 						<div class="col-12 col-lg-10 border-bottom borde-azul fondo-gris-os">
 							<div class="row">
-								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">informacion Pendiente</div></div>
+								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">información Pendiente</div></div>
 								
 							</div>
 						</div>
 						<div class="col-12 col-lg-10 border-bottom borde-azul ">
 							<div class="row">
-								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">informacion Pendiente</div></div>
+								<div class="col-12 p-2 f-negrita pl-md-5 pr-md-5"><div class="text-danger">información Pendiente</div></div>
 								
 							</div>
 						</div>

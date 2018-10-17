@@ -1,4 +1,3 @@
-
 <div class="container-fluid">
   <div class="row">
     <div class="col-6 fondo-amarillo texto-azul-cl fuente-institucional f-negrita text-left text-sm-center p-2">Corporación Universitaria Autónoma de Nariño</div>
@@ -17,13 +16,13 @@
   <div class="collapse navbar-collapse f-size-12 " id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0  animated bounceInLeft">
       <li class="nav-item pt-2 pb-2  dropdown">
-        <a class=" nav-link dropdown-toggle texto-azul pl-2 hvr-underline-from-center" href="#" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
+        <a class=" nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 hvr-underline-from-center" href="#" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
         <div class="dropdown-menu f-size-12" aria-labelledby="admisiones">
           <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="inscripciones" target="_blanck_admin">Admisiones</a>
           <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="ayudas-y-becas"  target="_ayudas-y-becas">Ayudas y Becas</a>
           <ul class="navbar-nav"> <!-- navbar-nav -->
           <li class="col-12 nav-item dropdown dropright ">
-            <a class="nav-link dropdown-toggle texto-azul pl-2 hvr-underline-from-center f-negrita" href="google.com" id="calendarios" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Calendarios </a>
+            <a class="nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 hvr-underline-from-center f-negrita" href="#" id="calendarios" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Calendarios </a>
             <div class="dropdown-menu dropdown-menu-right f-size-12" aria-labelledby="calendarios">              
               <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2018_II.pdf" target="_blanck_1">Calendario Académico 2018-2</a>
               <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2018_1.pdf" target="_blanck_2">Calendario Académico 2018-1</a>
@@ -38,7 +37,7 @@
       </div>
     </li>
     <li class="nav-item pt-2 pb-2 dropdown  ">
-      <a class=" nav-link dropdown-toggle texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="#" id="estudiantes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Estudiantes</a>
+      <a class=" nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="#" id="estudiantes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Estudiantes</a>
       <div class="dropdown-menu f-size-12" aria-labelledby="estudiantes">
         <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/reglamento_estudiantil.pdf" target="_blanck_6">Reglamento Estudiantil</a>
         <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://estudiantes.aunar.edu.co/" target="_blanck_7">Bisel Estudiantes</a>
@@ -48,18 +47,18 @@
   </div>
 </li>
 <li class="nav-item pt-2 pb-2 dropdown  ">
-  <a class=" nav-link dropdown-toggle texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="#" id="docentes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Docentes</a>
+  <a class=" nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="#" id="docentes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Docentes</a>
   <div class="dropdown-menu f-size-12" aria-labelledby="docentes">
     <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/reglamento_docentes.pdf" target="_blanck_9">Reglamento Docentes</a>
     <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://docentes.aunar.edu.co/"  target="_blanck_10">Bisel Docentes</a>
   </div>
 </li>
 <li class="nav-item pt-2 pb-2  ">
-  <a class=" nav-link texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="convocatorias" target="_blanck_convocatorias" >Convocatorias</a>
+  <a class=" nav-link texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="convocatorias" target="_blanck_convocatorias" >Convocatorias</a>
 </li>
 <li class="nav-item pt-2 pb-2 dropdown  ">
-  <!--a class="nav-link active texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="#">Extensiones</a-->
-  <a class=" nav-link dropdown-toggle texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="#" id="extensiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Extensiones</a>
+  <!--a class="nav-link active texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="#">Extensiones</a-->
+  <a class=" nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="#" id="extensiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Extensiones</a>
   <div class="dropdown-menu f-size-12" aria-labelledby="extensiones">
     <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://aunarcali.edu.co/ext/" target="_blanck_11">Cali</a>
     <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://www.aunarvillavicencio.edu.co/"  target="_blanck_12">Villavicencio</a>
@@ -69,7 +68,7 @@
   </div>
 </li>
 <li class="nav-item pt-2 pb-2  ">
-  <a class=" nav-link texto-azul pl-2 border-left borde-azul hvr-underline-from-center" href="http://190.121.158.228/public/" target="_blanck_16">Graduados</a>
+  <a class=" nav-link texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="http://190.121.158.228/public/" target="_blanck_16">Graduados</a>
 </li>
 </ul>
 <!-- <div class="rectangulo-sesgado pt-2 pb-2 animated bounceInRight"> -->

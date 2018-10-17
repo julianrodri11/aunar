@@ -7,7 +7,7 @@
 
 
 
-<ul class="nav d-flex justify-content-center  ">
+<ul class="nav flex-column flex-sm-row d-flex justify-content-center  ">
   <li class="nav-item  dropdown border-right borde-azul borde-1 ">
     <a class="nav-link dropdown-toggle fuente-institucional hvr-curl-top-right  pointer"  id="institucional" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Institucional <span class="sr-only">(current)</span></a>
     <div class="dropdown-menu fuente-institucional texto-azul " aria-labelledby="institucional">
