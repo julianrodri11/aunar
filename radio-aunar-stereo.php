@@ -70,7 +70,7 @@
 		</div>
 		<div class="container-fluid texto-azul-os fondo-gris-c">
 			<div class="row">
-				<label class="fuente-big mx-auto pt-sans f-negrita py-md-5"> NUESTRA PROGRAMACIÓN</label>
+				<label class="fuente-big mx-auto pt-sans f-negrita py-md-5 text-center"> NUESTRA PROGRAMACIÓN</label>
 			
 			</div>
 		</div>
