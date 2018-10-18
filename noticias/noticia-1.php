@@ -12,10 +12,10 @@
   </div>
 </div>
 <!-- -- Fin título noticias -------- -->
-<div class="container-fluid">
+<div class="container-fluid m-0 py-5">
   
   <!-- noticia 1 -->
-  <div class="row">
+  <div class="row m-0">
     <div class=" p-0 col-12 col-lg-6 mt-3 d-flex justify-content-center align-items-center">
       <div class="row col-12 ">
         <!-- texto -->
@@ -30,7 +30,7 @@
         </div>
       </div>
     </div>
-    <div class=" p-0 col-12 col-lg-6 mt-3 " >
+    <div class="m-0 p-0 col-12 col-lg-6 mt-3 " >
       <div class="row">
         <!-- imagen -->
         
@@ -45,8 +45,8 @@
 
 
   <!-- noticia 2 -->
-  <div class="row">
-    <div class="col-12 col-lg-6 p-0 order-2 order-lg-1  ">
+  <div class="row m-0">
+    <div class="m-0 p-0 col-12 col-lg-6 mt-3 mt-lg-0 order-2 order-lg-1  ">
       <div class="row">
         <!-- imagen -->
         

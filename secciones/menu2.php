@@ -148,7 +148,7 @@
                         
 
                         <li class="nav-item active  py-0 text-center">                            
-                            <a class=" nav-link texto-azul-os px-lg1 hvr-nderline-from-center pointer " href="virtual">Aunar Virtual<span class="sr-only">(current)</span></a>
+                            <a class=" nav-link texto-azul-os px-lg1 hvr-underline-from-center pointer " href="virtual">Aunar Virtual<span class="sr-only">(current)</span></a>
                         </li>
                         
                         

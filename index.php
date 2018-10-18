@@ -146,15 +146,15 @@
     <!-- ----------------FIN SECCIÓN NOTICIAS--------------------- -->
     <!-- ----------------SECCIÓN NOTICIAS------------------------- -->
     <?php include_once('slider/noticias-autonoma-de-narino.php');?>
-    <div class="container-fluid">
-      <div class="row d-flex justify-content-center">
+    <div class="container-fluid p-0 m-0">
+      <div class="row d-flex justify-content-center p-0 m-0">
         <div class="col-12 col-lg-12 p-2 fondo-azul-oscuro">
-          <div class="row ">
-            <div class="col-12 col-sm-6 text-center text-sm-right">
-              <h4 class="texto-amarillo f-negrita fuente-institucional  ">Portal Noticias</h4>
+          <div class="row p-0 m-0">
+            <div class="col-12 col-sm-6 text-center text-sm-right pr-sm-4 p-0 m-0 ">
+              <h4 class="texto-amarillo f-negrita fuente-institucional my-1 ">Portal Noticias</h4>
             </div>
-            <div class="col-12 col-sm-6 text-center text-sm-left">
-              <a href="portal-noticias-aunar.php" class="p-2 border borde-azul badge badge-pill bg-white hover-amarillo texto-azul sin-texto-subrayado hover-sin-borde">Más Noticias</a>
+            <div class="col-12 col-sm-6 text-center text-sm-left pl-sm-4 p-0 m-0 ">
+              <a href="portal-noticias-aunar.php" class="my-1 p-2 border borde-azul badge badge-pill bg-white hover-amarillo texto-azul sin-texto-subrayado hover-sin-borde">Más Noticias</a>
             </div>
           </div>
         </div>
@@ -207,7 +207,7 @@
               </div>
             </div> -->
           </div>
-          <div class="col-md-6 p-3 derecha_izquierda d-flex align-items-center">
+          <div class="col-md-6 p-3 izquierda_derecha d-flex align-items-center">
             <div class="col-12 p-lg-4 mb-3">
               
               <!-- seccion de eventos  -->
