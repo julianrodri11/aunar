@@ -57,7 +57,7 @@
 
                                 <li><a class="dropdown-item texto-azul-os hvr-underline-from-left dropdown-toggle" href="#">Ciencias de la salud</a>
                                     <ul class="dropdown-menu text-center text-lg-left">                                        
-                                        <li><a class="dropdown-item texto-azul-os hvr-underline-from-left" href="mecanica-dental" class="sin-texto-subrayado texto-azul-os">Tecnología en Mecánica <br> Dental <strong>(No ofertado)</strong></a></li>
+                                        <li><a class="dropdown-item texto-azul-os hvr-underline-from-left" href="mecanica-dental" class="sin-texto-subrayado texto-azul-os">Técnico Laboral en Mecánica <br> Dental <strong>(No ofertado)</strong></a></li>
                                     </ul>
                                 </li>
 

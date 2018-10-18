@@ -325,27 +325,11 @@
 
 
 			</div>
-		</div>
+		</div>		
 		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
 			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 					<div class="row p-2 ">	<div class="col-12  "><strong>IX Semestre</strong></div> </div>
-				</div>
-								
-				<div class="col-12">-Elementos Gráficos  De La Comunicación Visual		</div>
-				<div class="col-12">-Modelos Arquitectónicos En Software Distribuido		</div>
-				<div class="col-12">-Herramientas Informáticas Para El Comercio Electrónico		</div>
-				<div class="col-12">-Técnicas Para El Diseño De Aplicaciones Telemáticas		</div>
-				<div class="col-12">-Principios Y Normas Del Derecho Informático		</div>
-				<div class="col-12">-Proyecto De Investigación		</div>
-
-
-			</div>
-		</div>
-		<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
-			<div class="row pt-sans texto-azul-os p-2 p-lg-3">
-				<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
-					<div class="row p-2 ">	<div class="col-12  "><strong>X Semestre</strong></div> </div>
 				</div>
 				
 				<div class="col-12">-Electiva		</div>
