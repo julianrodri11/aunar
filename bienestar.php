@@ -75,7 +75,7 @@
 			</div>
 		</div>
 		<div class="container-fluid texto-azul-os">
-			<div class="row fondo-gris-c">
+			<div class="row fondo-gris-c p-2">
 				<!-- misión -->
 				<div class="col-12 col-md-6">
 					<div class="row m-md-2 p-md-5">
@@ -112,15 +112,16 @@
 				</div>
 			</div>
 		</div>
+		
 		<div class="container-fluid">
 			<div class="row fuente-institucional">
-				<div class="col-12 pt-5 m-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">POLÍTICAS AUNAR</h3></div>
+				<div class="col-12 pt-5 text-center"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">POLÍTICAS AUNAR</h3></div>
 			</div>			
 		</div>
 		<div class="container-fluid">
-			<div class="row">
+			<div class="row d-flex justify-content-center">
 				<div class="col-11 col-lg-12 d-flex justify-content-center">
-					<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+					<ul class="nav nav-pills mb-3 flex-column flex-sm-row d-flex justify-content-center" id="pills-tab" role="tablist">
 				  <li class="nav-item fondo-gris-os d-flex  align-items-center ">
 				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">POLÍTICAS DE LA VICERRECTORÍA<br> DE BIENESTAR INSTITUCIONAL</a>
 				  </li>

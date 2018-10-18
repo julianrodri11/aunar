@@ -1,6 +1,6 @@
 <!-- slider de noticias -->
 
-  <div class="container ">
+  <div class="container py-5">
     <div class="row d-flex justify-content-center align-items-center">
       <div class="col-12 ">
       <!-- silider -->

@@ -31,19 +31,19 @@
 				<!-- <div class="col-12  "><p class="pt-sans f-negrita texto-azul-os text-center mx-auto">NIVELES DE FORMACIÓN</p></div> -->
 			</div>			
 		</div>
-		<div class="container mt-5">
-			<div class="row">
+		<div class="container m-0 mt-5 ">
+			<div class="row m-0">
 				<div class="col-12 col-sm-6 p-2">
 					<div class="row text-center fuente-institucional">
-						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" target="_blanck1" href="https://goo.gl/forms/on4uljowlKOOF5Ua2"><img src="img/cian/Club_Conversacional.png" alt="club conversacional aunar"><br>Club Conversacional</a></div>
-						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" target="_blanck2" href="https://docs.google.com/forms/d/e/1FAIpQLSet-HfLJwxcBGJWPYB31ZJrbge8heywPB99fEjbNijji_NZKQ/viewform"><img src="img/cian/cursos_de_idiomas.png" alt="cursos de idiomas aunar"> <br>Cursos de Idiomas:</a></div>												
+						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" target="_blanck1" href="https://goo.gl/forms/on4uljowlKOOF5Ua2"><img class="img-fluid" width="100%" src="img/cian/Club_Conversacional.png" alt="club conversacional aunar"><br>Club Conversacional</a></div>
+						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" target="_blanck2" href="https://docs.google.com/forms/d/e/1FAIpQLSet-HfLJwxcBGJWPYB31ZJrbge8heywPB99fEjbNijji_NZKQ/viewform"><img class="img-fluid" width="100%" src="img/cian/cursos_de_idiomas.png" alt="cursos de idiomas aunar"> <br>Cursos de Idiomas:</a></div>												
 					</div>
 				</div>
 				<div class="col-12 col-sm-6 p-2">
 					<div class="row text-center fuente-institucional">
-						<div class="col-4 border-left borde-azul"><a class="sin-texto-subrayado texto-azul-os" target="_blanck3" href="http://learnenglishteens.britishcouncil.org/skills"><img src="img/cian/British_Counsil.png" alt="British Counsil aunar"><br>British Counsil</a></div>
-						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" target="_blanck4" href="https://thewritepractice.com/writing-practice/"><img src="img/cian/The_Write_Practice.png" alt="The Write Practice aunar"> <br>The Write Practice</a></div>
-						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" target="_blanck5" href="https://www.examenglish.com/CEFR/cefr.php"><img src="img/cian/Exam_English.png" alt="Exam English aunar"> <br>Exam English</a></div>
+						<div class="col-4 border-left borde-azul"><a class="sin-texto-subrayado texto-azul-os" target="_blanck3" href="http://learnenglishteens.britishcouncil.org/skills"><img class="img-fluid" width="100%" src="img/cian/British_Counsil.png" alt="British Counsil aunar"><br>British Counsil</a></div>
+						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" target="_blanck4" href="https://thewritepractice.com/writing-practice/"><img class="img-fluid" width="100%" src="img/cian/The_Write_Practice.png" alt="The Write Practice aunar"> <br>The Write Practice</a></div>
+						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" target="_blanck5" href="https://www.examenglish.com/CEFR/cefr.php"><img class="img-fluid" width="100%" src="img/cian/Exam_English.png" alt="Exam English aunar"> <br>Exam English</a></div>
 					</div>
 				</div>
 			</div>

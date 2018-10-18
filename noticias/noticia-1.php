@@ -12,7 +12,7 @@
   </div>
 </div>
 <!-- -- Fin título noticias -------- -->
-<div class="container-fluid m-0 py-5">
+<div class="container-fluid m-0 py-5 border-bottom borde-azul">
   
   <!-- noticia 1 -->
   <div class="row m-0">
