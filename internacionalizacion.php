@@ -104,16 +104,16 @@
 			</div>			
 		</div>
 		<div class="container-fluid">
-			<div class="row ">
+			<div class="row d-flex justify-content-center">
 				<div class="col-12 d-flex justify-content-around">
-				<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-				  <li class="nav-item fondo-gris-os d-flex  align-items-center ">
+				<ul class="nav nav-pills mb-3 flex-column flex-sm-row d-flex justify-content-center" id="pills-tab" role="tablist">
+				  <li class="nav-item fondo-gris-os d-flex justify-content-center align-items-center ">
 				    <a class="nav-link texto-azul-os f-negrita fuente-institucional p-4 hover-amarillo align-self-stretch text-center" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">¿Que es la  Internacionalización?</a>
 				  </li>
-				  <li class="nav-item fondo-gris-c d-flex  align-items-center ">
+				  <li class="nav-item fondo-gris-c d-flex justify-content-center align-items-center ">
 				    <a class="nav-link texto-azul-os f-negrita fuente-institucional p-4 hover-amarillo align-self-stretch text-center" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Tipos de Movilidad</a>
 				  </li>
-				  <li class="nav-item fondo-gris-os d-flex  align-items-center ">
+				  <li class="nav-item fondo-gris-os d-flex justify-content-center align-items-center ">
 				    <a class="nav-link texto-azul-os f-negrita fuente-institucional p-4 hover-amarillo align-self-stretch text-center" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Convenios</a>
 				  </li>
 				  
