@@ -7,7 +7,7 @@
 
 
 
- <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top texto-azul fuente-institucional f-negrita btco-hover-menu">
+ <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top zindex-30 texto-azul fuente-institucional f-negrita btco-hover-menu">
                 
                 <!-- <a class="navbar-brand" href="#">Menú</a> -->
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

@@ -945,13 +945,17 @@ font-weight: bold;
 
 
 
+/*VALIDACIONES PARA DIFERENTES PANTALLAS */
 
-
-
-
-
-/*validaciones para diferentes pantallas */
-
+ /*Small devices (landscape phones, 576px and up)*/
+@media (max-width: 991px) { 
+   /*quita el borde derecho o izquierdo en pantallas menores a lg  */
+  .border-right, .border-left
+   {
+    border-style: none !important;
+   }
+  
+}
 
  /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) { 
@@ -981,7 +985,7 @@ font-weight: bold;
  }
 
 
- /*estilos para funcionalidad del menu 1 y 2*/
+ /*ESTILOS PARA FUNCIONALIDAD DEL MENU 1 Y 2*/
  
 /*=-====Bootstrapthemes.co btco-hover-menu=====*/
 
@@ -1023,12 +1027,12 @@ font-weight: bold;
 .btco-hover-menu .collapse ul > li:hover > a{background: #f5f5f5;}
 .btco-hover-menu .collapse ul ul > li:hover > a, .navbar .show .dropdown-menu > li > a:focus, .navbar .show .dropdown-menu > li > a:hover{background: #fff;}
 /*second level*/
-.btco-hover-menu .collapse ul ul ul > li:hover > a{background: #fff;}
+.btco-hover-menu .collapse ul ul ul > li:hover > a{background: rgb(192, 192, 192);}
 
 /*third level*/
-.btco-hover-menu .collapse ul ul, .btco-hover-menu .collapse ul ul.dropdown-menu{background:#f5f5f5;}
-.btco-hover-menu .collapse ul ul ul, .btco-hover-menu .collapse ul ul ul.dropdown-menu{background:#f5f5f5}
-.btco-hover-menu .collapse ul ul ul ul, .btco-hover-menu .collapse ul ul ul ul.dropdown-menu{background:#f5f5f5}
+.btco-hover-menu .collapse ul ul, .btco-hover-menu .collapse ul ul.dropdown-menu{background:#e4e2e2;}
+.btco-hover-menu .collapse ul ul ul, .btco-hover-menu .collapse ul ul ul.dropdown-menu{background:#bebebe}
+.btco-hover-menu .collapse ul ul ul ul, .btco-hover-menu .collapse ul ul ul ul.dropdown-menu{background:#8b8a8a}
 
 /*Drop-down menu work on hover*/
 .btco-hover-menu{background: none;margin: 0;padding: 0;min-height:20px}
