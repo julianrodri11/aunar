@@ -27,25 +27,18 @@
 		<!-- enlaces externos -->
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-12 pt-lg-5 mt-lg-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">ENLACES EXTERNOS</h3></div>
+				<div class="col-12 pt-lg-2 mb-lg-5 mt-lg-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">ENLACES EXTERNOS</h3></div>
 				<!-- <div class="col-12  "><p class="pt-sans f-negrita texto-azul-os text-center mx-auto">NIVELES DE FORMACIÓN</p></div> -->
 			</div>			
 		</div>
-		<div class="container m-0 mt-5 ">
-			<div class="row m-0">
-				<div class="col-12 col-sm-6 p-2">
-					<div class="row text-center fuente-institucional">
-						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" target="_blanck1" href="https://goo.gl/forms/on4uljowlKOOF5Ua2"><img class="img-fluid" width="100%" src="img/cian/Club_Conversacional.png" alt="club conversacional aunar"><br>Club Conversacional</a></div>
-						<div class="col-6"><a class="sin-texto-subrayado texto-azul-os" target="_blanck2" href="https://docs.google.com/forms/d/e/1FAIpQLSet-HfLJwxcBGJWPYB31ZJrbge8heywPB99fEjbNijji_NZKQ/viewform"><img class="img-fluid" width="100%" src="img/cian/cursos_de_idiomas.png" alt="cursos de idiomas aunar"> <br>Cursos de Idiomas:</a></div>												
-					</div>
-				</div>
-				<div class="col-12 col-sm-6 p-2">
-					<div class="row text-center fuente-institucional">
-						<div class="col-4 border-left borde-azul"><a class="sin-texto-subrayado texto-azul-os" target="_blanck3" href="http://learnenglishteens.britishcouncil.org/skills"><img class="img-fluid" width="100%" src="img/cian/British_Counsil.png" alt="British Counsil aunar"><br>British Counsil</a></div>
-						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" target="_blanck4" href="https://thewritepractice.com/writing-practice/"><img class="img-fluid" width="100%" src="img/cian/The_Write_Practice.png" alt="The Write Practice aunar"> <br>The Write Practice</a></div>
-						<div class="col-4"><a class="sin-texto-subrayado texto-azul-os" target="_blanck5" href="https://www.examenglish.com/CEFR/cefr.php"><img class="img-fluid" width="100%" src="img/cian/Exam_English.png" alt="Exam English aunar"> <br>Exam English</a></div>
-					</div>
-				</div>
+		<div class="container-fluid m-0">
+			<div class="row m-0 d-flex justify-content-center">				
+
+						<div class="col-4 col-md-2 text-center"><a class="sin-texto-subrayado texto-azul-os" target="_blanck1" href="https://goo.gl/forms/on4uljowlKOOF5Ua2"><img class="img-fluid" width="100%" src="img/cian/Club_Conversacional.png" alt="club conversacional aunar"><br>Club Conversacional</a></div>
+						<div class="col-4 col-md-2 text-center"><a class="sin-texto-subrayado texto-azul-os" target="_blanck2" href="https://docs.google.com/forms/d/e/1FAIpQLSet-HfLJwxcBGJWPYB31ZJrbge8heywPB99fEjbNijji_NZKQ/viewform"><img class="img-fluid" width="100%" src="img/cian/cursos_de_idiomas.png" alt="cursos de idiomas aunar"> <br>Cursos de Idiomas:</a></div>												
+						<div class="col-4 col-md-2 text-center border-left borde-azul"><a class="sin-texto-subrayado texto-azul-os" target="_blanck3" href="http://learnenglishteens.britishcouncil.org/skills"><img class="img-fluid" width="100%" src="img/cian/British_Counsil.png" alt="British Counsil aunar"><br>British Counsil</a></div>
+						<div class="col-4 col-md-2 text-center"><a class="sin-texto-subrayado texto-azul-os" target="_blanck4" href="https://thewritepractice.com/writing-practice/"><img class="img-fluid" width="100%" src="img/cian/The_Write_Practice.png" alt="The Write Practice aunar"> <br>The Write Practice</a></div>
+						<div class="col-4 col-md-2 text-center"><a class="sin-texto-subrayado texto-azul-os" target="_blanck5" href="https://www.examenglish.com/CEFR/cefr.php"><img class="img-fluid" width="100%" src="img/cian/Exam_English.png" alt="Exam English aunar"> <br>Exam English</a></div>
 			</div>
 		</div>
 		<!-- fin enlaces externos -->
@@ -94,10 +87,10 @@
 			</div>
 		</div>
 		<div class="container-fluid texto-azul-os">
-			<div class="row fondo-gris-c">
+			<div class="row fondo-gris-c d-flex justify-content-center">
 				<!-- misión -->
-				<div class="col-12 col-md-5 m-lg-4">
-					<div class="row m-md-2 p-md-5 ">
+				<div class="col-12 col-md-5 m-lg-4 ">
+					<div class="row m-md-2 p-lg-5 ">
 						<div class="col-12 pt-5 text-center"><h3 class="fuente-institucional f-negrita"> Descripción del Departamento de Inglés</h3></div>
 						<div class="col-12 text-justify pt-sans"><br>
 						<p> La Corporación Universitaria Autónoma de Nariño a través del Departamento de Inglés, se ha preocupado por alcanzar y desarrollar estrategias, metodologías y el uso de herramientas informáticas; para mejorar cada día  el proceso de enseñanza aprendizaje del segundo idioma, que lleven a los estudiantes a desarrollar un nivel de competencia comunicativa necesario, para desempeñarse satisfactoriamente en el campo laboral.   </p>
@@ -110,8 +103,8 @@
 					</div>
 				</div>
 				<!-- proyeccion social -->
-				<div class="col-12 col-md-5 m-lg-4 border-left borde-amarillo">
-					<div class="row m-md-2 p-md-5 ">
+				<div class="col-12 col-md-5 m-lg-4 border-left borde-amarillo ">
+					<div class="row m-md-2 p-lg-5 ">
 						<div class="col-12 pt-5"><h3 class="fuente-institucional f-negrita"> Misión</h3></div>
 						<div class="col-12 text-justify pt-sans">Lograr ser un departamento de vanguardia que lidere el proceso de enseñanza – aprendizaje del idioma Inglés en la Universidad y en la comunidad en general mediante el desarrollo de una práctica  pedagógica y didáctica que se caracterice por ser eficiente, eficaz, creativa e innovadora y lista para satisfacer las necesidades de la comunidad; generando transformación social y compromiso con la excelencia académica a la comunidad AUNAR.</div>
 
@@ -128,9 +121,9 @@
 
 
 
-		<div class="container-fluid">
+		<div class="container-fluid my-5">
 			<div class="row">
-				<div class="col-12 pt-lg-5 mt-lg-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">NIVELES DE FORMACIÓN</h3></div>
+				<div class="col-12"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">NIVELES DE FORMACIÓN</h3></div>
 				<!-- <div class="col-12  "><p class="pt-sans f-negrita texto-azul-os text-center mx-auto">NIVELES DE FORMACIÓN</p></div> -->
 			</div>			
 		</div>
