@@ -7,85 +7,123 @@
 
 
 
-<!-- menu 1 -->
-<nav class="navbar navbar-expand-lg  navbar-light sticky-top bg-white texto-azul bg-success f-negrita fuente-institucional" id="navbar1" >
-  <!--div class=" "><a class=" mx-auto navbar-brand fuente-institucional texto-azul f-size-18 " data-toggle="tooltip" data-placement="auto" title="Ir al inicio" href="index"><i class="fa fa-home"></i></a></div-->
-  <button class="navbar-toggler"  type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-  <span class="navbar-toggler-icon "></span>MENÚ
-  </button>
-  <div class="collapse navbar-collapse f-size-12 " id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0  animated bounceInLeft">
-      <li class="nav-item pt-2 pb-2  dropdown">
-        <a class=" nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 hvr-underline-from-center" href="#" id="admisiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admisiones <span class="sr-only">(current)</span></a>
-        <div class="dropdown-menu f-size-12" aria-labelledby="admisiones">
-          <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="inscripciones" target="_blanck_admin">Admisiones</a>
-          <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="ayudas-y-becas"  target="_ayudas-y-becas">Ayudas y Becas</a>
-          <ul class="navbar-nav"> <!-- navbar-nav -->
-          <li class="col-12 nav-item dropdown dropright ">
-            <a class="nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 hvr-underline-from-center f-negrita" href="#" id="calendarios" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Calendarios </a>
-            <div class="dropdown-menu dropdown-menu-right f-size-12" aria-labelledby="calendarios">              
-              <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2018_II.pdf" target="_blanck_1">Calendario Académico 2018-2</a>
-              <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2018_1.pdf" target="_blanck_2">Calendario Académico 2018-1</a>
-              <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2017_2.pdf" target="_blanck_3">Calendario Académico 2017-2</a>
-              <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2017_1.pdf" target="_blanck_4">Calendario Académico 2017-1</a>
-            </div>
-          </li>
-          
-        </ul>
-        
-        
-      </div>
-    </li>
-    <li class="nav-item pt-2 pb-2 dropdown  ">
-      <a class=" nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="#" id="estudiantes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Estudiantes</a>
-      <div class="dropdown-menu f-size-12" aria-labelledby="estudiantes">
-        <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/reglamento_estudiantil.pdf" target="_blanck_6">Reglamento Estudiantil</a>
-        <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://estudiantes.aunar.edu.co/" target="_blanck_7">Bisel Estudiantes</a>
-        <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://biblioteca.aunar.edu.co/" target="_blanck_8">Biblioteca</a>
-      <!--div class="dropdown-divider"></div>
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://190.121.158.228/public/" target="_blanck">Graduados</a-->
-  </div>
-</li>
-<li class="nav-item pt-2 pb-2 dropdown  ">
-  <a class=" nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="#" id="docentes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Docentes</a>
-  <div class="dropdown-menu f-size-12" aria-labelledby="docentes">
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="docs/reglamento_docentes.pdf" target="_blanck_9">Reglamento Docentes</a>
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://docentes.aunar.edu.co/"  target="_blanck_10">Bisel Docentes</a>
-  </div>
-</li>
-<li class="nav-item pt-2 pb-2  ">
-  <a class=" nav-link texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="convocatorias" target="_blanck_convocatorias" >Convocatorias</a>
-</li>
-<li class="nav-item pt-2 pb-2 dropdown  ">
-  <!--a class="nav-link active texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="#">Extensiones</a-->
-  <a class=" nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="#" id="extensiones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Extensiones</a>
-  <div class="dropdown-menu f-size-12" aria-labelledby="extensiones">
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://aunarcali.edu.co/ext/" target="_blanck_11">Cali</a>
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://www.aunarvillavicencio.edu.co/"  target="_blanck_12">Villavicencio</a>
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="https://aunarcartagena.edu.co/"  target="_blanck_13">Cartagena</a>
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck_14">Ipiales</a>
-    <a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck_15">Putumayo</a>
-  </div>
-</li>
-<li class="nav-item pt-2 pb-2  ">
-  <a class=" nav-link texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="http://190.121.158.228/public/" target="_blanck_16">Graduados</a>
-</li>
-</ul>
-<!-- <div class="rectangulo-sesgado pt-2 pb-2 animated bounceInRight"> -->
-<div class="pt-2 pb-2 animated bounceInRight">
-<div class="row pt-3 mt-1 ml-0  float-right float-md-none mr-2">
-  <!-- <div class=" f-italica f-negrita f-size-14 ">La Tecnología es el Camino hacia un Mundo sin Fronteras</div> -->
-  <div class=" f-italica f-negrita f-size-14 "></div>
-  <span class="ml-2 mr-1 f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo " data-toggle="modal"   data-target="#btn_traductor" onclick="llamar_traductor()">Idioma</span>
-</div>
-</div>
-<!-- <form class="form-inline my-2 my-lg-0">
-<input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search">
-<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-</form> -->
-</div>
-</nav>
-<!-- fin menu -->
+ <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top texto-azul fuente-institucional f-negrita btco-hover-menu">
+                
+                <!-- <a class="navbar-brand" href="#">Menú</a> -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>MENÚ
+                </button>
+
+                <div class="collapse navbar-collapse f-size-12" id="navbarNavDropdown">
+                    <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0  animated bounceInLeft">
+                        
+                        <li class="nav-item dropdown py-2">
+                            <a class="nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 hvr-underline-from-center" href="https://bootstrapthemes.co" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Admisiones
+                            </a>
+                            <ul class="dropdown-menu f-size-12" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="inscripciones" target="_blanck_admin">Admisiones</a></li>
+                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="ayudas-y-becas" target="_ayudas-y-becas">Ayudas y Becas</a></li>
+                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center dropdown-toggle" href="#">Calendarios</a>
+                                    <ul class="dropdown-menu f-size-12">
+                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2018_II.pdf" target="_blanck_1">Calendario Académico 2018-2</a></li>
+                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2018_1.pdf" target="_blanck_2">Calendario Académico 2018-1</a></li>
+                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2017_2.pdf" target="_blanck_3">Calendario Académico 2017-2</a></li>
+                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2017_1.pdf" target="_blanck_4">Calendario Académico 2017-1</a></li>
+
+                                        <!-- <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center dropdown-toggle" href="#">Subsubmenu</a>
+                                            <ul class="dropdown-menu f-size-12">
+                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Subsubmenu action aa</a></li>
+                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Another subsubmenu action</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center dropdown-toggle" href="#">Second subsubmenu</a>
+                                            <ul class="dropdown-menu f-size-12">
+                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Subsubmenu action bb</a></li>
+                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Another subsubmenu action</a></li>
+                                            </ul>
+                                        </li> -->
+                                    </ul>
+                                </li>
+
+                                <!-- <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center dropdown-toggle" href="#">Submenu 2</a>
+                                    <ul class="dropdown-menu f-size-12">
+                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Submenu action 2</a></li>
+                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Another submenu action 2</a></li>
+
+
+                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center dropdown-toggle" href="#">Subsubmenu</a>
+                                            <ul class="dropdown-menu f-size-12">
+                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Subsubmenu action 1 3</a></li>
+                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Another subsubmenu action 2 3</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center dropdown-toggle" href="#">Second subsubmenu 3</a>
+                                            <ul class="dropdown-menu f-size-12">
+                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Subsubmenu action 3 </a></li>
+                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Another subsubmenu action 3</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li> -->
+
+                            </ul>
+                        </li>
+                        
+                        <li class="nav-item dropdown py-2">
+                            <a class="nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="#" id="navbarDropdownMenu_est" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Estudiantes
+                            </a>
+                            <ul class="dropdown-menu f-size-12" aria-labelledby="navbarDropdownMenu_est">
+                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="docs/reglamento_estudiantil.pdf" target="_blanck_6">Reglamento Estudiantil</a></li>
+                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="http://estudiantes.aunar.edu.co/" target="_blanck_7">Bisel Estudiantes</a></li>
+                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="http://biblioteca.aunar.edu.co/" target="_blanck_8">Biblioteca</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown py-2">
+                            <a class="nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="#" id="navbarDropdownMenu_doc" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Docentes
+                            </a>
+                            <ul class="dropdown-menu f-size-12" aria-labelledby="navbarDropdownMenu_doc">
+                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="docs/reglamento_docentes.pdf" target="_blanck_9">Reglamento Docentes</a></li>
+                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="http://docentes.aunar.edu.co/"  target="_blanck_10">Bisel Docentes</a></li>
+                            </ul>
+                        </li>
+                        
+                        <li class="nav-item active py-2">
+                            <a class="nav-link texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="convocatorias" target="_blanck_convocatorias">Convocatorias<span class="sr-only">(current)</span></a>
+                        </li>
+
+                        <li class="nav-item dropdown py-2">
+                            <a class="nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="#" id="navbarDropdownMenu_ext" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Extenciones
+                            </a>
+                            <ul class="dropdown-menu f-size-12" aria-labelledby="navbarDropdownMenu_ext">
+                                <li><a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://aunarcali.edu.co/ext/" target="_blanck_11">Cali</a>   </li>
+                                <li><a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://www.aunarvillavicencio.edu.co/"  target="_blanck_12">Villavicencio</a>    </li>
+                                <li><a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="https://aunarcartagena.edu.co/"  target="_blanck_13">Cartagena</a>   </li>
+                                <li><a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck_14">Ipiales</a>  </li>
+                                <li><a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="#"  target="_blanck_15">Putumayo</a> </li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item py-2">
+                            <a class=" nav-link texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="http://190.121.158.228/public/" target="_blanck_16">Graduados</a>
+                        </li>
+                        
+                        
+
+                    </ul>
+                    <!-- boton de traducir -->
+                        <div class="pt-2 pb-2 animated bounceInRight">
+                            <div class="row pt-3 mt-1 ml-0  float-right float-md-none mr-2">
+                            <!-- <div class=" f-italica f-negrita f-size-14 ">La Tecnología es el Camino hacia un Mundo sin Fronteras</div> -->
+                                    <div class=" f-italica f-negrita f-size-14 "></div>
+                                    <span class="ml-2 mr-1 f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo " data-toggle="modal"   data-target="#btn_traductor" onclick="llamar_traductor()">Idioma</span>
+                            </div>
+                        </div>
+                </div>
+            </nav>
 
 <!-- boton ir al inicio -->
 <button class="efecto-borde1" onclick="iralinicio()" id="myBtn">
