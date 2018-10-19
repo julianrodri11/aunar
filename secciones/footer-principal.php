@@ -146,7 +146,7 @@
       <div class="col-lg-6 col-sm-12 mt-3  text-light d-flex justify-content-center align-items-center justify-content-lg-end ">
         
         <div class="col-12 col-md-6 col-sm-6">
-          <img class="img-fluid" src="img/aunar-logo-antiguo.svg" alt="Logo AUNAR Autónoma de Nariño">
+          <img class="img-fluid" width="100%" src="img/aunar-logo-antiguo.png" alt="Logo AUNAR Autónoma de Nariño">
         </div>
         
       </div>

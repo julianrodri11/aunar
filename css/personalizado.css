@@ -272,6 +272,7 @@ font-weight: bold;
     border-left: 2rem solid transparent;
     border-right: 0px solid yellow;
     border-bottom: 2.5rem solid #E3E3E3;
+    /* border-bottom: 2.5rem solid #F4D460; */
     z-index: 1030;
 }
 
