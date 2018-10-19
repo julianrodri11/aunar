@@ -715,7 +715,7 @@
 				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-os p-2">
 					<div class="row">
 						<div class="col-12 col-sm-6 text-left text-sm-right">Site:</div>
-						<div class="col-12 col-sm-6 "></div>
+						<div class="col-12 col-sm-6 "><a target="gidsma" href="http://cidae.aunar.edu.co/images/2017/documentos/grupo-gidsma.pdf" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado fuente-institucional">Más Información</a></div>
 					</div>
 				</div>
 				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-c  p-2">
@@ -745,20 +745,31 @@
 				<div class="col-9 pt-lg-3 mt-lg-4 f-myriad text-justify">
 					<p>
 						<br> <strong>Descripción:</strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
+						El Grupo de Investigación en Desarrollo Sostenible y Medio Ambiente" (GIDSMA). Se crea institucionalmente en el 2015, y es avalado institucionalmente ante Colciencias en abril del presente año, trata de un grupo interdisciplinario que acoge a docentes, estudiantes y administrativos de las Facultades de Ciencias Administrativas y Contables y los Programas Virtuales de Transformación en Plantas Aromáticas y Mercadeo Agropecuario. Con base en el análisis de la problemática ambiental del Departamento y el país, ha considerado algunas líneas de investigación, prioritarias en el contexto de los crecientes problemas ambientales en el ámbito mundial. De esta manera, busca contribuir con alternativas y propuestas de solución a dicha problemática mediante estudios técnico-científicos y en un contexto ético y humanista, los cuales integran los componentes del Desarrollo Sostenible, sociedad, economía y ambiente enmarcados bajo una perspectiva solidaria.
 					</p>
 					<p>
-						<br> <strong>Misión</strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
+						<br> <strong>Líneas de investigación</strong>
+						<br> •	Biodiversidad, bienes y servicios ambientales
+						<br> •	Desarrollo sostenible y Producción Limpia
+						<br> •	Economía, Gerencia, y Contabilidad Ambiental
+						<br> •	Gestión Ambiental y Educación Ambiental
+						<br> •	Emprendimiento, negocios verdes y biocomercio sostenible
+						<br> •	Restauración y manejo integral de ecosistemas naturales
+						<br> •	Responsabilidad Social – ecológica
+						<br> •	Mercadeo agropecuario
+						<br> •	Botánica, Etnobotánica, etnozooloogía y etnomedicina
+						<br> •	Transformación de plantas aromáticas, medicinales condimentarias, subproductos y afines.
+						<br> •	Educación y Pedagogía.
+
 					</p>
-					<p>
+					<!-- <p>
 						<br> <strong>Visión</strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
+						
 					</p>
 					<p>
 						<br> <strong>Historia </strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
-					</p>
+						
+					</p> -->
 				</div>
 				<div class="col-9 text-center ">
 					<a href="grupos-de-investigacion#grupos" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado fuente-institucional">Subir</a>
