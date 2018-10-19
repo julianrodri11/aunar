@@ -24,39 +24,55 @@
 		</div>
 		<?php  include_once('secciones/menu2.php') ?>
 		<?php include_once('secciones/menu_investigacion.php');?>
-		
+				
 		<!-- galería de imágenes -->
-		<div class="container-fluid texto-azul-os">
+		<div class="container-fluid texto-azul-os" id="grupos">
 			<div class="row fondo-grupos-investigacion p-5">
 				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
-					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/inmecnar.png" alt="Grupo de Investigacion INMECNAR">
+					<a href="grupos-de-investigacion#grupo1">
+						<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/inmecnar.png" alt="Grupo de Investigacion INMECNAR">
+					</a>
 				</div>
 				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
-					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/irop.png" alt="IROP Mecánica Dental">
+					<a href="grupos-de-investigacion#grupo6">
+						<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/irop.png" alt="IROP Mecánica Dental">
+					</a>
 				</div>
 				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
-					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/ciac.png" alt="CIAC Ciencias Administrativas y Contables">
+					<a href="grupos-de-investigacion#grupo5">
+						<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/ciac.png" alt="CIAC Ciencias Administrativas y Contables">
+					</a>
 				</div>
 				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
-					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/zed-matec.png" alt="ZED MATEC Sistemas Expertos, Desarrollo de Software, Matemáticas Aplicadas t TECnología">
+					<a href="grupos-de-investigacion#grupo3">
+						<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/zed-matec.png" alt="ZED MATEC Sistemas Expertos, Desarrollo de Software, Matemáticas Aplicadas t TECnología">
+					</a>
 				</div>
 				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
-					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/egresados-aunar.png" alt="Egresados AUNAR">
+					<a href="grupos-de-investigacion#grupo7">
+						<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/egresados-aunar.png" alt="Egresados AUNAR">
+					</a>
 				</div>
 				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
-					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/moda-+-cultura.png" alt="MODA-+-CULTURA">
+					<a href="grupos-de-investigacion#grupo4">
+						<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/moda-+-cultura.png" alt="MODA-+-CULTURA">
+					</a>
 				</div>
 				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
-					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/metanola.png" alt="METANOLA">
+					<a href="grupos-de-investigacion#grupo2">
+						<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/metanola.png" alt="METANOLA">
+					</a>
 				</div>
 				<div class="col-12 col-md-6 p-2 content_img_gruposinvestigacion">
-					<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/gidsma.png" alt="GIDSMA">
+					<a href="grupos-de-investigacion#grupo8">
+						<img class="img-fluid pointer img_gruposinvestigacion" width="100%" src="img/investigacion/gidsma.png" alt="GIDSMA">
+					</a>
 				</div>
 			</div>
 		</div>
 		
 		<!-- imágen de grupo de investigación  -->
-		<div class="container-fluid py-5">
+		<div class="container-fluid py-5" id="grupo1">
 			<div class="row d-flex justify-content-center">
 				<div class="col-8 col-md-4 p-0">
 					<img class="mx-auto img-fluid" width="100%" src="img/investigacion/inmecnar-logo.png" alt="grupos de investigación AUNAR" />
@@ -127,11 +143,14 @@
 						El grupo de investigación del programa de Ingeniería Mecánica de la Universidad Autónoma de Nariño AUNAR, se formalizó a finales del año 2010, con el objeto de dar solución a problemas de algunas empresas de nuestro departamento, tal es el caso de la industria panadera, la cual a través de ACOPI, presentaron como problema la ineficiencia en la utilización de los huevos, ya que estos son unos de los elementos de más consumo en esta industria. Por tal razón, se analizó dicho problema y se empezó a plantear todos los respectivos pasos secuenciales para dar la solución. En este proceso, también se vinculó a un grupo de estudiantes de semestres superiores, pensando en la idea de que vayan desarrollando en sentido práctico su carrera y a la vez empiecen a aportar con soluciones a la problemática de la región; en este sentido se está no solo cumpliendo con uno de los pilares de la educación como lo es LA INVESTIGACIÓN sino también se propende por direccionar el camino del futuro profesional.
 					</p>
 				</div>
+				<div class="col-9 text-center ">
+					<a href="grupos-de-investigacion#grupos" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado fuente-institucional">Subir</a>
+				</div>
 			</div>
 		</div>
 
-		<!-- imágen de inmecnar -->
-		<div class="container-fluid py-5">
+		<!-- imágen de grupo de investigación  -->
+		<div class="container-fluid py-5" id="grupo2">
 			<div class="row d-flex justify-content-center">
 				<div class="col-8 col-md-7 p-0">
 					<img class="mx-auto img-fluid" width="100%" src="img/investigacion/metanola.png" alt="grupos de investigación metanola AUNAR" />
@@ -206,11 +225,14 @@
 
 					</p>
 				</div>
+				<div class="col-9 text-center ">
+					<a href="grupos-de-investigacion#grupos" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado fuente-institucional">Subir</a>
+				</div>
 			</div>
 		</div>
 
-		<!-- imágen de inmecnar -->
-		<div class="container-fluid py-5">
+		<!-- imágen de grupo de investigación  -->
+		<div class="container-fluid py-5" id="grupo3">
 			<div class="row d-flex justify-content-center">
 				<div class="col-8 col-md-8 p-0">
 					<img class="mx-auto img-fluid" width="100%" src="img/investigacion/zed-matec.png" alt="grupos de investigación zed matec AUNAR" />
@@ -282,12 +304,15 @@
 						<label for="" class="bg-danger">Información no enviada</label>
 					</p>
 				</div>
+				<div class="col-9 text-center ">
+					<a href="grupos-de-investigacion#grupos" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado fuente-institucional">Subir</a>
+				</div>
 			</div>
 		</div>
 
 
-		<!-- imágen de inmecnar -->
-		<div class="container-fluid py-5">
+		<!-- imágen de grupo de investigación  -->
+		<div class="container-fluid py-5" id="grupo4">
 			<div class="row d-flex justify-content-center">
 				<div class="col-8 col-md-7 p-0">
 					<img class="mx-auto img-fluid" width="100%" src="img/investigacion/moda-+-cultura.png" alt="grupos de investigación Moda más Cultura AUNAR" />
@@ -360,13 +385,16 @@
 						<label for="" class="bg-danger">Información no enviada</label>
 					</p>
 				</div>
+				<div class="col-9 text-center ">
+					<a href="grupos-de-investigacion#grupos" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado fuente-institucional">Subir</a>
+				</div>
 			</div>
 		</div>
 
 
 
-		<!-- imágen de inmecnar -->
-		<div class="container-fluid py-5">
+		<!-- imágen de grupo de investigación  -->
+		<div class="container-fluid py-5" id="grupo5">
 			<div class="row d-flex justify-content-center">
 				<div class="col-8 col-md-7 p-0">
 					<img class="mx-auto img-fluid" width="100%" src="img/investigacion/ciac.png" alt="grupos de investigación CIAC AUNAR" />
@@ -437,13 +465,16 @@
 						<label for="" class="bg-danger">Información no enviada</label>
 					</p>
 				</div>
+				<div class="col-9 text-center ">
+					<a href="grupos-de-investigacion#grupos" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado fuente-institucional">Subir</a>
+				</div>
 			</div>
 		</div>
 
 
 		
-		<!-- imágen de inmecnar -->
-		<div class="container-fluid py-5">
+		<!-- imágen de grupo de investigación  -->
+		<div class="container-fluid py-5" id="grupo6">
 			<div class="row d-flex justify-content-center">
 				<div class="col-8 col-md-7 p-0">
 					<img class="mx-auto img-fluid" width="100%" src="img/investigacion/irop.png" alt="grupos de investigación IROP AUNAR" />
@@ -514,12 +545,15 @@
 						<label for="" class="bg-danger">Información no enviada</label>
 					</p>
 				</div>
+				<div class="col-9 text-center ">
+					<a href="grupos-de-investigacion#grupos" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado fuente-institucional">Subir</a>
+				</div>
 			</div>
 		</div>
 
 
-		<!-- imágen de inmecnar -->
-		<div class="container-fluid py-5">
+		<!-- imágen de grupo de investigación  -->
+		<div class="container-fluid py-5" id="grupo7">
 			<div class="row d-flex justify-content-center">
 				<div class="col-8 col-md-7 p-0">
 					<img class="mx-auto img-fluid" width="100%" src="img/investigacion/egresados-aunar.png" alt="grupos de investigación EGRESADOS AUNAR" />
@@ -590,11 +624,14 @@
 						<label for="" class="bg-danger">Información no enviada</label>
 					</p>
 				</div>
+				<div class="col-9 text-center ">
+					<a href="grupos-de-investigacion#grupos" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado fuente-institucional">Subir</a>
+				</div>
 			</div>
 		</div>
 
-		<!-- imágen de inmecnar -->
-		<div class="container-fluid py-5">
+		<!-- imágen de grupo de investigación  -->
+		<div class="container-fluid py-5" id="grupo8">
 			<div class="row d-flex justify-content-center">
 				<div class="col-8 col-md-7 p-0">
 					<img class="mx-auto img-fluid" width="100%" src="img/investigacion/gidsma.png" alt="grupos de investigación GIDSMA AUNAR" />
@@ -664,6 +701,9 @@
 						<br> <strong>Historia </strong><br>
 						<label for="" class="bg-danger">Información no enviada</label>
 					</p>
+				</div>
+				<div class="col-9 text-center ">
+					<a href="grupos-de-investigacion#grupos" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado fuente-institucional">Subir</a>
 				</div>
 			</div>
 		</div>
