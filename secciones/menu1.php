@@ -11,7 +11,7 @@
                 
                 <!-- <a class="navbar-brand" href="#">Menú</a> -->
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>MENÚ
+                    <span class="navbar-toggler-icon"></span>MENÚ 
                 </button>
 
                 <div class="collapse navbar-collapse f-size-12" id="navbarNavDropdown">
@@ -114,14 +114,44 @@
                         
 
                     </ul>
-                    <!-- boton de traducir -->
-                        <div class="pt-2 pb-2 animated bounceInRight">
-                            <div class="row pt-3 mt-1 ml-0  float-right float-md-none mr-2">
-                            <!-- <div class=" f-italica f-negrita f-size-14 ">La Tecnología es el Camino hacia un Mundo sin Fronteras</div> -->
-                                    <div class=" f-italica f-negrita f-size-14 "></div>
+                    <!-- boton traducir y redes -->
+                    <div class="rectangulo-sesgado animated bounceInRight">
+                        
+                                
+                                <div class="row pt-2 ml-0  float-right  mr-2">
+                                    <div class=" f-italica f-negrita f-size-14">
+                                    
+                                            <div class=" float-right ">
+                                                <a class="px-1" target="_blank_twitter" href="https://twitter.com/aunarpasto?lang=es">
+                                                <img src="img/twitter.ico" width="21">
+                                                </a>
+                                                
+                                                <a class="px-1" target="_blank_youtube" href="https://www.youtube.com/channel/UC8MaEtIvAAZzrYLFX1AazIA">
+                                                <img src="img/youtube.ico" width="21">
+                                                </a>
+                                            
+                                                <a class="px-1" target="_blank_flickr" href="https://www.flickr.com/photos/147246490@N05/albums">
+                                                <img src="img/flickr.ico" width="21">
+                                                </a>
+                                            
+                                            
+                                                <a class="px-1" target="_blank_instagram" href="https://www.instagram.com/autonomadenarino/">
+                                                <img src="img/instagram.png" width="21">
+                                                </a>
+                                            
+                                                <a class="px-1" target="_blank_facebook" href="https://www.facebook.com/aunarpasto/">
+                                                <img src="img/facebook.ico" width="21">
+                                                </a>
+                                            </div>
+                                    </div>
                                     <span class="ml-2 mr-1 f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo " data-toggle="modal"   data-target="#btn_traductor" onclick="llamar_traductor()">Idioma</span>
-                            </div>
-                        </div>
+                                    <div class=" f-italica f-negrita f-size-14 "></div>
+                                </div>
+
+                        
+                    </div>
+                    <!-- fin boton traducir y redes -->
+
                 </div>
             </nav>
 

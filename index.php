@@ -26,7 +26,7 @@
     <?php include_once('secciones/zoom.php');?>
     <!-- ------------------FIN ZOOM------------------------------- -->
     <!-- ------------------REDES SOCIALES------------------------- -->
-    <?php include_once('secciones/redes-sociales-aunar.php');?>
+    <?php //include_once('secciones/redes-sociales-aunar.php');?>
     <!-- ------------------FIN REDES SOCIALES--------------------- -->
     <!-- -----------------SLIDER---------------------------------- -->
     <?php include_once('slider/slider-1.php');?>
