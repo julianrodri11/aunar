@@ -15,7 +15,7 @@
                 </button>
 
                 <div class="collapse navbar-collapse f-size-12" id="navbarNavDropdown">
-                    <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0  animated bounceInLeft">
+                    <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0">
                         
                         <li class="nav-item dropdown py-2">
                             <a class="nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 hvr-underline-from-center" href="https://bootstrapthemes.co" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -115,7 +115,7 @@
 
                     </ul>
                     <!-- boton traducir y redes -->
-                    <div class="rectangulo-sesgado animated bounceInRight">
+                    <div class="rectangulo-sesgado ">
                         
                                 
                                 <div class="row pt-2 ml-0  float-right  mr-2">
