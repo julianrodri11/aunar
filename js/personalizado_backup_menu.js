@@ -90,33 +90,53 @@ $(document).ready(function ()
 
 
 
-/*!
- * Bootstrap 4 multi dropdown navbar ( https://bootstrapthemes.co/demo/resource/bootstrap-4-multi-dropdown-navbar/ )
- * Copyright 2017.
- * Licensed under the GPL license
- */
+// funcioones que sirven para corregir el error de los menus cuando se despligan
+function bootstrapHoverMenu (bp = 768) {
+// close all dropdowns that are open
+$('body').click( function (e) {
+  $('.dropdown-menu.show').removeClass('show');
+});
+// show dropdown for the link clicked
+$('.nav-item').hover(function (e) {
+  $('.dropdown-menu.show').removeClass('show');
+  if(( $(window).width() >= bp )) {
+    $dd = $(this).find('.dropdown-menu');
+    $dd.addClass('show');
+  }
+});
+// get href for top level link if clicked and open
+$('.dropdown').click(function (e) {
+  if( $(window).width() < bp ) {
+    $('.dropdown-menu').css({'display': 'none'});
+  }
+  $href = $(this).find('.nav-link').attr('href');
+  window.open($href, '_self');
+});
+}
+$(document).ready( function() {
+// when page ready run the fix
+bootstrapHoverMenu();
+});
+// fin funcioones que sirven para corregir el error de los menus cuando se despligan
 
 
-$( document ).ready( function () {
-    $( '.dropdown-menu a.dropdown-toggle' ).on( 'click', function ( e ) {
-        var $el = $( this );
-        var $parent = $( this ).offsetParent( ".dropdown-menu" );
-        if ( !$( this ).next().hasClass( 'show' ) ) {
-            $( this ).parents( '.dropdown-menu' ).first().find( '.show' ).removeClass( "show" );
-        }
-        var $subMenu = $( this ).next( ".dropdown-menu" );
-        $subMenu.toggleClass( 'show' );
-        
-        $( this ).parent( "li" ).toggleClass( 'show' );
-
-        $( this ).parents( 'li.nav-item.dropdown.show' ).on( 'hidden.bs.dropdown', function ( e ) {
-            $( '.dropdown-menu .show' ).removeClass( "show" );
-        } );
-        
-         if ( !$parent.parent().hasClass( 'navbar-nav' ) ) {
-            $el.next().css( { "top": $el[0].offsetTop, "left": $parent.outerWidth() - 4 } );
-        }
-
-        return false;
-    } );
-} );
+// funcion que sirve para hacer zom en el navegador 
+// var acum=0;
+// var total=0;
+// function zoom(parametro)
+// { //alert('funciona'+parametro)
+    
+//   if(parametro=="mas")
+//     { 
+//       acum+=10;
+//       total=100+acum;
+//       alert('total:'+total+"acumulador:"+acum)
+//       document.body.style.zoom=total+"%";
+//     }
+//   else if (parametro=='menos') 
+//   {   acum-=10;
+//       total=100-acum;
+//       alert('total:'+total+"acumulador:"+acum)
+//       document.body.style.zoom=total+"%";
+//   }
+// }

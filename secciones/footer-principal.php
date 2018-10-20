@@ -126,7 +126,7 @@
   </div>
   <!-- -------------------FIN PIE DE PÁGINA--------------------- -->
   <!-- línea separadora amarilla -->
-  <hr width="90%" class="linea-footer2"></hr>
+  <hr width="90%" class="linea-footer2"/>
   <!-- -------------------FOOTER CONTACTOS---------------------- -->
   <div class="container-fluid ">
     <div class="row p-3 ">
