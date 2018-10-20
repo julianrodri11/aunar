@@ -10,8 +10,6 @@
 		<?php
 				include_once('secciones/menu1.php');
 				include_once('secciones/logo-central.php');
-				 
-				  
 				include_once('secciones/modal-traductor.php');
 				include_once('modal/modal-contactenos.php');
 		?>
@@ -24,21 +22,20 @@
 		</div>
 		
 		<?php include_once('secciones/menu2.php');?>
-		<?php include_once('secciones/menu_institucional.php');?>		
+		<?php include_once('secciones/menu_institucional.php');?>
 		
 		
 		<div class="container-fluid">
 			
 			<!-- publicación 1 -->
 			<div class="row py-5 py-md-0">
-
 				<!-- imagen de publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
 							<a href="vicerrectoria_academica" target="v-academica">
-							<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_academica_aunar.jpg" alt="vicerrectoría académica AUNAR" width="100%">
+								<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_academica_aunar.jpg" alt="vicerrectoría académica AUNAR" width="100%">
 							</a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
@@ -49,7 +46,6 @@
 					</div>
 				</div>
 				<!-- fin imagen de publicación -->
-
 				<!-- información personal -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0">
 					<div class="row col-12 ">
@@ -58,7 +54,7 @@
 							<div class="text-center pr-lg-5">
 								<h1 class="texto-amarillo fuente-institucional fuente-18 p-0">Vicerrectoría</h1>
 								<h1 class="texto-amarillo fuente-institucional fuente-big p-0"><strong>ACADÉMICA</strong></h1>
-							</div>														
+							</div>
 							<div class="pt-sans text-justify pr-lg-5">
 								Gerencia los programas de docencia, investigación y extensión, para
 								hacer cumplir los propósitos de la misión, visión y filosofía
@@ -70,15 +66,11 @@
 						</div>
 					</div>
 				</div>
-
 				
 			</div>
 			<!-- fin publicación 1 -->
-
-
 			<!-- publicación 2 -->
 			<div class="row py-5 py-md-0">
-
 				<!-- información personal -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0 order-2 order-lg-1">
 					<div class="row col-12 ">
@@ -87,7 +79,7 @@
 							<div class="text-center pr-lg-5">
 								<h1 class="texto-amarillo fuente-institucional fuente-18 p-0">Vicerrectoría</h1>
 								<h1 class="texto-amarillo fuente-institucional fuente-big p-0"><strong>ADMINISTRATIVA Y FINANCIERA</strong></h1>
-							</div>														
+							</div>
 							<div class="pt-sans text-justify pr-lg-5">
 								La Vicerrectoría Administrativa y Financiera es un departamento que se
 								encuentra bajo la dirección del al Rectoría. Forma parte del ...
@@ -104,7 +96,7 @@
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
 							<a href="vicerrectoria_administrativa-financiera" target="v-adm-finan">
-							<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_administrativa_y_financiera_aunar.jpg" alt="vicerrectoria administrativa y financiera AUNAR" width="100%">
+								<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_administrativa_y_financiera_aunar.jpg" alt="vicerrectoria administrativa y financiera AUNAR" width="100%">
 							</a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
@@ -115,21 +107,18 @@
 					</div>
 				</div>
 				<!-- fin imagen de publicación -->
-
 				
 			</div>
 			<!-- fin publicación 2 -->
-
 			<!-- publicación 3 -->
 			<div class="row py-5 py-md-0">
-
 				<!-- imagen de publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
 							<a href="vicerrectoria-de-investigacion" target="v-investigacion">
-							<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_de_investigacion_aunar.jpg" alt="vicerrectoría de investigación AUNAR" width="100%">
+								<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_de_investigacion_aunar.jpg" alt="vicerrectoría de investigación AUNAR" width="100%">
 							</a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
@@ -140,7 +129,6 @@
 					</div>
 				</div>
 				<!-- fin imagen de publicación -->
-
 				<!-- información personal -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0">
 					<div class="row col-12 ">
@@ -149,7 +137,7 @@
 							<div class="text-center pr-lg-5">
 								<h1 class="texto-amarillo fuente-institucional fuente-18 p-0">Vicerrectoría de</h1>
 								<h1 class="texto-amarillo fuente-institucional fuente-big p-0"><strong>INVESTIGACIÓN</strong></h1>
-							</div>														
+							</div>
 							<div class="pt-sans text-justify pr-lg-5">
 								La vicerrectoría de Investigaciones y posgrados de la AUNAR fomenta, realiza y
 								prospecta diferentes actividades articuladoras de Investigación, Desarrollo e
@@ -161,14 +149,11 @@
 						</div>
 					</div>
 				</div>
-
 				
 			</div>
 			<!-- fin publicación 3 -->
-
 			<!-- publicación 4 -->
 			<div class="row py-5 py-md-0">
-
 				<!-- información personal -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0 order-2 order-lg-1">
 					<div class="row col-12 ">
@@ -177,7 +162,7 @@
 							<div class="text-center pr-lg-5">
 								<h1 class="texto-amarillo fuente-institucional fuente-18 p-0">Vicerrectoría de</h1>
 								<h1 class="texto-amarillo fuente-institucional fuente-big p-0"><strong>TALENTO HUMANO</strong></h1>
-							</div>														
+							</div>
 							<div class="pt-sans text-justify pr-lg-5">
 								La Vicerrectoría Administrativa y Financiera es un departamento que se
 								encuentra bajo la dirección del al Rectoría. Forma parte del ...
@@ -203,21 +188,18 @@
 					</div>
 				</div>
 				<!-- fin imagen de publicación -->
-
 				
 			</div>
 			<!-- fin publicación 4 -->
-
 			<!-- publicación 5 -->
 			<div class="row py-5 py-md-0">
-
 				<!-- imagen de publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
 					<div class="row col-12 p-0">
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
 							<a href="bienestar" target="v-bienestar">
-							<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_bienestar_institucional_aunar.jpg" alt="vicerrectoría de bienestar institucional AUNAR" width="100%">
+								<img class="img-fluid img_virtual" src="img/institucional/vicerrectoria_bienestar_institucional_aunar.jpg" alt="vicerrectoría de bienestar institucional AUNAR" width="100%">
 							</a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
@@ -228,7 +210,6 @@
 					</div>
 				</div>
 				<!-- fin imagen de publicación -->
-
 				<!-- información personal -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0">
 					<div class="row col-12 ">
@@ -237,7 +218,7 @@
 							<div class="text-center pr-lg-5">
 								<h1 class="texto-amarillo fuente-institucional fuente-18 p-0">Vicerrectoría</h1>
 								<h1 class="texto-amarillo fuente-institucional fuente-big p-0"><strong>BIENESTAR INSTITUCIONAL</strong></h1>
-							</div>														
+							</div>
 							<div class="pt-sans text-justify pr-lg-5">
 								La vicerrectoría de Investigaciones y posgrados de la AUNAR fomenta, realiza y
 								prospecta diferentes actividades articuladoras de Investigación, Desarrollo e
@@ -249,12 +230,9 @@
 						</div>
 					</div>
 				</div>
-
 				
 			</div> <br><br>
 			<!-- fin publicación 5 -->
-
-
 			
 		</div>
 		
