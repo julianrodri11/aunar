@@ -10,8 +10,6 @@
 		<?php
 				include_once('secciones/menu1.php');
 				include_once('secciones/logo-central.php');
-				
-				  
 				include_once('secciones/modal-traductor.php');
 				include_once('modal/modal-contactenos.php');
 		?>
@@ -29,7 +27,6 @@
 		<!-- ----------------SECCIÓN NOTICIAS------------------------- -->
 		<?php include_once('noticias/noticia-1.php');?>
 		<!-- ----------------FIN SECCIÓN NOTICIAS--------------------- -->
-		
 		<!-- ----------------SECCIÓN NOTICIAS------------------------- -->
 		<?php include_once('slider/noticias-autonoma-de-narino.php');?>
 		

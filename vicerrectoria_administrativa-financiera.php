@@ -10,8 +10,6 @@
 		<?php
 				include_once('secciones/menu1.php');
 				include_once('secciones/logo-central.php');
-				 
-				  
 				include_once('secciones/modal-traductor.php');
 				include_once('modal/modal-contactenos.php');
 		?>
@@ -25,7 +23,6 @@
 		
 		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_institucional.php');?>
-
 		<!-- Slider -->
 		<div class="container-fluid texto-azul-os py-4">
 			<div class="row">
@@ -71,8 +68,6 @@
 			</div>
 		</div>
 		<!-- Fin slider-->
-
-
 		<!-- informacion de vicerrectoría administrativa y financiera-->
 		<div class="container-fluid fondo-gris-c p-lg-5">
 			
@@ -81,7 +76,7 @@
 				<div class="col-12 col-md-6 p-lg-5 d-flex justify-content-center align-items-center">
 					<div class="row">
 						<div class="col-12 text-center">
-							<h3 class="fuente-institucional f-negrita texto-azul-os mx-auto">Descripción de la Vicerrectoría <br>Administrativa y Financiera</h3>						
+							<h3 class="fuente-institucional f-negrita texto-azul-os mx-auto">Descripción de la Vicerrectoría <br>Administrativa y Financiera</h3>
 						</div>
 						<div class="col-12">
 							<br>
@@ -94,7 +89,6 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="col-12 col-md-6 p-lg-5 border-left borde-amarillo borde-2">
 					<div class="row ">
 						<div class="col-12 py-4"><h3 class="fuente-institucional f-negrita">Misión</h3></div>
@@ -121,9 +115,6 @@
 				</div>
 			</div>
 		</div>
-
-
-
 		<!-- personal encargado -->
 		<div class="container-fluid py-5">
 			<!-- linea amarilla -->
@@ -212,9 +203,7 @@
 		</div>
 		<!-- fin personal encargado -->
 		
-
-	
-
+		
 		<?php include_once('secciones/footer-principal.php');?>
 		
 		

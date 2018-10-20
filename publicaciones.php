@@ -10,8 +10,6 @@
 		<?php
 				include_once('secciones/menu1.php');
 				include_once('secciones/logo-central.php');
-				 
-				  
 				include_once('secciones/modal-traductor.php');
 				include_once('modal/modal-contactenos.php');
 		?>
@@ -27,11 +25,10 @@
 		<?php include_once('secciones/menu_investigacion.php');?>
 		
 		
-				<!-- publicaciones  -->
+		<!-- publicaciones  -->
 		<div class="container-fluid">
 			
 			<!-- publicación 1 -->
-
 			<div class="row py-5 py-md-0">
 				
 				<!-- imagen de publicación -->
@@ -49,7 +46,6 @@
 					</div>
 				</div>
 				<!-- fin imagen de  publicación -->
-
 				<!-- información publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12 ">
@@ -57,7 +53,7 @@
 							<!-- aqui va todo lo que se quiera centrar -->
 							<div class="text-center pr-lg-5">
 								<h1 class="texto-amarillo fuente-institucional f-negrita fuente-big p-0"><strong>AUNAR TECH</strong></h1>
-							</div>							
+							</div>
 							<div class="pt-sans text-justify pr-lg-5">
 								La “Revista Virtual de la Facultad de Ingeniería AUNAR es una
 								publicación académica e investigativa de la Corporación Universitaria
@@ -73,11 +69,8 @@
 				<!-- fin información publicación -->
 			</div>
 			<!-- fin publicación 1 -->
-
-
 			<!-- publicación 2 -->
 			<div class="row py-5 py-md-0">
-
 				<!-- información personal -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0 order-2 order-lg-1">
 					<div class="row col-12 ">
@@ -86,7 +79,7 @@
 							<div class="text-center pr-lg-5">
 								<h1 class="texto-amarillo fuente-institucional fuente-18 p-0">Boletín de Investigación</h1>
 								<h1 class="texto-amarillo fuente-institucional fuente-big p-0"><strong>CREAN</strong></h1>
-							</div>							
+							</div>
 							<div class="pt-sans text-justify pr-lg-5">
 								Al revisar el concepto de la ciencia se puede comprender que la misión
 								de la misma, es hacer un aporte de conocimientos para que los seres
@@ -113,13 +106,10 @@
 					</div>
 				</div>
 				<!-- fin imagen de publicación -->
-
 				
 			</div>
 			<!-- fin publicación 2 -->
-
 			<!-- publicación 3 -->
-
 			<div class="row py-5 py-md-0">
 				
 				<!-- imagen de publicación -->
@@ -137,7 +127,6 @@
 					</div>
 				</div>
 				<!-- fin imagen de  publicación -->
-
 				<!-- información publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12 ">
@@ -146,7 +135,7 @@
 							<div class="text-center pr-lg-5">
 								<h1 class="texto-amarillo fuente-institucional fuente-18 p-0">Revista Facultad de</h1>
 								<h1 class="texto-amarillo fuente-institucional fuente-big p-0"><strong>Ciencias Administrativas y Contables</strong></h1>
-							</div>								
+							</div>
 							<div class="pt-sans text-justify pr-lg-5">
 								Es un documento que presenta la competencia comunicativa de
 								estudiantes y docentes de la facultad a través de una revista digital la cual
@@ -161,8 +150,6 @@
 				<!-- fin información publicación -->
 			</div>
 			<!-- fin publicación 3 -->
-
-
 			
 		</div>
 		

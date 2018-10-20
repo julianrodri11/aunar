@@ -2,7 +2,7 @@
 <html lang="es">
 	<head>
 		<?php /*ENLACES DE LIBRERIAS*/ include_once('secciones/links-local.php');  ?>
-		<title>Mecanica dental - Autónoma de Nariño</title>
+		<title>MECÁNICA DENTAL - AUTÓNOMA DE NARIÑO</title>
 	</head>
 	<body>
 		

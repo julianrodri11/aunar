@@ -160,60 +160,60 @@
 		<!-- informacion trabajos de aula -->
 		
 		<!-- <div class="container-fluid">
-				<div class="row">
-						<div class="col-12 pt-lg-5 m-lg-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">PROGRAMAS Y PROYECTOS  AUNAR</h3></div>
-							</div>
+					<div class="row">
+								<div class="col-12 pt-lg-5 m-lg-4"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">PROGRAMAS Y PROYECTOS  AUNAR</h3></div>
+								</div>
 		</div>
 		<div class="container-fluid">
-				<div class="row  ">
-						<div class="col-12 d-flex justify-content-center">
-							<ul class="nav nav-pills mb-3 f-size-12" id="pills-tab" role="tablist">
-								<li class="nav-item fondo-gris-os d-flex  align-items-center ">
-									<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Fortalecimiento comunidad<br>Tumaquito (Alianza AUNAR – SJR)</a>
-								</li>
-								<li class="nav-item fondo-gris-c d-flex  align-items-center ">
-									<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Inclusión psicosocial y socioeconómica<br> para población víctima del<br> conflicto armado en Colombia<br> y refugiados en el Ecuador <br>(Investigación AUNAR – UTI)</a>
-								</li>
-								<li class="nav-item fondo-gris-os d-flex  align-items-center ">
-									<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Escuela de Liderazgo y <br>emprendimiento social I.E.M.<br> AURELIO ARTURO</a>
-								</li>
-								<li class="nav-item fondo-gris-c d-flex  align-items-center ">
-									<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-2-tab" data-toggle="pill" href="#pills-22" role="tab" aria-controls="pills-22" aria-selected="false">Fortalecimiento en Emprendimiento<br> comunidad Chachagui</a>
-								</li>
-								<li class="nav-item fondo-gris-os d-flex  align-items-center ">
-									<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-3-tab" data-toggle="pill" href="#pills-33" role="tab" aria-controls="pills-33" aria-selected="false">Fortalecimiento contable a<br> microempresarios</a>
-								</li>
-								<li class="nav-item fondo-gris-c d-flex  align-items-center ">
-									<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-4-tab" data-toggle="pill" href="#pills-44" role="tab" aria-controls="pills-44" aria-selected="false">Foro Proyección Social<br> y Extensión Universidad<br> – Empresa – Estado</a>
-								</li>
-							</ul>
-					</div>
-			</div>
-			<div class="row d-flex justify-content-center">
-					<div class="col-12 col-md-8">
-							<div class="tab-content m-5" id="pills-tabContent">
-									<div class="tab-pane fade pt-sans texto-azul-os text-justify show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-											1
-													</div>
-								<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-							2
-								</div>
-								<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-										3
-								</div>
-								<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-22" role="tabpanel" aria-labelledby="pills-2-tab">
-										4
-								</div>
-								<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-33" role="tabpanel" aria-labelledby="pills-3-tab">
-							5
-								</div>
-								<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-44" role="tabpanel" aria-labelledby="pills-4-tab">
-							6
-								</div>
+					<div class="row  ">
+								<div class="col-12 d-flex justify-content-center">
+										<ul class="nav nav-pills mb-3 f-size-12" id="pills-tab" role="tablist">
+												<li class="nav-item fondo-gris-os d-flex  align-items-center ">
+														<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Fortalecimiento comunidad<br>Tumaquito (Alianza AUNAR – SJR)</a>
+												</li>
+												<li class="nav-item fondo-gris-c d-flex  align-items-center ">
+														<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Inclusión psicosocial y socioeconómica<br> para población víctima del<br> conflicto armado en Colombia<br> y refugiados en el Ecuador <br>(Investigación AUNAR – UTI)</a>
+												</li>
+												<li class="nav-item fondo-gris-os d-flex  align-items-center ">
+														<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Escuela de Liderazgo y <br>emprendimiento social I.E.M.<br> AURELIO ARTURO</a>
+												</li>
+												<li class="nav-item fondo-gris-c d-flex  align-items-center ">
+														<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-2-tab" data-toggle="pill" href="#pills-22" role="tab" aria-controls="pills-22" aria-selected="false">Fortalecimiento en Emprendimiento<br> comunidad Chachagui</a>
+												</li>
+												<li class="nav-item fondo-gris-os d-flex  align-items-center ">
+														<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-3-tab" data-toggle="pill" href="#pills-33" role="tab" aria-controls="pills-33" aria-selected="false">Fortalecimiento contable a<br> microempresarios</a>
+												</li>
+												<li class="nav-item fondo-gris-c d-flex  align-items-center ">
+														<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-4-tab" data-toggle="pill" href="#pills-44" role="tab" aria-controls="pills-44" aria-selected="false">Foro Proyección Social<br> y Extensión Universidad<br> – Empresa – Estado</a>
+												</li>
+										</ul>
 							</div>
-								
-						</div>
 				</div>
+				<div class="row d-flex justify-content-center">
+							<div class="col-12 col-md-8">
+										<div class="tab-content m-5" id="pills-tabContent">
+													<div class="tab-pane fade pt-sans texto-azul-os text-justify show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+																1
+																	</div>
+												<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+												2
+												</div>
+												<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
+															3
+												</div>
+												<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-22" role="tabpanel" aria-labelledby="pills-2-tab">
+															4
+												</div>
+												<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-33" role="tabpanel" aria-labelledby="pills-3-tab">
+												5
+												</div>
+												<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-44" role="tabpanel" aria-labelledby="pills-4-tab">
+												6
+												</div>
+										</div>
+											
+								</div>
+					</div>
 		</div> -->
 		
 		

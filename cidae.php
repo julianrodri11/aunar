@@ -10,8 +10,6 @@
 		<?php
 				include_once('secciones/menu1.php');
 				include_once('secciones/logo-central.php');
-				 
-				  
 				include_once('secciones/modal-traductor.php');
 				include_once('modal/modal-contactenos.php');
 		?>
@@ -81,7 +79,7 @@
 							<div class="col-12 p-2 px-md-5 text-center">
 								<span class="text-center pt-sans"> <strong>CENTRO DE INVESTIGACIONES DESARROLLO Y ASESORÍA EMPRESARIAL <br>"CIDAE"</strong></span>
 							</div>
-							<div class="col-12 p-2 px-md-5 text-justify">								
+							<div class="col-12 p-2 px-md-5 text-justify">
 								<p class="pt-sans">
 									La Corporación Autónoma de Nariño, AUNAR, como comunidad productora de conocimiento crítico y aplicable a las necesidades regionales y nacionales, centra su misión en la docencia, la investigación y la extensión, asumiendo un claro compromiso con el desarrollo de Nariño.
 									<br><br>
@@ -107,7 +105,7 @@
 									La naturaleza y la esencia misma del CIDAE, obliga a establecer dos pilares fundamentales que retroalimentan permanentemente su dinámica y su quehacer en la vida universitaria: El campo de la investigación y el campo de lo empresarial, los cuales permiten la articulación de la docencia, la investigación misma y la proyección social.
 									<br><br>
 								</p>
-							</div>							
+							</div>
 						</div>
 						
 						<!-- pestaña 2-->
@@ -115,7 +113,6 @@
 							<div class="col-12 p-2 px-md-5 text-justify">
 								<p class="pt-sans">
 									<strong>EL CENTRO DE INVESTIGACIONES, DESARROLLO Y ASESORÍA EMPRESARIAL CIDAE</strong>, es un estamento comprometido con el desarrollo teórico práctico de la actividad investigativa de tal manera que sea factible generar, desarrollar y fomentar en el estudiante y en el docente una actitud crítica, reflexiva y creativa frente al conocimiento y al papel desempeñado dentro del contexto y de su propio criterio profesional.
-
 								</p>
 							</div>
 						</div>
@@ -126,7 +123,7 @@
 								<p class="pt-sans">
 									Institucionalmente el CIDAE, promoverá la investigación en todos los programas de las distintas facultades, para que desde un lenguaje investigativo unificado, fortalezca el desarrollo y ejecución de trabajos de grado y de las distintas formas de investigación tanto para el personal docente como estudiantes con visión científica que satisfaga el interés personal y el servicio a la comunidad; promoverá a partir de la investigación el desarrollo de tecnologías, la creación y consolidación de una comunidad investigativa y se encaminará al reconocimiento de la AUNAR como un ente investigador por excelencia que presenta resultados acordes con las necesidades de la región.
 								</p>
-							</div>							
+							</div>
 						</div>
 						
 						<!-- pestaña 4-->
@@ -135,28 +132,27 @@
 								<strong>Objetivo general</strong>
 								
 								<p>
-								Promover y fortalecer el desarrollo de la actividad investigativa al interior de la AUNAR, con el fin de lograr la formación de estudiantes con visión crítica y emprendedora y la construcción de una comunidad investigadora, reconocida en el medio, que genere resultados necesarios en la región.
-								<br><br>
+									Promover y fortalecer el desarrollo de la actividad investigativa al interior de la AUNAR, con el fin de lograr la formación de estudiantes con visión crítica y emprendedora y la construcción de una comunidad investigadora, reconocida en el medio, que genere resultados necesarios en la región.
+									<br><br>
 								</p>
 								<strong>Objetivos específicos</strong>
 								<br>
 								<p>
-								Contribuir en la planeación y ejecución de proyectos de investigación e ideas de negocios que generen desarrollo para la institución y la comunidad general.
-								<br><br>
-								Brindar espacios para la formación investigativa de los estudiantes de la AUNAR a través de la firma de convenios de cooperación institucional para la práctica empresarial.
-								<br><br>
-								Propiciar espacios de capacitación y apoyo al desarrollo de grupos de investigación disciplinar y formal en la AUNAR de Nariño y su gestión con el entorno socioeconómico, cultural e investigativo de las regiones. Orientar el proceso investigativo formativo de los estudiantes en todas las facultades.
-								<br><br>
-								Promover y orientar el ejercicio docente de investigación en y desde el aula como elemento básico para la investigación en sentido estricto.
-								<br><br>
-								Crear instrumentos que permitan difundir los aportes de carácter investigativo que los docentes y estudiantes realicen.
-								<br><br>
-								Fomentar la formación de colectivos que permitan el abordaje del conocimiento desde una visión interdisciplinaria.
-								<br><br>
-								Diseñar, organizar y supervisar los programas y líneas de investigación en la AUNAR.
-
+									Contribuir en la planeación y ejecución de proyectos de investigación e ideas de negocios que generen desarrollo para la institución y la comunidad general.
+									<br><br>
+									Brindar espacios para la formación investigativa de los estudiantes de la AUNAR a través de la firma de convenios de cooperación institucional para la práctica empresarial.
+									<br><br>
+									Propiciar espacios de capacitación y apoyo al desarrollo de grupos de investigación disciplinar y formal en la AUNAR de Nariño y su gestión con el entorno socioeconómico, cultural e investigativo de las regiones. Orientar el proceso investigativo formativo de los estudiantes en todas las facultades.
+									<br><br>
+									Promover y orientar el ejercicio docente de investigación en y desde el aula como elemento básico para la investigación en sentido estricto.
+									<br><br>
+									Crear instrumentos que permitan difundir los aportes de carácter investigativo que los docentes y estudiantes realicen.
+									<br><br>
+									Fomentar la formación de colectivos que permitan el abordaje del conocimiento desde una visión interdisciplinaria.
+									<br><br>
+									Diseñar, organizar y supervisar los programas y líneas de investigación en la AUNAR.
 								</p>
-							</div>							
+							</div>
 						</div>
 						
 						<!-- pestaña 5-->
@@ -166,45 +162,40 @@
 									Las líneas de Investigación son los enfoques disciplinarios establecidos por la institución, que permiten enmarcar los procesos, prácticas y perspectivas de análisis de los proyectos de investigación.
 									<br><br>
 									Las líneas de investigación establecen la relación entre la teoría y la práctica; se convierte en el orientador que articulada la formación, la investigación, la proyección, el desarrollo de competencias profesionales y la posibilidad de generar aportes a los diversos contextos; permite el diseño de estrategias conducentes a generar procesos de desarrollo empresarial y a la creación de nuevas empresas, alternativas necesarias para contribuir desde la academia al desarrollo local, nacional e internacional
-
-									<br><br>									
+									<br><br>
 									
-									<div class="col-12 text-center"><h3 class=" f-negrita fuente-institucional texto-azul">Líneas de Investigación Institucionales</h3> </div> 			
+									<div class="col-12 text-center"><h3 class=" f-negrita fuente-institucional texto-azul">Líneas de Investigación Institucionales</h3> </div>
 									<div class="col-12 texto-azul">Para consultar líneas de investigación</div>
 									<div class="col-12"><a class="btn text-light fondo-azul-oscuro pt-sans hvr-forward" href="http://cidae.aunar.edu.co/images/Documentos/LineasInvestigacion.pdf" target="_lineas_i">Click aquí</a> </div>
-
 								</p>
 							</div>
 							
 						</div>
-
 						<!-- pestaña 6-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-6" role="tabpanel" aria-labelledby="v-pills-act-6-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
-							<p class="pt-sans">Como principios de la investigación en la institución se identifican:
-							<br><br>
-							- La articulación entre docente - discente e investigación.
-							<br>
-							- Excelencia en la búsqueda del conocimiento y desarrollo integral de la región.
-							<br>
-							- Trascendencia de lo local a lo internacional. 
-							<br>
-							- Actualización de enfoques, tendencias, teorías y métodos.
-							<br>
-							- Ética respecto a lo técnico y a lo científico.
-							<br><br>
-							</p>
-							</div>							
+								<p class="pt-sans">Como principios de la investigación en la institución se identifican:
+									<br><br>
+									- La articulación entre docente - discente e investigación.
+									<br>
+									- Excelencia en la búsqueda del conocimiento y desarrollo integral de la región.
+									<br>
+									- Trascendencia de lo local a lo internacional.
+									<br>
+									- Actualización de enfoques, tendencias, teorías y métodos.
+									<br>
+									- Ética respecto a lo técnico y a lo científico.
+									<br><br>
+								</p>
+							</div>
 						</div>
-
 						<!-- pestaña 7-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-7" role="tabpanel" aria-labelledby="v-pills-act-7-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
-								<h3 class=" f-negrita fuente-institucional texto-azul">Organigrama CIDAE AUNAR</h3>  
+								<h3 class=" f-negrita fuente-institucional texto-azul">Organigrama CIDAE AUNAR</h3>
 							</div>
 							<div class="col-12 p-2 px-md-5"><img class="img-fluid" width="100%" src="img/investigacion/organigrama-cidae-aunar.jpg" alt="organigrama cida aunar"></div>
 						</div>
-
 						<!-- pestaña 8-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-8" role="tabpanel" aria-labelledby="v-pills-act-8-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -214,30 +205,25 @@
 								DOCUMENTOS REQUERIDOS CREACIÓN GRUPOS DE INVESTIGACIÓN <br>
 								<br><a class="hover-texto-blanco" href="docs/cidae/Carta de solicitud de reconocimiento institucional del grupo de investigación.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Carta de solicitud de reconocimiento institucional del grupo de investigación		</a>
 								<br><a class="hover-texto-blanco" href="docs/cidae/Carta de Solicitud Correo Institucional de Grupo de Investigación.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Carta de Solicitud Correo Institucional de Grupo de Investigación								</a>
-								<br><a class="hover-texto-blanco" href="docs/cidae/Dossier de Presentación - Grupos de investigación Aunar.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Dossier de Presentación - Grupos de Investigación AUNAR													</a>								
-								<br><a class="hover-texto-blanco" href="docs/cidae/Formato de Inscripción - Grupos de Investigación.xlsx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formato de Inscripción Grupos de Investigación 											</a>								
-								<br><a class="hover-texto-blanco" href="docs/cidae/Formato de Presentación de Proyectos de Investigación Docente.doc" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formato de Presentación de Proyectos de Investigación Docente					</a>								
+								<br><a class="hover-texto-blanco" href="docs/cidae/Dossier de Presentación - Grupos de investigación Aunar.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Dossier de Presentación - Grupos de Investigación AUNAR													</a>
+								<br><a class="hover-texto-blanco" href="docs/cidae/Formato de Inscripción - Grupos de Investigación.xlsx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formato de Inscripción Grupos de Investigación 											</a>
+								<br><a class="hover-texto-blanco" href="docs/cidae/Formato de Presentación de Proyectos de Investigación Docente.doc" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formato de Presentación de Proyectos de Investigación Docente					</a>
 								<br><a class="hover-texto-blanco" href="docs/cidae/Formato para pedir clave a Colciencias.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formato para pedir clave a Colciencias								</a>
 								<br><a class="hover-texto-blanco" href="docs/cidae/Formato para presentar diplomado ante Cidae.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formato para presentar diplomado ante Cidae					</a>
 								<br><a class="hover-texto-blanco" href="docs/cidae/Formatos de Inscripción Nodal.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formatos de Inscripción Nodal												</a>
-								<br><a class="hover-texto-blanco" href="docs/cidae/Manual de Trabajo de Grado - Facultad de Ingenierías.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Manual de Trabajo de Grado - Facultad de Ingenierías	</a>								
+								<br><a class="hover-texto-blanco" href="docs/cidae/Manual de Trabajo de Grado - Facultad de Ingenierías.docx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Manual de Trabajo de Grado - Facultad de Ingenierías	</a>
 								<br><a class="hover-texto-blanco" href="docs/cidae/Formato de Presupuesto - Proyectos de Investigación.xlsx" data-toggle="tooltip" data-placement="auto" title="Click para descargar formato">- Formato de Presupuesto - Proyectos de Investigación	</a>
-
-							</div>							
+							</div>
 						</div>
-
 					</div>
 				</div>
 			</div>
 		</div>
-
 		<!-- contenido de cidae -->
-
 		
 		<div class="container-fluid">
 			
 			<!-- publicación 1 -->
-
 			<div class="row py-5 py-md-0">
 				
 				<!-- imagen de publicación -->
@@ -246,7 +232,7 @@
 						<div class="col-12 p-0 text-center mx-auto content_img_virtual">
 							<!-- aqui va todo lo que se quiera centrar -->
 							<a href="grupos-de-investigacion" target="gin">
-							<img class="img-fluid img_virtual"  src="img/cidae/grupos-de-investigacion-cidae.jpg" alt="Grupos de investigación AUNAR" width="100%">
+								<img class="img-fluid img_virtual"  src="img/cidae/grupos-de-investigacion-cidae.jpg" alt="Grupos de investigación AUNAR" width="100%">
 							</a>
 							<div class="cont_texto_secundario">
 								<div class="texto_secundario pt-sans texto-azul-os f-negrita">
@@ -257,7 +243,6 @@
 					</div>
 				</div>
 				<!-- fin imagen de  publicación -->
-
 				<!-- información publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12 ">
@@ -266,9 +251,9 @@
 							<div class="text-center pr-lg-5">
 								<h2 class="texto-amarillo fuente-institucional f-negrita fuente-18 p-0">Grupos de</h2>
 								<h1 class="texto-amarillo fuente-institucional f-negrita fuente-big p-0"><strong>INVESTIGACIÓN</strong></h1>
-							</div>							
+							</div>
 							<div class="pt-sans text-justify pr-lg-5">
-							<p>Un Grupo de Investigación es la unidad docente especializada que se dedica a la investigación científica, al desarrollo tecnológico o a la innovación... </p>
+								<p>Un Grupo de Investigación es la unidad docente especializada que se dedica a la investigación científica, al desarrollo tecnológico o a la innovación... </p>
 							</div>
 							<div class="pt-sans text-justify pr-lg-5 py-lg-5">
 								<a href="grupos-de-investigacion" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco float-right texto-azul sin-texto-subrayado fuente-institucional" target="gin">Leer Más</a>
@@ -279,11 +264,8 @@
 				<!-- fin información publicación -->
 			</div>
 			<!-- fin publicación 1 -->
-
-
 			<!-- publicación 2 -->
 			<div class="row py-5 py-md-0">
-
 				<!-- información personal -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center p-0 order-2 order-lg-1">
 					<div class="row col-12 ">
@@ -292,7 +274,7 @@
 							<div class="text-center pr-lg-5">
 								<h2 class="texto-amarillo fuente-institucional fuente-18 p-0">Semilleros de</h2>
 								<h1 class="texto-amarillo fuente-institucional fuente-big p-0"><strong>INVESTIGACIÓN</strong></h1>
-							</div>							
+							</div>
 							<div class="pt-sans text-justify pr-lg-5">
 								<P>Los Semilleros de Investigación son una estrategia pedagógica extracurricular que tienen el fin de fomentar la cultura investigativa en los estudiantes de pregrado y tecnología; donde... </P>
 							</div>
@@ -319,13 +301,10 @@
 					</div>
 				</div>
 				<!-- fin imagen de publicación -->
-
 				
 			</div>
 			<!-- fin publicación 2 -->
-
 			<!-- publicación 3 -->
-
 			<div class="row py-5 py-md-0">
 				
 				<!-- imagen de publicación -->
@@ -345,7 +324,6 @@
 					</div>
 				</div>
 				<!-- fin imagen de  publicación -->
-
 				<!-- información publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
 					<div class="row col-12 ">
@@ -354,7 +332,7 @@
 							<div class="text-center pr-lg-5">
 								<h2 class="texto-amarillo fuente-institucional fuente-18 p-0">Trabajos de</h2>
 								<h1 class="texto-amarillo fuente-institucional fuente-big p-0"><strong>GRADO</strong></h1>
-							</div>								
+							</div>
 							<div class="pt-sans text-justify pr-lg-5">
 								<P>En cada etapa el estudiante cuenta con el acompañamiento...</P>
 							</div>
@@ -367,12 +345,8 @@
 				<!-- fin información publicación -->
 			</div>
 			<!-- fin publicación 3 -->
-
-
 			
 		</div>
-
-
 		
 		<!-- footer -->
 		<?php include_once('secciones/footer-principal.php');?>
