@@ -142,10 +142,18 @@
                                                 <a class="px-1" target="_blank_facebook" href="https://www.facebook.com/aunarpasto/">
                                                 <img src="img/facebook.ico" width="21">
                                                 </a>
-                                            </div>
+                                                
+                                                
+                                            </div>                                            
                                     </div>
+                                    <!-- boton traducir -->
                                     <span class="ml-2 mr-1 f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo " data-toggle="modal"   data-target="#btn_traductor" onclick="llamar_traductor()">Idioma</span>
-                                    <div class=" f-italica f-negrita f-size-14 "></div>
+                                    <!-- iconos de ampliar y reducir -->
+                                    <span class="ml-2 mr-1 f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo " >
+                                        <a class="px-1 pointer" data-toggle="tooltip" data-placement="left" title="Ampliar" >A+</a>
+                                        <a class="px-1 pointer" data-toggle="tooltip" data-placement="left" title="Reducir" >a-</a> 
+                                    </span>
+                                    
                                 </div>
 
                         

@@ -1,13 +1,3 @@
-<?php
-
-  if (substr_count($_SERVER["HTTP_ACCEPT_ENCODING"], "gzip")) {
-    ob_start("ob_gzhandler");
-  } else {
-    ob_start();
-  }
-  
-?>
-
 <!DOCTYPE html>
 <html lang="es">
   <head>
@@ -33,7 +23,7 @@
     <?php include_once('secciones/logo-central.php');?>
     <!-- -----------------------FIN LOGO CENTRAL------------------ -->
     <!-- ------------------FIGURA ZOOM---------------------------- -->
-    <?php include_once('secciones/zoom.php');?>
+    <?php //include_once('secciones/zoom.php');?>
     <!-- ------------------FIN ZOOM------------------------------- -->
     <!-- ------------------REDES SOCIALES------------------------- -->
     <?php //include_once('secciones/redes-sociales-aunar.php');?>

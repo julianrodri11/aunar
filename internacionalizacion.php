@@ -3,14 +3,14 @@
 	<head>
 		<?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
 		<!--TÍTULO DE LA PÁGINA-->
-		<title>BIENESTAR INSTITUCIONAL - AUTÓNOMA DE NARIÑO</title>
+		<title>INTERNACIONALIZACIÓN - AUTÓNOMA DE NARIÑO</title>
 		
 	</head>
 	<body>
 		<?php
 			include_once('secciones/menu1.php');
 			include_once('secciones/logo-central.php');
-			include_once('secciones/zoom.php');
+			//include_once('secciones/zoom.php');
 			//include_once('secciones/redes-sociales-aunar.php');
 			include_once('secciones/modal-traductor.php');
 			include_once('modal/modal-contactenos.php');

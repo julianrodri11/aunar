@@ -2,7 +2,7 @@
 <html lang="es">
 	<head>
 		<?php /*ENLACES DE LIBRERIAS*/ include_once('secciones/links-local.php');  ?>
-		<title>Ingeniería Electrónica - Autónoma de Nariño</title>
+		<title>INGENIERÍA ELECTRÓNICA - AUTÓNOMA DE NARIÑO</title>
 		<meta name="description" content="El ingeniero(a) será capaz de desempeñarse en el sector industrial, en el diseño, investigación, desarrollo, innovación, consultoría, gestión, supervisión, implementación y mantenimiento de sistemas electrónicos">
 		<meta name="keywords" content="Ingeniería Electrónica - AUNAR">   
 		<meta property="og:image" <?php echo 'content=http://'.$servidor.'/img/carreras/ingenieria-electronica-aunar.jpg'?>>
@@ -12,7 +12,7 @@
 		<?php
 			include_once('secciones/menu1.php');
 			include_once('secciones/logo-central.php');
-			include_once('secciones/zoom.php');
+			//include_once('secciones/zoom.php');
 			//include_once('secciones/redes-sociales-aunar.php');
 			include_once('secciones/modal-traductor.php');
 			include_once('modal/modal-contactenos.php');

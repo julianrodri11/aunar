@@ -2,7 +2,7 @@
 <html lang="es">
 	<head>
 		<?php /*ENLACES DE LIBRERIAS*/ include_once('secciones/links-local.php');  ?>
-		<title>Portal de noticias - Autónoma de Nariño</title>
+		<title>PORTAL DE NOTICIAS - AUTÓNOMA DE NARIÑO</title>
 		<meta name="description" content="Leidy Mera, estudiante de la Corporación Universitaria Autónoma de Nariño, sede Ipiales, ha ganado importantes reconocimientos a nivel mundial debido a su pasión y dedicación por el ciclo montañismo ¡Conozcamos esta desafiante historia!">
 		<meta name="keywords" content="Leidy Mera Gana importantes reconocimientos">   
 		<meta property="og:image" <?php echo 'content=http://'.$servidor.'/img/noticias/slider-portal-de-noticias.jpg'?>>
@@ -12,7 +12,7 @@
 		<?php
 			include_once('secciones/menu1.php');
 			include_once('secciones/logo-central.php');
-			include_once('secciones/zoom.php');
+			//include_once('secciones/zoom.php');
 			//include_once('secciones/redes-sociales-aunar.php');
 			include_once('secciones/modal-traductor.php');
 			include_once('modal/modal-contactenos.php');

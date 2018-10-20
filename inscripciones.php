@@ -2,14 +2,14 @@
 <html lang="es-CO">
 <head>
 	<?php /*ENLACES DE LIBRERIAS*/ include_once('secciones/links-local.php');  ?> 
-	<title>Sistema de inscripciones en línea AUNAR</title>
+	<title>SISTEMA DE INSCRIPCIONES EN LÍNEA AUNAR</title>
 </head>
 <body>
 	
 	<?php 
 		include_once('secciones/menu1.php'); 
 		include_once('secciones/logo-central.php');
-		include_once('secciones/zoom.php');
+		//include_once('secciones/zoom.php');
 		//include_once('secciones/redes-sociales-aunar.php');
 		include_once('secciones/modal-traductor.php');
 		include_once('modal/modal-contactenos.php');

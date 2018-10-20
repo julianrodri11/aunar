@@ -12,15 +12,16 @@
 <!-- Popper JS -->
 <script  type="text/javascript" src="js/popper.min.js" async></script>
 <!-- Latest compiled JavaScript -->
-<!-- CSS OPTIMIZADO PARA GOOGLE -->
+<!-- CSS OPTIMIZADO PARA CARGA RAPIDA DE LA PÁGINA -->
 <noscript id="deferred-styles">
-<!-- ESTILOS PERSONALES -->
-<link rel="stylesheet" type="text/css" href="css/personalizado.css">
-<!-- efectos cuando se colocal el mouse encima de algo -efectos hover -->
-<link rel="stylesheet" type="text/css" href="css/hover.css">
-<!-- libreria para animaciones del hover de una imágen -->  
-<link rel="stylesheet" type="text/css" href="css/animate.css">
+    <!-- ESTILOS PERSONALES -->
+    <link rel="stylesheet" type="text/css" href="css/personalizado.css">
+    <!-- efectos cuando se colocal el mouse encima de algo -efectos hover -->
+    <link rel="stylesheet" type="text/css" href="css/hover.css">
+    <!-- libreria para animaciones del hover de una imágen -->  
+    <link rel="stylesheet" type="text/css" href="css/animate.css">
 </noscript>
+<!-- SCRIPT PARA OPTIMIZADO PARA CARGA RAPIDA DE LA PÁGINA -->
 <script>
       var loadDeferredStyles = function() {
         var addStylesNode = document.getElementById("deferred-styles");
@@ -43,6 +44,5 @@
 <script  type="text/javascript" src="js/jquery.smoove.min.js" async></script>
 <!-- efectos personalizados -->
 <script  type="text/javascript" src="js/efectos_smoove.js" async></script>
-<!-- libreria para compatiblidad con microsoft edge  -->
-<script  type="text/javascript" src="js/json2.js" async></script>
+
 <?php /*VARIABLE QUE SACA EL NOMBRE DEL SERVIDOR*/ $servidor = $_SERVER['SERVER_NAME']; ?>
