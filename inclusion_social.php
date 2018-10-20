@@ -10,8 +10,6 @@
 		<?php
 				include_once('secciones/menu1.php');
 				include_once('secciones/logo-central.php');
-				//include_once('secciones/zoom.php');
-				//include_once('secciones/redes-sociales-aunar.php');
 				include_once('secciones/modal-traductor.php');
 				include_once('modal/modal-contactenos.php');
 		?>
@@ -24,7 +22,6 @@
 		</div>
 		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_bienestar.php');?>
-
 		<div class="container-fluid fondo-gris-c p-lg-5">
 			
 			<div class="row px-lg-5 m-lg-2 pt-sans texto-azul-os text-justify">
@@ -42,9 +39,8 @@
 					<div class="col-12 py-4"><h3 class="fuente-institucional f-negrita"> Visión</h3></div>
 					<div class="col-12 text-justify pt-sans">Promover el establecimiento dinámico y desarrollo de una política de educación inclusiva superior que dé respuesta pertinente a las barreras de aprendizaje y que aporte a la generación de una sociedad incluyente. </div>
 				</div>
-			</div>			
 			</div>
-
+		</div>
 	</div>
 	
 	<!-- personal encargado -->

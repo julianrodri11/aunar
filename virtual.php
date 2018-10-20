@@ -10,8 +10,8 @@
 		<?php
 				include_once('secciones/menu1.php');
 				include_once('secciones/logo-central.php');
-				//include_once('secciones/zoom.php');
-				//include_once('secciones/redes-sociales-aunar.php');
+				
+				  
 				include_once('secciones/modal-traductor.php');
 				include_once('modal/modal-contactenos.php');
 		?>
@@ -116,11 +116,8 @@
 			</div>
 		</div>
 		
-
 		<!-- galeria de programas virtuales -->
 		<div class="container-fluid"><div class="row"><h1 class="fuente-institucional mx-auto py-5 texto-azul-os text-center fuente-big"> <strong> Programas <br> Modalidad Virtual <br>y a Distancia </strong></h1></div></div>
-
-
 		<div class="container-fluid py-5">
 			<div class="row d-flex justify-content-around">
 				<div class="col-12 col-sm-6 col-md-4 col-lg-2 pb-5">
@@ -162,7 +159,6 @@
 					</div>
 					
 				</div>
-
 				<div class="col-12 col-sm-6 col-md-4 col-lg-2 pb-5">
 					
 					<div class="col-12 p-0 content_img_virtual">

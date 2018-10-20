@@ -10,8 +10,6 @@
 		<?php
 				include_once('secciones/menu1.php');
 				include_once('secciones/logo-central.php');
-				//include_once('secciones/zoom.php');
-				//include_once('secciones/redes-sociales-aunar.php');
 				include_once('secciones/modal-traductor.php');
 				include_once('modal/modal-contactenos.php');
 		?>
@@ -53,8 +51,8 @@
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
 								<strong>Misión</strong>
-								<p> 
-								Somos el Centro Regional de Emprendimiento y Empresarismo de la Corporación Universitaria Autónoma de Nariño, comprometidos con la formación de la mentalidad emprendedora y el espíritu empresarial en la comunidad universitaria de la región.
+								<p>
+									Somos el Centro Regional de Emprendimiento y Empresarismo de la Corporación Universitaria Autónoma de Nariño, comprometidos con la formación de la mentalidad emprendedora y el espíritu empresarial en la comunidad universitaria de la región.
 								</p>
 								<p>Conformamos un equipo humano idóneo, íntegro y comprometido con el ejercicio de brindar un acompañamiento oportuno, que, apoyado con los recursos tecnológicos, financieros, de infraestructura y en general todos aquellos requeridos para garantizar un servicio óptimo para nuestros emprendedores. </p>
 							</div>
@@ -65,39 +63,36 @@
 								<strong>Visión</strong>
 								<p>Para el año 2023 seremos reconocidos como el centro de emprendimiento universitario pionero y líder en el proceso de formación de la mentalidad emprendedora en el suroccidente colombiano.</p>
 							</div>
-						
+							
 						</div>
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
-							
-							<strong>Objetivo general </strong>
-							<p>
-							Fortalecer y dinamizar el tanto el emprendimiento como el empresarismo al interior de la Corporación Universitaria Autónoma de Nariño durante los años 2015-2023.
-							</p>
-
-							<strong>Objetivos específicos:</strong>
-
-							<p>Coordinar y articular las políticas e iniciativas de emprendimiento que se ejecutan desde y hacia la universidad.
-							Fortalecer la cultura y mentalidad emprendedora dentro de los miembros de la comunidad universitaria y su área de influencia.
-							Estimular el emprendimiento y el empresarismo dentro de los miembros de la comunidad universitaria y su área de influencia.
-							Promover la interactividad con las diferentes redes de emprendimiento tanto en los ámbitos regional, nacional e internacional.</p>
+								
+								<strong>Objetivo general </strong>
+								<p>
+									Fortalecer y dinamizar el tanto el emprendimiento como el empresarismo al interior de la Corporación Universitaria Autónoma de Nariño durante los años 2015-2023.
+								</p>
+								<strong>Objetivos específicos:</strong>
+								<p>Coordinar y articular las políticas e iniciativas de emprendimiento que se ejecutan desde y hacia la universidad.
+									Fortalecer la cultura y mentalidad emprendedora dentro de los miembros de la comunidad universitaria y su área de influencia.
+									Estimular el emprendimiento y el empresarismo dentro de los miembros de la comunidad universitaria y su área de influencia.
+								Promover la interactividad con las diferentes redes de emprendimiento tanto en los ámbitos regional, nacional e internacional.</p>
 							</div>
 							
 						</div>
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-deportivas" role="tabpanel" aria-labelledby="v-pills-act-deportivas-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
-							<p>
-								Los procesos que lidera la dependencia son:
-								<br><br>
-								Articulación institucional en emprendimiento: Desde donde se busca Interrelacionar las actividades curriculares que se están desarrollando dentro de las diferentes asignaturas incluidas en los pensum académicos de los diferentes programas ofrecidos por la institución de tal manera que se consolide una temática transversal de la formación profesional en mentalidad emprendedora.
-								<br><br>
-								Formación extracurricular en emprendimiento: cuya finalidad es la de diseñar, construir y ejecutar espacios extracurriculares que permitan la motivación y la formación integral del nuevo profesional como un ser autónomo, creativo, innovador y emprendedor con sentido social.
-								<br><br>
-								Acompañamiento al emprendedor: En este proceso se brida asesoría personalizada a los emprendedores que deseen avanzar de manera significativa en su objetivo de crear sus propias unidades de negocio o liderar sus proyectos emprendedores.
-								<br><br>
-								Participación dinámica con el entorno: Buscando participar activamente en redes locales, regionales, nacionales e internacionales en emprendimiento y fortalecer las relaciones con el entorno empresarial de la región, de tal manera que se obtenga una interacción que permita la transferencia tecnológica y de innovación en beneficio del emprendimiento.
-
-							</p>
+								<p>
+									Los procesos que lidera la dependencia son:
+									<br><br>
+									Articulación institucional en emprendimiento: Desde donde se busca Interrelacionar las actividades curriculares que se están desarrollando dentro de las diferentes asignaturas incluidas en los pensum académicos de los diferentes programas ofrecidos por la institución de tal manera que se consolide una temática transversal de la formación profesional en mentalidad emprendedora.
+									<br><br>
+									Formación extracurricular en emprendimiento: cuya finalidad es la de diseñar, construir y ejecutar espacios extracurriculares que permitan la motivación y la formación integral del nuevo profesional como un ser autónomo, creativo, innovador y emprendedor con sentido social.
+									<br><br>
+									Acompañamiento al emprendedor: En este proceso se brida asesoría personalizada a los emprendedores que deseen avanzar de manera significativa en su objetivo de crear sus propias unidades de negocio o liderar sus proyectos emprendedores.
+									<br><br>
+									Participación dinámica con el entorno: Buscando participar activamente en redes locales, regionales, nacionales e internacionales en emprendimiento y fortalecer las relaciones con el entorno empresarial de la región, de tal manera que se obtenga una interacción que permita la transferencia tecnológica y de innovación en beneficio del emprendimiento.
+								</p>
 							</div>
 							
 						</div>
@@ -133,7 +128,7 @@
 							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">DIRECTOR</h4>
 							<div class="pt-sans text-justify pr-lg-5">
 								<label class="f-negrita">IRINA MARGARITA JURADO PAZ</label>
-								<br>Profesional en administración de empresas con una maestría en Administración de Empresas con especialidad en dirección de proyectos. Vinculada con AUNAR desde el 2012 y en calidad de director de esta dependencia desde 2014. 
+								<br>Profesional en administración de empresas con una maestría en Administración de Empresas con especialidad en dirección de proyectos. Vinculada con AUNAR desde el 2012 y en calidad de director de esta dependencia desde 2014.
 								<br>
 								Ha participado como ponente en diferentes congresos internacionales en Panamá, Ecuador y Argentina. Además, lidera el grupo de investigación Equipo CREA. Actualmente, en calidad de delegada institucional, lidera la secretaría técnica de la Red Regional de Emprendimiento de Nariño.
 								<br><br> E-mail: irina.jurado@aunar.edu.co –
@@ -144,8 +139,6 @@
 				</div>
 				<!-- fin información personal -->
 			</div>
-
-
 			<!-- linea amarilla -->
 			<div class="row">
 				<div class="col-8 borde-amarillo border-bottom p-0 mx-auto py-5"></div>
@@ -182,8 +175,6 @@
 			
 		</div>
 		<!-- Fin personal encargado -->
-
-
 		<?php include_once('secciones/footer-principal.php');?>
 		
 		

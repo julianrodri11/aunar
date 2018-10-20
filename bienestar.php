@@ -5,7 +5,7 @@
 		<!--TÍTULO DE LA PÁGINA-->
 		<title>BIENESTAR INSTITUCIONAL - AUTÓNOMA DE NARIÑO</title>
 		<meta name="description" content="Objetivo general - Velar por el cumplimiento de las distintas actividades que se desarrollan dentro y fuera de cada uno de los componentes, programas e instancias que integran la institución.">
-		<meta name="keywords" content="Bienestar Institucional - AUNAR">   
+		<meta name="keywords" content="Bienestar Institucional - AUNAR">
 		<meta property="og:image" <?php echo 'content=http://'.$servidor.'/img/bienestar/bienestar_universitario_aunar.jpg'?>>
 		
 	</head>
@@ -13,8 +13,6 @@
 		<?php
 			include_once('secciones/menu1.php');
 			include_once('secciones/logo-central.php');
-			//include_once('secciones/zoom.php');
-			//include_once('secciones/redes-sociales-aunar.php');
 			include_once('secciones/modal-traductor.php');
 			include_once('modal/modal-contactenos.php');
 		?>
@@ -29,13 +27,11 @@
 		
 		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_bienestar.php');?>
-
 		<div class="container-fluid texto-azul-os py-4">
 			<div class="row">
 				<!-- slider bienestar -->
 				<div class="col-12 col-md-5">
 					<?php include_once('slider/slider-1.php');?>
-
 				</div>
 				<!-- ultimas noticias -->
 				<div class="col-12 col-md-7">
@@ -59,10 +55,10 @@
 							</div>
 						</div>
 						<div class="col-12 col-md-10">
-						<div class="row">
+							<div class="row">
 								<div class="col-12 col-lg-4 p-2 f-negrita">El Parche AUNAR:</div>
 								<div class="col-12 col-lg-8 p-2">Recuerda que hoy celebramos el día del contador en #AunarPasto... </div>
-						</div>
+							</div>
 						</div>
 						<div class="col-12 col-md-10 fondo-gris-os">
 							<div class="row">
@@ -116,52 +112,52 @@
 		<div class="container-fluid">
 			<div class="row fuente-institucional">
 				<div class="col-12 pt-5 text-center"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">POLÍTICAS AUNAR</h3></div>
-			</div>			
+			</div>
 		</div>
 		<div class="container-fluid">
 			<div class="row d-flex justify-content-center">
 				<div class="col-11 col-lg-12 d-flex justify-content-center">
-				<ul class="nav nav-pills mb-3 flex-column flex-sm-row d-flex justify-content-center" id="pills-tab" role="tablist">
-				  <li class="nav-item fondo-gris-os d-flex justify-content-center align-items-center ">
-				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">POLÍTICAS DE LA VICERRECTORÍA<br> DE BIENESTAR INSTITUCIONAL</a>
-				  </li>
-				  <li class="nav-item fondo-gris-c d-flex justify-content-center align-items-center ">
-				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">POLÍTICA EDUCATIVA <br></a>
-				  </li>
-				  <li class="nav-item fondo-gris-os d-flex justify-content-center align-items-center ">
-				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">POLÍTICA SOCIAL <br></a>
-				  </li>
-				  <li class="nav-item fondo-gris-c d-flex justify-content-center align-items-center ">
-				    <a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-contact-tab" data-toggle="pill" href="#pills-comunicacion" role="tab" aria-controls="pills-contact" aria-selected="false">POLÍTICA DE COMUNICACIÓN<br></a>
-				  </li>
-				</ul>
-			</div>
+					<ul class="nav nav-pills mb-3 flex-column flex-sm-row d-flex justify-content-center" id="pills-tab" role="tablist">
+						<li class="nav-item fondo-gris-os d-flex justify-content-center align-items-center ">
+							<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">POLÍTICAS DE LA VICERRECTORÍA<br> DE BIENESTAR INSTITUCIONAL</a>
+						</li>
+						<li class="nav-item fondo-gris-c d-flex justify-content-center align-items-center ">
+							<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">POLÍTICA EDUCATIVA <br></a>
+						</li>
+						<li class="nav-item fondo-gris-os d-flex justify-content-center align-items-center ">
+							<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">POLÍTICA SOCIAL <br></a>
+						</li>
+						<li class="nav-item fondo-gris-c d-flex justify-content-center align-items-center ">
+							<a class="nav-link texto-azul-os f-negrita fuente-institucional hover-amarillo align-self-stretch text-center d-flex align-items-center" id="pills-contact-tab" data-toggle="pill" href="#pills-comunicacion" role="tab" aria-controls="pills-contact" aria-selected="false">POLÍTICA DE COMUNICACIÓN<br></a>
+						</li>
+					</ul>
+				</div>
 			</div>
 			<div class="row d-flex justify-content-center">
 				<div class="col-11 col-lg-8">
-				<div class="tab-content m-5" id="pills-tabContent">
-				  <div class="tab-pane fade pt-sans texto-azul-os text-justify show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-				  	* Construir comunidad y fortalecerla. De ahí que las actividades que se programen formen parte de los planes de estudio, con oportunidades para todos los estamentos de la Universidad en igualdad de condiciones.<br>
-					* Organizar, planificar y ejecutar programas de Bienestar, manteniendo una adecuada coordinación entre las distintas dependencias, tanto administrativas como académicas a través de los comités creados para ello (Comités Académicos y Administrativos).<br>
-					* Apoyar la formación integral de los estudiantes y el bienestar general de directivos, profesores y personal administrativo de la Universidad, favoreciendo el crecimiento personal y de grupo, a través de las diversas actividades programadas, con el fomento del deporte, la recreación, la salud física y psicológica y los valores, éticos y humanísticos que fomenta la Universidad.<br>
-					* Realizar estudios de evaluación socioeconómica de la comunidad Universitaria con el apoyo de las facultades o de los centros de investigación.<br>
-					* Prever y facilitar los escenarios deportivos adecuados para la práctica de los deportes básicos, de la cultural, de la lúdica y recreación en general y adecuar los horarios que permitan a la comunidad universitaria participar y desarrollar las actividades que demanda el usuario del servicio y las exigencias curriculares y académicas.<br>
-					* Articular el proyecto de vida individual de los miembros de la Comunidad AUNAR con el Proyecto Educativo Institucional (PEI). <br>
-					* El cubrimiento de los programas de Bienestar Institucional debe incluir toda la comunidad AUNAR (estudiantes, docentes, personal administrativo y egresados).<br>
-				  	
-				  </div>
-				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-				  	El continuo crecimiento físico como académico que viene presentando la Corporación Universitaria Autónoma de Nariño hace necesario implementar un marco general para la creación de nuevas técnicas educativas dentro del bienestar institucional, los cuales permitan al estudiante contar con herramientas solidas que reflejen educación integral, ética y moral para solventar las necesidades crecientes de la población.
-				  	
-				  </div>
-				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-				  	Construir viabilidad para las actividades desarrolladas dentro de la institución junto con el departamento de Bienestar, mediante la gestión social, comprometida con el respeto de los derechos humanos, la prestación de servicios con calidad y eficiencia en el suministro oportuno de información de interés público promoviendo el desarrollo universitario.				  	
-				  </div>
-				  <div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-comunicacion" role="tabpanel" aria-labelledby="pills-contact-tab">
-				  	Vicerrectoría de Bienestar Institucional propenderá un enfoque estratégico orientado a afianzar las relaciones dentro del departamento y hacia fuera de él, manteniendo su identidad corporativa y facilitando la interacción con otras instituciones.
-				  	
-				  </div>
-				</div>
+					<div class="tab-content m-5" id="pills-tabContent">
+						<div class="tab-pane fade pt-sans texto-azul-os text-justify show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+							* Construir comunidad y fortalecerla. De ahí que las actividades que se programen formen parte de los planes de estudio, con oportunidades para todos los estamentos de la Universidad en igualdad de condiciones.<br>
+							* Organizar, planificar y ejecutar programas de Bienestar, manteniendo una adecuada coordinación entre las distintas dependencias, tanto administrativas como académicas a través de los comités creados para ello (Comités Académicos y Administrativos).<br>
+							* Apoyar la formación integral de los estudiantes y el bienestar general de directivos, profesores y personal administrativo de la Universidad, favoreciendo el crecimiento personal y de grupo, a través de las diversas actividades programadas, con el fomento del deporte, la recreación, la salud física y psicológica y los valores, éticos y humanísticos que fomenta la Universidad.<br>
+							* Realizar estudios de evaluación socioeconómica de la comunidad Universitaria con el apoyo de las facultades o de los centros de investigación.<br>
+							* Prever y facilitar los escenarios deportivos adecuados para la práctica de los deportes básicos, de la cultural, de la lúdica y recreación en general y adecuar los horarios que permitan a la comunidad universitaria participar y desarrollar las actividades que demanda el usuario del servicio y las exigencias curriculares y académicas.<br>
+							* Articular el proyecto de vida individual de los miembros de la Comunidad AUNAR con el Proyecto Educativo Institucional (PEI). <br>
+							* El cubrimiento de los programas de Bienestar Institucional debe incluir toda la comunidad AUNAR (estudiantes, docentes, personal administrativo y egresados).<br>
+							
+						</div>
+						<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+							El continuo crecimiento físico como académico que viene presentando la Corporación Universitaria Autónoma de Nariño hace necesario implementar un marco general para la creación de nuevas técnicas educativas dentro del bienestar institucional, los cuales permitan al estudiante contar con herramientas solidas que reflejen educación integral, ética y moral para solventar las necesidades crecientes de la población.
+							
+						</div>
+						<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
+							Construir viabilidad para las actividades desarrolladas dentro de la institución junto con el departamento de Bienestar, mediante la gestión social, comprometida con el respeto de los derechos humanos, la prestación de servicios con calidad y eficiencia en el suministro oportuno de información de interés público promoviendo el desarrollo universitario.
+						</div>
+						<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-comunicacion" role="tabpanel" aria-labelledby="pills-contact-tab">
+							Vicerrectoría de Bienestar Institucional propenderá un enfoque estratégico orientado a afianzar las relaciones dentro del departamento y hacia fuera de él, manteniendo su identidad corporativa y facilitando la interacción con otras instituciones.
+							
+						</div>
+					</div>
 					
 				</div>
 			</div>
@@ -170,63 +166,60 @@
 		<div class="container-fluid p-2 p-lg-5 ">
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
 				<div class="col-12 col-lg-6 ">
-				<!-- Personal -->
-				<div class="media border-bottom borde-amarillo pb-3">
-				<div class="media-body ">
-					
-					<div class="row">
-						<div class="col-12 col-md-6 text-center">
-							<img src="img/bienestar/jaime_colunge.png" class="align-self-center mr-3 rounded-circle img-fluid" >
-						</div>
-						<div class="col-12 col-md-6 text-center text-md-left">
-							<h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
-							<h4 class="fuente-institucional texto-amarillo f-negrita">VICERECTOR (A)</h4>
-						    <div class="pt-sans">
-						    <label class="f-negrita">JAIME DAVID COLUNGE ORDOÑEZ </label><br>
-						    Especialista en pedagogía y herramientas virtuales <br>
-						    Vinculación desde 14 de enero del 2013 <br>
-						    Teléfonos: 7226020 – 7232452 Ext 111<br>
-						    Celular: 3163055109<br>
-						    Correo electrónico vicerrectoría.bienestar@aunar.edu.co
-						    </div>
+					<!-- Personal -->
+					<div class="media border-bottom borde-amarillo pb-3">
+						<div class="media-body ">
+							
+							<div class="row">
+								<div class="col-12 col-md-6 text-center">
+									<img src="img/bienestar/jaime_colunge.png" class="align-self-center mr-3 rounded-circle img-fluid" >
+								</div>
+								<div class="col-12 col-md-6 text-center text-md-left">
+									<h4 class="fuente-institucional texto-amarillo f-negrita">PROFESIONAL ENCARGADO</h4>
+									<h4 class="fuente-institucional texto-amarillo f-negrita">VICERECTOR (A)</h4>
+									<div class="pt-sans">
+										<label class="f-negrita">JAIME DAVID COLUNGE ORDOÑEZ </label><br>
+										Especialista en pedagogía y herramientas virtuales <br>
+										Vinculación desde 14 de enero del 2013 <br>
+										Teléfonos: 7226020 – 7232452 Ext 111<br>
+										Celular: 3163055109<br>
+										Correo electrónico vicerrectoría.bienestar@aunar.edu.co
+									</div>
+								</div>
+							</div>
+							
+							
+							
 						</div>
 					</div>
-				  
-				  
-				    
-				  </div>
 				</div>
-				</div>			
 			</div>
 			
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
 				<div class="col-12 col-lg-6">
-				<!-- Personal -->
-				<div class="media border-bottom borde-amarillo pb-3">
-				<div class="media-body">
-					
-					<div class="row">
-						<div class="col-12 col-md-6 text-center">
-							<img src="img/bienestar/maria_ruiz.png" class="align-self-center mr-3 rounded-circle img-fluid" >
+					<!-- Personal -->
+					<div class="media border-bottom borde-amarillo pb-3">
+						<div class="media-body">
+							
+							<div class="row">
+								<div class="col-12 col-md-6 text-center">
+									<img src="img/bienestar/maria_ruiz.png" class="align-self-center mr-3 rounded-circle img-fluid" >
+								</div>
+								<div class="col-12 col-md-6 text-center text-md-left">
+									<h4 class="fuente-institucional texto-amarillo f-negrita">ASISTENTE</h4>
+									<div class="pt-sans">
+										<label class="f-negrita">ANGÉLICA MARÍA RUIZ JIMÉNEZ </label><br>
+										Celular: 3163055109<br>
+										Correo electrónico bienestar@aunar.edu.co
+									</div>
+								</div>
+							</div>
 						</div>
-						<div class="col-12 col-md-6 text-center text-md-left">
-							<h4 class="fuente-institucional texto-amarillo f-negrita">ASISTENTE</h4>
-						    <div class="pt-sans">
-							<label class="f-negrita">ANGÉLICA MARÍA RUIZ JIMÉNEZ </label><br>
-							Celular: 3163055109<br>
-				    		Correo electrónico bienestar@aunar.edu.co
-						    </div>
-						</div>
-					</div>	  
-
-
+					</div>
 				</div>
-				</div>				
 			</div>
 		</div>
-	</div>
-
-			<?php include_once('secciones/footer-principal.php');?>
-			
-		</body>
-	</html>
+		<?php include_once('secciones/footer-principal.php');?>
+		
+	</body>
+</html>

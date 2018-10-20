@@ -10,8 +10,6 @@
 		<?php
 			include_once('secciones/menu1.php');
 			include_once('secciones/logo-central.php');
-			//include_once('secciones/zoom.php');
-			//include_once('secciones/redes-sociales-aunar.php');
 			include_once('secciones/modal-traductor.php');
 			include_once('modal/modal-contactenos.php');
 		?>
@@ -24,7 +22,7 @@
 		</div>
 		<?php  include_once('secciones/menu2.php') ?>
 		<?php include_once('secciones/menu_investigacion.php');?>
-				
+		
 		<!-- galería de imágenes -->
 		<div class="container-fluid texto-azul-os" id="grupos">
 			<div class="row fondo-grupos-investigacion p-5">
@@ -148,7 +146,6 @@
 				</div>
 			</div>
 		</div>
-
 		<!-- imágen de grupo de investigación  -->
 		<div class="container-fluid py-5" id="grupo2">
 			<div class="row d-flex justify-content-center">
@@ -208,21 +205,19 @@
 						<br> <strong>Descripción:</strong><br>
 						El Grupo de investigación en Electrónica - METANOIA, es un ente académico creado para la investigación, coordinación, promoción científica y desarrollo tecnológico sin ánimo de lucro, conformado por docentes y estudiantes, cuya finalidad es investigar, colaborar, fortalecer y estimular la generación de conocimiento y desarrollo tecnológico competitivo y sostenible en el campo de electrónica, con sede en la Corporación Universitaria Autónoma de Nariño. El grupo de investigación busca mantener una participación activa, directa y permanente de sus integrantes con la comunidad universitaria, desarrollando proyectos tecnológicos competitivos, pertinentes y sostenibles en el campo de la Automatización, el Diseño Electrónico y la Telemática, dirigidos a generar desarrollo regional en un contexto nacional e internacional. Mantener una constante formación y actualización académica de todas las personas que conforman el grupo, propiciando el desarrollar de sus potencialidades en base a una cultura de investigación, trabajo en equipo y ayuda a la región.
 						<br><br> METANOIA es una palabra griega sinónimo de conversión o cambio, el cual busca sobrepasar el conocimiento de la mente he ir más allá; en contexto es trascender del pensamiento a la práctica; de esta forma METANOIA se proyecta como un grupo interdisciplinario que por sus proyectos, participaciones y producción, será reconocido por su calidad, excelencia investigativa, innovación y pertinencia de sus trabajos en el campo de la Automatización y la Telemetría aplicada, dirigida a solventar problemáticas regionales acordes a los plan de desarrollo y de competitividad del departamento.
-
 					</p>
 					<!-- <p>
-						<br> <strong>Misión</strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
+							<br> <strong>Misión</strong><br>
+							<label for="" class="bg-danger">Información no enviada</label>
 					</p>
 					<p>
-						<br> <strong>Visión</strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
+							<br> <strong>Visión</strong><br>
+							<label for="" class="bg-danger">Información no enviada</label>
 					</p> -->
 					<p>
 						<br> <strong>Historia </strong><br>
-						El grupo de investigación fue creado en el año de 2009 ante una necesidad de solventar necesidades del medio en el ámbito electrónico, inicialmente el grupo incursionó en el mundo de la telemetría desarrollando proyectos guiados a la tele medición de variables importantes en ambientes peligrosos y remotos como lo son las riberas de los ríos en cercanías al volcán Galeras. 
+						El grupo de investigación fue creado en el año de 2009 ante una necesidad de solventar necesidades del medio en el ámbito electrónico, inicialmente el grupo incursionó en el mundo de la telemetría desarrollando proyectos guiados a la tele medición de variables importantes en ambientes peligrosos y remotos como lo son las riberas de los ríos en cercanías al volcán Galeras.
 						<br><br>Posteriormente bajo la reforma en el plan de desarrollo departamental y los avances en el plan de competitividad de Nariño bajo el gobierno del Señor Raúl Delgado en el año de 2011, el grupo decide orientar sus trabajos al fortalecimiento de cadenas productivas agrícolas y agropecuarias, buscando demostrar que la aplicación de la electrónica, la mecánica y la telemetría pueden ofrecer grandes beneficios a este tipo de procesos mejorando la calidad del producto final, minimizando riesgos de producción, cuidando el medio ambiente y lo más importante mejorando las condiciones de trabajo de los productores en busca de un mayor bienestar.
-
 					</p>
 				</div>
 				<div class="col-9 text-center ">
@@ -230,7 +225,6 @@
 				</div>
 			</div>
 		</div>
-
 		<!-- imágen de grupo de investigación  -->
 		<div class="container-fluid py-5" id="grupo3">
 			<div class="row d-flex justify-content-center">
@@ -287,9 +281,8 @@
 			<div class="row fuente-institucional texto-azul-os p-sm-5 d-flex justify-content-center">
 				<div class="col-9 pt-lg-3 mt-lg-4 f-myriad text-justify">
 					<!-- <p>
-						<br> <strong>Descripción:</strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
-
+							<br> <strong>Descripción:</strong><br>
+							<label for="" class="bg-danger">Información no enviada</label>
 					</p> -->
 					<p>
 						<br> <strong>Misión</strong><br>
@@ -297,7 +290,7 @@
 					</p>
 					<p>
 						<br> <strong>Visión</strong><br>
-						Para el año 2020 el grupo de investigación SEDMATEC será un grupo categorizado en el sistema nacional de investigación Colciencias, de manera que, se puedan verificar los productos de investigación en el área de la informática, favoreciendo la proyección institucional en el ámbito regional, nacional e internacional. 
+						Para el año 2020 el grupo de investigación SEDMATEC será un grupo categorizado en el sistema nacional de investigación Colciencias, de manera que, se puedan verificar los productos de investigación en el área de la informática, favoreciendo la proyección institucional en el ámbito regional, nacional e internacional.
 					</p>
 					<p>
 						<br> <strong>Objetivos </strong><br>
@@ -311,21 +304,18 @@
 						<br> •	Fomentar la actualización y formación de los integrantes del grupo con un enfoque interdisciplinario, en temas relacionados con las líneas de investigación.
 						<br> •	Ser la plataforma para la proyección del programa de Ingeniería Informática en cuanto a programas de formación y cursos de extensión.
 						<br> •	Establecer redes y alianzas estratégicas con diversas instituciones de carácter público privado de contexto local, regional y nacional, al tiempo que gestiona recursos a través de diferentes estamentos y esquemas de financiamiento para el desarrollo de los proyectos.
-
 					</p>
 					<p>
 						<br> <strong>Líneas de investigación </strong><br>
 						Las líneas de investigación del programa, son fruto del consenso, en la reflexión de las siguientes cuestiones: <br> <br>
-
 						Talento humano con el que cuenta el programa y que sustentará las líneas de investigación que se determinen. Los perfiles de los docentes que se contraten deberían estar acorde a estas líneas. <br>
 						Proyectos que se desarrollen apoyando estas líneas de investigación y que también permitan sustentarlas a través del tiempo. Estos proyectos deben estar en concordancia con los grupos y semilleros que se han creado en el programa y que soportan la investigación. <br>
 						Conformación de un aparato investigativo que se fortalezca y que permita generar proyección del programa, al interno y externo de la Institución. Este aparato investigativo, generará una especie de “inercia heredada” (término acuñado por el profesor Juan Carlos Alvarado) que se fortalecerá a futuro, incluso si faltan las personas. <br>
 						Otros productos de investigación (artículos, ponencias, libros, etc.) que soporten la producción de conocimiento en las líneas escogidas.
-
 					</p>
 					<p>
 						<br> <strong>Línea de investigación en desarrollo de software </strong><br>
-						Orientada en la creación de software para Ciudades Inteligentes y para el fortalecimiento de la Industria TI. 
+						Orientada en la creación de software para Ciudades Inteligentes y para el fortalecimiento de la Industria TI.
 						
 					</p>
 					<p>
@@ -336,17 +326,15 @@
 						<br> Computación móvil
 						<br> Objetos Virtuales de Aprendizaje
 						<br> Realidad Aumentada
-
 					</p>
 					<p>
 						<br> <strong>Línea de investigación en sistemas inteligentes </strong><br>
-						Orientada al procesamiento de la información a partir de los Big Data, para el desarrollo de sistemas autónomos. 	
+						Orientada al procesamiento de la información a partir de los Big Data, para el desarrollo de sistemas autónomos.
 					</p>
 					<p>
 						<br> <strong>Sub líneas </strong><br>
 						<br> Inteligencia Computacional
 						<br> Robótica
-
 					</p>
 				</div>
 				<div class="col-9 text-center ">
@@ -354,8 +342,6 @@
 				</div>
 			</div>
 		</div>
-
-
 		<!-- imágen de grupo de investigación  -->
 		<div class="container-fluid py-5" id="grupo4">
 			<div class="row d-flex justify-content-center">
@@ -419,16 +405,16 @@
 						<br><br> Ante los resultados y el aporte académico del evento, el grupo se fortaleció, ejemplo de esto fue su posterior participación en la II Rueda de Negocios de Innovación Cauca – Nariño. Actualmente se trabaja en nuevos proyectos de investigación cultural y en la realización de la segunda edición del Encuentro de Tejido Ancestral.
 					</p>
 					<!-- <p>
-						<br> <strong>Misión</strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
+							<br> <strong>Misión</strong><br>
+							<label for="" class="bg-danger">Información no enviada</label>
 					</p> -->
 					<p>
 						<br> <strong>Visión</strong><br>
 						El grupo MODA+CULTURA aspira a repercutir en la comunidad académica, el desarrollo sostenible y el emprendimiento empresarial del sector moda; defender el reconocimiento de los pueblos ancestrales y nuestro patrimonio natural y cultural.
 					</p>
 					<!-- <p>
-						<br> <strong>Historia </strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
+							<br> <strong>Historia </strong><br>
+							<label for="" class="bg-danger">Información no enviada</label>
 					</p> -->
 				</div>
 				<div class="col-9 text-center ">
@@ -436,9 +422,6 @@
 				</div>
 			</div>
 		</div>
-
-
-
 		<!-- imágen de grupo de investigación  -->
 		<div class="container-fluid py-5" id="grupo5">
 			<div class="row d-flex justify-content-center">
@@ -496,19 +479,19 @@
 				<div class="col-9 pt-lg-3 mt-lg-4 f-myriad text-justify">
 					<p>
 						<br> <strong>Descripción:</strong><br>
-						El equipo de investigación CIAC pertenece a la Facultad de Facultad de Ciencias Administrativas, Económicas y Contables de la Corporación Universitaria Autónoma de Nariño. Se crea para responder a las necesidades de los empresarios de la región desarrollando investigaciones disciplinares y aplicadas, consultorías, asesorías y capacitación. Además de promover, apoyar y generar la investigación en el ámbito de las ciencias administrativas y contables, desarrollando proyectos desde una perspectiva social, cultural, económica generando el desarrollo de sus capacidades y habilidades investigativas que le permitan a la universidad interactuar con el desarrollo de la región en el campo empresarial. 
+						El equipo de investigación CIAC pertenece a la Facultad de Facultad de Ciencias Administrativas, Económicas y Contables de la Corporación Universitaria Autónoma de Nariño. Se crea para responder a las necesidades de los empresarios de la región desarrollando investigaciones disciplinares y aplicadas, consultorías, asesorías y capacitación. Además de promover, apoyar y generar la investigación en el ámbito de las ciencias administrativas y contables, desarrollando proyectos desde una perspectiva social, cultural, económica generando el desarrollo de sus capacidades y habilidades investigativas que le permitan a la universidad interactuar con el desarrollo de la región en el campo empresarial.
 					</p>
 					<p>
 						<br> <strong>Visión</strong><br>
-						Ser un grupo reconocido en el ámbito académico universitario por el aporte de sus investigaciones, consultorías, asesorías y capacitaciones buscando el crecimiento, bienestar y desarrollo de la dinámica e innovación empresarial, social y económica de la Región. Consolidarse como un grupo dinámico, abierto a la innovación dentro del contexto educativo, con proyección social con actividades de impacto preocupado por el desarrollo de la Región. 
+						Ser un grupo reconocido en el ámbito académico universitario por el aporte de sus investigaciones, consultorías, asesorías y capacitaciones buscando el crecimiento, bienestar y desarrollo de la dinámica e innovación empresarial, social y económica de la Región. Consolidarse como un grupo dinámico, abierto a la innovación dentro del contexto educativo, con proyección social con actividades de impacto preocupado por el desarrollo de la Región.
 					</p>
 					<!-- <p>
-						<br> <strong>Misión</strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
+							<br> <strong>Misión</strong><br>
+							<label for="" class="bg-danger">Información no enviada</label>
 					</p>
 					<p>
-						<br> <strong>Historia </strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
+							<br> <strong>Historia </strong><br>
+							<label for="" class="bg-danger">Información no enviada</label>
 					</p> -->
 				</div>
 				<div class="col-9 text-center ">
@@ -516,8 +499,6 @@
 				</div>
 			</div>
 		</div>
-
-
 		
 		<!-- imágen de grupo de investigación  -->
 		<div class="container-fluid py-5" id="grupo6">
@@ -575,12 +556,12 @@
 			<div class="row fuente-institucional texto-azul-os p-sm-5 d-flex justify-content-center">
 				<div class="col-9 pt-lg-3 mt-lg-4 f-myriad text-justify">
 					<!-- <p>
-						<br> <strong>Descripción:</strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
+							<br> <strong>Descripción:</strong><br>
+							<label for="" class="bg-danger">Información no enviada</label>
 					</p>
 					<p>
-						<br> <strong>Misión</strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
+							<br> <strong>Misión</strong><br>
+							<label for="" class="bg-danger">Información no enviada</label>
 					</p> -->
 					<p>
 						<br> <strong>Visión</strong><br>
@@ -596,8 +577,7 @@
 						<br> •	Plantear estrategias para el desarrollo de la investigación formativa.
 						<br> •	Gestionar la presentación, aprobación y financiación de proyectos en las líneas del grupo.
 						<br> •	Establecer vínculos con otros grupos de investigación a nivel Nacional e Internacional.
-						<br> •	Divulgar a nivel Nacional e Internacional por diferentes medios los resultados de las investigaciones. 
-
+						<br> •	Divulgar a nivel Nacional e Internacional por diferentes medios los resultados de las investigaciones.
 					</p>
 				</div>
 				<div class="col-9 text-center ">
@@ -605,8 +585,6 @@
 				</div>
 			</div>
 		</div>
-
-
 		<!-- imágen de grupo de investigación  -->
 		<div class="container-fluid py-5" id="grupo7">
 			<div class="row d-flex justify-content-center">
@@ -634,7 +612,7 @@
 				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-os p-2">
 					<div class="row">
 						<div class="col-12 col-sm-6 text-left text-sm-right">Site:</div>
-						<div class="col-12 col-sm-6 "><a target="gea" href="http://cidae.aunar.edu.co/images/Documentos/EgresadosAUNAR.pdf" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado fuente-institucional">Más Información</a></div>						
+						<div class="col-12 col-sm-6 "><a target="gea" href="http://cidae.aunar.edu.co/images/Documentos/EgresadosAUNAR.pdf" class="p-2 border borde-azul badge badge-pill hover-amarillo hover-texto-blanco texto-azul sin-texto-subrayado fuente-institucional">Más Información</a></div>
 					</div>
 				</div>
 				<div class="col-8 col-md-7 border-bottom borde-azul fondo-gris-c  p-2">
@@ -663,23 +641,22 @@
 			<div class="row fuente-institucional texto-azul-os p-sm-5 d-flex justify-content-center">
 				<div class="col-9 pt-lg-3 mt-lg-4 f-myriad text-justify">
 					<!-- <p>
-						<br> <strong>Descripción:</strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
+							<br> <strong>Descripción:</strong><br>
+							<label for="" class="bg-danger">Información no enviada</label>
 					</p>
 					<p>
-						<br> <strong>Misión</strong><br>
-						<label for="" class="bg-danger">Información no enviada</label>
+							<br> <strong>Misión</strong><br>
+							<label for="" class="bg-danger">Información no enviada</label>
 					</p> -->
 					<p>
 						<br> <strong>Visión</strong><br>
-						En el año 2019 seremos reconocidos como un grupo de investigación pionero, dinámico y en crecimiento tanto en la institución como en la región. Para ello, nos ocuparemos por ofrecer un portafolio de servicios pertinente y de alta calidad para aportar en el desarrollo integral de los egresados de la AUNAR. 					
+						En el año 2019 seremos reconocidos como un grupo de investigación pionero, dinámico y en crecimiento tanto en la institución como en la región. Para ello, nos ocuparemos por ofrecer un portafolio de servicios pertinente y de alta calidad para aportar en el desarrollo integral de los egresados de la AUNAR.
 					</p>
 					<p>
 						<br> <strong>Plan de trabajo </strong><br>
 						<br> •	Velada egresados AUNAR: Tiene como objetivo fortalecer los lazos entre la universidad y sus nuevos egresados. La actividad está estructurada para desarrollarse en un periodo de tiempo máximo de una hora y treinta minutos, a través de un conversatorio, una reflexión espiritual y la entrega de un carné que acredita y/o reconoce al estudiante como Egresado Aunar. Se desea institucionalizar la actividad semestralmente, una semana antes de la ceremonia de graduación.
 						<br> •	Análisis de la situación laboral actual de los egresados del programa de administración de empresas de la Corporación Universitaria Autónoma de Nariño sede Pasto entre el periodo de 2008-2012.
-						<br> •	Estructuración del plan de negocios para la creación de la asociación de egresados del programa de administración de empresas de la Corporación Universitaria Autónoma de Nariño. ¿Investigación docente relacionada con el impacto del seguimiento a los egresados para las instituciones universitarias? 
-
+						<br> •	Estructuración del plan de negocios para la creación de la asociación de egresados del programa de administración de empresas de la Corporación Universitaria Autónoma de Nariño. ¿Investigación docente relacionada con el impacto del seguimiento a los egresados para las instituciones universitarias?
 					</p>
 				</div>
 				<div class="col-9 text-center ">
@@ -687,7 +664,6 @@
 				</div>
 			</div>
 		</div>
-
 		<!-- imágen de grupo de investigación  -->
 		<div class="container-fluid py-5" id="grupo8">
 			<div class="row d-flex justify-content-center">
@@ -760,15 +736,14 @@
 						<br> •	Botánica, Etnobotánica, etnozooloogía y etnomedicina
 						<br> •	Transformación de plantas aromáticas, medicinales condimentarias, subproductos y afines.
 						<br> •	Educación y Pedagogía.
-
 					</p>
 					<!-- <p>
-						<br> <strong>Visión</strong><br>
-						
+							<br> <strong>Visión</strong><br>
+							
 					</p>
 					<p>
-						<br> <strong>Historia </strong><br>
-						
+							<br> <strong>Historia </strong><br>
+							
 					</p> -->
 				</div>
 				<div class="col-9 text-center ">
@@ -776,7 +751,6 @@
 				</div>
 			</div>
 		</div>
-
 		<!-- footer -->
 		<?php include_once('secciones/footer-principal.php');?>
 		

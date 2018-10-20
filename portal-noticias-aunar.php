@@ -4,7 +4,7 @@
 		<?php /*ENLACES DE LIBRERIAS*/ include_once('secciones/links-local.php');  ?>
 		<title>PORTAL DE NOTICIAS - AUTÓNOMA DE NARIÑO</title>
 		<meta name="description" content="Leidy Mera, estudiante de la Corporación Universitaria Autónoma de Nariño, sede Ipiales, ha ganado importantes reconocimientos a nivel mundial debido a su pasión y dedicación por el ciclo montañismo ¡Conozcamos esta desafiante historia!">
-		<meta name="keywords" content="Leidy Mera Gana importantes reconocimientos">   
+		<meta name="keywords" content="Leidy Mera Gana importantes reconocimientos">
 		<meta property="og:image" <?php echo 'content=http://'.$servidor.'/img/noticias/slider-portal-de-noticias.jpg'?>>
 	</head>
 	<body>
@@ -12,8 +12,6 @@
 		<?php
 			include_once('secciones/menu1.php');
 			include_once('secciones/logo-central.php');
-			//include_once('secciones/zoom.php');
-			//include_once('secciones/redes-sociales-aunar.php');
 			include_once('secciones/modal-traductor.php');
 			include_once('modal/modal-contactenos.php');
 		?>
@@ -25,9 +23,7 @@
 				</div>
 			</div>
 		</div>
-
 		<?php include_once('secciones/menu2.php'); ?>
-
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-2 p-2 fondo-azul text-white">
@@ -53,7 +49,6 @@
 						<div class="col-8 text-center f-negrita texto-azul border-bottom borde-azul pb-3 f-size-18">
 							Ipialeña ha conseguido importantes reconocimientos en campeonatos internacionales de ciclo montañismo
 						</div>
-
 						<div class="col-8 pt-sans f-italica p-lg-4"><p>Leidy Mera, estudiante de la Corporación Universitaria Autónoma de Nariño, sede Ipiales, ha ganado importantes reconocimientos a nivel mundial debido a su pasión y dedicación por el ciclo montañismo ¡Conozcamos esta desafiante historia!</p></div>
 						
 						<div class="col-8">
@@ -67,7 +62,6 @@
 							<p>¿Qué es lo que más te gusta del ciclo montañismo?</p>
 							<p>Lo que más me gusta del ciclo montañismo es que uno se siente muy libre en esto, recorriendo todos los lugares, paisajes, y sobretodo que uno conoce a diario muchos lugares. También cuando uno sale del país y conoce diferentes costumbres, cosas y lo más bonito de todo es que se aprende y son enseñanzas para toda la vida.</p>
 						</div>
-
 					</div>
 				</div>
 			</div>
@@ -79,13 +73,11 @@
 				<a href="https://www.facebook.com/sharer/sharer.php?u=http://190.14.239.67/portal-noticias-aunar.php" target="_blank"><img src="https://lh3.googleusercontent.com/-H8xMuAxM-bE/UefWwJr2vwI/AAAAAAAAEdY/N5I41q19KMk/s32-no/facebook.png"></a>
 			</div>
 		</div>
-	<!-- selider de noticias -->
-		<?php 
+		<!-- selider de noticias -->
+		<?php
 			include_once('slider/noticias-autonoma-de-narino.php');
-			include_once('secciones/footer-principal.php'); ?>
-	<!-- fin selider de noticias -->
-
-	
-
+		include_once('secciones/footer-principal.php'); ?>
+		<!-- fin selider de noticias -->
+		
 	</body>
 </html>

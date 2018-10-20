@@ -9,8 +9,6 @@
 		<?php
 			include_once('secciones/menu1.php');
 			include_once('secciones/logo-central.php');
-			//include_once('secciones/zoom.php');
-			//include_once('secciones/redes-sociales-aunar.php');
 			include_once('secciones/modal-traductor.php');
 			include_once('modal/modal-contactenos.php');
 		?>
@@ -18,7 +16,7 @@
 			<div class="row">
 				<div class="col-12">
 					
-						<img class="mx-auto img-fluid" width="100%" src="img/convocatorias/convocatorias-aunar.jpg"/>
+					<img class="mx-auto img-fluid" width="100%" src="img/convocatorias/convocatorias-aunar.jpg"/>
 					
 				</div>
 			</div>
@@ -52,12 +50,9 @@
 						<div class="row">
 							<div class="col-12 p-2 f-size-18 f-negrita fondo-gris-c hover-texto-amarillo hover-transparente ">Docentes</div>
 							<div class="col-12 fondo-gris-c py-2">
-									
-
-
-
-				<!-- acordion Docentes-->
-							
+								
+								<!-- acordion Docentes-->
+								
 								<div id="accordion" class="accordion">
 									<div class="card mb-0 sin-borde">
 										
@@ -77,7 +72,6 @@
 															<div class="col-12"><h3 class="pt-sans">Resultados</h3> </div>
 															<div class="col-12"><a class="texto-azul-os" href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_1"> Descargar términos de la Convocatoria </a></div>
 														</div>
-
 													</div>
 												</div>
 												<!-- fin convocatoria 1 -->
@@ -85,7 +79,7 @@
 												<!-- convocatoria 2 -->
 												<div class="card-header collapsed fondo-gris-c f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
 													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad hover-texto-amarillo">
-													DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES
+														DOCENTE FACULTAD DE CIENCIAS ADMINISTRATIVAS Y CONTABLES
 													</a>
 												</div>
 												<div id="collapseTwo" class="collapse" data-parent="#accordion" >
@@ -97,15 +91,14 @@
 														</div>
 													</div>
 												</div>
-												<!-- fin convocatoria 2 -->												
+												<!-- fin convocatoria 2 -->
 												
 											</div>
 										</div>
 									</div>
 								</div>
-							
-							<!-- fin acordeón docentes -->
-
+								
+								<!-- fin acordeón docentes -->
 							</div>
 						</div>
 					</div>
@@ -115,8 +108,8 @@
 							<div class="col-12 fondo-gris-c py-2">
 								
 								
-				<!-- acordion Docentes-->
-							
+								<!-- acordion Docentes-->
+								
 								<div id="accordion2" class="accordion">
 									<div class="card mb-0 sin-borde">
 										
@@ -136,7 +129,6 @@
 															<div class="col-12"><h3 class="pt-sans">Resultados</h3> </div>
 															<div class="col-12"><a class="texto-azul-os" href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_1"> Descargar términos de la Convocatoria </a></div>
 														</div>
-
 													</div>
 												</div>
 												<!-- fin convocatoria 1 -->
@@ -144,7 +136,7 @@
 												<!-- convocatoria 2 -->
 												<div class="card-header collapsed fondo-gris-c f-negrita" data-toggle="collapse" data-parent="#accordion2" href="#collapse4">
 													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad hover-texto-amarillo">
-													PERSONAL ADMINISTRATIVO PARA REALIZAR ...
+														PERSONAL ADMINISTRATIVO PARA REALIZAR ...
 													</a>
 												</div>
 												<div id="collapse4" class="collapse" data-parent="#accordion2" >
@@ -156,28 +148,23 @@
 														</div>
 													</div>
 												</div>
-												<!-- fin convocatoria 2 -->												
+												<!-- fin convocatoria 2 -->
 												
 											</div>
 										</div>
 									</div>
 								</div>
-							
-							<!-- fin acordeón docentes -->
+								
+								<!-- fin acordeón docentes -->
 								
 							</div>
 						</div>
 					</div>
 					
 					</div> 		<!-- fin docentes y administrativos -->
-
-
 					
 				</div>
 			</div>
-
-
-
 			
 			<br>
 			<?php include_once('secciones/footer-principal.php'); ?>
