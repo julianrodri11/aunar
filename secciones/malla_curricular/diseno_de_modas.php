@@ -2,10 +2,12 @@
 		<div class="container-fluid mb-5">
 			<div class="row  fuente-institucional texto-azul">
 				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita pointer">
-					<a class="texto-azul-os sin-texto-subrayado" target="_blanck" href="docs/malla_curricular/diseño_modas.pdf">Malla Curricular</a>
+					<a class="texto-azul-os sin-texto-subrayado" target="_blanck" href="docs/malla_curricular/diseño_modas.pdf" data-toggle="tooltip" data-placement="auto" title="Abrir malla">Malla Curricular</a>
 				</div>
 				<div class="col-4"></div>
-				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">Grupos de Investigacón</div>
+				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">
+					<a class="texto-azul-os sin-texto-subrayado" target="_disenom" href="grupos-de-investigacion#grupo4" data-toggle="tooltip" data-placement="auto" title="Ver grupo">Grupos de Investigacón</a>
+				</div>
 				
 			</div>
 			<!-- slider diseño de modas -->
@@ -14,12 +16,13 @@
 
 			
 <!-- acordion Docentes-->
-	<div class="container">
+	
+	<!-- <div class="container">
 		<div id="accordion" class="accordion">
 			<div class="card mb-0 sin-borde">
 				
 				<div class="row d-flex justify-content-center">
-					<!-- lado ziquierdo -->
+	
 					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseOne">
@@ -81,8 +84,10 @@
 							</div>
 						</div>
 </div>
-<!-- fin lado ziquierdo -->
-<!-- lado derecho -->
+
+
+
+
 					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 						
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
@@ -146,11 +151,13 @@
 
 
 					</div>
-					<!-- fin lado derecho -->
+					
+
+
 				</div>
 			</div>
 		</div>
 	</div>
-	<!-- fin acordeon docentes -->
+	
 			
-		</div>
+		</div> -->

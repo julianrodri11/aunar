@@ -154,7 +154,21 @@
 				<div class="col-12 col-sm-6 border-left b-color-dmodas">
 					<div class="col-12"><h5 class="fuente-institucional f-color-dmodas f-negrita">¿QUÉ HACE UN</h5><h3 class="fuente-institucional f-color-dmodas f-negrita text-center">TÉCNICO LABORAL POR COMPETENCIAS EN DISEÑO Y CONFECCIÓN DE MODAS?</h3></div>
 					<div class="col-12 pt-sans text-justify">
-						No se ha enviado información
+					<br> - Desarrollar colecciones con alto contenido estético y creativo coherentes
+					con las tendencias de la moda mediante el uso de software específico.
+					<br> - Crear y diseñar prendas femeninas, masculinas e infantiles de diferentes
+					líneas del vestuario.
+					<br> - Patronar, escalar y trazar prendas de las diferentes líneas y universos del
+					vestuario.
+					<br> - Confeccionar prendas de vestir bajo altos estándares de calidad.
+					<br> - Reconocer los conceptos de calidad y producción de prendas de vestir
+					requeridos por el sector textil, regional y nacional.
+					<br> - Estructurar procesos productivos de prendas de vestir desde la idea
+					creativa hasta el producto final garantizando su calidad.
+					<br> - Interpretar instrumentos técnicos de producción y de fabricación en la
+					confección de prendas de vestir.
+					<br> - Supervisar las diferentes funciones de la cadena de suministros de una
+					empresa de confección.
 					</div>
 				</div>
 			</div>

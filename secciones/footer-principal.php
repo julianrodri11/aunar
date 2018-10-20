@@ -7,7 +7,7 @@
       
       <div class="row d-flex justify-content-between">
         <!-- COLUMNA 1 -->
-        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 py-2 text-center text-sm-left">
           <label class=" texto-amarillo fuente-institucional small f-negrita" >REGLAMENTOS AUNAR</label>
           <div class="mb-1 text-light fuente-institucional small">
             <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f1" href="docs/footer/Estatuto_General.pdf">
@@ -38,18 +38,10 @@
         </div>
 
         <!-- COLUMNA 2 -->
-        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 py-2 text-center text-sm-left text-md-center">
+          
           <label class=" texto-amarillo fuente-institucional small f-negrita" >DOCUMENTOS AUNAR</label>
-          <div class="mb-1 text-light fuente-institucional small">
-            <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f5" href="docs/footer/Derechos_Pecuniarios.pdf">
-              Derechos pecuniarios 2018
-             </a>
-          </div>
-          <div class="mb-1 text-light fuente-institucional small">
-            <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f6" href="docs/footer/Memorias_Capacitacion_AUNAR.pdf">
-              Memorias Capacitación
-             </a>
-          </div>
+
           <div class="mb-1 text-light fuente-institucional small">
             <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f7" href="docs/footer/PLAN_DESARROLLO_2013_2023.pdf">
               Plan de Desarrollo 2013-2023
@@ -64,12 +56,7 @@
             <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f9" href="docs/footer/Plan_Educactivo_Institucional.pdf">
               Plan Educativo Institucional
              </a>
-          </div>
-          <div class="mb-1 text-light fuente-institucional small">
-            <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f10" href="docs/footer/Memorias_Taller_AUNAR.pdf">
-              Memorias Taller
-             </a>
-          </div>
+          </div>          
           <div class="mb-1 text-light fuente-institucional small">
             <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f11" href="docs/footer/Estatuto_Bienestar.pdf">
               Estatuto Bienestar
@@ -84,9 +71,24 @@
         </div>
 
 
-
         <!-- COLUMNA 3 -->
-        <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 py-2 text-center text-sm-left">
+          <label class=" texto-amarillo fuente-institucional small f-negrita" >FORMATOS AUNAR</label>       
+          <div class="mb-1 text-light fuente-institucional small ">
+            <a class="text-white" href="docs/footer/Hoja_Vida_Docentes.doc" data-toggle="tooltip" data-placement="auto" title="Descargar formato hoja de vida docentes" target="_blanckhvd">Hoja de vida docentes</a>
+          </div>
+          <div class="mb-1 text-light fuente-institucional small ">
+            <a class="text-white" href="docs/footer/Hoja_Vida_Administrativos.doc" data-toggle="tooltip" data-placement="auto" title="Descargar formato hoja de vida administrativos" target="_blanckhva">Hoja de vida administrativos</a>
+          </div>
+          <div class="mb-1 text-light fuente-institucional small ">
+          <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Descargar formato" target="f" href="docs/footer/Actualizacion_Formato.xls">
+            Actualización de Formato
+          </a>
+          </div>          
+        </div>
+
+        <!-- COLUMNA 4 -->
+        <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-4">
           <label class=" texto-amarillo fuente-institucional small f-negrita" >DOCUMENTOS AUNAR</label>
           
           <div class="mb-1 text-light fuente-institucional small">
@@ -112,28 +114,13 @@
           </a>
           </div>        
           
-        </div>
+        </div> -->
 
-
-
-        <!-- COLUMNA 4 -->
-        <div class="col-12 col-sm-6 col-md-4 col-lg-2">
-          <label class=" texto-amarillo fuente-institucional small f-negrita" >FORMATOS AUNAR</label>       
-          <div class="mb-1 text-light fuente-institucional small ">
-            <a class="text-white" href="docs/footer/Hoja_Vida_Docentes.doc" data-toggle="tooltip" data-placement="auto" title="Descargar formato hoja de vida docentes" target="_blanckhvd">Hoja de vida docentes</a>
-          </div>
-          <div class="mb-1 text-light fuente-institucional small ">
-            <a class="text-white" href="docs/footer/Hoja_Vida_Administrativos.doc" data-toggle="tooltip" data-placement="auto" title="Descargar formato hoja de vida administrativos" target="_blanckhva">Hoja de vida administrativos</a>
-          </div>
-          <div class="mb-1 text-light fuente-institucional small ">
-          <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Descargar formato" target="f" href="docs/footer/Actualizacion_Formato.xls">
-            Actualización de Formato
+      </div>
+      <div class="col-12 py-2 text-center text-white fuente-institucional small">
+          <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver políticas" target="politicas" href="">
+              Políticas de protección de datos Personales
           </a>
-          </div>
-          
-        </div>
-
-
       </div>
     </div>
   </div>

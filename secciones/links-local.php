@@ -43,4 +43,6 @@
 <script  type="text/javascript" src="js/jquery.smoove.min.js" async></script>
 <!-- efectos personalizados -->
 <script  type="text/javascript" src="js/efectos_smoove.js" async></script>
+<!-- libreria para compatiblidad con microsoft edge  -->
+<script  type="text/javascript" src="js/json2.js" async></script>
 <?php /*VARIABLE QUE SACA EL NOMBRE DEL SERVIDOR*/ $servidor = $_SERVER['SERVER_NAME']; ?>

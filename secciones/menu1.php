@@ -96,7 +96,7 @@
 
                         <li class="nav-item dropdown py-2">
                             <a class="nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="#" id="navbarDropdownMenu_ext" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Extenciones
+                                Extensiones
                             </a>
                             <ul class="dropdown-menu f-size-12" aria-labelledby="navbarDropdownMenu_ext">
                                 <li><a class=" dropdown-item texto-azul f-negrita hvr-underline-from-center" href="http://aunarcali.edu.co/ext/" target="_blanck_11">Cali</a>   </li>

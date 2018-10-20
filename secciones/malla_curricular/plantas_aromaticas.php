@@ -2,10 +2,12 @@
 		<div class="container-fluid mb-5">
 			<div class="row  fuente-institucional texto-azul">
 				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita pointer">
-				<a class="texto-azul-os sin-texto-subrayado" target="_blanck" href="docs/malla_curricular/plantas_aromaticas.pdf">Malla Curricular</a>
+				<a class="texto-azul-os sin-texto-subrayado" target="_blanck" href="docs/malla_curricular/plantas_aromaticas.pdf" data-toggle="tooltip" data-placement="auto" title="Abrir malla">Malla Curricular</a>
 				</div>
 				<div class="col-4"></div>
-				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">Grupos de Investigacón</div>
+				<div class="col-4 p-4  hover-texto-blanco text-center fondo-amarillo-intenso f-negrita">
+					<a class="texto-azul-os sin-texto-subrayado" target="_pa" href="grupos-de-investigacion#grupo8" data-toggle="tooltip" data-placement="auto" title="Ver grupo">Grupos de Investigacón</a>
+				</div>
 				
 			</div>
 			<!-- slider de cada carrera -->

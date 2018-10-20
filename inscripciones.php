@@ -60,7 +60,7 @@
 			<div class="col-0 col-lg-4 ">
 				<div class=""></div>
 			</div>
-			<div class="col-12 col-lg-8"><div class="col-9 mx-auto fuente-institucional text-center p-2 fondo-azul-oscuro text-white">Por favor revise las pestañas Requisitos y Admisiones para obtener mayor información</div></div>
+			<div class="col-12 col-lg-8"><div class="col-9 mx-auto fuente-institucional text-center p-2 fondo-azul-oscuro text-white">Por favor revise las pestañas Requisitos y Admitidos para obtener mayor información</div></div>
 		</div>
 	</div>
 </div>	
