@@ -21,13 +21,7 @@
     <!-------------------FIN MENÚ PRINCIPAL----------------------- -->
     <!----------------------- LOGO CENTRAL ----------------------- -->
     <?php include_once('secciones/logo-central.php');?>
-    <!-- -----------------------FIN LOGO CENTRAL------------------ -->
-    <!-- ------------------FIGURA ZOOM---------------------------- -->
-    <?php //include_once('secciones/zoom.php');?>
-    <!-- ------------------FIN ZOOM------------------------------- -->
-    <!-- ------------------REDES SOCIALES------------------------- -->
-    <?php //include_once('secciones/redes-sociales-aunar.php');?>
-    <!-- ------------------FIN REDES SOCIALES--------------------- -->
+    <!-- -----------------------FIN LOGO CENTRAL------------------ -->    
     <!-- -----------------SLIDER---------------------------------- -->
     <?php include_once('slider/slider-1.php');?>
     <!-- -----------------FIN SLIDER------------------------------ -->

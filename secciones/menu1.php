@@ -5,8 +5,6 @@
   </div>
 </div>
 
-
-
  <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top zindex-30 texto-azul fuente-institucional f-negrita btco-hover-menu">
                 
                 <!-- <a class="navbar-brand" href="#">Menú</a> -->
@@ -30,43 +28,8 @@
                                         <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2018_1.pdf" target="_blanck_2">Calendario Académico 2018-1</a></li>
                                         <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2017_2.pdf" target="_blanck_3">Calendario Académico 2017-2</a></li>
                                         <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="docs/CALENDARIO_ACADEMICO_2017_1.pdf" target="_blanck_4">Calendario Académico 2017-1</a></li>
-
-                                        <!-- <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center dropdown-toggle" href="#">Subsubmenu</a>
-                                            <ul class="dropdown-menu f-size-12">
-                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Subsubmenu action aa</a></li>
-                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Another subsubmenu action</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center dropdown-toggle" href="#">Second subsubmenu</a>
-                                            <ul class="dropdown-menu f-size-12">
-                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Subsubmenu action bb</a></li>
-                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Another subsubmenu action</a></li>
-                                            </ul>
-                                        </li> -->
                                     </ul>
                                 </li>
-
-                                <!-- <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center dropdown-toggle" href="#">Submenu 2</a>
-                                    <ul class="dropdown-menu f-size-12">
-                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Submenu action 2</a></li>
-                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Another submenu action 2</a></li>
-
-
-                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center dropdown-toggle" href="#">Subsubmenu</a>
-                                            <ul class="dropdown-menu f-size-12">
-                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Subsubmenu action 1 3</a></li>
-                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Another subsubmenu action 2 3</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center dropdown-toggle" href="#">Second subsubmenu 3</a>
-                                            <ul class="dropdown-menu f-size-12">
-                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Subsubmenu action 3 </a></li>
-                                                <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="#">Another subsubmenu action 3</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li> -->
-
                             </ul>
                         </li>
                         
@@ -110,8 +73,6 @@
                         <li class="nav-item py-2">
                             <a class=" nav-link texto-azul pl-4 pl-sm-2 border-left borde-azul hvr-underline-from-center" href="http://190.121.158.228/public/" target="_blanck_16">Graduados</a>
                         </li>
-                        
-                        
 
                     </ul>
                     <!-- boton traducir y redes -->
@@ -142,28 +103,21 @@
                                                 <a class="px-1" target="_blank_facebook" href="https://www.facebook.com/aunarpasto/">
                                                 <img src="img/facebook.ico" width="21">
                                                 </a>
-                                                
-                                                
                                             </div>                                            
                                     </div>
                                     <!-- boton traducir -->
-                                    <span class="ml-2 mr-1 f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo " data-toggle="modal"   data-target="#btn_traductor" onclick="llamar_traductor()">Idioma</span>
+                                    <div class="ml-2 mr-1 f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo " data-toggle="modal"   data-target="#btn_traductor" onclick="llamar_traductor()">Idioma</div>
                                     <!-- iconos de ampliar y reducir -->
-                                    <span class="ml-2 mr-1 f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo " >
+                                    <div class="ml-2 mr-1 f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo " >
                                         <a class="px-1 pointer" data-toggle="tooltip" data-placement="left" title="Ampliar" >A+</a>
                                         <a class="px-1 pointer" data-toggle="tooltip" data-placement="left" title="Reducir" >a-</a> 
-                                    </span>
+                                    </div>
                                     
                                 </div>
-
-                        
                     </div>
                     <!-- fin boton traducir y redes -->
-
                 </div>
             </nav>
-
 <!-- boton ir al inicio -->
-<button class="efecto-borde1" onclick="iralinicio()" id="myBtn">
-  
+<button class="efecto-borde1" onclick="iralinicio()" id="myBtn">  
 </button>
