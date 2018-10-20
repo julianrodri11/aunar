@@ -91,7 +91,7 @@
                     </select>
                   </div>
                   <div class="form-group pt-sans">
-                    <select class="form-control" id="exampleSelect1">
+                    <select class="form-control" id="exampleSelect2">
                       <option>Seleccione Programa</option>
                       <option value=""> Administración de Empresas  </option>
                       <option value=""> Contaduría Publica  </option>
@@ -117,7 +117,7 @@
                     </select>
                   </div>
                   <div class="form-group pt-sans">
-                    <select class="form-control" id="exampleSelect1">
+                    <select class="form-control" id="exampleSelect3">
                       <option>Seleccione Modalidad</option>
                       <option value="">Distancia</option>
                       <option value="">Presencial</option>

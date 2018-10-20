@@ -20,10 +20,10 @@
                 <ul class="navbar-nav mr-auto ml-md-0 ml-sm-0 ml-0 ml-0">
                     <li class="nav-item dropdown py-2">
                         <a class="nav-link dropdown-toggle texto-azul pl-4 pl-sm-2 hvr-underline-from-center" href="https://bootstrapthemes.co"
-                            id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            id="navbarDropdownMenuAdmisiones" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Admisiones
                         </a>
-                        <ul class="dropdown-menu f-size-12" aria-labelledby="navbarDropdownMenuLink">
+                        <ul class="dropdown-menu f-size-12" aria-labelledby="navbarDropdownMenuAdmisiones">
                             <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="inscripciones"
                             target="_blanck_admin">Admisiones</a></li>
                             <li><a class="dropdown-item f-negrita texto-azul hvr-underline-from-center" href="ayudas-y-becas"
