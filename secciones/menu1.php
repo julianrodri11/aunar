@@ -109,20 +109,20 @@
             <div class="row pt-2 ml-0  mr-2 d-flex justify-content-end justify-content-lg-center">
                 <div class=" f-italica f-negrita f-size-14 ">
                     <div class=" ">
+                        <a class="px-1" target="_blank_facebook" href="https://www.facebook.com/aunarpasto/">
+                            <img src="img/facebook.ico" width="21" alt="facebook">
+                        </a>
                         <a class="px-1" target="_blank_twitter" href="https://twitter.com/aunarpasto?lang=es">
                             <img src="img/twitter.ico" width="21" alt="twitter">
+                        </a>
+                        <a class="px-1" target="_blank_instagram" href="https://www.instagram.com/autonomadenarino/">
+                            <img src="img/instagram.png" width="21" alt="instagram">
                         </a>
                         <a class="px-1" target="_blank_youtube" href="https://www.youtube.com/channel/UC8MaEtIvAAZzrYLFX1AazIA">
                             <img src="img/youtube.ico" width="21" alt="youtube">
                         </a>
                         <a class="px-1" target="_blank_flickr" href="https://www.flickr.com/photos/147246490@N05/albums">
                             <img src="img/flickr.ico" width="21" alt="flickr">
-                        </a>
-                        <a class="px-1" target="_blank_instagram" href="https://www.instagram.com/autonomadenarino/">
-                            <img src="img/instagram.png" width="21" alt="instagram">
-                        </a>
-                        <a class="px-1" target="_blank_facebook" href="https://www.facebook.com/aunarpasto/">
-                            <img src="img/facebook.ico" width="21" alt="facebook">
                         </a>
                     </div>
                 </div>

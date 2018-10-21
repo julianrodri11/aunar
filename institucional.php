@@ -223,7 +223,33 @@
 								<h3 class=" f-negrita fuente-institucional texto-azul">REGLAMENTOS</h3>
 							</div>
 							<div class="col-12 p-2 px-md-5 text-justify">
-								<strong class="bg-danger">Información no enviada</strong>
+									
+										<div class="mb-1">
+											<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="f1" href="docs/footer/Estatuto_General.pdf">
+											Estatuto general
+											</a>
+										</div>
+										<div class="mb-1">
+											<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="f2" href="docs/footer/Reglamento_Administrativos.pdf">
+											Reglamento Administrativos
+											</a>
+										</div>
+										<div class="mb-1">
+											<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="f3" href="docs/footer/Reglamento_Docentes.pdf">
+											Reglamento Docentes
+											</a>
+										</div>
+										<div class="mb-1">
+											<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="f4" href="docs/footer/Reglamento_Estudiantil.pdf">
+											Reglamento Estudiantil
+											</a>
+										</div>
+										<div class="mb-1">
+											<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="fg" href="docs/trabajos_de_grado/reglamentos-trabajo-grado.pdf">
+											Reglamento trabajos de grado
+											</a>
+										</div>
+										
 							</div>
 						</div>
 						<!-- pestaña 10-->

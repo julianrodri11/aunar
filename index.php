@@ -91,6 +91,14 @@
                     </select>
                   </div>
                   <div class="form-group pt-sans">
+                    <select class="form-control" id="exampleSelect3">
+                      <option>Seleccione Modalidad</option>
+                      <option value="">Distancia</option>
+                      <option value="">Presencial</option>
+                      <option value="">Virtual</option>
+                    </select>
+                  </div>
+                  <div class="form-group pt-sans">
                     <select class="form-control" id="exampleSelect2">
                       <option>Seleccione Programa</option>
                       <option value=""> Administración de Empresas  </option>
@@ -114,14 +122,6 @@
                       <option value=""> Tecnología en Mercadeo Agropecuario </option>
                       <option value=""> Tecnología en Producción Gráfica  </option>
                       <option value=""> Tecnología en Transformación de Plantas Aromáticas  </option>
-                    </select>
-                  </div>
-                  <div class="form-group pt-sans">
-                    <select class="form-control" id="exampleSelect3">
-                      <option>Seleccione Modalidad</option>
-                      <option value="">Distancia</option>
-                      <option value="">Presencial</option>
-                      <option value="">Virtual</option>
                     </select>
                   </div>
                   

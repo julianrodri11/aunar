@@ -172,7 +172,7 @@
 				<div class="col-12 text-center"><h1 class="pt-sans texto-azul-os f-negrita py-5">Plan de Estudios</h1></div>
 			</div>
 			<div class="row d-flex bd-highlight justify-content-center">
-				<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+				<div class="col-12 col-sm-6 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 					<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 						<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 							<div class="row p-2 ">	<div class="col-12  "><strong>I Semestre</strong></div> </div>
@@ -185,7 +185,7 @@
 						<div class="col-12">-Herramientas Pedagógicas Y Didácticas De La Educación A Distancia		</div>
 					</div>
 				</div>
-				<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+				<div class="col-12 col-sm-6 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 					<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 						<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 							<div class="row p-2 ">	<div class="col-12  "><strong>II Semestre</strong></div> </div>
@@ -198,7 +198,7 @@
 						<div class="col-12">-Desarrollo De Competencia Comunicativa  En Segunda Lengua A 1 1  Basico Principiante	</div>
 					</div>
 				</div>
-				<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+				<div class="col-12 col-sm-6 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 					<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 						<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 							<div class="row p-2 ">	<div class="col-12  "><strong>III Semestre</strong></div> </div>
@@ -213,7 +213,7 @@
 						<div class="col-12">-Teoría Del Conocimiento	</div>
 					</div>
 				</div>
-				<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+				<div class="col-12 col-sm-6 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 					<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 						<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 							<div class="row p-2 ">	<div class="col-12  "><strong>IV Semestre</strong></div> </div>
@@ -227,7 +227,7 @@
 						<div class="col-12">-Competencia Comunicativa En Segunda Lengua  A 2 1 Básico Intermedio		</div>
 					</div>
 				</div>
-				<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+				<div class="col-12 col-sm-6 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 					<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 						<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 							<div class="row p-2 ">	<div class="col-12  "><strong>V Semestre</strong></div> </div>
@@ -242,12 +242,7 @@
 						<div class="col-12">-Métodos Y Técnicas De Investigación I		</div>
 					</div>
 				</div>
-			</div>
-			
-		</div>
-		<div class="container-fluid">
-			<div class="row d-flex bd-highlight justify-content-center">
-				<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+				<div class="col-12 col-sm-6 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 					<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 						<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 							<div class="row p-2 ">	<div class="col-12  "><strong>VI Semestre</strong></div> </div>
@@ -262,7 +257,7 @@
 						<div class="col-12">-Seminario De Grado I		</div>
 					</div>
 				</div>
-				<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+				<div class="col-12 col-sm-6 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 					<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 						<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 							<div class="row p-2 ">	<div class="col-12  "><strong>VII Semestre</strong></div> </div>
@@ -277,7 +272,7 @@
 						<div class="col-12">-Seminario De Grado Ii		</div>
 					</div>
 				</div>
-				<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+				<div class="col-12 col-sm-6 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 					<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 						<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 							<div class="row p-2 ">	<div class="col-12  "><strong>VIII Semestre</strong></div> </div>
@@ -290,15 +285,14 @@
 						<div class="col-12">-Proyecto De Investigación		</div>
 					</div>
 				</div>
-				<div class="col-12 col-sm-4 col-md-3 col-lg-2 borde-amarillo flex-fill bd-highlight borde-1 border">
+				<div class="col-12 col-sm-6 col-lg-4 borde-amarillo flex-fill bd-highlight borde-1 border">
 					<div class="row pt-sans texto-azul-os p-2 p-lg-3">
 						<div class="col-12 text-center d-flex justify-content-center fondo-gris-c mt-5">
 							<div class="row p-2 ">	<div class="col-12  "><strong>IX Semestre</strong></div> </div>
 						</div>
 						
 						<div class="col-12">-Electiva		</div>
-						<div class="col-12">-Diseño E Implementación De Sistemas De Telemetría	</div>
-						
+						<div class="col-12">-Diseño E Implementación De Sistemas De Telemetría	</div>						
 						<div class="col-12">-Técnicas Y Herramientas De Seguridad Informática		</div>
 						<div class="col-12">-Auditoria De Sistemas		</div>
 						<div class="col-12">-Práctica Profesional		</div>
@@ -306,9 +300,10 @@
 						<div class="col-12">-Desarrollo Del Proyecto De Investigación		</div>
 					</div>
 				</div>
+				
 			</div>
 			
-		</div>
+		</div>		
 		
 		<!-- fin plan de estudios -->
 		
