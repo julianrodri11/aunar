@@ -4,6 +4,7 @@
 
 <script  type="text/javascript" src="js/jquery.min.js" async></script>
 <script  type="text/javascript" src="js/popper.min.js" async></script>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <noscript id="deferred-styles">
 <link rel="stylesheet" type="text/css" href="css/personalizado.css">
 <link rel="stylesheet" type="text/css" href="css/hover.css">
@@ -22,7 +23,6 @@ window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
 if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
 else window.addEventListener('load', loadDeferredStyles);
 </script>
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <script  type="text/javascript" src="js/bootstrap.min.js" async></script>
 <script  type="text/javascript" src="js/personalizado.js" async></script>
 <script  type="text/javascript" src="js/jquery.smoove.min.js" async></script>
