@@ -107,32 +107,37 @@
         <!-- boton traducir y redes -->
         <div class="rectangulo-sesgado mb-0">
             <div class="row pt-2 ml-0  mr-2 d-flex justify-content-end justify-content-lg-center">
-                <div class=" f-italica f-negrita f-size-14 ">
-                    <div class=" ">
-                        <a class="px-1" target="_blank_facebook" href="https://www.facebook.com/aunarpasto/">
-                            <img src="img/facebook.ico" width="21" alt="facebook">
-                        </a>
-                        <a class="px-1" target="_blank_twitter" href="https://twitter.com/aunarpasto?lang=es">
-                            <img src="img/twitter.ico" width="21" alt="twitter">
-                        </a>
-                        <a class="px-1" target="_blank_instagram" href="https://www.instagram.com/autonomadenarino/">
-                            <img src="img/instagram.png" width="21" alt="instagram">
-                        </a>
-                        <a class="px-1" target="_blank_youtube" href="https://www.youtube.com/channel/UC8MaEtIvAAZzrYLFX1AazIA">
-                            <img src="img/youtube.ico" width="21" alt="youtube">
-                        </a>
-                        <a class="px-1" target="_blank_flickr" href="https://www.flickr.com/photos/147246490@N05/albums">
-                            <img src="img/flickr.ico" width="21" alt="flickr">
-                        </a>
+                <div class="col-6 d-flex justify-content-star justify-content-sm-center m-0 p-0">
+                    <div class=" f-italica f-negrita f-size-14  m-0 p-0">
+                        <div class=" ">
+                            <a class="px-0 px-sm-1" target="_blank_facebook" href="https://www.facebook.com/aunarpasto/">
+                                <img src="img/facebook.ico" width="21" alt="facebook">
+                            </a>
+                            <a class="px-0 px-sm-1" target="_blank_twitter" href="https://twitter.com/aunarpasto?lang=es">
+                                <img src="img/twitter.ico" width="21" alt="twitter">
+                            </a>
+                            <a class="px-0 px-sm-1" target="_blank_instagram" href="https://www.instagram.com/autonomadenarino/">
+                                <img src="img/instagram.png" width="21" alt="instagram">
+                            </a>
+                            <a class="px-0 px-sm-1" target="_blank_youtube" href="https://www.youtube.com/channel/UC8MaEtIvAAZzrYLFX1AazIA">
+                                <img src="img/youtube.ico" width="21" alt="youtube">
+                            </a>
+                            <a class="px-0 px-sm-1" target="_blank_flickr" href="https://www.flickr.com/photos/147246490@N05/albums">
+                                <img src="img/flickr.ico" width="21" alt="flickr">
+                            </a>
+                        </div>
                     </div>
                 </div>
                 <!-- boton traducir -->
-                <div class="ml-2 mr-1 f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo "
-                data-toggle="modal" data-target="#btn_traductor" onclick="llamar_traductor()">Idioma</div>
-                <!-- iconos de ampliar y reducir -->
-                <div class="ml-2 mr-1 f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo ">
-                    <a class="px-1 pointer" data-toggle="tooltip" data-placement="left" title="Ampliar">A+</a>
-                    <a class="px-1 pointer" data-toggle="tooltip" data-placement="left" title="Reducir">a-</a>
+                <div class="col-6 m-0 p-0">
+                <div class="div m-0 p-0 d-flex justify-content-end justify-content-sm-center">   
+                    <div class="f-size-14 mr-1 badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo "
+                    data-toggle="modal" data-target="#btn_traductor" onclick="llamar_traductor()">Idioma</div>
+                    <!-- iconos de ampliar y reducir -->
+                    <div class="f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo ">
+                        <a class="px-0 pointer" data-toggle="tooltip" data-placement="left" title="Ampliar">A+</a>
+                        <a class="px-0 pointer" data-toggle="tooltip" data-placement="left" title="Reducir">A-</a>
+                    </div></div>
                 </div>
             </div>
         </div>
