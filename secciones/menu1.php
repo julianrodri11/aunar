@@ -110,19 +110,19 @@
                 <div class="col-6 d-flex justify-content-star justify-content-sm-center m-0 p-0">
                     <div class=" f-italica f-negrita f-size-14  m-0 p-0">
                         <div class=" ">
-                            <a class="px-0 px-sm-1" target="_blank_facebook" href="https://www.facebook.com/aunarpasto/">
+                            <a class="px-0 px-sm-1" data-toggle="tooltip" data-placement="auto" title="Facebook" target="_blank_facebook" href="https://www.facebook.com/aunarpasto/">
                                 <img src="img/facebook.ico" width="21" alt="facebook">
                             </a>
-                            <a class="px-0 px-sm-1" target="_blank_twitter" href="https://twitter.com/aunarpasto?lang=es">
+                            <a class="px-0 px-sm-1" data-toggle="tooltip" data-placement="auto" title="Twitter" target="_blank_twitter" href="https://twitter.com/aunarpasto?lang=es">
                                 <img src="img/twitter.ico" width="21" alt="twitter">
                             </a>
-                            <a class="px-0 px-sm-1" target="_blank_instagram" href="https://www.instagram.com/autonomadenarino/">
+                            <a class="px-0 px-sm-1" data-toggle="tooltip" data-placement="auto" title="Instagram" target="_blank_instagram" href="https://www.instagram.com/autonomadenarino/">
                                 <img src="img/instagram.png" width="21" alt="instagram">
                             </a>
-                            <a class="px-0 px-sm-1" target="_blank_youtube" href="https://www.youtube.com/channel/UC8MaEtIvAAZzrYLFX1AazIA">
+                            <a class="px-0 px-sm-1" data-toggle="tooltip" data-placement="auto" title="Youtube" target="_blank_youtube" href="https://www.youtube.com/channel/UC8MaEtIvAAZzrYLFX1AazIA">
                                 <img src="img/youtube.ico" width="21" alt="youtube">
                             </a>
-                            <a class="px-0 px-sm-1" target="_blank_flickr" href="https://www.flickr.com/photos/147246490@N05/albums">
+                            <a class="px-0 px-sm-1" data-toggle="tooltip" data-placement="auto" title="Flickr" target="_blank_flickr" href="https://www.flickr.com/photos/147246490@N05/albums">
                                 <img src="img/flickr.ico" width="21" alt="flickr">
                             </a>
                         </div>
@@ -130,20 +130,20 @@
                 </div>
                 <!-- boton traducir -->
                 <div class="col-6 m-0 p-0">
-                <div class="div m-0 p-0 d-flex justify-content-end justify-content-sm-center">   
-                    <div class="f-size-14 mr-1 badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo "
-                    data-toggle="modal" data-target="#btn_traductor" onclick="llamar_traductor()">Idioma</div>
-                    <!-- iconos de ampliar y reducir -->
-                    <div class="f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo ">
-                        <a class="px-0 pointer" data-toggle="tooltip" data-placement="left" title="Ampliar">A+</a>
-                        <a class="px-0 pointer" data-toggle="tooltip" data-placement="left" title="Reducir">A-</a>
-                    </div></div>
+                    <div class="div m-0 p-0 d-flex justify-content-end justify-content-sm-center">
+                        <div class="f-size-14 mr-1 badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo "
+                        data-toggle="modal" data-target="#btn_traductor" onclick="llamar_traductor()">Idioma</div>
+                        <!-- iconos de ampliar y reducir -->
+                        <div class="f-size-14  badge badge-pill badge-primary fondo-azul pointer hover-texto-blanco hover-amarillo ">
+                            <a class="px-0 pointer" data-toggle="tooltip" data-placement="auto" title="Ampliar">A+</a>
+                            <a class="px-0 pointer" data-toggle="tooltip" data-placement="auto" title="Reducir">A-</a>
+                        </div></div>
+                    </div>
                 </div>
             </div>
+            <!-- fin boton traducir y redes -->
         </div>
-        <!-- fin boton traducir y redes -->
     </div>
-</div>
-<!-- boton ir al inicio cuando se llegue al footer de la página -->
-<button class="efecto-borde1" onclick="iralinicio()" id="myBtn">
-</button>
+    <!-- boton ir al inicio cuando se llegue al footer de la página -->
+    <button class="efecto-borde1" onclick="iralinicio()" id="myBtn">
+    </button>
