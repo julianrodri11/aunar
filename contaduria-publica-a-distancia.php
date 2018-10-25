@@ -15,7 +15,7 @@
 		
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-12">
+				<div class="col-12 p-0">
 					<img class="mx-auto img-fluid" width="100%" src="img/carreras/contaduria-publica-a-distancia-aunar.jpg" alt="Contaduría pública a distancia autónoma de nariño" />
 				</div>
 			</div>

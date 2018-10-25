@@ -13,7 +13,7 @@
         ?>
         <div class="container-fluid">
             <div class="row">
-                <div class="col-12">
+                <div class="col-12 p-0">
                     <img class="img-fluid" width="100%" src="img/inscripciones/sistema-inscripciones-en-linea.jpg"/>
                 </div>
             </div>
