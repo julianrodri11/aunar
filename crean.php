@@ -4,7 +4,6 @@
 		<?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
 		<!--TÍTULO DE LA PÁGINA-->
 		<title>CREAN - AUTÓNOMA DE NARIÑO</title>
-		
 	</head>
 	<body>
 		<?php
@@ -20,10 +19,8 @@
 				</div>
 			</div>
 		</div>
-		
 		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_investigacion.php');?>
-		
 		<!-- informacion de primeros auxilios -->
 		<div class="container-fluid">
 			<div class="row m-2 m-md-5">
@@ -34,8 +31,6 @@
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Visión</a>
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">Objetivos</a>
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os" id="v-pills-act-deportivas-tab" data-toggle="pill" href="#v-pills-act-deportivas" role="tab" aria-controls="v-pills-act-deportivas" aria-selected="false">Emprendimiento</a>
-						
-						
 					</div>
 				</div>
 				<div class="col-12 col-md-9">
@@ -45,8 +40,7 @@
 								<strong>¿Quiénes Somos?</strong>
 								<p>El Centro Regional de Emprendimiento y Empresarismo Autónoma de Nariño está adscrita a la Vicerrectoría de Investigación, Desarrollo, Innovación y posgrados, cuya principal finalidad es la fomentar la construcción de una mentalidad y cultura de emprendimiento en la comunidad universitaria de AUNAR.
 								</p>
-							</div>
-							
+							</div>							
 						</div>
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
@@ -55,15 +49,13 @@
 									Somos el Centro Regional de Emprendimiento y Empresarismo de la Corporación Universitaria Autónoma de Nariño, comprometidos con la formación de la mentalidad emprendedora y el espíritu empresarial en la comunidad universitaria de la región.
 								</p>
 								<p>Conformamos un equipo humano idóneo, íntegro y comprometido con el ejercicio de brindar un acompañamiento oportuno, que, apoyado con los recursos tecnológicos, financieros, de infraestructura y en general todos aquellos requeridos para garantizar un servicio óptimo para nuestros emprendedores. </p>
-							</div>
-							
+							</div>							
 						</div>
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
 								<strong>Visión</strong>
 								<p>Para el año 2023 seremos reconocidos como el centro de emprendimiento universitario pionero y líder en el proceso de formación de la mentalidad emprendedora en el suroccidente colombiano.</p>
-							</div>
-							
+							</div>							
 						</div>
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
@@ -78,7 +70,6 @@
 									Estimular el emprendimiento y el empresarismo dentro de los miembros de la comunidad universitaria y su área de influencia.
 								Promover la interactividad con las diferentes redes de emprendimiento tanto en los ámbitos regional, nacional e internacional.</p>
 							</div>
-							
 						</div>
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-deportivas" role="tabpanel" aria-labelledby="v-pills-act-deportivas-tab">
 							<div class="col-12 p-2 px-md-5 text-justify">
@@ -94,15 +85,12 @@
 									Participación dinámica con el entorno: Buscando participar activamente en redes locales, regionales, nacionales e internacionales en emprendimiento y fortalecer las relaciones con el entorno empresarial de la región, de tal manera que se obtenga una interacción que permita la transferencia tecnológica y de innovación en beneficio del emprendimiento.
 								</p>
 							</div>
-							
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		
 		<!-- personal encargado -->
-		
 		<div class="container-fluid">
 			<!-- linea amarilla -->
 			<div class="row">
@@ -159,24 +147,19 @@
 					<div class="row col-12 ">
 						<div class="col-12 py-3 mx-auto text-left texto-azul-os ">
 							<!-- aqui va todo lo que se quiera centrar -->
-							
 							<h4 class="texto-amarillo fuente-institucional f-negrita p-0">PRACTICANTE</h4>
 							<div class="pt-sans text-justify pr-lg-5">
 								<label class="f-negrita">ANDERSON GEOVANI DÍAZ MUÑOZ</label>
 								<br>Estudiante de Administración de empresas de AUNAR, está cursando noveno semestre y actualmente contribuye en el fortalecimiento administrativo y organizacional de la dependencia.
 								<br><br> Email: crean@aunar.edu.co
-								
 							</div>
 						</div>
 					</div>
 				</div>
 				<!-- fin información personal -->
 			</div>
-			
 		</div>
 		<!-- Fin personal encargado -->
 		<?php include_once('secciones/footer-principal.php');?>
-		
-		
 	</body>
 </html>
