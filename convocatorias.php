@@ -4,8 +4,7 @@
 		<?php /*ENLACES DE LIBRERIAS*/ include_once('secciones/links-local.php');  ?>
 		<title>CONVOCATORIAS AUTÓNOMA DE NARIÑO</title>
 	</head>
-	<body>
-		
+	<body>		
 		<?php
 			include_once('secciones/menu1.php');
 			include_once('secciones/logo-central.php');
@@ -14,10 +13,8 @@
 		?>
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-12">
-					
-					<img class="mx-auto img-fluid" width="100%" src="img/convocatorias/convocatorias-aunar.jpg"/>
-					
+				<div class="col-12">					
+					<img class="mx-auto img-fluid" width="100%" src="img/convocatorias/convocatorias-aunar.jpg"/>					
 				</div>
 			</div>
 		</div>
@@ -45,17 +42,13 @@
 				</div>
 				<!-- divs de  docentes y administrativos -->
 				<div class="row m-2 text-center fuente-institucional texto-azul  ">
-					
 					<div class="col-12 col-lg-6 ">
 						<div class="row">
 							<div class="col-12 p-2 f-size-18 f-negrita fondo-gris-c hover-texto-amarillo hover-transparente ">Docentes</div>
 							<div class="col-12 fondo-gris-c py-2">
-								
-								<!-- acordion Docentes-->
-								
+								<!-- acordion Docentes-->						
 								<div id="accordion" class="accordion">
-									<div class="card mb-0 sin-borde">
-										
+									<div class="card mb-0 sin-borde">										
 										<div class="row d-flex justify-content-center">
 											<!-- lado ziquierdo -->
 											<div class="col-12 pt-sans texto-azul-c">
@@ -74,8 +67,7 @@
 														</div>
 													</div>
 												</div>
-												<!-- fin convocatoria 1 -->
-												
+												<!-- fin convocatoria 1 -->												
 												<!-- convocatoria 2 -->
 												<div class="card-header collapsed fondo-gris-c f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
 													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad hover-texto-amarillo">
@@ -91,13 +83,11 @@
 														</div>
 													</div>
 												</div>
-												<!-- fin convocatoria 2 -->
-												
+												<!-- fin convocatoria 2 -->												
 											</div>
 										</div>
 									</div>
-								</div>
-								
+								</div>								
 								<!-- fin acordeón docentes -->
 							</div>
 						</div>
@@ -106,13 +96,9 @@
 						<div class="row">
 							<div class="col-12 p-2 f-size-18 f-negrita fondo-gris-c hover-texto-amarillo  hover-transparente">Administrativos</div>
 							<div class="col-12 fondo-gris-c py-2">
-								
-								
-								<!-- acordion Docentes-->
-								
+								<!-- acordion Docentes-->								
 								<div id="accordion2" class="accordion">
-									<div class="card mb-0 sin-borde">
-										
+									<div class="card mb-0 sin-borde">										
 										<div class="row d-flex justify-content-center">
 											<!-- lado ziquierdo -->
 											<div class="col-12 pt-sans texto-azul-c">
@@ -132,7 +118,6 @@
 													</div>
 												</div>
 												<!-- fin convocatoria 1 -->
-												
 												<!-- convocatoria 2 -->
 												<div class="card-header collapsed fondo-gris-c f-negrita" data-toggle="collapse" data-parent="#accordion2" href="#collapse4">
 													<a class="card-title pt-sans texto-azui-os f-negrita a-new pointer f-myriad hover-texto-amarillo">
@@ -148,26 +133,19 @@
 														</div>
 													</div>
 												</div>
-												<!-- fin convocatoria 2 -->
-												
+												<!-- fin convocatoria 2 -->												
 											</div>
 										</div>
 									</div>
 								</div>
-								
 								<!-- fin acordeón docentes -->
-								
 							</div>
 						</div>
-					</div>
-					
-					</div> 		<!-- fin docentes y administrativos -->
-					
+					</div>					
+					</div> 		<!-- fin docentes y administrativos -->					
 				</div>
 			</div>
-			
 			<br>
-			<?php include_once('secciones/footer-principal.php'); ?>
-			
+			<?php include_once('secciones/footer-principal.php'); ?>			
 		</body>
 	</html>
