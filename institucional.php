@@ -4,7 +4,6 @@
 		<?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
 		<!--TÍTULO DE LA PÁGINA-->
 		<title>INFORMACIÓN INSTITUCIONAL - AUTÓNOMA DE NARIÑO</title>
-		
 	</head>
 	<body>
 		<?php
@@ -20,7 +19,6 @@
 				</div>
 			</div>
 		</div>
-		
 		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_institucional.php');?>
 		<!-- Slider -->
@@ -78,42 +76,34 @@
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita border-bottom borde-azul fondo-gris-os active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">
 							Información Institucional AUNAR
 						</a>
-						
 						<!-- pestaña 2 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita border-bottom borde-azul" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">
 							Misión
 						</a>
-						
 						<!-- pestaña 3 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita border-bottom borde-azul fondo-gris-os" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">
 							Visión
 						</a>
-						
 						<!-- pestaña 4 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita border-bottom borde-azul" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">
 							Objetivos
 						</a>
-						
 						<!-- pestaña 5 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita border-bottom borde-azul fondo-gris-os" id="v-pills-act-deportivas-tab" data-toggle="pill" href="#v-pills-act-deportivas" role="tab" aria-controls="v-pills-act-deportivas" aria-selected="false">
 							Principios
 						</a>
-						
 						<!-- pestaña 6 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita border-bottom borde-azul fondo-gris" id="v-pills-act-6-tab" data-toggle="pill" href="#v-pills-act-6" role="tab" aria-controls="v-pills-act-6" aria-selected="false">
 							Organigrama
 						</a>
-						
 						<!-- pestaña 7 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita border-bottom borde-azul fondo-gris-os" id="v-pills-act-7-tab" data-toggle="pill" href="#v-pills-act-7" role="tab" aria-controls="v-pills-act-7" aria-selected="false">
 							Símbolos
 						</a>
-						
 						<!-- pestaña 8 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita border-bottom borde-azul fondo-gris" id="v-pills-act-8-tab" data-toggle="pill" href="#v-pills-act-8" role="tab" aria-controls="v-pills-act-8" aria-selected="false">
 							Resoluciones
 						</a>
-						
 						<!-- pestaña 9 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita border-bottom borde-azul fondo-gris-os" id="v-pills-act-9-tab" data-toggle="pill" href="#v-pills-act-9" role="tab" aria-controls="v-pills-act-9" aria-selected="false">
 							Reglamentos
@@ -126,7 +116,6 @@
 				</div>
 				<div class="col-12 col-md-9">
 					<div class="tab-content pt-sans texto-azul-os" id="v-pills-tabContent">
-						
 						<!-- pestaña 1 -->
 						<div class="tab-pane fade p-3 fondo-gris-os show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -141,7 +130,6 @@
 								El PEI reúne los fundamentos conceptuales a partir de los cuales la Institución pretende alcanzar su Misión y Visión, con la presentación de cinco (5) capítulos en los que se incluye: Capítulo I. Normatividad que sustenta el PEI; donde se incluyen los lineamientos legales y normativos a partir del cual se sustenta el PEI. Capítulo II. Componente Teleológico; en el cual se incluyen elementos tales como la identificación de la institución, la misión Institucional, el objetivo institucional, los campos de acción, los valores corporativos, los principios y la filosofía institucional. Capítulo III. Componente Pedagógico; en él se fundamenta el modelo pedagógico de los programas a distancia en la modalidad virtual, las personas que se espera formar a través del modelo pedagógico problémico, los conceptos y teorías que sustentan el método problémico, el proceso enseñanza- aprendizaje a través de este método y los agentes educativos y sus roles. Capítulo IV. Actitudes y Valores; se concentra en mostrar actitudes y valores del personal de nuestra institución, es decir, docentes, estudiantes, personal administrativo y egresados. Capítulo V. Criterios de gerencia que sustentan el quehacer de la corporación Autónoma de Nariño “AUNAR”; aquí se expone el modelo de gestión de la institución, así como los principios que lo orientan. Capítulo VI. Reflexión frente a la implementación del PEI interrogantes; en el cual nos hacemos algunas preguntas orientadoras que nos ayudarán a reconocer la puesta en marcha de nuestro PEI.</P>
 							</div>
 						</div>
-						
 						<!-- pestaña 2-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -153,7 +141,6 @@
 								</p>
 							</div>
 						</div>
-						
 						<!-- pestaña 3-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -165,7 +152,6 @@
 								</p>
 							</div>
 						</div>
-						
 						<!-- pestaña 4-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -176,7 +162,6 @@
 								</P>
 							</div>
 						</div>
-						
 						<!-- pestaña 5-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-deportivas" role="tabpanel" aria-labelledby="v-pills-act-deportivas-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -223,33 +208,33 @@
 								<h3 class=" f-negrita fuente-institucional texto-azul">REGLAMENTOS</h3>
 							</div>
 							<div class="col-12 p-2 px-md-5 text-justify">
-									
-										<div class="mb-1">
-											<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="f1" href="docs/footer/Estatuto_General.pdf">
-											Estatuto general
-											</a>
-										</div>
-										<div class="mb-1">
-											<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="f2" href="docs/footer/Reglamento_Administrativos.pdf">
-											Reglamento Administrativos
-											</a>
-										</div>
-										<div class="mb-1">
-											<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="f3" href="docs/footer/Reglamento_Docentes.pdf">
-											Reglamento Docentes
-											</a>
-										</div>
-										<div class="mb-1">
-											<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="f4" href="docs/footer/Reglamento_Estudiantil.pdf">
-											Reglamento Estudiantil
-											</a>
-										</div>
-										<div class="mb-1">
-											<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="fg" href="docs/trabajos_de_grado/reglamentos-trabajo-grado.pdf">
-											Reglamento trabajos de grado
-											</a>
-										</div>
-										
+								
+								<div class="mb-1">
+									<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="f1" href="docs/footer/Estatuto_General.pdf">
+										Estatuto general
+									</a>
+								</div>
+								<div class="mb-1">
+									<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="f2" href="docs/footer/Reglamento_Administrativos.pdf">
+										Reglamento Administrativos
+									</a>
+								</div>
+								<div class="mb-1">
+									<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="f3" href="docs/footer/Reglamento_Docentes.pdf">
+										Reglamento Docentes
+									</a>
+								</div>
+								<div class="mb-1">
+									<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="f4" href="docs/footer/Reglamento_Estudiantil.pdf">
+										Reglamento Estudiantil
+									</a>
+								</div>
+								<div class="mb-1">
+									<a class="text-azul fuente-institucional" data-toggle="tooltip" data-placement="auto" title="Ver" target="fg" href="docs/trabajos_de_grado/reglamentos-trabajo-grado.pdf">
+										Reglamento trabajos de grado
+									</a>
+								</div>
+								
 							</div>
 						</div>
 						<!-- pestaña 10-->
@@ -322,10 +307,6 @@
 				</div>
 			</div>
 		</div>
-		
-		
 		<?php include_once('secciones/footer-principal.php');?>
-		
-		
 	</body>
 </html>
