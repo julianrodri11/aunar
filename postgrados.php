@@ -4,14 +4,13 @@
 		<?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
 		<!--TÍTULO DE LA PÁGINA-->
 		<title>POSTGRADOS - AUTÓNOMA DE NARIÑO</title>
-		
 	</head>
 	<body>
 		<?php
-				include_once('secciones/menu1.php');
-				include_once('secciones/logo-central.php');
-				include_once('secciones/modal-traductor.php');
-				include_once('modal/modal-contactenos.php');
+		include_once('secciones/menu1.php');
+		include_once('secciones/logo-central.php');
+		include_once('secciones/modal-traductor.php');
+		include_once('modal/modal-contactenos.php');
 		?>
 		<div class="container-fluid">
 			<div class="row">
@@ -20,10 +19,8 @@
 				</div>
 			</div>
 		</div>
-		
 		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_investigacion.php');?>
-		
 		<!-- informacion de primeros auxilios -->
 		<div class="container-fluid py-5">
 			<div class="row m-2 m-md-5">
@@ -61,7 +58,6 @@
 								<p>Propiciar programas académicos de formación integral en el marco del conocimiento, la investigación, la ciencia, la tecnología y las humanidades, bajo la conceptualización científica, reconociendo el aporte significativo investigativo.</p>
 							</div>
 						</div>
-						
 					</div>
 				</div>
 			</div>
@@ -83,9 +79,7 @@
 			</div>
 		</div>
 		<!-- ----------------FIN OFERTAS DE ITENRES--------------------- -->
-		
 		<!-- personal encargado -->
-		
 		<div class="container-fluid">
 			<!-- linea amarilla -->
 			<div class="row">
@@ -119,12 +113,8 @@
 				</div>
 				<!-- fin información personal -->
 			</div>
-			
 		</div>
 		<!-- Fin personal encargado -->
-		
 		<?php include_once('secciones/footer-principal.php');?>
-		
-		
 	</body>
 </html>
