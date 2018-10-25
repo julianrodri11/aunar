@@ -111,7 +111,7 @@
                     <div class=" f-italica f-negrita f-size-14  m-0 p-0">
                         <div class=" ">
                             <a class="px-0 px-sm-1" data-toggle="tooltip" data-placement="auto" title="Facebook" target="_blank_facebook" href="https://www.facebook.com/aunarpasto/">
-                                <img src="img/facebook.ico" width="21" alt="facebook">
+                                <img src="img/facebook.png" width="21" alt="facebook">
                             </a>
                             <a class="px-0 px-sm-1" data-toggle="tooltip" data-placement="auto" title="Twitter" target="_blank_twitter" href="https://twitter.com/aunarpasto?lang=es">
                                 <img src="img/twitter.ico" width="21" alt="twitter">
@@ -123,7 +123,7 @@
                                 <img src="img/youtube.ico" width="21" alt="youtube">
                             </a>
                             <a class="px-0 px-sm-1" data-toggle="tooltip" data-placement="auto" title="Flickr" target="_blank_flickr" href="https://www.flickr.com/photos/147246490@N05/albums">
-                                <img src="img/flickr.ico" width="21" alt="flickr">
+                                <img src="img/flickr.png" width="21" alt="flickr">
                             </a>
                         </div>
                     </div>
