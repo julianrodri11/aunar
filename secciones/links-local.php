@@ -3,11 +3,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script  type="text/javascript" src="js/jquery.min.js" async></script>
 <script  type="text/javascript" src="js/popper.min.js" async></script>
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <noscript id="deferred-styles">
 <link rel="stylesheet" type="text/css" href="css/personalizado.css">
 <link rel="stylesheet" type="text/css" href="css/hover.css">
 <link rel="stylesheet" type="text/css" href="css/animate.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 </noscript>
 <script>
 var loadDeferredStyles = function() {
