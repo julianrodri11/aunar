@@ -18,7 +18,6 @@
 	</div>
 	<!-- fin slider de cada carrera -->
 	
-
 	<!-- acordion -->
 	<div class="container">
 		<div id="accordion" class="accordion">
@@ -76,7 +75,6 @@
 								Especialista en Gerencia en Seguridad y Salud en el Trabajo - Fundación del Área Andina
 							</div>
 						</div>
-
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" href="#collapseFour">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Ricardo Mauricio Ortega Mipaz
@@ -86,9 +84,8 @@
 							<div class="card-body p-4 text-justify">
 								Pregrado: Licenciatura En Matemáticas Universidad De Nariño <br>
 								Maestria: Candidato a Magister.  <br>
-			                   	Maestría en investigación de operaciones y Estadística. <br>
-			                   	Universidad Tecnológica de Pereira – Universidad de Nariño. 
-
+								Maestría en investigación de operaciones y Estadística. <br>
+								Universidad Tecnológica de Pereira – Universidad de Nariño.
 							</div>
 						</div>
 						
@@ -101,7 +98,6 @@
 							<div class="card-body p-4 text-justify">
 								Pregrado: Universidad De Nariño - Ingeniero Civil <br>
 								Posgrado: Universidad Pontificia Javeriana - Gestión de Servicios por Proyectos
-
 							</div>
 						</div>
 					</div>
@@ -128,11 +124,9 @@
 						</div>
 						<div id="collapseSeven" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								Es un Ingeniero Mecánico, Magister en Ingeniería con Énfasis en Ingeniería Mecánica egresado de la Universidad del Valle. Actualmente es Candidato a Doctor en Ingeniería con Énfasis en Mecánica de Sólidos de la misma universidad y becario de Colciencias. Ha trabajado como investigador y asistente de investigación con el grupo de Biomecánica de la Universidad del Valle, donde se ha desempeñado en el diseño y caracterización de sistemas de fijación para huesos, modelamiento de tejidos biológicos como el tejido cerebral y actualmente está trabajando en el desarrollo de un sistema de construcción prefabricado basado en Guadua. Durante el segundo semestre del 2015 fue visitan schoolar de la Universidad de Pittsburgh (Estados Unidos) donde realizó una investigación para caracterizar el comportamiento transversal del bambú. Es autor de más de 10 artículos científicos publicados en revistas nacionales e internacionales. 
+								Es un Ingeniero Mecánico, Magister en Ingeniería con Énfasis en Ingeniería Mecánica egresado de la Universidad del Valle. Actualmente es Candidato a Doctor en Ingeniería con Énfasis en Mecánica de Sólidos de la misma universidad y becario de Colciencias. Ha trabajado como investigador y asistente de investigación con el grupo de Biomecánica de la Universidad del Valle, donde se ha desempeñado en el diseño y caracterización de sistemas de fijación para huesos, modelamiento de tejidos biológicos como el tejido cerebral y actualmente está trabajando en el desarrollo de un sistema de construcción prefabricado basado en Guadua. Durante el segundo semestre del 2015 fue visitan schoolar de la Universidad de Pittsburgh (Estados Unidos) donde realizó una investigación para caracterizar el comportamiento transversal del bambú. Es autor de más de 10 artículos científicos publicados en revistas nacionales e internacionales.
 							</div>
 						</div>
-
-
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseHeight">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Luis H Colunge
@@ -141,13 +135,10 @@
 						<div id="collapseHeight" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
 								Diseñador Industrial - Universidad de Nariño <br>
-								Especialista en Docencia Universitaria - Universidad de Nariño <br> 
+								Especialista en Docencia Universitaria - Universidad de Nariño <br>
 								Especialista en Administración de la Informática Educativa - Universidad de Santander.
-
 							</div>
 						</div>
-
-
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapseNine">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Tito Manuel Piamba
@@ -159,13 +150,8 @@
 								Facultad de Ingeniería Electrónica y Telecomunicaciones
 								Título Obtenido:
 								Ingeniero en Automática Industrial.
-
 							</div>
 						</div>
-
-
-
-
 					</div>
 					<!-- fin lado derecho -->
 				</div>
@@ -173,6 +159,4 @@
 		</div>
 	</div>
 	<!-- fin acordeon -->
-
-
 </div>

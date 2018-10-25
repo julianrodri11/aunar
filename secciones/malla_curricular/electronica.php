@@ -63,10 +63,9 @@
 								Ingeniera Electrónica - Universidad De Nariño
 							</div>
 						</div>
-
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
-									Jaime Hernan Montenegro Vásquez
+								Jaime Hernan Montenegro Vásquez
 							</a>
 						</div>
 						<div id="collapse1" class="collapse" data-parent="#accordion" >
@@ -75,7 +74,6 @@
 								Maestría En Electrónica
 							</div>
 						</div>
-
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse2">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Jorge Andres Montenegro
@@ -83,11 +81,10 @@
 						</div>
 						<div id="collapse2" class="collapse" data-parent="#accordion" >
 							<div class="card-body p-4 text-justify">
-								Ingeniero De Sistemas <br>	
+								Ingeniero De Sistemas <br>
 								Maestría De La Gestión En La Informática
 							</div>
 						</div>
-
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse3">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Jonathan Alexander Díaz Argote
@@ -99,7 +96,6 @@
 								Especialista En Finanzas
 							</div>
 						</div>
-
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Andres Felipe Chicaiza Gómez
@@ -112,12 +108,12 @@
 								
 							</div>
 						</div>
-</div>
-<!-- lado ziquierdo -->
-<div class="col-12 col-md-6 pt-sans texto-azul-os">
+					</div>
+					<!-- lado ziquierdo -->
+					<div class="col-12 col-md-6 pt-sans texto-azul-os">
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse5">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
-								Martha Yaneth Romero Rodriguez 
+								Martha Yaneth Romero Rodriguez
 							</a>
 						</div>
 						<div id="collapse5" class="collapse" data-parent="#accordion" >
@@ -126,7 +122,6 @@
 								Especialista En Gerencia Educativa
 							</div>
 						</div>
-
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse6">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Oscar Rodríguez Bastidas
@@ -138,23 +133,20 @@
 								Maestría En Ciencias De La Electrónica
 							</div>
 						</div>
-
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse7">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Ivan Dario Fajardo
 							</a>
 						</div>
 						<div id="collapse7" class="collapse" data-parent="#accordion" >
-							<div class="card-body p-4 text-justify">								
+							<div class="card-body p-4 text-justify">
 								Profesional En Negocios Internacionales <br>
 								Maestría En Mercadeo
 							</div>
 						</div>
-
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse8">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
-								Jaime Betancourth Mingan 
-
+								Jaime Betancourth Mingan
 							</a>
 						</div>
 						<div id="collapse8" class="collapse" data-parent="#accordion" >
@@ -163,11 +155,9 @@
 								Maestría En Altas Energías
 							</div>
 						</div>
-
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse9">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Francisco Javier Eraso Checa
-
 							</a>
 						</div>
 						<div id="collapse9" class="collapse" data-parent="#accordion" >
@@ -176,7 +166,6 @@
 								Maestría En Automatización Industrial
 							</div>
 						</div>
-
 						<div class="card-header collapsed bg-white f-negrita" data-toggle="collapse" data-parent="#accordion" href="#collapse10">
 							<a class="card-title pl-3 pt-sans texto-azui-os f-negrita a-new pointer hover-texto-amarillo">
 								Oscar Hernán Samudio Legarda
@@ -188,8 +177,6 @@
 								Maestría En Ingeniería Eléctrica
 							</div>
 						</div>
-
-
 					</div>
 					<!-- fin lado ziquierdo -->
 				</div>

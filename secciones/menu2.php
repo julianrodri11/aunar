@@ -71,7 +71,6 @@ Investigación
 <li><a class=" dropdown-item hvr-underline-from-left texto-azul-os  " href="publicaciones">publicaciones</a></li>
 </ul>
 </li>
-
 <li class="nav-item dropdown py-0 border-right borde-azul text-center">
 <a class="nav-link dropdown-toggle texto-azul-os px-lg-3  hvr-underline-from-center" href="#" id="navbarDropdownMenu_bienes" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 Bienestar
@@ -85,7 +84,6 @@ Bienestar
 <li> <a class=" dropdown-item hvr-underline-from-left texto-azul-os " href="inclusion_social">Inclusión Social</a>      </li>
 </ul>
 </li>
-
 <li class="nav-item dropdown py-0 border-right borde-azul text-center">
 <a class="nav-link dropdown-toggle texto-azul-os px-lg-3  hvr-underline-from-center" href="#" id="navbarDropdownMenu_proi" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 Proyección Institucional
@@ -95,7 +93,6 @@ Proyección Institucional
 <li> <a class=" dropdown-item hvr-underline-from-left texto-azul-os" href="internacionalizacion">Internacionalización</a></li>
 </ul>
 </li>
-
 <li class="nav-item dropdown py-0 border-right borde-azul text-center">
 <a class="nav-link dropdown-toggle texto-azul-os px-lg-3  hvr-underline-from-center" href="#" id="navbarDropdownMenu_th" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 Talento Humano
@@ -111,7 +108,6 @@ Talento Humano
 <li> <a class=" dropdown-item hvr-underline-from-left texto-azul-os">reglamentos</a>        </li>
 </ul> -->
 </li>
-
 <li class="nav-item dropdown py-0 border-right borde-azul text-center">
 <a class="nav-link dropdown-toggle texto-azul-os px-lg-3  hvr-underline-from-center" href="#" id="navbarDropdownMenu_cian" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 CIAN
@@ -120,14 +116,9 @@ CIAN
 <li><a class=" dropdown-item hvr-underline-from-left texto-azul-os " href="cian">Dpto de Inglés</a> </li>
 </ul>
 </li>
-
-
 <li class="nav-item active  py-0 text-center">
 <a class=" nav-link texto-azul-os px-lg1 hvr-underline-from-center pointer " href="virtual">Aunar Virtual<span class="sr-only">(current)</span></a>
 </li>
-
-
 </ul>
-
 </div>
 </nav>
