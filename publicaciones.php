@@ -4,14 +4,13 @@
 		<?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
 		<!--TÍTULO DE LA PÁGINA-->
 		<title>PUBLICACIONES - AUTÓNOMA DE NARIÑO</title>
-		
 	</head>
 	<body>
 		<?php
-				include_once('secciones/menu1.php');
-				include_once('secciones/logo-central.php');
-				include_once('secciones/modal-traductor.php');
-				include_once('modal/modal-contactenos.php');
+		include_once('secciones/menu1.php');
+		include_once('secciones/logo-central.php');
+		include_once('secciones/modal-traductor.php');
+		include_once('modal/modal-contactenos.php');
 		?>
 		<div class="container-fluid">
 			<div class="row">
@@ -20,17 +19,12 @@
 				</div>
 			</div>
 		</div>
-		
 		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_investigacion.php');?>
-		
-		
 		<!-- publicaciones  -->
 		<div class="container-fluid">
-			
 			<!-- publicación 1 -->
 			<div class="row py-5 py-md-0">
-				
 				<!-- imagen de publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
 					<div class="row col-12 p-0">
@@ -106,12 +100,10 @@
 					</div>
 				</div>
 				<!-- fin imagen de publicación -->
-				
 			</div>
 			<!-- fin publicación 2 -->
 			<!-- publicación 3 -->
 			<div class="row py-5 py-md-0">
-				
 				<!-- imagen de publicación -->
 				<div class="col-12 col-lg-6 d-flex justify-content-center align-items-center fondo-gris-os p-0">
 					<div class="row col-12 p-0">
@@ -150,13 +142,7 @@
 				<!-- fin información publicación -->
 			</div>
 			<!-- fin publicación 3 -->
-			
 		</div>
-		
-		
-		
 		<?php include_once('secciones/footer-principal.php');?>
-		
-		
 	</body>
 </html>
