@@ -7,14 +7,13 @@
 		<meta name="description" content="Objetivo general - Velar por el cumplimiento de las distintas actividades que se desarrollan dentro y fuera de cada uno de los componentes, programas e instancias que integran la institución.">
 		<meta name="keywords" content="Bienestar Institucional - AUNAR">
 		<meta property="og:image" <?php echo 'content=http://'.$servidor.'/img/bienestar/bienestar_universitario_aunar.jpg'?>>
-		
 	</head>
 	<body>
 		<?php
-			include_once('secciones/menu1.php');
-			include_once('secciones/logo-central.php');
-			include_once('secciones/modal-traductor.php');
-			include_once('modal/modal-contactenos.php');
+		include_once('secciones/menu1.php');
+		include_once('secciones/logo-central.php');
+		include_once('secciones/modal-traductor.php');
+		include_once('modal/modal-contactenos.php');
 		?>
 		<div class="container-fluid">
 			<div class="row">
@@ -23,8 +22,6 @@
 				</div>
 			</div>
 		</div>
-		
-		
 		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_bienestar.php');?>
 		<div class="container-fluid texto-azul-os py-4">
@@ -108,7 +105,6 @@
 				</div>
 			</div>
 		</div>
-		
 		<div class="container-fluid">
 			<div class="row fuente-institucional">
 				<div class="col-12 pt-5 text-center"><h3 class="fuente-institucional f-negrita texto-azul-os text-center mx-auto">POLÍTICAS AUNAR</h3></div>
@@ -144,32 +140,26 @@
 							* Prever y facilitar los escenarios deportivos adecuados para la práctica de los deportes básicos, de la cultural, de la lúdica y recreación en general y adecuar los horarios que permitan a la comunidad universitaria participar y desarrollar las actividades que demanda el usuario del servicio y las exigencias curriculares y académicas.<br>
 							* Articular el proyecto de vida individual de los miembros de la Comunidad AUNAR con el Proyecto Educativo Institucional (PEI). <br>
 							* El cubrimiento de los programas de Bienestar Institucional debe incluir toda la comunidad AUNAR (estudiantes, docentes, personal administrativo y egresados).<br>
-							
 						</div>
 						<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
 							El continuo crecimiento físico como académico que viene presentando la Corporación Universitaria Autónoma de Nariño hace necesario implementar un marco general para la creación de nuevas técnicas educativas dentro del bienestar institucional, los cuales permitan al estudiante contar con herramientas solidas que reflejen educación integral, ética y moral para solventar las necesidades crecientes de la población.
-							
 						</div>
 						<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
 							Construir viabilidad para las actividades desarrolladas dentro de la institución junto con el departamento de Bienestar, mediante la gestión social, comprometida con el respeto de los derechos humanos, la prestación de servicios con calidad y eficiencia en el suministro oportuno de información de interés público promoviendo el desarrollo universitario.
 						</div>
 						<div class="tab-pane fade pt-sans texto-azul-os text-justify" id="pills-comunicacion" role="tabpanel" aria-labelledby="pills-contact-tab">
 							Vicerrectoría de Bienestar Institucional propenderá un enfoque estratégico orientado a afianzar las relaciones dentro del departamento y hacia fuera de él, manteniendo su identidad corporativa y facilitando la interacción con otras instituciones.
-							
 						</div>
 					</div>
-					
 				</div>
 			</div>
 		</div>
-		
 		<div class="container-fluid p-2 p-lg-5 ">
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
 				<div class="col-12 col-lg-6 ">
 					<!-- Personal -->
 					<div class="media border-bottom borde-amarillo pb-3">
 						<div class="media-body ">
-							
 							<div class="row">
 								<div class="col-12 col-md-6 text-center">
 									<img src="img/bienestar/jaime_colunge.png" class="align-self-center mr-3 rounded-circle img-fluid" >
@@ -187,31 +177,24 @@
 									</div>
 								</div>
 							</div>
-							
-							
-							
 						</div>
 					</div>
 				</div>
 			</div>
-			
 			<div class="row m-3 fuente-institucional texto-azul-os d-flex justify-content-center">
-				<div class="col-12 col-lg-6">
-					<!-- Personal -->
-					<div class="media border-bottom borde-amarillo pb-3">
-						<div class="media-body">
-							
-							<div class="row">
-								<div class="col-12 col-md-6 text-center">
-									<img src="img/bienestar/maria_ruiz.png" class="align-self-center mr-3 rounded-circle img-fluid" >
-								</div>
-								<div class="col-12 col-md-6 text-center text-md-left">
-									<h4 class="fuente-institucional texto-amarillo f-negrita">ASISTENTE</h4>
-									<div class="pt-sans">
-										<label class="f-negrita">ANGÉLICA MARÍA RUIZ JIMÉNEZ </label><br>
-										Celular: 3163055109<br>
-										Correo electrónico bienestar@aunar.edu.co
-									</div>
+				<div class="col-12 col-lg-6"><!-- Personal -->
+				<div class="media border-bottom borde-amarillo pb-3">
+					<div class="media-body">
+						<div class="row">
+							<div class="col-12 col-md-6 text-center">
+								<img src="img/bienestar/maria_ruiz.png" class="align-self-center mr-3 rounded-circle img-fluid" >
+							</div>
+							<div class="col-12 col-md-6 text-center text-md-left">
+								<h4 class="fuente-institucional texto-amarillo f-negrita">ASISTENTE</h4>
+								<div class="pt-sans">
+									<label class="f-negrita">ANGÉLICA MARÍA RUIZ JIMÉNEZ </label><br>
+									Celular: 3163055109<br>
+									Correo electrónico bienestar@aunar.edu.co
 								</div>
 							</div>
 						</div>
@@ -219,7 +202,7 @@
 				</div>
 			</div>
 		</div>
-		<?php include_once('secciones/footer-principal.php');?>
-		
-	</body>
+	</div>
+	<?php include_once('secciones/footer-principal.php');?>
+</body>
 </html>
