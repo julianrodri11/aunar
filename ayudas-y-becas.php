@@ -68,7 +68,7 @@
 					</div>
 				</div>
 				<div class="col-12 col-md-9">
-					<div class="tab-content pt-sans texto-azul-os" id="v-pills-tabContent">						
+					<div class="tab-content pt-sans texto-azul-os" id="v-pills-tabContent">
 						<!-- pestaña 1 -->
 						<div class="tab-pane fade p-3 fondo-gris-os show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -81,7 +81,7 @@
 									Además, para llevar a cabo sus actividades académicas y formativas con los niveles de excelencia establecidos en su Visión, La AUNAR otorga becas al mérito académico a los alumnos más destacados de nuestras universidades educación superior.
 								</p>
 							</div>
-						</div>						
+						</div>
 						<!-- pestaña 2-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -94,7 +94,7 @@
 									Las políticas y normas aquí establecidas se refieren a los estímulos que ofrece la institución y disminuir la deserción estudiantil de la corporación universitaria autónoma de Nariño.
 								</p>
 							</div>
-						</div>						
+						</div>
 						<!-- pestaña 3-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -107,7 +107,7 @@
 									El Comité estará presidido por el Vicerrector de bienestar institucional.
 								</p>
 							</div>
-						</div>						
+						</div>
 						<!-- pestaña 4-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -122,7 +122,7 @@
 									<br><br><strong>Crédito Educativo</strong> es la financiación de la matrícula en cuotas y las condiciones que la institución otorga en el transcurso del semestre.
 								</p>
 							</div>
-						</div>						
+						</div>
 						<!-- pestaña 5-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-deportivas" role="tabpanel" aria-labelledby="v-pills-act-deportivas-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -160,7 +160,7 @@
 									<br>-Cumplir con los requisitos de créditos educativos.
 									<br>-Cumplir con las fechas pactadas.
 								</p>
-							</div>							
+							</div>
 						</div>
 						<!-- pestaña 6-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-6" role="tabpanel" aria-labelledby="v-pills-act-6-tab">
@@ -187,13 +187,11 @@
 									Las fechas para la entrega y recepción de solicitudes de apoyos financieros y becas, serán establecidas y se darán a conocer por los medios de difusión. No se tomará en consideración ninguna solicitud entregada extemporáneamente aun cuando cumpla con los requisitos mínimos.
 								</p>
 							</div>
-							
 						</div>
-						
 					</div>
 				</div>
 			</div>
-		</div>				
+		</div>
 		<!-- footer -->
 		<?php include_once('secciones/footer-principal.php');?>
 	</body>
