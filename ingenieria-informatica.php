@@ -4,15 +4,13 @@
 		<?php /*ENLACES DE LIBRERIAS*/ include_once('secciones/links-local.php');  ?>
 		<title>INGENIERÍA INFORMÁTICA - AUTÓNOMA DE NARIÑO</title>
 	</head>
-	<body>
-		
+	<body>		
 		<?php
 			include_once('secciones/menu1.php');
 			include_once('secciones/logo-central.php');
 			include_once('secciones/modal-traductor.php');
 			include_once('modal/modal-contactenos.php');
-		?>
-		
+		?>		
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-12 p-0">
@@ -93,8 +91,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
-		
+		</div>		
 		<div class="container-fluid">
 			<div class="row fondo-carreras p-5">
 				<div class="row col-12 p-2">
@@ -292,7 +289,7 @@
 						</div>
 						
 						<div class="col-12">-Electiva		</div>
-						<div class="col-12">-Diseño E Implementación De Sistemas De Telemetría	</div>						
+						<div class="col-12">-Diseño E Implementación De Sistemas De Telemetría	</div>
 						<div class="col-12">-Técnicas Y Herramientas De Seguridad Informática		</div>
 						<div class="col-12">-Auditoria De Sistemas		</div>
 						<div class="col-12">-Práctica Profesional		</div>
@@ -303,10 +300,8 @@
 				
 			</div>
 			
-		</div>		
-		
+		</div>
 		<!-- fin plan de estudios -->
-		
 		<!-- malla curricular -->
 		<?php
 			include_once('secciones/malla_curricular/informatica.php');
