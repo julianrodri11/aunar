@@ -3,8 +3,7 @@
 	<head>
 		<?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
 		<!--TÍTULO DE LA PÁGINA-->
-		<title>RECTORÍA - AUTÓNOMA DE NARIÑO</title>
-		
+		<title>RECTORÍA - AUTÓNOMA DE NARIÑO</title>		
 	</head>
 	<body>
 		<?php
@@ -23,11 +22,8 @@
 		
 		<?php include_once('secciones/menu2.php');?>
 		<?php include_once('secciones/menu_institucional.php');?>
-		
-		
 		<!-- informacion de rectoría -->
-		<div class="container-fluid fondo-gris-c p-lg-5">
-			
+		<div class="container-fluid fondo-gris-c p-lg-5">			
 			<div class="row px-lg-5 m-lg-2 pt-sans texto-azul-os text-justify">
 				<div class="col-12 col-md-6 p-lg-5">
 					<div class="row ">
@@ -81,8 +77,6 @@
 				</div>
 			</div>
 		</div>
-		
-		
 		<!-- personal encargado -->
 		<div class="container-fluid py-5">
 			<!-- linea amarilla -->
