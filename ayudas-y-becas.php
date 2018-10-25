@@ -4,7 +4,6 @@
 		<?php /*ENLACES DE LIBRERIAS */ include_once('secciones/links-local.php');  ?>
 		<!--TÍTULO DE LA PÁGINA-->
 		<title>AYUDAS Y BECAS - AUTÓNOMA DE NARIÑO</title>
-		
 	</head>
 	<body>
 		<?php
@@ -20,7 +19,6 @@
 				</div>
 			</div>
 		</div>
-		
 		<?php include_once('secciones/menu2.php');?>
 		<div class="container-fluid">
 			<div class="row fondo-gris-os p-3 texto-azul-os py-5">
@@ -34,7 +32,6 @@
 				</div>
 			</div>
 		</div>
-		
 		<!-- informacion de CIDAE -->
 		<div class="container-fluid">
 			<div class="row m-2 m-md-5">
@@ -44,44 +41,34 @@
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">
 							Filosofía
 						</a>
-						
 						<!-- pestaña 2 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">
 							Objetivo y alcance
 						</a>
-						
 						<!-- pestaña 3 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">
 							Entidad responsable de la asignación de estímulos Financieros
 						</a>
-						
 						<!-- pestaña 4 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">
 							Definición de beca y crédito educativo
 						</a>
-						
 						<!-- pestaña 5 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os" id="v-pills-act-deportivas-tab" data-toggle="pill" href="#v-pills-act-deportivas" role="tab" aria-controls="v-pills-act-deportivas" aria-selected="false">
 							Requisitos para la asignación y la conservación de la beca y apoyo financiero
 						</a>
-						
 						<!-- pestaña 6 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris" id="v-pills-act-6-tab" data-toggle="pill" href="#v-pills-act-6" role="tab" aria-controls="v-pills-act-6" aria-selected="false">
 							Disciplina de los estudiantes becados
 						</a>
-						
 						<!-- pestaña 7 -->
 						<a class="nav-link fuente-institucional texto-azul-os sin-texto-subrayado hvr-underline-from-center f-negrita fondo-gris-os" id="v-pills-act-7-tab" data-toggle="pill" href="#v-pills-act-7" role="tab" aria-controls="v-pills-act-7" aria-selected="false">
 							Fechas
 						</a>
-						
-						
-						
 					</div>
 				</div>
 				<div class="col-12 col-md-9">
-					<div class="tab-content pt-sans texto-azul-os" id="v-pills-tabContent">
-						
+					<div class="tab-content pt-sans texto-azul-os" id="v-pills-tabContent">						
 						<!-- pestaña 1 -->
 						<div class="tab-pane fade p-3 fondo-gris-os show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -94,8 +81,7 @@
 									Además, para llevar a cabo sus actividades académicas y formativas con los niveles de excelencia establecidos en su Visión, La AUNAR otorga becas al mérito académico a los alumnos más destacados de nuestras universidades educación superior.
 								</p>
 							</div>
-						</div>
-						
+						</div>						
 						<!-- pestaña 2-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -108,8 +94,7 @@
 									Las políticas y normas aquí establecidas se refieren a los estímulos que ofrece la institución y disminuir la deserción estudiantil de la corporación universitaria autónoma de Nariño.
 								</p>
 							</div>
-						</div>
-						
+						</div>						
 						<!-- pestaña 3-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -122,8 +107,7 @@
 									El Comité estará presidido por el Vicerrector de bienestar institucional.
 								</p>
 							</div>
-						</div>
-						
+						</div>						
 						<!-- pestaña 4-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -138,8 +122,7 @@
 									<br><br><strong>Crédito Educativo</strong> es la financiación de la matrícula en cuotas y las condiciones que la institución otorga en el transcurso del semestre.
 								</p>
 							</div>
-						</div>
-						
+						</div>						
 						<!-- pestaña 5-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-deportivas" role="tabpanel" aria-labelledby="v-pills-act-deportivas-tab">
 							<div class="col-12 p-2 px-md-5 text-center">
@@ -177,8 +160,7 @@
 									<br>-Cumplir con los requisitos de créditos educativos.
 									<br>-Cumplir con las fechas pactadas.
 								</p>
-							</div>
-							
+							</div>							
 						</div>
 						<!-- pestaña 6-->
 						<div class="tab-pane fade p-3 fondo-gris-os" id="v-pills-act-6" role="tabpanel" aria-labelledby="v-pills-act-6-tab">
@@ -211,12 +193,8 @@
 					</div>
 				</div>
 			</div>
-		</div>
-		
-		
+		</div>				
 		<!-- footer -->
 		<?php include_once('secciones/footer-principal.php');?>
-		
-		
 	</body>
 </html>

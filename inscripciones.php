@@ -63,7 +63,7 @@
 		<!-- PREINSCRIPCIÓN -->
 		
 		<div class=" contenedor_preinscripcion">
-			<img src="img/admisiones-autonoma-de-narino.jpg" alt="Norway" style="width:100%;">
+			<img src="img/inscripciones/admisiones-autonoma-de-narino.jpg" alt="Norway" style="width:100%;">
 			<div class="text-block">
 				<div class=" text-center">
 					<div class="col-12 text-center"><h1 class=" f-negrita fuente-institucional texto-azul">Inscripción</h1> </div>
