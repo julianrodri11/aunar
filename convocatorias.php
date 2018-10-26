@@ -61,7 +61,7 @@
 												<div id="collapseOne" class="collapse" data-parent="#accordion" >
 													<div class="card-body p-4 text-justify fondo-gris-c">
 														<div class="row text-center">
-															<div class="col-12"><a href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_1"> <img src="img/resultados.png"></a></div>
+															<div class="col-12"><a href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_1"> <img src="img/convocatorias/resultados.png"></a></div>
 															<div class="col-12"><h3 class="pt-sans">Resultados</h3> </div>
 															<div class="col-12"><a class="texto-azul-os" href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_1"> Descargar términos de la Convocatoria </a></div>
 														</div>
@@ -77,7 +77,7 @@
 												<div id="collapseTwo" class="collapse" data-parent="#accordion" >
 													<div class="card-body p-4 text-justify fondo-gris-c">
 														<div class="row text-center">
-															<div class="col-12"><a href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_2"> <img src="img/resultados.png"></a></div>
+															<div class="col-12"><a href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_2"> <img src="img/convocatorias/resultados.png"></a></div>
 															<div class="col-12"><h3 class="pt-sans">Resultados</h3> </div>
 															<div class="col-12"><a class="texto-azul-os" href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_2"> Descargar términos de la Convocatoria </a></div>
 														</div>
@@ -111,7 +111,7 @@
 												<div id="collapse3" class="collapse" data-parent="#accordion2" >
 													<div class="card-body p-4 text-justify fondo-gris-c">
 														<div class="row text-center">
-															<div class="col-12"><a href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_1"> <img src="img/resultados.png"></a></div>
+															<div class="col-12"><a href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_1"> <img src="img/convocatorias/resultados.png"></a></div>
 															<div class="col-12"><h3 class="pt-sans">Resultados</h3> </div>
 															<div class="col-12"><a class="texto-azul-os" href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_1"> Descargar términos de la Convocatoria </a></div>
 														</div>
@@ -127,7 +127,7 @@
 												<div id="collapse4" class="collapse" data-parent="#accordion2" >
 													<div class="card-body p-4 text-justify fondo-gris-c">
 														<div class="row text-center">
-															<div class="col-12"><a href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_2"> <img src="img/resultados.png"></a></div>
+															<div class="col-12"><a href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_2"> <img src="img/convocatorias/resultados.png"></a></div>
 															<div class="col-12"><h3 class="pt-sans">Resultados</h3> </div>
 															<div class="col-12"><a class="texto-azul-os" href="docs/Resultados_convocatoria_para_xyz.pdf" target="convocatoria_2"> Descargar términos de la Convocatoria </a></div>
 														</div>
