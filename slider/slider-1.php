@@ -1,5 +1,3 @@
-<!-- -----------------SLIDER---------------------------------- -->
-
 <div id="carouselExampleIndicators" class="carousel slide animated zoomInDown" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -53,4 +51,3 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-<!-- -----------------FIN SLIDER------------------------------ -->

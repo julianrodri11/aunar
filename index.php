@@ -14,7 +14,7 @@
     <?php include_once('modal/modal-inicial-1.php');?>
     <!-- -------------------FIN MODAL INICIAL-------------------- -->
     <!-- ------------------MODAL TRADUCTOR----------------------- -->
-    <?php include_once('secciones/modal-traductor.php');?>
+    <?php //include_once('secciones/modal-traductor.php');?>
     <!-- ----------------FIN MODAL TRADUCTOR--------------------- -->
     <!-------------------MENÚ PRINCIPAL-------------------------- -->
     <?php include_once('secciones/menu1.php');?>
@@ -176,7 +176,7 @@
     <?php include_once('secciones/menu3.php');?>
     <!-- -----------------FIN MENÚ ICONOS------------------------- -->
     <!-- video institucional -->
-    <?php include_once('modal/modal-video-institucional.php');?>
+    <?php //include_once('modal/modal-video-institucional.php');?>
     <!-- fin video institucional -->
     <!-- -----------------EVENTOS--------------------------------- -->
     <div class="container-fluid fondo-amarillo fondo-eventos">
@@ -202,8 +202,7 @@
             </div> -->
           </div>
           <div class="col-md-6 p-3 izquierda_derecha d-flex align-items-center">
-            <div class="col-12 p-lg-4 mb-3">
-              
+            <div class="col-12 p-lg-4 mb-3">              
               <!-- seccion de eventos  -->
               <!-- evento 1 -->
               <div class="row p-1 hover-texto-blanco eventos transparencia-hover hover-borde-blanco d-flex align-items-center texto-azul">

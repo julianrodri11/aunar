@@ -1,11 +1,9 @@
 <!-- boton fijo para desplegar el modal que conteiene el formulario de contactenos -->
 <!-- ------------------BOTON FIJO AYUDA------------------------- -->
-<div class="contenedor-ayuda p-0 m-0">
-  
+<div class="contenedor-ayuda p-0 m-0">  
   <div class="sombra-iconos icono-blanco p-0 m-0 py-0 " data-toggle="modal"   data-target="#myModalContactenos">
     <img src="img/mensaje.png" width="45" data-toggle="tooltip" data-placement="right" title="¿Necesitas ayuda?, haz click" alt=".">
   </div>
-  
 </div>
 <!-- ------------------FIN BOTON FIJO AYUDA--------------------- -->
 <!-- --------------------MODAL con formulario----------------------- -->

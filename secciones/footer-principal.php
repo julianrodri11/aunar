@@ -76,31 +76,6 @@
             </a>
           </div>
         </div>
-        <!-- COLUMNA 4 -->
-        <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-4">
-          <label class=" texto-amarillo fuente-institucional small f-negrita" >DOCUMENTOS AUNAR</label>
-          <div class="mb-1 text-light fuente-institucional small">
-            <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f12" href="docs/footer/Aviso_Autorización_Tratamiento_de_Datos.pdf">Aviso Autorización Tratamiento de Datos</a>
-          </div>
-          <div class="mb-1 text-light fuente-institucional small">
-            <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f13" href="docs/footer/Politica_proteccion_datos_personales.pdf">Política Protección de Datos Personales</a>
-          </div>
-          <div class="mb-1 text-light fuente-institucional small ">
-            <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f15" href="docs/footer/Autorizacion-tto-datos-proveed-admin-docentes.pdf">
-              Autorización Proveedores, Administrativos, Docentes
-            </a>
-          </div>
-          <div class="mb-1 text-light fuente-institucional small ">
-            <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f16" href="docs/footer/Autorizacion-tto-datos-estudiantes-y-graduados.pdf">
-              Autorización Tratamiento de Datos Estudiantes y Graduados
-            </a>
-          </div>
-          <div class="mb-1 text-light fuente-institucional small ">
-            <a class="text-white" data-toggle="tooltip" data-placement="auto" title="Ver" target="f" href="docs/footer/Autorizacion-tto-datos-menores-de-edad.pdf">
-              Autorización tratamiento de Datos Menores de Edad
-            </a>
-          </div>
-        </div> -->
       </div>
       <div class="col-12 py-2 text-center text-white fuente-institucional small">
         <a class="texto-amarillo f-negrita" data-toggle="tooltip" data-placement="auto" title="Ver políticas" target="politicas" href="">

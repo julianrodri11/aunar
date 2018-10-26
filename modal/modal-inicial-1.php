@@ -1,16 +1,12 @@
-<!-- --------------------MODAL INICIAL----------------------- -->
 <!-- The Modal -->
 <div class="modal fade" id="myModal">
   <div class="modal-dialog modal-md modal-dialog-centered">
-    <div class="modal-content">
-      
+    <div class="modal-content">      
       <!-- Modal Header -->
       <div class="modal-header">
         <h4 class="modal-title fuente-institucional texto-azul">Bienvenidos</h4>
         <button type="button" class="close" data-dismiss="modal">X</button>
-        
       </div>
-      
       <!-- Modal body -->
       <div class="modal-body">
         <!-- ---------- -->
@@ -24,20 +20,16 @@
               <p class="card-text"><small class="text-muted">Lorem ipsum. Last updated 3 mins ago</small></p>
             </div>
           </div>
-          
         </div>   -->
         <!-- ----------- -->
         <!-- Inicio slider incluido -->
         <?php include_once('slider/slider-inicial-modal.php'); ?>
         <!-- Fin Inicio slider incluido -->
       </div>
-      
       <!-- Modal footer -->
       <div class="modal-footer">
         <button type="button" class="btn fondo-azul-oscuro text-white" data-dismiss="modal">Cerrar</button>
       </div>
-      
     </div>
   </div>
 </div>
-<!-- -------------------FIN MODAL INICIAL-------------------- -->
